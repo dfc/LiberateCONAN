@@ -1,3 +1,4 @@
 pdfs/*.pdf
 bin/node_modules/
 data/scdb/*.xz
+orig-sections/*
