@@ -1,0 +1,48 @@
+     Despite the requirement that states prove each element of a crimi-
+nal offense, criminal trials generally proceed with a presumption
+that the defendant is sane, and a defendant may be limited in the
+evidence that he may present to challenge this presumption. In Clark
+v. Arizona,1119 the Court considered a rule adopted by the Supreme
+Court of Arizona that prohibited the use of expert testimony regard-
+ing mental disease or mental capacity to show lack of mens rea,
+ruling that the use of such evidence could be limited to an insanity
+defense. In Clark, the Court weighed competing interests to hold
+that such evidence could be “channeled” to the issue of insanity due
+to the controversial character of some categories of mental disease,
+the potential of mental-disease evidence to mislead, and the dan-
+ger of according greater certainty to such evidence than experts claim
+for it.1120
+    Another important distinction that can substantially affect a pros-
+ecutor’s burden is whether a fact to be established is an element of
+a crime or instead is a sentencing factor. Although a criminal con-
+viction is generally established by a jury using the “beyond a rea-
+sonable doubt” standard, sentencing factors are generally evalu-
+ated by a judge using few evidentiary rules and under the more
+lenient “preponderance of the evidence” standard. The Court has
+taken a formalistic approach to this issue, allowing states to desig-
+nate essentially which facts fall under which of these two catego-
+ries. For instance, the Court has held that whether a defendant “vis-
+ibly possessed a gun” during a crime may be designated by a state
+as a sentencing factor, and determined by a judge based on the pre-
+ponderance of evidence.1121
+     Although the Court has generally deferred to the legislature’s
+characterizations in this area, it limited this principle in Apprendi
+v. New Jersey. In Apprendi the Court held that a sentencing factor
+cannot be used to increase the maximum penalty imposed for the
+underlying crime.1122 This led, in turn, to the Court’s overruling con-
+flicting prior case law that had held constitutional the use of aggra-
+    1119 548 U.S. 735 (2006).
+    1120 548 U.S. at 770, 774.
+    1121 McMillan v. Pennsylvania, 477 U.S. 79 (1986). It should be noted that these
+
+type of cases may also implicate the Sixth Amendment, as the right to a jury ex-
+tends to all facts establishing the elements of a crime, while sentencing factors may
+be evaluated by a judge. See discussion in “Criminal Proceedings to Which the Guar-
+antee Applies,” supra.
+    1122 530 U.S. 466, 490 (2000) (interpreting New Jersey’s “hate crime” law). It
+
+should be noted that, prior to its decision in Apprendi, the Court had held that sen-
+tencing factors determinative of minimum sentences could be decided by a judge.
+McMillan v. Pennsylvania, 477 U.S. 79 (1986). Although the vitality of McMillan
+was put in doubt by Apprendi, McMillan was subsequently reaffirmed in Harris v.
+United States, 536 U.S. 545 (2002).

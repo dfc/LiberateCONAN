@@ -1,0 +1,53 @@
+on some local, rather than an interstate, activity or if the tax was
+exacted before interstate movement had begun or after it had ended.
+     An independent basis for invalidation was that the tax was dis-
+criminatory, that its impact was intentionally or unintentionally felt
+by interstate commerce and not by local, perhaps in pursuit of pa-
+rochial interests. Many of the early cases actually involving discrimi-
+natory taxation were decided on the basis of the impermissibility
+of taxing interstate commerce at all, but the category was soon clearly
+delineated as a separate ground (and one of the most important to-
+day).1017
+     Following the Great Depression and under the leadership of Jus-
+tice, and later Chief Justice, Stone, the Court attempted to move
+away from the principle that interstate commerce may not be taxed
+and reliance on the direct-indirect distinction. Instead, a state or
+local levy would be voided only if in the opinion of the Court it cre-
+ated a risk of multiple taxation for interstate commerce not felt by
+local commerce.1018 It became much more important to the validity
+of a tax that it be apportioned to an interstate company’s activities
+within the taxing state, so as to reduce the risk of multiple taxa-
+tion.1019 But, just as the Court had achieved constancy in the area
+of regulation, it reverted to the older doctrines in the taxation area
+and reiterated that interstate commerce may not be taxed at all,
+even by a properly apportioned levy, and reasserted the direct-
+indirect distinction.1020 The stage was set, following a series of cases
+in which through formalistic reasoning the states were permitted
+to evade the Court’s precedents,1021 for the formulation of a more
+realistic doctrine.
+
+     1017 E.g., Welton v. Missouri, 91 U.S. 275 (1875); Robbins v. Shelby County Tax-
+
+ing District, 120 U.S. 489 (1887); Darnell & Son Co. v. City of Memphis, 208 U.S.
+113 (1908); Bethlehem Motors Co. v. Flynt, 256 U.S. 421 (1921).
+     1018 Western Live Stock v. Bureau of Revenue, 303 U.S. 250 (1938); McGoldrick
+
+v. Berwind-White Coal Mining Co., 309 U.S. 33 (1940); International Harvester Co.
+v. Department of Treasury, 322 U.S. 340 (1944); International Harvester Co. v. Evatt,
+329 U.S. 416 (1947).
+     1019 E.g., Gwin, White & Prince, Inc. v. Henneford, 305 U.S. 434 (1939); Joseph
+
+v. Carter & Weekes Stevedoring Co., 330 U.S. 422 (1947); Central Greyhound Lines
+v. Mealey, 334 U.S. 653 (1948). Notice the Court’s distinguishing of Central Grey-
+hound in Oklahoma Tax Comm’n v. Jefferson Lines, 514 U.S. 175, 188–91 (1995).
+     1020 Freeman v. Hewit, 329 U.S. 249 (1946); Spector Motor Serv. v. O’Connor,
+
+340 U.S. 602 (1951).
+     1021 Thus, the states carefully phrased tax laws so as to impose on interstate
+
+companies not a license tax for doing business in the state, which was not permit-
+ted, Railway Express Agency v. Virginia, 347 U.S. 359 (1954), but as a franchise tax
+on intangible property or the privilege of doing business in a corporate form, which
+was permissible. Railway Express Agency v. Virginia, 358 U.S. 434 (1959); Colonial
+Pipeline Co. v. Traigle, 421 U.S. 100 (1975). Also, the Court increasingly found the
+tax to be imposed on a local activity in instances it would previously have seen to

@@ -1,0 +1,52 @@
+exception to the mandate of the res judicata statute.1301 An excep-
+tion to § 1738 “will not be recognized unless a later statute con-
+tains an express or implied partial repeal.” 1302 Thus, a claimant who
+pursued his employment discrimination remedies through state ad-
+ministrative procedures, as the federal law requires her to do (within
+limits), and then appealed an adverse state agency decision to state
+court will be precluded from bringing her federal claim to federal
+court, since the federal court is obligated to give the state court de-
+cision “full faith and credit.” 1303
+     Closely related is the Rooker-Feldman doctrine, holding that fed-
+eral subject-matter jurisdiction of federal district courts does not
+extend to review of state court judgments.1304 The Supreme Court,
+not federal district courts, has such appellate jurisdiction. The doc-
+trine thus prevents losers in state court from obtaining district court
+review, but “does not otherwise override or supplant preclusion doc-
+trine or augment the circumscribed doctrines that allow federal courts
+to stay or dismiss proceedings in deference to state-court ac-
+tions.” 1305
+    Three-Judge Court Act.—When the Court in Ex parte Young 1306
+held that federal courts were not precluded by the Eleventh Amend-
+ment from restraining state officers from enforcing state laws deter-
+mined to be in violation of the federal Constitution, serious efforts
+were made in Congress to take away the authority thus asserted,
+but the result instead was legislation providing that suits in which
+an interlocutory injunction was sought against the enforcement of
+state statutes by state officers were to be heard by a panel of three
+federal judges, rather than by a single district judge, with appeal
+direct to the Supreme Court.1307 The provision was designed to as-
+suage state feeling by vesting such determinations in a court more
+prestigious than a single-judge district court, to assure a more au-
+thoritative determination, and to prevent the assertion of indi-
+    1301 449 U.S. at 96–105. In England v. Louisiana Bd. of Medical Examiners, 375
+
+U.S. 411 (1964), the Court held that, when parties are compelled to go to state court
+under Pullman abstention, either party may reserve the federal issue and thus be
+enabled to return to federal court without being barred by res judicata.
+    1302 Kramer v. Chemical Construction Corp., 456 U.S. 461, 468 (1982).
+    1303 456 U.S. 468–76. There were four dissents. Id. at 486 (Justices Blackmun,
+
+Brennan, and Marshall), 508 (Stevens).
+    1304 The doctrine derives its name from Rooker v. Fidelity Trust Co., 263 U.S.
+
+413 (1923), and District of Columbia Court of Appeals v. Feldman, 460 U.S. 462 (1983).
+    1305 Exxon Mobil Corp. v. Saudi Basic Industries Corp., 544 U.S. 280, 284 (2005)
+
+(Rooker-Feldman has no application when federal court proceedings have been initi-
+ated prior to state court proceedings; preclusion law governs in that situation).
+    1306 209 U.S. 123 (1908).
+    1307 36 Stat. 557 (1910). The statute was amended in 1925 to apply to requests
+
+for permanent injunctions, 43 Stat. 936, and again in 1937 to apply to constitu-
+tional attacks on federal statutes. 50 Stat. 752.

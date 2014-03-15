@@ -1,0 +1,49 @@
+    Procedure in the Trial Courts.—The Court has placed consti-
+tutional limitations upon the procedures followed by trial courts for
+determining the admissibility of confessions and other incriminat-
+ing admissions. Three procedures were developed over time to deal
+with the question of admissibility when involuntariness was claimed.
+By the orthodox method, the trial judge heard all the evidence on
+voluntariness in a separate and preliminary hearing, and if he found
+the confession involuntary the jury never received it, while if he
+found it voluntary the jury received it with the right to consider its
+weight and credibility, which consideration included the circum-
+stances of its making. By the New York method, the judge first re-
+viewed the confession under a standard leading to its exclusion only
+if he found it not possible that “reasonable men could differ over
+the [factual] inferences to be drawn” from it; otherwise, the jury
+would receive the confession with instructions to first determine its
+voluntariness and to consider it if it were voluntary and to disre-
+gard it if it were not. By the Massachusetts method, the trial judge
+himself determined the voluntariness question and if he found the
+confession involuntary the jury never received it; if he found it to
+have been voluntarily made he permitted the jury to receive it with
+instructions that the jurors should make their own independent de-
+termination of voluntariness.406
+    The New York method was upheld against constitutional at-
+tack in Stein v. New York,407 but eleven years later a five-to-four
+decision in Jackson v. Denno,408 found it inadequate to protect the
+due process rights of defendants. The procedure did not, the Court
+held, ensure a “reliable determination on the issue of voluntari-
+ness” and did not sufficiently guarantee that convictions would not
+be grounded on involuntary confessions. Because there was only a
+general jury verdict of guilty, it was impossible to determine whether
+the jury had first focused on the issue of voluntariness and then
+either had found the confession voluntary and considered it on the
+question of guilt or had found it involuntary, disregarded it, and
+reached a conclusion of guilt on wholly independent evidence. It was
+doubtful that a jury could appreciate the values served by the ex-
+clusion of involuntary confessions and put out of mind the content
+     406 Jackson v. Denno, 378 U.S. 368, 410–23 (1964) (appendix to opinion of Jus-
+
+tice Black concurring in part and dissenting in part).
+     407 346 U.S. 156, 170–79 (1953). Significant to the Court’s conclusion on this
+
+matter was the further conclusion of the majority that coerced confessions were in-
+admissible solely because of their unreliability; if their trustworthiness could be es-
+tablished the utilization of an involuntary confession violated no constitutional pro-
+hibition. This conception was contrary to earlier cases and was subsequently repudiated.
+See Jackson v. Denno, 378 U.S. 368, 383–87 (1964).
+     408 378 U.S. 368 (1964). On the sufficiency of state court determinations, see Swenson
+
+v. Stidham, 409 U.S. 224 (1972); La Vallee v. Della Rose, 410 U.S. 690 (1973).

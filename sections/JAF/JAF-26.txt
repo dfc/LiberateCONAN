@@ -1,0 +1,55 @@
+acterized the “waiver” theory as “totally unsound and indefensible,” 126
+the Court has been hesitant in formulating a new theory in main-
+taining the practice.127
+    An exception to full application of the retrial rule exists, how-
+ever, when defendant on trial for an offense is convicted of a lesser
+offense and succeeds in having that conviction set aside. Thus, in
+Green v. United States,128 the defendant had been placed on trial
+for first degree murder but convicted of second degree murder; the
+Court held that, following reversal of that conviction, he could not
+be tried again for first degree murder, although he certainly could
+be for second degree murder, on the theory that the first verdict
+was an implicit acquittal of the first degree murder charge.129 Even
+though the Court thought the jury’s action in the first trial was clearly
+erroneous, the Double Jeopardy Clause required that the jury’s im-
+plicit acquittal be respected.130
+    Still another exception arises out of appellate reversals grounded
+on evidentiary insufficiency. Thus, in Burks v. United States,131 the
+appellate court set aside the defendant’s conviction on the basis that
+     126 Green v. United States, 355 U.S. 184, 197 (1957). The more recent cases con-
+
+tinue to reject a “waiver” theory. E.g., United States v. Dinitz, 424 U.S. 600, 609
+n.11 (1976); United States v. Scott, 437 U.S. 82, 99 (1978).
+     127 Justice Holmes, dissenting in Kepner v. United States, 195 U.S. 100, 134
+
+(1904), rejected the “waiver” theory and propounded a theory of “continuing jeop-
+ardy,” which also continues to be rejected. See discussion, supra. In some cases, a
+concept of “election” by the defendant has been suggested, United States v. Scott,
+437 U.S. 82, 93 (1978); Jeffers v. United States, 432 U.S. 137, 152–54 (1977), but it
+is not clear how this formulation might differ from “waiver.” Chief Justice Burger
+has suggested that “probably a more satisfactory explanation” for permissibility of
+retrial in this situation “lies in analysis of the respective interests involved,” Breed
+v. Jones, 421 U.S. 519, 533–35 (1975), and a determination that on balance the in-
+terests of both prosecution and defense are well served by the rule. See United States
+v. Tateo, 377 U.S. 463, 466 (1964); Tibbs v. Florida, 457 U.S. 31, 39–40 (1982).
+     128 355 U.S. 184 (1957).
+     129 The decision necessarily overruled Trono v. United States, 199 U.S. 521 (1905),
+
+although the Court purported to distinguish the decision. Green v. United States,
+355 U.S. 184, 194–97 (1957). See also Brantley v. Georgia, 217 U.S. 284 (1910) (no
+due process violation where defendant is convicted of higher offense on second trial).
+     130 See also Price v. Georgia, 398 U.S. 323 (1970). The defendant was tried for
+
+murder and was convicted of involuntary manslaughter. He obtained a reversal, was
+again tried for murder, and again convicted of involuntary manslaughter. Acknowl-
+edging that, after reversal, Price could have been tried for involuntary manslaugh-
+ter, the Court nonetheless reversed the second conviction because he had been sub-
+jected to the hazard of twice being tried for murder, in violation of the Double Jeopardy
+Clause, and the effect on the jury of the murder charge being pressed could have
+prejudiced him to the extent of the second conviction. But cf. Morris v. Mathews,
+475 U.S. 237 (1986) (inadequate showing of prejudice resulting from reducing jeopardy-
+barred conviction for aggravated murder to non-jeopardy-barred conviction for first
+degree murder). “To prevail in a case like this, the defendant must show that, but
+for the improper inclusion of the jeopardy-barred charge, the result of the proceed-
+ing probably would have been different.” Id. at 247.
+     131 437 U.S. 1 (1978).

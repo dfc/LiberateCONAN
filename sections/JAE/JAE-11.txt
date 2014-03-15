@@ -1,0 +1,54 @@
+where there had been an invasion—a technical trespass—
+electronic surveillance was deemed subject to Fourth Amendment
+restrictions.38
+    The Court later rejected this approach. “The premise that prop-
+erty interests control the right of the government to search and seize
+has been discredited. . . . We have recognized that the principal ob-
+ject of the Fourth Amendment is the protection of privacy rather
+than property, and have increasingly discarded fictional and proce-
+dural barriers rested on property concepts.” 39 Thus, because the
+Amendment “protects people, not places,” the requirement of ac-
+tual physical trespass is dispensed with and electronic surveillance
+was made subject to the Amendment’s requirements.40
+    The new test, propounded in Katz v. United States, is whether
+there is an expectation of privacy upon which one may “justifiably”
+rely.41 “What a person knowingly exposes to the public, even in his
+own home or office, is not a subject of Fourth Amendment protec-
+tion. But what he seeks to preserve as private, even in an area ac-
+cessible to the public, may be constitutionally protected.” 42 That is,
+the “capacity to claim the protection of the Amendment depends not
+upon a property right in the invaded place but upon whether the
+area was one in which there was reasonable expectation of freedom
+from governmental intrusion.” 43
+     38 Silverman v. United States, 365 U.S. 505 (1961) (spike mike pushed through
+
+a party wall until it hit a heating duct).
+     39 Warden v. Hayden, 387 U.S. 294, 304 (1967).
+     40 Katz v. United States, 389 U.S. 347, 353 (1967) (warrantless use of listening
+
+and recording device placed on outside of phone booth violates Fourth Amendment).
+See also Kyllo v. United States, 533 U.S. 27, 32–33 (2001) (holding presumptively
+unreasonable the warrantless use of a thermal imaging device to detect activity within
+a home by measuring heat outside the home, and noting that a contrary holding
+would permit developments in police technology “to erode the privacy guaranteed by
+the Fourth Amendment”.
+     41 389 U.S. at 353. Justice Harlan, concurring, formulated a two pronged test
+
+for determining whether the privacy interest is paramount: “first that a person have
+exhibited an actual (subjective) expectation of privacy and, second, that the expecta-
+tion be one that society is prepared to recognize as ‘reasonable.’ ” Id. at 361.
+     42 389 U.S. at 351–52.
+     43 Mancusi v. DeForte, 392 U.S. 364, 368 (1968) (official had a reasonable expec-
+
+tation of privacy in an office he shared with others, although he owned neither the
+premises nor the papers seized). Minnesota v. Olson, 495 U.S. 91 (1990) (overnight
+guest in home has a reasonable expectation of privacy). But cf. Minnesota v. Carter,
+525 U.S. 83 (1998) (a person present in someone else’s apartment for only a few
+hours for the purpose of bagging cocaine for later sale has no legitimate expectation
+of privacy); Cf. Rakas v. Illinois, 439 U.S. 128 (1978) (auto passengers demonstrated
+no legitimate expectation of privacy in glove compartment or under seat of auto).
+Property rights are still protected by the Amendment, however. A “seizure” of prop-
+erty can occur when there is some meaningful interference with an individual’s pos-
+sessory interests in that property, and regardless of whether there is any interfer-
+ence with the individual’s privacy interest. Soldal v. Cook County, 506 U.S. 56 (1992)
+(a seizure occurred when sheriff ’s deputies assisted in the disconnection and re-

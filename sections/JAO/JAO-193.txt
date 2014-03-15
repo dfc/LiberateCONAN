@@ -1,0 +1,48 @@
+    In FCC v. Fox, 567 U.S. ___, No. 10–1293, slip op. (2012) the
+Court held that the Federal Communiations Commission (FCC) had
+violated the Fifth Amendment due process rights of Fox Television
+and ABC, Inc., because the FCC had not given fair notice that broad-
+casting isolated instances of expletives or brief nudity could lead to
+punishment. 18 U.S.C. § 1464 bans the broadcast of “any obscene,
+indecent, or profane language”, but the FCC had a long-standing
+policy that it would not consider “fleeting” instances of indecency
+to be actionable, and had confirmed such a policy by issuance of an
+industry guidance. The policy was not announced until after the in-
+stances at issues in this case (two concerned isolated utterances of
+expletives during two live broadcasts aired by Fox Television, and
+a brief exposure of the nude buttocks of an adult female character
+by ABC). The Commission policy in place at the time of the broad-
+casts, therefore, gave the broadcasters no notice that a fleeting in-
+stance of indecency could be actionable as indecent.
+    On the other hand, some less vague statutes may be held un-
+constitutional only in application to the defendant before the Court.1036
+For instance, where the terms of a statute could be applied both to
+innocent or protected conduct (such as free speech) and unpro-
+tected conduct, but the valuable effects of the law outweigh its po-
+tential general harm, such a statute will be held unconstitutional
+only as applied.1037 Thus, in Palmer v. City of Euclid,1038 an ordi-
+nance punishing “suspicious persons” defined as “[a]ny person who
+wanders about the streets or other public ways or who is found abroad
+at late or unusual hours in the night without any visible or lawful
+business and who does not give satisfactory account of himself ” was
+found void only as applied to a particular defendant. In Palmer, the
+Court found that the defendant, having dropped off a passenger and
+begun talking into a two-way radio, was engaging in conduct which
+could not reasonably be anticipated as fitting within the “without
+any visible or lawful business” portion of the ordinance’s definition.
+    Loitering statutes that are triggered by failure to obey a police
+dispersal order are suspect, and may be struck down if they leave
+a police officer absolute discretion to give such orders.1039 Thus, a
+Chicago ordinance that required police to disperse all persons in
+     1036 Where the terms of a vague statute do not threaten a constitutionally pro-
+
+tected right, and where the conduct at issue in a particular case is clearly pro-
+scribed, then a due process challenge is unlikely to be successful. Where the con-
+duct in question is at the margins of the meaning of an unclear statute, however, it
+will be struck down as applied. E.g., United States v. National Dairy Corp., 372 U.S.
+29 (1963).
+     1037 Palmer v. City of Euclid, 402 U.S. 544 (1971); Village of Hoffman Estates v.
+
+The Flipside, 455 U.S. 489, 494–95 (1982).
+     1038 402 U.S. 544 (1971).
+     1039 Kolender v. Lawson, 461 U.S. 352, 358 (1983).

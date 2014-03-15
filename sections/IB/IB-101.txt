@@ -1,0 +1,52 @@
+ticles exported from any State may not be taxed at all. Direct taxes
+must be levied by the rule of apportionment and indirect taxes by
+the rule of uniformity. The Court has emphasized the sweeping char-
+acter of this power by saying from time to time that it “reaches
+every subject,” 530 that it is “exhaustive” 531 or that it “embraces ev-
+ery conceivable power of taxation.” 532 Despite these generaliza-
+tions, the power has been at times substantially curtailed by judi-
+cial decision with respect to the subject matter of taxation, the manner
+in which taxes are imposed, and the objects for which they may be
+levied.
+    Decline of the Forbidden Subject Matter Test.—The Su-
+preme Court has restored to Congress the power to tax most of the
+subject matter which had previously been withdrawn from its reach
+by judicial decision. The holding of Evans v. Gore 533 and Miles v.
+Graham 534 that the inclusion of the salaries received by federal judges
+in measuring the liability for a nondiscriminatory income tax vio-
+lated the constitutional mandate that the compensation of such judges
+should not be diminished during their continuance in office was re-
+pudiated in O’Malley v. Woodrough.535 The specific ruling of Collec-
+tor v. Day 536 that the salary of a state officer is immune to federal
+income taxation also has been overruled.537 But the principle under-
+
+    530  License Tax Cases, 72 U.S. (5 Wall.) 462, 471 (1867).
+    531  Brushaber v. Union Pac. R.R., 240 U.S. 1 (1916).
+     532 240 U.S. at 12.
+     533 253 U.S. 245 (1920).
+     534 268 U.S. 501 (1925).
+     535 307 U.S. 277 (1939).
+     536 78 U.S. (11 Wall.) 113 (1871).
+     537 Graves v. New York ex rel. O’Keefe, 306 U.S. 466 (1939). Collector v. Day
+
+was decided in 1871 while the country was still in the throes of Reconstruction. As
+noted by Chief Justice Stone in a footnote to his opinion in Helvering v. Gerhardt,
+304 U.S. 405, 414 n.4 (1938), the Court had not determined how far the Civil War
+Amendments had broadened the federal power at the expense of the states, but the
+fact that the taxing power had recently been used with destructive effect upon notes
+issued by the state banks, Veazie Bank v. Fenno, 75 U.S. (8 Wall.) 533 (1869), sug-
+gested the possibility of similar attacks upon the existence of the states themselves.
+Two years later, the Court took the logical step of holding that the federal income
+tax could not be imposed on income received by a municipal corporation from its
+investments. United States v. Railroad Co., 84 U.S. (17 Wall.) 322 (1873). A far-
+reaching extension of private immunity was granted in Pollock v. Farmers’ Loan &
+Trust Co., 157 U.S. 429 (1895), where interest received by a private investor on state
+or municipal bonds was held to be exempt from federal taxation. (Though relegated
+to virtual desuetude, Pollock was not expressly overruled until South Carolina v.
+Baker, 485 U.S. 505 (1988)). As the apprehension of this era subsided, the doctrine
+of these cases was pushed into the background. It never received the same wide
+application as did McCulloch v. Maryland, 17 U.S. (4 Wheat.) 316 (1819), in curbing
+the power of the states to tax operations or instrumentalities of the Federal Govern-
+ment. Only once since the turn of the century has the national taxing power been
+further narrowed in the name of dual federalism. In 1931 the Court held that a
+federal excise tax was inapplicable to the manufacture and sale to a municipal cor-

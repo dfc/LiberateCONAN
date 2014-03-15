@@ -1,0 +1,54 @@
+circumstances invalidate a plan.1922 The total population deviation
+allowed in Abate was 11.9%; the Court refused, however, to extend
+Abate to approve a total deviation of 78% resulting from an appor-
+tionment plan providing for representation of each of New York City’s
+five boroughs on the New York City Board of Estimate.1923
+     Nine years after Reynolds v. Sims, the Court reexamined the
+population equality requirement of the apportionment cases. Rely-
+ing upon language in prior decisions that distinguished state legis-
+lative apportionment from congressional districting as possibly jus-
+tifying different standards of permissible deviations from equality,
+the Court held that more flexibility is constitutionally permissible
+with respect to the former than to the latter.1924 But it was in de-
+termining how much greater flexibility was permissible that the Court
+moved in new directions. First, applying the traditional standard
+of rationality rather than the strict test of compelling necessity, the
+Court held that a maximum 16.4% deviation from equality of popu-
+lation was justified by the state’s policy of maintaining the integ-
+rity of political subdivision lines, or according representation to sub-
+divisions qua subdivisions, because the legislature was responsible
+for much local legislation.1925 Second, just as the first case “demon-
+strates, population deviations among districts may be sufficiently
+     1922 Although the Court has used total population figures for purposes of com-
+
+puting variations between districts, in Burns v. Richardson, 384 U.S. 73 (1966), it
+approved the use of eligible voter population as the basis for apportioning in the
+context of a state with a large transient military population, but with the caution
+that such a basis would be permissible only so long as the results did not diverge
+substantially from that obtained by using a total population base. Merely discount-
+ing for military populations was disapproved in Davis v. Mann, 377 U.S. 678, 691
+(1964), but whether some more precise way of distinguishing between resident and
+nonresident population would be constitutionally permissible is unclear. Kirkpatrick
+v. Preisler, 394 U.S. 526, 534 (1969); Hadley v. Junior College Dist., 397 U.S. 50, 57
+n.9 (1970).
+     1923 New York City Bd. of Estimate v. Morris, 489 U.S. 688 (1989). Under the
+
+plan each of the City’s five boroughs was represented on the board by its president
+and each of these members had one vote; three citywide elected officials (the mayor,
+the comptroller, and the president of the city council) were also placed on the board
+and given two votes apiece (except that the mayor had no vote on the acceptance or
+modification of his budget proposal). The Court also ruled that, when measuring popu-
+lation deviation for a plan that mixes at-large and district representation, the at-
+large representation must be taken into account. Id. at 699–701.
+     1924 Mahan v. Howell, 410 U.S. 315, 320–25 (1973).
+     1925 410 U.S. at 325–30. The Court indicated that a 16.4% deviation “may well
+
+approach tolerable limits.” Id. at 329. Dissenting, Justices Brennan, Douglas, and
+Marshall would have voided the plan; additionally, they thought the deviation was
+actually 23.6% and that the plan discriminated geographically against one section
+of the state, an issue not addressed by the Court. In Chapman v. Meier, 420 U.S. 1,
+21–26 (1975), holding that a 20% variation in a court-developed plan was not justi-
+fied, the Court indicated that such a deviation in a legislatively-produced plan would
+be quite difficult to justify. See also Summers v. Cenarrusa, 413 U.S. 906 (1973) (va-
+cating and remanding for further consideration the approval of a 19.4% deviation).
+But see Voinovich v. Quilter, 507 U.S. 146 (1993) (vacating and remanding for fur-

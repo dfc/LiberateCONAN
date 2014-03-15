@@ -1,0 +1,50 @@
+the record-keeper himself.” 257 But the only limit that the Court sug-
+gested in Shapiro was that there must be “a sufficient relation be-
+tween the activity sought to be regulated and the public concern so
+that the Government can constitutionally regulate or forbid the ba-
+sic activity concerned, and can constitutionally require the keeping
+of particular records, subject to inspection by the Administra-
+tor.” 258 That there are limits established by the Self-Incrimination
+Clause itself rather than by a subject matter jurisdiction test is evi-
+dent in the Court’s consideration of reporting and disclosure require-
+ments implicating but not directly involving the required-records doc-
+trine.
+     Reporting and Disclosure.—The line of cases begins with United
+States v. Sullivan,259 in which a unanimous Court held that the Fifth
+Amendment did not privilege a bootlegger in not filing an income
+tax return because the filing would have disclosed the illegality in
+which he was engaged. “It would be an extreme if not an extrava-
+gant application of the Fifth Amendment to say that it authorized
+a man to refuse to state the amount of his income because it had
+been made in crime,” Justice Holmes stated for the Court.260 How-
+ever, “[i]f the form of return provided called for answers that the
+defendant was privileged from making he could have raised the ob-
+jection in the return . . . .” 261 Using its taxing power to reach gam-
+bling activities over which it might otherwise not have had jurisdic-
+tion,262 Congress enacted a complicated statute imposing an annual
+occupational tax on gamblers and an excise tax on all their wages,
+and coupled the tax with an annual registration requirement un-
+der which each gambler must file with the IRS a declaration of his
+business with identification of his place of business and his employ-
+ees and agents, filings which were made available to state and lo-
+cal law enforcement agencies. These requirements were upheld by
+    257  335 U.S. at 32.
+    258  335 U.S. at 32.
+     259 274 U.S. 259, 263, 264 (1927). Sullivan was reaffirmed in Garner v. United
+
+States, 424 U.S. 648 (1976), holding that a taxpayer’s privilege against self-
+incrimination was not violated when he failed to claim his privilege on his tax re-
+turns, and instead gave incriminating information leading to conviction. One must
+assert one’s privilege to alert the government to the possibility that it is seeking to
+obtain incriminating material. It is not coercion forbidden by the clause that upon a
+claim of the privilege the government could seek an indictment for failure to file,
+since a valid claim of privilege cannot be the basis of a conviction. The taxpayer
+was not entitled to a judicial ruling on the validity of his claim and an opportunity
+to reconsider if the ruling went against him, regardless of whether a good-faith er-
+roneous assertion of the privilege could subject him to prosecution, a question not
+resolved.
+     260 274 U.S. at 263–64.
+     261 274 U.S. at 263.
+     262 The expansion of the commerce power would now obviate reliance on the
+
+taxing power.

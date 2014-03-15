@@ -1,0 +1,54 @@
+press preemption clause was inapplicable, because the saving clause
+implied that some number of state common law actions would be
+saved. However, despite the saving clause, the Court ruled that a
+common law tort action seeking damages for failure to equip a car
+with a front seat airbag, in addition to a seat belt, was preempted.
+According to the Court, allowing the suit would frustrate the pur-
+pose of a Federal Motor Vehicle Safety Standard that specifically
+had intended to give manufacturers a choice among a variety of “pas-
+sive restraint” systems for the applicable model year.1180 The Court’s
+holding makes clear, contrary to the suggestion in Cipollone, that
+existence of express preemption language does not foreclose the al-
+ternative operation of conflict (in this case “frustration of purpose”)
+preemption.1181
+    Field Preemption. Where the scheme of federal regulation is “so
+pervasive as to make reasonable the inference that Congress left
+no room for the States to supplement it,” 1182 states are ousted from
+the field. Still a paradigmatic example of field preemption is Hines
+v. Davidowitz,1183 in which the Court held that a new federal law
+requiring the registration of all aliens in the country precluded en-
+forcement of a pre-existing state law mandating registration of aliens
+within the state.1184 Adverting to the supremacy of national power
+in foreign relations and the sensitivity of the relationship between
+     1180 The Court focused on the word “exempt” to give the saving clause a narrow
+
+application—as “simply bar[ring] a special kind of defense, . . . that compliance with
+a federal safety standard automatically exempts a defendant from state law, whether
+the Federal Government meant that standard to be an absolute requirement or only
+a minimum one.” 529 U.S. at 869. But cf. Sprietsma v. Mercury Marine, 537 U.S. 51
+(2002) (interpreting preemption language and saving clause in Federal Boat Safety
+Act as not precluding a state common law tort action).
+     1181 Compare Williamson v. Mazda Motor of America, Inc., 562 U.S. ___, No. 08–
+
+1314, slip op. (2011) (applying same statute as Geir, and later version of same regu-
+lation, no conflict preemption found of common law suit based on rear seat belt type,
+because giving manufacturers a choice on the type of rear seat belt to install was
+not a “significant objective” of the statute or regulation). For a decision applying
+express preemption language to a variety of state common law claims, see Bates v.
+Dow Agrosciences LLC, 544 U.S. 431 (2005) (interpreting FIFRA, the federal law
+governing pesticides).
+     1182 Rice v. Santa Fe Elevator Corp., 331 U.S. 218, 230 (1947). The case also is
+
+the source of the oft-quoted maxim that when Congress legislates in a field tradition-
+ally occupied by the states, courts should “start with the assumption that the his-
+toric police powers of the States were not to be superseded by the Federal Act un-
+less that was the clear and manifest purpose of Congress.” Id.
+     1183 312 U.S. 52 (1941).
+     1184 In Arizona v. United States, the Court struck down state penalties for vio-
+
+lating federal alien registration requirements, emphasizing that “[w]here Congress
+occupies an entire field, . . . even complementary state regulation is impermissible.”
+567 U.S. ___, No. 11–182, slip op. at 10 (2012) The same case also struck down on
+preemption grounds state sanctions on unauthorized aliens who work or seek em-
+ployment, id. at 12–15, and authority for state officers to make warrantless arrests
+based on possible deportability under federal immigration law. Id. By contrast, a

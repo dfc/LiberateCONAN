@@ -1,0 +1,54 @@
+not render the evidence excludable, since the exclusionary rule op-
+erated only on evidence seized in violation of the Constitution.379
+    Federal Communications Act.—Six years after the decision
+in Olmstead, Congress enacted the Federal Communications Act and
+included in § 605 of the Act a broadly worded proscription on which
+the Court seized to place some limitation upon governmental wire-
+tapping.380 Thus, in Nardone v. United States,381 the Court held that
+wiretapping by federal officers could violate § 605 if the officers both
+intercepted and divulged the contents of the conversation they over-
+heard, and that testimony in court would constitute a form of pro-
+hibited divulgence. Such evidence was therefore excluded, although
+wiretapping was not illegal under the Court’s interpretation if the
+information was not used outside the governmental agency. Be-
+cause § 605 applied to intrastate as well as interstate transmis-
+sions,382 there was no question about the applicability of the ban to
+state police officers, but the Court declined to apply either the stat-
+ute or the due process clause to require the exclusion of such evi-
+
+
+
+     379 Among the dissenters were Justice Holmes, who characterized “illegal” wire-
+
+tapping as “dirty business,” 277 U.S. at 470, and Justice Brandeis, who contributed
+to his opinion the famous peroration about government as “the potent, the omnipres-
+ent, teacher” which “breeds contempt for law” among the people by its example. Id.
+at 485. More relevant here was his lengthy argument rejecting the premises of the
+majority, an argument which later became the law of the land. (1) “To protect [the
+right to be left alone], every unjustifiable intrusion by the Government upon the
+privacy of the individual, whatever the means employed, must be deemed a viola-
+tion of the Fourth Amendment.” Id. at 478. (2) “There is, in essence, no difference
+between the sealed letter and the private telephone message. . . . The evil incident
+to invasion of the privacy of the telephone is far greater than that involved in tam-
+pering with the mails. Whenever a telephone line is tapped, the privacy of the per-
+sons at both ends of the line is invaded and all conversations between them upon
+any subject . . . may be overheard.” Id. at 475–76.
+     380 Ch. 652, 48 Stat. 1103 (1934), providing, inter alia, that “. . . no person not
+
+being authorized by the sender shall intercept any communication and divulge or
+publish the existence, contents, purport, effect, or meaning of such intercepted com-
+munication to any person.” Nothing in the legislative history indicated what Con-
+gress had in mind in including this language. The section, which appeared at 47
+U.S.C. § 605, was rewritten by Title III of the Omnibus Crime Act of 1968, 82 Stat.
+22, § 803, so that the “regulation of the interception of wire or oral communications
+in the future is to be governed by” the provisions of Title III. S. REP. NO. 1097, 90th
+Cong., 2d Sess. 107–08 (1968).
+     381 302 U.S. 379 (1937). Derivative evidence, that is, evidence discovered as a
+
+result of information obtained through a wiretap, was similarly inadmissible, Nardone
+v. United States, 308 U.S. 338 (1939), although the testimony of witnesses might be
+obtained through the exploitation of wiretap information. Goldstein v. United States,
+316 U.S. 114 (1942). Eavesdropping on a conversation on an extension telephone
+with the consent of one of the parties did not violate the statute. Rathbun v. United
+States, 355 U.S. 107 (1957).
+     382 Weiss v. United States, 308 U.S. 321 (1939).

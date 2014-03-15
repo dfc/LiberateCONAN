@@ -1,0 +1,57 @@
+finally in Hamilton v. Alabama,275 held that in a capital case a de-
+fendant need make no showing of particularized need or of preju-
+dice resulting from absence of counsel; henceforth, assistance of coun-
+sel was a constitutional requisite in capital cases. In non-capital
+cases, developments were such that Justice Harlan could assert that
+“the ‘special circumstances’ rule has continued to exist in form while
+its substance has been substantially and steadily eroded.” 276 The
+rule was designed to afford some certainty in the determination of
+when failure to appoint counsel would result in a trial lacking in
+“fundamental fairness.” Generally, the Court developed three catego-
+ries of prejudicial factors, often overlapping in individual cases, which
+required the furnishing of assistance of counsel. There were (1) the
+personal characteristics of the defendant which made it unlikely he
+could obtain an adequate defense of his own,277 (2) the technical
+complexity of the charges or of possible defenses to the charges,278
+and (3) events occurring at trial that raised problems of preju-
+dice.279 The last characteristic especially had been used by the Court
+to set aside convictions occurring in the absence of counsel,280 and
+the last case rejecting a claim of denial of assistance of counsel had
+been decided in 1950.281
+
+     275 368 U.S. 52 (1961). Earlier cases employing the “special circumstances” lan-
+
+guage were Williams v. Kaiser, 323 U.S. 471 (1945); Tompkins v. Missouri, 323 U.S.
+485 (1945); Hawk v. Olson, 326 U.S. 271 (1945); De Meerleer v. Michigan, 329 U.S.
+663 (1947); Marino v. Ragen, 332 U.S. 561 (1947); Haley v. Ohio, 332 U.S. 596 (1948).
+Dicta appeared in several cases thereafter suggesting an absolute right to counsel
+in capital cases. Bute v. Illinois, 333 U.S. 640, 674 (1948); Uveges v. Pennsylvania,
+335 U.S. 437, 441 (1948). A state court decision finding a waiver of the right in a
+capital case was upheld in Carter v. Illinois, 329 U.S. 173 (1946).
+     276 Gideon v. Wainwright, 372 U.S. 335, 350 (1963).
+     277 Youth and immaturity (Moore v. Michigan, 355 U.S. 155 (1957); Pennsylva-
+
+nia ex rel. Herman v. Claudy, 350 U.S. 116 (1956); Uveges v. Pennsylvania, 335 U.S.
+437 (1948); Wade v. Mayo, 334 U.S. 672 (1948); Marino v. Ragen, 332 U.S. 561 (1947);
+De Meerleer v. Michigan, 329 U.S. 663 (1947)), inexperience (Moore v. Michigan, su-
+pra (limited education), Uveges v. Pennsylvania, supra), and insanity or mental ab-
+normality (Massey v. Moore, 348 U.S. 105 (1954); Palmer v. Ashe, 342 U.S. 134 (1951)),
+were commonly cited characteristics of the defendant demonstrating the necessity
+for assistance of counsel.
+     278 Technicality of the crime charged (Moore v. Michigan, 355 U.S. 155 (1957);
+
+Pennsylvania ex rel. Herman v. Claudy, 350 U.S. 116 (1956); Williams v. Kaiser,
+323 U.S. 471 (1945)), or the technicality of a possible defense (Rice v. Olson, 324
+U.S. 786 (1945); McNeal v. Culver, 365 U.S. 109 (1961)), were commonly cited.
+     279 The deliberate or careless overreaching by the court or the prosecutor (Gibbs
+
+v. Burke, 337 U.S. 772 (1949); Townsend v. Burke, 334 U.S. 736 (1948); Palmer v.
+Ashe, 342 U.S. 134 (1951); White v. Ragen, 324 U.S. 760 (1945)), prejudicial devel-
+opments during the trial (Cash v. Culver, 358 U.S. 633 (1959); Gibbs v. Burke, su-
+pra), and questionable proceedings at sentencing (Townsend v. Burke, supra), were
+commonly cited.
+     280 Hudson v. North Carolina, 363 U.S. 697 (1960), held that an unrepresented
+
+defendant had been prejudiced when his co-defendant’s counsel plead his client guilty
+in the presence of the jury, the applicable state rules to avoid prejudice in such situ-
+ation were unclear, and the defendant in any event had taken no steps to protect

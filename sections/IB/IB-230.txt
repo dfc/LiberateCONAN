@@ -1,0 +1,44 @@
+from stated weight caused by distribution losses, such as through
+partial dehydration, the state allowed no such deviation. Although
+it was possible for a producer to satisfy the federal standard while
+satisfying the tougher state standard, the Court discerned that to
+do so defeated one purpose of the federal requirement—the facilitat-
+ing of value comparisons by shoppers. Because different producers
+in different situations in order to comply with the state standard
+may have to overpack flour to make up for dehydration loss, con-
+sumers would not be comparing packages containing identical amounts
+of flour solids.1208 In Felder v. Casey,1209 a state notice-of-claim stat-
+ute was found to frustrate the remedial objectives of civil rights laws
+as applied to actions brought in state court under 42 U.S.C. § 1983.
+A state law recognizing the validity of an unrecorded oral sale of
+an aircraft was held preempted by the Federal Aviation Act’s provi-
+sion that unrecorded “instruments” of transfer are invalid, since the
+congressional purpose evidenced in the legislative history was to make
+information about an aircraft’s title readily available by requiring
+that all transfers be documented and recorded.1210
+    In Boggs v. Boggs,1211 the Court, 5-to-4, applied the “stands as
+an obstacle” test for conflict even though the statute (ERISA) con-
+tains an express preemption section. The dispute arose in a
+community-property state, in which heirs of a deceased wife claimed
+property that involved pension-benefit assets that was left to them
+by testamentary disposition, as against a surviving second wife. Two
+ERISA provisions operated to prevent the descent of the property
+to the heirs, but under community-property rules the property could
+have been left to the heirs by their deceased mother. The Court did
+not pause to analyze whether the ERISA preemption provision op-
+erated to preclude the descent of the property, either because state
+law “relate[d] to” a covered pension plan or because state law had
+an impermissible “connection with” a plan, but it instead decided
+that the operation of the state law insofar as it conflicted with the
+purposes Congress had intended to achieve by ERISA and insofar
+as it ran into the two noted provisions of ERISA stood as an ob-
+stacle to the effectuation of the ERISA law. “We can begin, and in
+this case end, the analysis by simply asking if state law conflicts
+with the provisions of ERISA or operates to frustrate its objects.
+We hold that there is a conflict, which suffices to resolve the case.
+We need not inquire whether the statutory phrase ‘relate to’ pro-
+
+   1208 Jones v. Rath Packing Co., 430 U.S. 519, 532–543 (1977).
+   1209 487 U.S. 131 (1988).
+   1210 Philco Aviation v. Shacket, 462 U.S. 406 (1983).
+   1211 520 U.S. 833 (1997).

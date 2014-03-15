@@ -1,0 +1,52 @@
+    In other contexts, the Court has also elaborated the constitu-
+tional requirements affecting administrative inspections and searches.
+In Michigan v. Tyler,95 for example, it subdivided the process by
+which an investigation of the cause of a fire may be conducted. En-
+try to fight the fire is, of course, an exception based on exigent cir-
+cumstances, and no warrant or consent is needed; fire fighters on
+the scene may seize evidence relating to the cause under the plain
+view doctrine. Additional entries to investigate the cause of the fire
+must be made pursuant to warrant procedures governing adminis-
+trative searches. Evidence of arson discovered in the course of such
+an administrative inspection is admissible at trial, but if the inves-
+tigator finds probable cause to believe that arson has occurred and
+requires further access to gather evidence for a possible prosecu-
+tion, he must obtain a criminal search warrant.96
+    One curious case has approved a system of “home visits” by wel-
+fare caseworkers, in which the recipients are required to admit the
+worker or lose eligibility for benefits.97 In another unusual case, the
+Court held that a sheriff ’s assistance to a trailer park owner in dis-
+connecting and removing a mobile home constituted a “seizure” of
+the home.98
+   In addition, there are now a number of situations, some of them
+analogous to administrative searches, where “ ‘special needs’ be-
+yond normal law enforcement . . . justify departures from the usual
+warrant and probable cause requirements.” 99 In one of these cases
+    95  436 U.S. 499 (1978).
+    96  The Court also held that, after the fire was extinguished, if fire investigators
+were unable to proceed at the moment, because of dark, steam, and smoke, it was
+proper for them to leave and return at daylight without any necessity of complying
+with its mandate for administrative or criminal warrants. 436 U.S. at 510–11. But
+cf. Michigan v. Clifford, 464 U.S. 287 (1984) (no such justification for search of pri-
+vate residence begun at 1:30 p.m. when fire had been extinguished at 7 a.m.).
+     97 Wyman v. James, 400 U.S. 309 (1971). It is not clear what rationale the ma-
+
+jority used. It appears to have proceeded on the assumption that a “home visit” was
+not a search and that the Fourth Amendment does not apply when criminal prosecu-
+tion is not threatened. Neither premise is valid under Camara and its progeny, al-
+though Camara preceded Wyman. Presumably, the case would today be analyzed
+under the expectation of privacy/need/structural protection theory of the more re-
+cent cases.
+     98 Soldal v. Cook County, 506 U.S. 56, 61 (1992) (home “was not only seized, it
+
+literally was carried away, giving new meaning to the term ‘mobile home’ ”).
+     99 City of Ontario v. Quon, 560 U.S. ___, No. 08–1332, slip op. (2010) (reasonable-
+
+ness test for obtaining and reviewing transcripts of on-duty text messages of police
+officer using government-issued equipment); Griffin v. Wisconsin, 483 U.S. 868, 873
+(1987) (administrative needs of probation system justify warrantless searches of pro-
+bationers’ homes on less than probable cause); Hudson v. Palmer, 468 U.S. 517, 526
+(1984) (no Fourth Amendment protection from search of prison cell); New Jersey v.
+T.L.O., 469 U.S. 325 (1985) (simple reasonableness standard governs searches of stu-
+dents’ persons and effects by public school authorities); O’Connor v. Ortega, 480 U.S.
+709 (1987) (reasonableness test for work-related searches of employees’ offices by gov-

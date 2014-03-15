@@ -1,0 +1,54 @@
+    Congress thereupon enacted a statute replacing all prior immu-
+nity statutes and adopting a use-immunity restriction only.249 Soon
+tested, this statute was sustained in Kastigar v. United States.250
+“[P]rotection coextensive with the privilege is the degree of protec-
+tion which the Constitution requires,” wrote Justice Powell for the
+Court, “and is all that the Constitution requires. . . .” 251 “Transac-
+tional immunity, which accords full immunity from prosecution for
+the offense to which the compelled testimony relates, affords the
+witness considerably broader protection than does the Fifth Amend-
+ment privilege. The privilege has never been construed to mean that
+one who invokes it cannot subsequently be prosecuted. Its sole con-
+cern is to afford protection against being ‘forced to give testimony
+leading to the infliction of penalties affixed to . . . criminal acts.’
+Immunity from the use of compelled testimony and evidence de-
+rived directly and indirectly therefrom affords this protection. It pro-
+hibits the prosecutorial authorities from using the compelled testi-
+mony in any respect, and it therefore insures that the testimony
+cannot lead to the infliction of criminal penalties on the wit-
+ness.” 252
+
+
+
+     249 Organized Crime Control Act of 1970, Pub. L. 91–452, § 201(a), 84 Stat. 922,
+
+18 U.S.C. §§ 6002–6003. Justice Department officials have the authority under the
+Act to decide whether to seek immunity, and courts will not apply “constructive”
+use immunity absent compliance with the statute’s procedures. United States v. Doe,
+465 U.S. 605 (1984).
+     250 406 U.S. 441 (1972). A similar state statute was sustained in Zicarelli v. New
+
+Jersey State Comm’n of Investigation, 406 U.S. 472 (1972).
+     251 Kastigar v. United States, 406 U.S. 441, 459 (1972). See also United States
+
+v. Hubbell, 530 U.S. 27 (2000) (because the statute protects against derivative use
+of compelled testimony, a prosecution cannot be based on incriminating evidence re-
+vealed only as the result of compliance with an extremely broad subpoena).
+     252 406 U.S. at 453. Joining Justice Powell in the opinion were Justices Stew-
+
+art, White, and Blackmun, and Chief Justice Burger. Justices Douglas and Mar-
+shall dissented, contending that a ban on use could not be enforced even if a use
+ban was constitutionally adequate. Id. at 462, 467. Justices Brennan and Rehnquist
+did not participate but Justice Brennan’s views that transactional immunity was
+required had been previously stated. Piccirillo v. New York, 400 U.S. 548, 552 (1971)
+(dissenting). See also New Jersey v. Portash, 440 U.S. 451 (1979) (prosecution use of
+defendant’s immunized testimony to impeach him at trial violates Self-
+Incrimination Clause). Neither the clause nor the statute prevents the perjury pros-
+ecution of an immunized witness or the use of all his testimony to prove the commis-
+sion of perjury. United States v. Apfelbaum, 445 U.S. 115 (1980). See also United
+States v. Wong, 431 U.S. 174 (1977); United States v. Mandujano, 425 U.S. 564 (1976).
+Because use immunity is limited, a witness granted use immunity for grand jury
+testimony may validly invoke his Fifth Amendment privilege in a civil deposition
+proceeding when asked whether he had “so testified” previously, the deposition tes-
+timony not being covered by the earlier immunity. Pillsbury Co. v. Conboy, 459 U.S.
+248 (1983).

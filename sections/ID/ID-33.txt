@@ -1,0 +1,51 @@
+tificate of opinion and in no sense a judicial judgment. Congress
+could not therefore authorize appeals to the Supreme Court in a
+case where its judicial power could not be exercised, where its judg-
+ment would not be final and conclusive upon the parties, and where
+processes of execution were not awarded to carry it into effect. Taney
+then enunciated a rule that was rigorously applied until 1933: the
+award of execution is an essential part of every judgment passed
+by a court exercising judicial powers and no decision is a legal judg-
+ment without an award of execution.162 The rule was most signifi-
+cant in barring the lower federal courts from hearing proceedings
+for declaratory judgments 163 and in denying appellate jurisdiction
+in the Supreme Court from declaratory proceedings in state courts.164
+But, in 1927, the Court began backing away from its absolute insis-
+tence upon an award of execution. Unanimously holding that a de-
+claratory judgment in a state court was res judicata in a subse-
+quent proceeding in federal court, the Court admitted that, “[w]hile
+ordinarily a case or judicial controversy results in a judgment re-
+quiring award of process of execution to carry it into effect, such
+relief is not an indispensable adjunct to the exercise of the judicial
+function.” 165 Then, in 1933, the Court interred the award-of-
+execution rule in its rigid form and accepted an appeal from a state
+court in a declaratory proceeding.166 Finality of judgment, however,
+remains the rule in determining what is judicial power, without re-
+gard to the demise of Chief Justice Taney’s formulation.
+
+
+     162 Gordon v. United States, 117 U.S. 697 (1865) (published 1885). Subsequent
+
+cases accepted the doctrine that an award of execution as distinguished from final-
+ity of judgment was an essential attribute of judicial power. See In re Sanborn, 148
+U.S. 122, 226 (1893); ICC v. Brimson, 154 U.S. 447, 483 (1894); La Abra Silver Min-
+ing Co. v. United States, 175 U.S. 423, 457 (1899); Frasch v. Moore, 211 U.S. 1 (1908);
+Muskrat v. United States, 219 U.S. 346, 355, 361–362 (1911); Postum Cereal Co. v.
+California Fig Nut Co., 272 U.S. 693 (1927).
+     163 Liberty Warehouse Co. v. Grannis, 273 U.S. 70 (1927).
+     164 Liberty Warehouse Co. v. Burley Growers’ Coop. Marketing Ass’n, 276 U.S.
+
+71 (1928).
+     165 Fidelity Nat’l Bank & Trust Co. v. Swope, 274 U.S. 123, 132 (1927).
+     166 Nashville, C. & St. L. Ry. v. Wallace, 288 U.S. 249 (1933). The decisions in
+
+Swope and Wallace removed all constitutional doubts previously shrouding a pro-
+posed federal declaratory judgment act, which was enacted in 1934, 48 Stat. 955, 28
+U.S.C. §§ 2201–2202, and unanimously sustained in Aetna Life Ins. Co. v. Haworth,
+300 U.S. 227 (1937). Wallace and Haworth were cited with approval in Medimmune,
+Inc. v. Genentech, Inc., 549 U.S. 118, 126 (2007) (“Article III’s limitation of federal
+courts’ jurisdiction to ‘Cases’ and ‘Controversies,’ reflected in the ‘actual controversy’
+requirement of the Declaratory Judgment Act, 28 U.S.C. § 2201(a), [does not] re-
+quire[ ] a patent licensee to terminate or be in breach of its license agreement be-
+fore it can seek a declaratory judgment that the underlying patent is invalid, unen-
+forceable, or not infringed,” id. at 120–21).

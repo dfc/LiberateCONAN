@@ -1,0 +1,55 @@
+cial prejudice infecting a trial, as when the facts are merely that
+the defendant is black and the victim white, the Constitution is sat-
+isfied by a more generalized but thorough inquiry into the impar-
+tiality of the veniremen.161
+     Although government is not constitutionally obligated to allow
+peremptory challenges,162 typically a system of peremptory chal-
+lenges has existed in criminal trials, in which both prosecution and
+defense may, without stating any reason, excuse a certain number
+of prospective jurors.163 Although, in Swain v. Alabama,164 the Court
+held that a prosecutor’s purposeful exclusion of members of a spe-
+cific racial group from the jury would violate the Equal Protection
+Clause, it posited so difficult a standard of proof that defendants
+could seldom succeed. The Swain standard of proof was relaxed in
+Batson v. Kentucky,165 with the result that a defendant may estab-
+lish an equal protection violation resulting from a prosecutor’s use
+of peremptory challenges to systematically exclude blacks from the
+jury.166 A violation can occur whether or not the defendant and the
+excluded jurors are of the same race.167 Racially discriminatory use
+of peremptory challenges does not, however, constitute a violation
+of the Sixth Amendment, the Court ruled in Holland v. Illinois.168
+The Sixth Amendment “no more forbids the prosecutor to strike ju-
+rors on the basis of race than it forbids him to strike them on the
+     161 Ristaino v. Ross, 424 U.S. 589 (1976). The Court noted that under its super-
+
+visory power it would require a federal court faced with the same circumstances to
+propound appropriate questions to identify racial prejudice if requested by the defen-
+dant. Id. at 597 n.9. See Aldridge v. United States, 283 U.S. 308 (1931). But see
+Rosales-Lopez v. United States, 451 U.S. 182 (1981), in which the trial judge re-
+fused a defense request to inquire about possible bias against Mexicans. A plurality
+apparently adopted a rule that, all else being equal, the judge should necessarily
+inquire about racial or ethnic prejudice only in cases of violent crimes in which the
+defendant and victim are members of different racial or ethnic groups, id. at 192, a
+rule rejected by two concurring Justices. Id. at 194. Three dissenting Justices thought
+the judge must always ask when defendant so requested. Id. at 195.
+     162 “This Court has long recognized that peremptory challenges are not of fed-
+
+eral constitutional dimension.” Rivera v. Illinois, 129 S. Ct. 1446, 1450 (2009) (inter-
+nal quotation marks omitted) (state trial court’s erroneous denial of a defendant’s
+peremptory challenge does not warrant reversal of conviction if all seated jurors were
+qualified and unbiased).
+     163 Cf. Stilson v. United States, 250 U.S. 583, 586 (1919), holding that it is no
+
+violation of the guarantee to limit the number of peremptory challenges to each de-
+fendant in a multi-party trial.
+     164 380 U.S. 202 (1965).
+     165 476 U.S. 79 (1986).
+     166 See Fourteenth Amendment discussion of “Equal Protection and Race,” infra.
+     167 Powers v. Ohio, 499 U.S. 400 (1991) (defendant has standing to raise equal
+
+protection rights of excluded juror of different race).
+     168 493 U.S. 474 (1990). But see Trevino v. Texas, 503 U.S. 562 (1992) (claim of
+
+Sixth Amendment violation resulting from racially discriminatory use of peremp-
+tory challenges treated as sufficient to raise equal protection claim under Swain and
+Batson).

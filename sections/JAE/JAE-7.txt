@@ -1,0 +1,59 @@
+dure.” 18 Exceptions to searches under warrants were to be closely
+contained by the rationale undergirding the necessity for the excep-
+tion, and the scope of a search under one of the exceptions was simi-
+larly limited.19
+    During the 1970s the Court was closely divided on which stan-
+dard to apply.20 For a while, the balance tipped in favor of the view
+that warrantless searches are per se unreasonable, with a few care-
+fully prescribed exceptions.21 Gradually, guided by the variable-
+expectation-of-privacy approach to coverage of the Fourth Amend-
+ment, the Court broadened its view of permissible exceptions and
+of the scope of those exceptions.22 By 1992, it was no longer the
+
+     18 Terry v. Ohio, 392 U.S. 1, 20 (1968). In United States v. United States Dis-
+
+trict Court, 407 U.S. 297, 321 (1972), Justice Powell explained that the “very heart”
+of the Amendment’s mandate is “that where practical, a governmental search and
+seizure should represent both the efforts of the officer to gather evidence of wrong-
+ful acts and the judgment of the magistrate that the collected evidence is sufficient
+to justify invasion of a citizen’s private premises or conversation.” Thus, what is “rea-
+sonable” in terms of a search and seizure derives content and meaning through ref-
+erence to the warrant clause. Coolidge v. New Hampshire, 403 U.S. 443, 473–84 (1971).
+See also Davis v. Mississippi, 394 U.S. 721, 728 (1969); Katz v. United States, 389
+U.S. 347, 356–58 (1967); Warden v. Hayden, 387 U.S. 294, 299 (1967).
+     19 Chimel v. California, 395 U.S. 752, 762–64 (1969) (limiting scope of search
+
+incident to arrest). See also United States v. United States District Court, 407 U.S.
+297 (1972) (rejecting argument that it was “reasonable” to allow President through
+Attorney General to authorize warrantless electronic surveillance of persons thought
+to be endangering the national security); Katz v. United States, 389 U.S. 347 (1967)
+(although officers acted with great self-restraint and reasonably in engaging in elec-
+tronic seizures of conversations from a telephone booth, a magistrate’s antecedent
+judgment was required); Preston v. United States, 376 U.S. 364 (1964) (warrantless
+search of seized automobile not justified because not within rationale of exceptions
+to warrant clause). There were exceptions, e.g., Cooper v. California, 386 U.S. 58
+(1967) (warrantless search of impounded car was reasonable); United States v. Har-
+ris, 390 U.S. 234 (1968) (warrantless inventory search of automobile).
+     20 See, e.g., Almighty-Sanchez v. United States, 413 U.S. 266 (1973), Justices
+
+Stewart, Douglas, Brennan, and Marshall adhered to the warrant-based rule, while
+Justices White, Blackmun, and Rehnquist, and Chief Justice Burger placed greater
+emphasis upon the question of reasonableness without necessary regard to the war-
+rant requirement. Id. at 285. Justice Powell generally agreed with the former group
+of Justices, id. at 275 (concurring).
+     21 E.g., G.M. Leasing Corp. v. United States, 429 U.S. 338, 352–53 (1977) (unani-
+
+mous); Marshall v. Barrow’s, Inc., 436 U.S. 307, 312 (1978); Michigan v. Tyler, 436
+U.S. 499, 506 (1978); Mincey v. Arizona, 437 U.S. 385, 390 (1978) (unanimous); Ar-
+kansas v. Sanders, 442 U.S. 743 (1979) (1979); United States v. Ross, 456 U.S. 798,
+824–25 (1982).
+     22 E.g., Chambers v. Maroney, 399 U.S. 42 (1970) (warrantless search of automo-
+
+bile taken to police station); Texas v. White, 423 U.S. 67 (1975) (same); New York v.
+Belton, 453 U.S. 454 (1981) (search of vehicle incident to arrest); United States v.
+Ross, 456 U.S. 798 (1982) (automobile search at scene); Brigham City, Utah v. Stu-
+art, 547 U.S. 398 (2006) (warrantless entry into a home when police have an objec-
+tively reasonable basis for believing that an occupant is seriously injured or immi-
+nently threatened with such injury); Michigan v. Fisher, 558 U.S. ___, No. 09–91
+(2009) (applying Brigham City). On the other hand, the warrant-based standard did
+preclude a number of warrantless searches. E.g., Almighty-Sanchez v. United States,

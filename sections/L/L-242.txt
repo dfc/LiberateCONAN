@@ -1,0 +1,44 @@
+239. Wos v. E.M.A., 568 U.S. ___, No. 12–98, slip op. (2013).
+           North Carolina law on reimbursing the cost of state-funded medi-
+      cal treatment which presumed what portion of a tort case settlement
+      arising from both medical and nonmedical claims could be attributed
+      to medical claims held preempted by federal Medicaid statute’s anti-
+      lien provision, 42 U.S.C. §1396p(a)(1). Where settlement of birth in-
+      jury medical malpractice claim did not allocate money between medi-
+      cal and nonmedical claims, state law’s irrebutable presumption that
+      up to one-third of all damages recovered could be allocated to medical
+      expenses is preempted by requirement that only that portion of a judg-
+      ment or settlement “designated as payments for medical care” could
+      be recovered.
+              Justices concurring: Kennedy, Ginsburg, Breyer, Alito, Sotomayor, Kagan
+              Justices dissenting: Roberts, C.J., Scalia, Thomas
+
+240. Arizona v. Inter Tribal Council of Arizona, 570 U.S. ___, No. 12–71, slip
+    op. (2013).
+           Arizona law requiring proof of citizenship in order to register to
+      vote preempted by the National Voter Registration Act (NVRA). NVRA
+      requires states to establish uniform voter registration procedures for
+      federal elections when applying for a driver’s license, and when regis-
+      tering by mail or in person at certain state and local public offices.
+      Court held that Arizona’s documentary proof of citizenship require-
+      ment is preempted by the NVRA’s mandate that states “accept and
+      use” a specified federal form, which implies that the federal form is to
+      be considered sufficient without additional documentation. Rejected ar-
+      gument that traditional doctrine of presumption against preemption
+      applies, as the Elections Clause of the Constitution, Article I, § 4, specfi-
+      cally confers upon Congress the power to alter state regulations regard-
+      ing the “Times, Places and Manner” of holding federal elections.
+              Justices concurring: Scalia, Roberts, C.J., Ginsburg, Breyer, Sotomayor, Kagan
+              Justices dissenting: Thomas, Alito
+
+241. Hillman v. Maretta, 569 U.S. ___, No. 11–1221, slip op. (2013)
+           Virginia law that revokes a death benefit beneficiary designation
+      to a spouse in the event of a divorce also provides that, if such revoca-
+      tion is preempted by federal law, the person who would have benefit-
+      ted from the revoked designation has a cause of action against the for-
+      mer spouse. The Federal Employees’ Group Life Insurance Act of 1954
+      (FEGLIA), which establishes an insurance program for federal employ-
+      ees, permits an employee to name a beneficiary of life insurance pro-
+      ceeds. Congress’s purpose in passing this provision was to establish a
+      clear and predictable procedure for an employee to indicate who the
+      intended beneficiary of his life insurance shall be, and this purpose is

@@ -1,0 +1,55 @@
+language,108 and in at least one context, has eliminated the require-
+ment of specific abrogation language altogether.109
+    Even before the decision in Alden v. Maine,110 when the Court
+believed that Eleventh Amendment sovereign immunity did not ap-
+ply to suits in state courts, the Court applied its rule of strict con-
+struction to require “unmistakable clarity” by Congress in order to
+subject states to suit.111 Although the Court was willing to recog-
+nize exceptions to the clear statement rule when the issue involved
+subjection of states to suit in state courts, the Court also suggested
+the need for “symmetry” so that states’ liability or immunity would
+be the same in both state and federal courts.112
+Suits Against State Officials
+    Courts may open their doors for relief against government wrongs
+under the doctrine that sovereign immunity does not prevent a suit
+to restrain individual officials, thereby restraining the government
+as well.113 The doctrine is built upon a double fiction: that for pur-
+poses of the sovereign’s immunity, a suit against an official is not a
+suit against the government, but for the purpose of finding state
+action to which the Constitution applies, the official’s conduct is that
+of the state.114 The doctrine preceded but is most noteworthily asso-
+ciated with the decision in Ex parte Young,115 a case that deserves
+the overworked adjective, seminal.
+     108 Kimel v. Florida Board of Regents, 528 U.S. 62, 74–78 (2000). In Kimel, statu-
+
+tory language authorized age discrimination suits “against any employer (including
+a public agency),” and a “public agency” was defined to include “the government of a
+State or political subdivision thereof.” The Court found this language to be suffi-
+ciently clear evidence of intent to abrogate state sovereign immunity. The relevant
+portion of the opinion was written by Justice O’Connor, and joined by Chief Justice
+Rehnquist and Justices Stevens, Scalia, Souter, Ginsberg, Breyer and Stevens. But
+see Raygor v. Regents of the University of Minnesota, 534 U.S. 533 (2002) (federal
+supplemental jurisdiction statute which tolls limitations period for state claims dur-
+ing pendency of federal case not applicable to claim dismissed on the basis of Elev-
+enth Amendment immunity).
+     109 Central Virginia Community College v. Katz, 546 U.S. 356, 363 (2006) (abro-
+
+gation of state sovereign immunity under the Bankruptcy Clause was effectuated
+by the Constitution, so it need not additionally be done by statute); id. at 383 (Jus-
+tice Thomas dissenting).
+     110 527 U.S. 706 (1999).
+     111 Will v. Michigan Dep’t of State Police, 491 U.S. 58 (1989) (holding that states
+
+and state officials sued in their official capacity could not be made defendants in
+§ 1983 actions in state courts).
+     112 Hilton v. South Carolina Pub. Rys. Comm’n, 502 U.S. 197, 206 (1991) (inter-
+
+est in “symmetry” is outweighed by stare decisis, the FELA action being controlled
+by Parden v. Terminal Ry.).
+     113 See, e.g., Larson v. Domestic and Foreign Corp., 337 U.S. 682 (1949), where
+
+the majority and dissenting opinions cite both federal and Eleventh Amendment cases
+in a suit against a federal official. See also Tindal v. Wesley, 167 U.S. 204, 213 (1897),
+applying to the states the federal rule of United States v. Lee, 106 U.S. 196 (1882).
+     114 C. WRIGHT, THE LAW OF FEDERAL COURTS § 48 (4th ed. 1983).
+     115 209 U.S. 123 (1908).

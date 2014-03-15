@@ -1,0 +1,52 @@
+to successful electronic surveillance, was summarily disposed of.394
+Finally, Justice Stewart observed that it was unlikely that elec-
+tronic surveillance would ever come under any of the established
+exceptions so that it could be conducted without prior judicial ap-
+proval.395
+    Following Katz, Congress enacted in 1968 a comprehensive stat-
+ute authorizing federal officers and permitting state officers pursu-
+ant to state legislation complying with the federal law to seek war-
+rants for electronic surveillance to investigate violations of prescribed
+classes of criminal legislation.396 The Court has not yet had occa-
+sion to pass on the federal statute and to determine whether its
+procedures and authorizations comport with the standards sketched
+in Osborn, Berger, and Katz or whether those standards are some-
+what more flexible than they appear to be on the faces of the opin-
+ions.397
+
+
+
+
+      394 “A conventional warrant ordinarily serves to notify the suspect of an in-
+
+tended search . . . . In omitting any requirement of advance notice, the federal court
+. . . simply recognized, as has this Court, that officers need not announce their pur-
+pose before conducting an otherwise authorized search if such an announcement would
+provoke the escape of the suspect or the destruction of critical evidence.” 389 U.S.
+at 355 n.16.
+      395 389 U.S. at 357–58. Justice Black dissented, feeling that the Fourth Amend-
+
+ment applied only to searches for and seizures of tangible things and not conversa-
+tions. Id. at 364. Two “beeper” decisions support the general applicability of the war-
+rant requirement if electronic surveillance will impair legitimate privacy interests.
+Compare United States v. Knotts, 460 U.S. 276 (1983) (no Fourth Amendment viola-
+tion in relying on a beeper, installed without warrant, to aid in monitoring progress
+of a car on the public roads, since there is no legitimate expectation of privacy in
+destination of travel on the public roads), with United States v. Karo, 468 U.S. 705
+(1984) (beeper installed without a warrant may not be used to obtain information
+as to the continuing presence of an item within a private residence).
+      396 Title III of the Omnibus Crime Control and Safe Streets Act of 1968, 82 Stat.
+
+211, 18 U.S.C. §§ 2510–20.
+      397 The Court has interpreted the statute several times without reaching the
+
+constitutional questions. United States v. Kahn, 415 U.S. 143 (1974); United States
+v. Giordano, 416 U.S. 505 (1974); United States v. Chavez, 416 U.S. 562 (1974); United
+States v. Donovan, 429 U.S. 413 (1977); Scott v. United States, 436 U.S. 128 (1978);
+Dalia v. United States, 441 U.S. 238 (1979); United States v. New York Telephone
+Co., 434 U.S. 159 (1977); United States v. Caceres, 440 U.S. 741 (1979). Dalia su-
+pra, did pass on one constitutional issue, whether the Fourth Amendment man-
+dated specific warrant authorization for a surreptitious entry to install an autho-
+rized “bug.” See also Smith v. Maryland, 442 U.S. 735 (1979) (no reasonable expectation
+of privacy in numbers dialed on one’s telephone, so Fourth Amendment does not
+require a warrant to install “pen register” to record those numbers).

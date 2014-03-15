@@ -1,0 +1,57 @@
+two ways. It could be a common-law right, such that if the injury
+were administered by a private party, one could sue on it; 486 or it
+could be a right created by the Constitution or a statute.487 The
+statutory right most relied on was the judicial review section of the
+Administrative Procedure Act, which provided that “[a] person suf-
+fering legal wrong because of agency action, or adversely affected
+or aggrieved by agency action within the meaning of a relevant stat-
+ute, is entitled to judicial review thereof.” 488 Early decisions under
+this statute interpreted the language as adopting the “legal inter-
+est” and “legal wrong” standard then prevailing as constitutional
+requirements of standing, which generally had the effect of limit-
+ing the type of injury cognizable in federal court to economic ones.489
+    In 1970, however, the Court promulgated a two-pronged stand-
+ing test: if the litigant (1) has suffered injury-in-fact and if he (2)
+shows that the interest he seeks to protect is arguably within the
+zone of interests to be protected or regulated by the statutory guar-
+antee in question, he has standing.490 Of even greater importance
+was the expansion of the nature of the cognizable injury beyond
+     486 Joint Anti-Fascist Refugee Committee v. McGrath, 341 U.S. 123, 152 (1951)
+
+(Justice Frankfurter concurring). This was apparently the point of the definition of
+“legal right” as “one of property, one arising out of contract, one protected against
+tortious invasion, or one founded on a statute which confers a privilege.” Tennessee
+Electric Power Co. v. TVA, 306 U.S. 118, 137–138 (1939).
+     487 Joint Anti-Fascist Refugee Committee v. McGrath, 341 U.S. 123, 152 (1951)
+
+(Justice Frankfurter concurring). The Court approached this concept in two interre-
+lated ways. (1) It might be that a plaintiff had an interest that it was one of the
+purposes of the statute in question to protect in some degree. Chicago Junction Case,
+264 U.S. 258 (1924); Alexander Sprunt & Son v. United States, 281 U.S. 249 (1930);
+Alton R.R. v. United States, 315 U.S. 15 (1942). Thus, in Hardin v. Kentucky Utili-
+ties Co., 390 U.S. 1 (1968), a private utility was held to have standing to contest
+allegedly illegal competition by TVA on the ground that the statute was meant to
+give private utilities some protection from certain forms of TVA competition. (2) It
+might be that a plaintiff was a “person aggrieved” within the terms of a judicial
+review section of an administrative or regulatory statute. Injury to an economic in-
+terest was sufficient to “aggrieve” a litigant. FCC v. Sanders Brothers Radio Sta-
+tion, 309 U.S. 470 (1940); Associated Industries v. Ickes, 134 F.2d 694 (2d Cir. 1943),
+cert. dismissed as moot, 320 U.S. 707 (1943).
+     488 5 U.S.C. § 702. See also 47 U.S.C. § 202(b)(6) (FCC); 15 U.S.C. § 77i(a) (SEC);
+
+16 U.S.C. § 825a(b) (FPC).
+     489 FCC v. Sanders Brothers Radio Station, 309 U.S. 470, 477 (1940); City of
+
+Chicago v. Atchison, T. & S.F. Ry. Co., 357 U.S. 77, 83 (1958); Hardin v. Kentucky
+Utilities Co., 390 U.S. 1, 7 (1968).
+     490 Ass’n of Data Processing Service Org. v. Camp, 397 U.S. 150 (1970); Barlow
+
+v. Collins, 397 U.S. 159 (1970). Justices Brennan and White argued that only injury-
+in-fact should be requisite for standing. Id. at 167. In Clarke v. Securities Industry
+Ass’n, 479 U.S. 388 (1987), the Court applied a liberalized zone-of-interest test. But
+see Lujan v. National Wildlife Federation, 497 U.S. 871, 885–889 (1990); Air Courier
+Conf. v. American Postal Workers Union, 498 U.S. 517 (1991). In applying these stan-
+dards, the Court, once it determined that the litigant’s interests were “arguably pro-
+tected” by the statute in question, proceeded to the merits without thereafter paus-
+ing to inquire whether in fact the interests asserted were among those protected.
+Arnold Tours v. Camp, 400 U.S. 45 (1970); Investment Company Institute v. Camp,

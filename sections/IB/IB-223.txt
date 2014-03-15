@@ -1,0 +1,48 @@
+determined by the FDA to be “substantially equivalent” to a device
+previously on the market, a situation of some import to at least some
+of the Justices.
+    Unanimously, the Court determined that a defective design claim
+was not preempted and that the MDA did not prevent states from
+providing a damages remedy for violation of common-law duties that
+paralleled federal requirements. But the Justices split 4–1–4 with
+respect to preemption of various claims relating to manufacturing
+and labeling. FDA regulations, which a majority deferred to, lim-
+ited preemption to situations in which a particular state require-
+ment threatens to interfere with a specific federal interest. More-
+over, the common-law standards were not specifically developed to
+govern medical devices and their generality removed them from the
+category of requirements “with respect to” specific devices. How-
+ever, five Justices did agree that common-law requirements could
+be, just as statutory provisions, “requirements” that were pre-
+empted, though they did not agree on the application of that view.1177
+    Following Cipollone, the Court observed that, although it “need
+not go beyond” the statutory preemption language, it did need to
+“identify the domain expressly pre-empted” by the language, so that
+“our interpretation of that language does not occur in a contextual
+vacuum.” That is, it must be informed by two presumptions about
+the nature of preemption: the presumption that Congress does not
+cavalierly preempt common-law causes of action and the principle
+that Congress’s purpose is the ultimate touchstone.1178
+    The Court continued to struggle with application of express pre-
+emption language to state common-law tort actions in Geier v. Ameri-
+can Honda Motor Co.1179 The National Traffic and Motor Vehicle
+Safety Act contained both a preemption clause, prohibiting states
+from applying “any safety standard” different from an applicable fed-
+eral standard, and a “saving clause,” providing that “compliance with”
+a federal safety standard “does not exempt any person from any
+liability under common law.” The Court determined that the ex-
+     1177 The dissent, by Justice O’Connor and three others, would have held pre-
+
+empted the latter claims, 518 U.S. at 509, whereas Justice Breyer thought that common-
+law claims would sometimes be preempted, but not here. Id. at 503 (concurring).
+     1178 518 U.S. at 484–85. See also id. at 508 (Justice Breyer concurring); Freightliner
+
+Corp. v. Myrick, 514 U.S. 280, 288–89 (1995); Barnett Bank v. Nelson, 517 U.S. 25,
+31 (1996); California Div. of Labor Standards Enforcement v. Dillingham Construc-
+tion, Inc., 519 U.S. 316, 334 (1997) (Justice Scalia concurring); Boggs v. Boggs, 520
+U.S. 833 (1997) (using “stands as an obstacle” preemption analysis in an ERISA
+case, having express preemptive language, but declining to decide when implied pre-
+emption may be used despite express language), and id. at 854 (Justice Breyer dis-
+senting) (analyzing the preemption issue under both express and implied stan-
+dards).
+     1179 529 U.S. 861 (2000).

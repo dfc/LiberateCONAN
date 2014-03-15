@@ -1,0 +1,58 @@
+band,1050 or they may may seek to test the integrity of public em-
+ployees, officers or public officials by offering them bribes.1051 In such
+cases, an “entrapment” defense is often made, though it is unclear
+whether the basis for the defense is the Due Process Clause, the
+supervisory authority of the federal courts to deter wrongful police
+conduct, or merely statutory construction (interpreting criminal laws
+to find that the legislature would not have intended to punish con-
+duct induced by police agents).1052
+    The Court has employed the so-called “subjective approach” in
+evaluating the defense of entrapment.1053 This subjective approach
+     1050 For instance, in Sorrells v. United States, 287 U.S. 435, 446–49 (1932) and
+
+Sherman v. United States, 356 U.S. 369, 380 (1958) government agents solicited de-
+fendants to engage in the illegal activity, in United States v. Russell, 411 U.S. 423,
+490 (1973), the agents supplied a commonly available ingredient, and in Hampton
+v. United States, 425 U.S. 484, 488–89 (1976), the agents supplied an essential and
+difficult to obtain ingredient.
+     1051 For instance, this strategy was seen in the “Abscam” congressional bribery
+
+controversy. The defense of entrapment was rejected as to all the “Abscam” defen-
+dants. E.g., United States v. Kelly, 707 F.2d 1460 (D.C. Cir. 1983); United States v.
+Williams, 705 F.2d 603 (2d Cir. 1983); United States v. Jannotti, 673 F.2d 578 (3d
+Cir. 1982), cert. denied, 457 U.S. 1106 (1982).
+     1052 For a thorough evaluation of the basis for and the nature of the entrap-
+
+ment defense, see Seidman, The Supreme Court, Entrapment, and Our Criminal Jus-
+tice Dilemma, 1981 SUP. CT. REV. 111. The Court’s first discussion of the issue was
+based on statutory grounds, see Sorrells v. United States, 287 U.S. 435, 446–49 (1932),
+and that basis remains the choice of some Justices. Hampton v. United States, 425
+U.S. 484, 488–89 (1976) (plurality opinion of Justices Rehnquist and White and Chief
+Justice Burger). In Sherman v. United States, 356 U.S. 369, 380 (1958) (concur-
+ring), however, Justice Frankfurter based his opinion on the supervisory powers of
+the courts. In United States v. Russell, 411 U.S. 423, 490 (1973), however, the Court
+rejected the use of that power, as did a plurality in Hampton, 425 U.S. at 490. The
+Hampton plurality thought the Due Process Clause would never be applicable, no
+matter what conduct government agents engaged in, unless they violated some pro-
+tected right of the defendant, and that inducement and encouragement could never
+do that. Justices Powell and Blackmun, on the other hand, 411 U.S. at 491, thought
+that police conduct, even in the case of a predisposed defendant, could be so outra-
+geous as to violate due process. The Russell and Hampton dissenters did not clearly
+differentiate between the supervisory power and due process but seemed to believe
+that both were implicated. 411 U.S. at 495 (Justices Brennan, Stewart, and Mar-
+shall); Russell, 411 U.S. at 439 (Justices Stewart, Brennan, and Marshall). The Court
+again failed to clarify the basis for the defense in Mathews v. United States, 485
+U.S. 58 (1988) (a defendant in a federal criminal case who denies commission of the
+crime is entitled to assert an “inconsistent” entrapment defense where the evidence
+warrants), and in Jacobson v. United States, 503 U.S. 540 (1992) (invalidating a
+conviction under the Child Protection Act of 1984 because government solicitation
+induced the defendant to purchase child pornography).
+     1053 An “objective approach,” although rejected by the Supreme Court, has been
+
+advocated by some Justices and recommended for codification by Congress and the
+state legislatures. See American Law Institute, MODEL PENAL CODE § 2.13 (Official Draft,
+1962); NATIONAL COMMISSION ON REFORM OF FEDERAL CRIMINAL LAWS, A PROPOSED NEW FED-
+ERAL CRIMINAL CODE § 702(2) (Final Draft, 1971). The objective approach disregards
+the defendant’s predisposition and looks to the inducements used by government agents.
+If the government employed means of persuasion or inducement creating a substan-
+tial risk that the person tempted will engage in the conduct, the defense would be

@@ -1,0 +1,54 @@
+not deny a defendant due process to subject him initially to trial
+before a non-lawyer police court judge when there is a later trial
+de novo available under the state’s court system.1082
+    Prosecutorial Misconduct.—When a conviction is obtained by
+the presentation of testimony known to the prosecuting authorities
+to have been perjured, due process is violated. The clause “cannot
+be deemed to be satisfied by mere notice and hearing if a State has
+contrived a conviction through the pretense of a trial which in truth
+is but used as a means of depriving a defendant of liberty through
+a deliberate deception of court and jury by the presentation of tes-
+timony known to be perjured. Such a contrivance . . . is as incon-
+sistent with the rudimentary demands of justice as is the obtain-
+ing of a like result by intimidation.” 1083
+    The above-quoted language was dictum,1084 but the principle it
+enunciated has required state officials to controvert allegations that
+knowingly false testimony had been used to convict 1085 and has up-
+set convictions found to have been so procured.1086 Extending the
+
+ness of the confession); Holmes v. South Carolina, 547 U.S. 319 (2006) (overturning
+rule that evidence of third-party guilt can be excluded if there is strong forensic
+evidence establishing defendant’s culpability). But see Montana v. Egelhoff, 518 U.S.
+37 (1996) (state may bar defendant from introducing evidence of intoxication to prove
+lack of mens rea).
+     1082 North v. Russell, 427 U.S. 328 (1976).
+     1083 Mooney v. Holohan, 294 U.S. 103, 112 (1935).
+     1084 The Court dismissed the petitioner’s suit on the ground that adequate pro-
+
+cess existed in the state courts to correct any wrong and that petitioner had not
+availed himself of it. A state court subsequently appraised the evidence and ruled
+that the allegations had not been proved in Ex parte Mooney, 10 Cal. 2d 1, 73 P.2d
+554 (1937), cert. denied, 305 U.S. 598 (1938).
+     1085 Pyle v. Kansas, 317 U.S. 213 (1942); White v. Ragen, 324 U.S. 760 (1945).
+
+See also New York ex rel. Whitman v. Wilson, 318 U.S. 688 (1943); Ex parte Hawk,
+321 U.S. 114 (1914). But see Hysler v. Florida, 315 U.S. 411 (1942); Lisenba v. Cali-
+fornia, 314 U.S. 219 (1941).
+     1086 Napue v. Illinois, 360 U.S. 264 (1959); Alcorta v. Texas, 355 U.S. 28 (1957).
+
+In the former case, the principal prosecution witness was defendant’s accomplice,
+and he testified that he had received no promise of consideration in return for his
+testimony. In fact, the prosecutor had promised him consideration, but did nothing
+to correct the false testimony. See also Giglio v. United States, 405 U.S. 150 (1972)
+(same). In the latter case, involving a husband’s killing of his wife because of her
+infidelity, a prosecution witness testified at the habeas corpus hearing that he told
+the prosecutor that he had been intimate with the woman but that the prosecutor
+had told him to volunteer nothing of it, so that at trial he had testified his relation-
+ship with the woman was wholly casual. In both cases, the Court deemed it irrel-
+evant that the false testimony had gone only to the credibility of the witness rather
+than to the defendant’s guilt. What if the prosecution should become aware of the
+perjury of a prosecution witness following the trial? Cf. Durley v. Mayo, 351 U.S.
+277 (1956). But see Smith v. Phillips, 455 U.S. 209, 218–21 (1982) (prosecutor’s fail-
+ure to disclose that one of the jurors has a job application pending before him, thus
+rendering him possibly partial, does not go to fairness of the trial and due process
+is not violated).

@@ -1,0 +1,48 @@
+at all; consequently, there was nothing to hold a hearing about.1222
+The same principles govern interstate prison transfers.1223
+     Transfer of a prisoner to a high security facility, with an atten-
+dant loss of the right to parole, gave rise to a liberty interest, al-
+though the due process requirements to protect this interest are lim-
+ited.1224 On the other hand, transfer of a prisoner to a mental hospital
+pursuant to a statute authorizing transfer if the inmate suffers from
+a “mental disease or defect” must, for two reasons, be preceded by
+a hearing. First, the statute gave the inmate a liberty interest, be-
+cause it presumed that he would not be moved absent a finding that
+he was suffering from a mental disease or defect. Second, unlike
+transfers from one prison to another, transfer to a mental institu-
+tion was not within the range of confinement covered by the prison-
+er’s sentence, and, moreover, imposed a stigma constituting a depri-
+vation of a liberty interest.1225
+     The kind of hearing that is required before a state may force a
+mentally ill prisoner to take antipsychotic drugs against his will
+was at issue in Washington v. Harper.1226 There the Court held that
+a judicial hearing was not required. Instead, the inmate’s substan-
+tive liberty interest (derived from the Due Process Clause as well
+as from state law) was adequately protected by an administrative
+hearing before independent medical professionals, at which hear-
+ing the inmate has the right to a lay advisor but not an attorney.
+     Probation and Parole.—Sometimes convicted defendants are
+not sentenced to jail, but instead are placed on probation subject to
+incarceration upon violation of the conditions that are imposed; oth-
+ers who are jailed may subsequently qualify for release on parole
+before completing their sentence, and are subject to reincarceration
+upon violation of imposed conditions. Because both of these disposi-
+tions are statutory privileges granted by the governmental author-
+ity,1227 it was long assumed that the administrators of the systems
+did not have to accord procedural due process either in the grant-
+    1222   Meachum v. Fano, 427 U.S. 215 (1976); Montanye v. Haymes, 427 U.S. 236
+(1976).
+    1223  Olim v. Wakinekona, 461 U.S. 238 (1983).
+    1224  Wilkinson v. Austin, 545 U.S. 209, 224 (2005) (assignment to Ohio SuperMax
+prison, with attendant loss of parole eligibility and with only annual status review,
+constitutes an “atypical and significant hardship”). In Wilkinson, the Court upheld
+Ohio’s multi-level review process, despite the fact that a prisoner was provided only
+summary notice as to the allegations against him, a limited record was created, the
+prisoner could not call witnesses, and reevaluation of the assignment only occurred
+at one 30-day review and then annually. Id. at 219–20.
+     1225 Vitek v. Jones, 445 U.S. 480 (1980).
+     1226 494 U.S. 210 (1990).
+     1227 Ughbanks v. Armstrong, 208 U.S. 481 (1908), held that parole is not a con-
+
+stitutional right but instead is a “present” from government to the prisoner. In Escoe
+v. Zerbst, 295 U.S. 490 (1935), the Court’s premise was that as a matter of grace

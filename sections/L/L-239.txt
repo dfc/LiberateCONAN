@@ -1,0 +1,44 @@
+      conflict. “[A] contested selection of candidates for a congressional of-
+      fice that is concluded as a matter of law before the federal election
+      day . . . clearly violates § 7.”
+
+224. United States v. Locke, 529 U.S. 89 (2000).
+           Four Washington State regulations governing oil tanker opera-
+      tions and manning are preempted. Primarily through Title II of the
+      Ports and Waterways Safety Act of 1972, Congress has occupied the
+      field of regulation of general seaworthiness of tankers and their crews,
+      and there is no room for these state regulations imposing training and
+      English language proficiency requirements on crews and imposing staff-
+      ing requirements for navigation watch. State reporting requirements
+      applicable to certain marine incidents are also preempted.
+
+225. Beneficial Nat’l Bank v. Anderson, 539 U.S. 1 (2003).
+           Alabama’s usury statute is preempted by sections 85 and 86 of
+      the National Bank Act as applied to interest rates charged by na-
+      tional banks.
+             Justices concurring: Stevens, O’Connor, Kennedy, Souter, Ginsburg, Breyer,
+               Rehnquist, C.J.
+             Justices dissenting: Scalia, Thomas
+
+226. American Ins. Ass’n v. Garamendi, 539 U.S. 396 (2003).
+          California’s Holocaust Victim Insurance Relief Act, which requires
+      any insurance company doing business in the state to disclose informa-
+      tion about policies that it or “related” companies sold in Europe be-
+      tween 1920 and 1945, is preempted as interfering with the Federal
+      Government’s conduct of foreign relations.
+             Justices concurring: Souter, O’Connor, Kennedy, Breyer, Rehnquist, C.J.
+             Justices dissenting: Ginsburg, Stevens, Scalia, Thomas
+
+227. Aetna Health, Inc. v. Davila, 542 U.S. 200 (2004).
+          Suits brought in state court alleging that HMOs violated their duty
+      under the Texas Health Care Liability Act “to exercise ordinary care
+      when making health care treatment decisions” are preempted by ERISA
+      § 502(a), which authorizes suit “to recover benefits due [a participant]
+      under the terms of his plan.”
+
+228. Gonzales v. Raich, 545 U.S. 1 (2005).
+           California law allowing use of marijuana for medical purposes is
+      preempted by the Controlled Substances Act’s categorical prohibition
+      of the manufacture and possession of marijuana.
+             Justices concurring: Stevens, Kennedy, Souter, Ginsburg, Breyer
+             Justices dissenting: O’Connor, Thomas, Rehnquist, C.J.

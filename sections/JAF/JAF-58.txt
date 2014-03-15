@@ -1,0 +1,59 @@
+for admitting or excluding confessions and other admissions made
+to police during custodial interrogation.286
+    McNabb-Mallory Doctrine.—Perhaps one reason the Court did
+not squarely confront the application of the Self-Incrimination Clause
+to police interrogation and the admissibility of confessions in fed-
+eral courts was that, in McNabb v. United States,287 it promul-
+gated a rule excluding confessions obtained after an “unnecessary
+delay” in presenting a suspect for arraignment after arrest.288 This
+rule, developed pursuant to the Court’s supervisory power over the
+lower federal courts 289 and hence not applicable to the states,290
+was designed to implement the guarantees assured to a defendant
+by the Federal Rules of Criminal Procedure,291 and was clearly in-
+formed with concern over incommunicado interrogation and co-
+erced confessions.292 Although the Court never attempted to specify
+a minimum time after which delay in presenting a suspect for ar-
+
+     286 Miranda v. Arizona, 384 U.S. 436 (1966). According to Wigmore, “there never
+
+was any historical connection . . . between the constitutional [self-incrimination] clause
+and the [common law] confession-doctrine,” 3 J. WIGMORE, A TREATISE ON THE ANGLO-
+AMERICAN SYSTEM OF EVIDENCE § 823, at 250 n.5 (3d ed. 1940); see also vol. 8 id. at
+§ 2266 (McNaughton rev. 1961). It appears that while the two rules did develop sepa-
+rately—the bar against self-incrimination deriving primarily from notions of liberty
+and fairness, proscriptions against involuntary confessions deriving primarily from
+notions of reliability—they did stem from some of the same considerations, and, in
+fact, the confession rule may be considered in important respects to be an off-shoot
+of the privilege against self-incrimination. See L. LEVY, ORIGINS OF THE FIFTH AMEND-
+MENT: THE RIGHT AGAINST SELF-INCRIMINATION 325–32, 495 n.43 (1968). See also Culombe
+v. Connecticut, 367 U.S. 568, 581–84, especially 583 n.25 (1961) (Justice Frank-
+furter announcing judgment of the Court).
+     287 318 U.S. 332 (1943). See also Anderson v. United States, 318 U.S. 350 (1943).
+     288 In Upshaw v. United States, 335 U.S. 410 (1948), the Court rejected lower
+
+court interpretations that delay in arraignment was but one factor in determining
+the voluntariness of a confession, and held that a confession obtained after a thirty-
+hour delay was inadmissible per se. Mallory v. United States, 354 U.S. 449 (1957),
+held that any confession obtained during an unnecessary delay in arraignment was
+inadmissible. A confession obtained during a lawful delay before arraignment was
+admissible. United States v. Mitchell, 322 U.S. 65 (1944).
+     289 McNabb v. United States, 318 U.S. 332, 340 (1943); Upshaw v. United States,
+
+335 U.S. 410, 414 n.2 (1948). Burns v. Wilson, 346 U.S. 137, 145 n.12 (1953), indi-
+cated that because the Court had no supervisory power over courts-martial, the rule
+did not apply in military courts.
+     290 Gallegos v. Nebraska, 342 U.S. 55, 60, 63–64, 71–73 (1951); Stein v. New
+
+York, 346 U.S. 156, 187–88 (1953); Culombe v. Connecticut, 367 U.S. 568, 599–602
+(1961) (Justice Frankfurter announcing judgment of the Court).
+     291 Rule 5(a) requiring prompt arraignment was promulgated in 1946, but the
+
+Court in McNabb relied on predecessor statutes, some of which required prompt ar-
+raignment. Cf. Mallory v. United States, 354 U.S. 449, 451–54 (1957). Rule 5(b) re-
+quires that the magistrate at arraignment must inform the suspect of the charge
+against him, must warn him that what he says may be used against him, must tell
+him of his right to counsel and his right to remain silent, and must also provide for
+the terms of bail.
+     292 McNabb v. United States, 318 U.S. 332, 343 (1943); Mallory v. United States,
+
+354 U.S. 449, 452–53 (1957).

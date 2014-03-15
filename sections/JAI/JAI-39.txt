@@ -1,0 +1,55 @@
+     A second restriction on federal habeas review also has ramifica-
+tions for capital sentencing review. Claims that state convictions are
+unsupported by the evidence are weighed by a “rational factfinder”
+inquiry: “whether, after viewing the evidence in the light most fa-
+vorable to the prosecution, any rational trier of fact have found the
+essential elements of the crime beyond a reasonable doubt.” 191 This
+same standard for reviewing alleged errors of state law, the Court
+determined, should be used by a federal habeas court to weigh a
+claim that a generally valid aggravating factor is unconstitutional
+as applied to the defendant.192 In addition, the Court has held that,
+absent an independent constitutional violation, habeas corpus re-
+lief for prisoners who assert innocence based on newly discovered
+evidence should generally be denied.193 In In re Troy Anthony Da-
+vis,194 however, the Court found a death-row convict with a claim
+of actual innocence to be entitled to a District Court determination
+of his habeas petition.195
+    Third, a different harmless error rule is applied when constitu-
+tional errors are alleged in habeas proceedings. The Chapman v.
+
+(1985 ruling in Caldwell v. Mississippi, although a “predictable development in Eighth
+Amendment law,” established a “new rule” that false prosecutorial comment on ju-
+rors’ responsibility can violate the Eighth Amendment by creating an unreasonable
+risk of arbitrary imposition of the death penalty, since no case prior to Caldwell had
+invalidated a prosecutorial comment on Eighth Amendment grounds). But see Stringer
+v. Black, 503 U.S. 222 (1992) (neither Maynard v. Cartwright, 486 U.S. 356 (1988),
+nor Clemons v. Mississippi, 494 U.S. 738 (1990), announced a “new rule”).
+     191 Lewis v. Jeffers, 497 U.S. 764, 781 (1990) (quoting Jackson v. Virginia, 443
+
+U.S. 307, 319 (1979)).
+     192 Lewis v. Jeffers, 497 U.S. 764, 780–84 (1990). The lower court erred, there-
+
+fore, in conducting a comparative review to determine whether application in the
+defendant’s case was consistent with other applications.
+     193 Herrera v. Collins, 506 U.S. 390 (1993) (holding that a petitioner would have
+
+to meet an “extraordinarily high” threshold of proof of innocence to warrant federal
+habeas relief). Accord, House v. Bell, 547 U.S. 518, 554–55 (2006) (defendant failed
+to meet Herrera standard but nevertheless put forward enough evidence of inno-
+cence to meet the less onerous standard of Schlup v. Delo, 513 U.S. 298 (1995), which
+“held that prisoners asserting innocence as a gateway to [habeas relief for claims
+forfeited under state law] must establish that, in light of new evidence, ‘it is more
+likely than not that no reasonable juror would have found petitioner guilty beyond
+a reasonable doubt.’ ” Id. at 2076–2077, quoting Schlup v. Delo, 513 U.S. at 327.)
+The Court here distinguished “freestanding” claims under Herrera from “gateway”
+claims under Schlup, the difference apparently being that success on a freestanding
+claim results in the overturning of a conviction, whereas success on a gateway claim
+results in a remand to the trial court to hear the claim. See also Article III, Habeas
+Corpus: Scope of the Writ.
+     194 557 U.S. ___, No. 08–1443 (2009).
+     195 Justice Stevens, in a concurring opinion joined by Justices Ginsburg and Breyer,
+
+“refuse[d] to endorse” Justice Scalia’s reasoning (in a dissent joined by Justice Thomas)
+that would read the Constitution to permit the execution of a convict “who pos-
+sesses new evidence conclusively and definitively proving, beyond any scintilla of
+doubt, that he is an innocent man.”

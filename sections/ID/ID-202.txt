@@ -1,0 +1,47 @@
+     But, in two later cases, the Court contracted the application of
+Erie in matters governed by the Federal Rules. Thus, in the earlier
+case, the Court said that “outcome” was no longer the sole determi-
+nant and countervailing considerations expressed in federal policy
+on the conduct of federal trials should be considered; a state rule
+making it a question for the judge rather than a jury of a particu-
+lar defense in a tort action had to yield to a federal policy enunci-
+ated through the Seventh Amendment of favoring juries.1119 Some
+confusion has been injected into consideration of which law to apply—
+state or federal—in the absence of a federal statute or a Federal
+Rule of Civil Procedure.1120 In an action for damages, the federal
+courts were faced with the issue of the application either of a state
+statute, which gave the appellate division of the state courts the
+authority to determine if an award is excessive or inadequate if it
+deviates materially from what would be reasonable compensation,
+or of a federal judicially created practice of review of awards as so
+exorbitant that it shocked the conscience of the court. The Court
+determined that the state statute was both substantive and proce-
+dural, which would result in substantial variations between state
+and federal damage awards depending whether the state or the fed-
+eral approach was applied; it then followed the mode of analysis
+exemplified by those cases emphasizing the importance of federal
+courts reaching the same outcome as would the state courts,1121 rather
+than what had been the prevailing standard, in which the Court
+balanced state and federal interests to determine which law to ap-
+ply.1122 Emphasis upon either approach to considerations of apply-
+ing state or federal law reflects a continuing difficulty of accommo-
+dating “the constitutional power of the states to regulate the relations
+among their citizens . . . [and] the constitutional power of the Fed-
+eral Government to determine how its courts are to be oper-
+ated.” 1123 Additional decisions will be required to determine which
+approach, if either, prevails. The latter ruling simplified the matter
+greatly. Erie is not to be the proper test when the question is the
+application of one of the Rules of Civil Procedure; if the rule is valid
+when measured against the Enabling Act and the Constitution, it
+is to be applied regardless of state law to the contrary.1124
+
+    1119  Byrd v. Blue Ridge Rural Elec. Coop., 356 U.S. 525 (1958).
+    1120  Gasperini v. Center for Humanities, Inc., 518 U.S. 415 (1996). The decision
+was five-to-four, so that the precedent may or may not be stable for future applica-
+tion.
+     1121 E.g., Guaranty Trust Co. v. York, 326 U.S. 99 (1945).
+     1122 E.g., Byrd v. Blue Ridge Rural Elec. Coop., 356 U.S. 525 (1958).
+     1123 19 C. WRIGHT, A. MILLER & E. COOPER, FEDERAL PRACTICE AND PROCEDURE § 4511,
+
+at 311 (2d ed. 1996).
+     1124 Hanna v. Plumer, 380 U.S. 460 (1965).

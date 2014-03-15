@@ -1,0 +1,54 @@
+educational institutions,66 the court held that the sovereign immu-
+nity of the state was not infringed despite the fact that the issue
+was “ancillary” to a bankruptcy court’s in rem jurisdiction.67
+     Because Eleventh Amendment sovereign immunity inheres in
+states and not their subdivision or establishments, a state agency
+that wishes to claim state sovereign immunity must establish that
+it is acting as an arm of the state: “agencies exercising state power
+have been permitted to invoke the [Eleventh] Amendment in order
+to protect the state treasury from liability that would have had es-
+sentially the same practical consequences as a judgment against the
+State itself.” 68 In evaluating such a claim, the Court will examine
+state law to determine the nature of the entity, and whether to treat
+it as an arm of the state.69 The Court has consistently refused to
+extend Eleventh Amendment sovereign immunity to counties, cit-
+ies, or towns,70 even though such political subdivisions exercise a
+“slice of state power.” 71 Even when such entities enjoy immunity
+from suit under state law, they do not have Eleventh Amendment
+immunity in federal court and the states may not confer it.72 Simi-
+larly, entities created pursuant to interstate compacts (and subject
+to congressional approval) are not immune from suit, absent a show-
+
+
+     66 A “preferential transfer” was defined as the transfer of a property interest
+
+from an insolvent debtor to a creditor, which occurred on or within 90 days before
+the filing of a bankruptcy petition, and which exceeds what the creditor would have
+been entitled to receive under such bankruptcy filing. 11 U.S.C. § 547(b).
+     67 546 U.S. at 373.
+     68 Lake County Estates v. Tahoe Regional Planning Agency, 440 U.S. 391, 400–01
+
+(1979), citing Edelman v. Jordan, 415 U.S. 651 (1974), and Ford Motor Co. v. Depart-
+ment of Treasury, 323 U.S. 459 (1945). The fact that a state agency can be indemni-
+fied for the costs of litigation does not divest the agency of its Eleventh Amendment
+immunity. Regents of the University of California v. Doe, 519 U.S. 425 (1997).
+     69 See, e.g., Mt. Healthy City Bd. of Educ. v. Doyle, 429 U.S. 274, 280 (1977)
+
+(local school district not an arm of the state based on (1) its designation in state
+law as a political subdivision, (2) the degree of supervision by the state board of
+education, (3) the level of funding received from the state, and (4) the districts’ em-
+powerment to generate their own revenue through the issuance of bonds or levying
+taxes.
+     70 Northern Insurance Company of New York v. Chatham County, 547 U.S. 189,
+
+193 (2006) (counties have neither Eleventh Amendment immunity nor residual com-
+mon law immunity). See Mt. Healthy City Bd. of Educ. v. Doyle, 429 U.S. 274 (1977);
+Moor v. County of Alameda, 411 U.S. 693 (1973); Workman v. City of New York, 179
+U.S. 552 (1900); Lincoln County v. Luning, 133 U.S. 529 (1890). In contrast to their
+treatment under the Eleventh Amendment, the Court has found that state immu-
+nity from federal regulation under the Tenth Amendment extends to political subdi-
+visions as well. See Printz v. United States, 521 U.S. 898 (1997).
+     71 Lake County Estates v. Tahoe Regional Planning Agency, 440 U.S. 391, 400–01
+
+(1979) (quoting earlier cases).
+     72 Chicot County v. Sherwood, 148 U.S. 529 (1893).

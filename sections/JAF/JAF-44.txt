@@ -1,0 +1,53 @@
+and receipt of a Miranda warning he remained silent and did not
+give the police the exculpatory story he told at trial.216 But where
+the defendant took the stand and testified, the Court permitted the
+impeachment use of his pre-arrest silence when that silence had in
+no way been officially encouraged, through a Miranda warning or
+otherwise.217
+    Further, the Court held inadmissible at the subsequent trial a
+defendant’s testimony at a hearing to suppress evidence wrongfully
+seized, because use of the testimony would put the defendant to an
+impermissible choice between asserting his right to remain silent
+and invoking his right to be free of illegal searches and seizures.218
+The Court also proscribed the introduction at a second trial of the
+defendant’s testimony at his first trial, given to rebut a confession
+which was subsequently held inadmissible, since the testimony was
+in effect “fruit of the poisonous tree,” and had been “coerced” from
+the defendant through use of the confession.219 Potentially most far-
+reaching was a holding that invalidated the penalty structure of a
+statute under which defendants could escape a possible death sen-
+tence by entering a guilty plea; the statute “needlessly encour-
+age[d]” waivers of defendant’s Fifth Amendment right to plead not
+guilty and his Sixth Amendment right to a jury trial.220
+    Although this “needless encouragement” test assessed the na-
+ture of the choice required to be made by defendants against the
+
+    216 Doyle v. Ohio, 426 U.S. 610 (1976). Post-arrest silence, the Court stated, is
+
+inherently ambiguous, and to permit use of the silence would be unfair since the
+Miranda warning told the defendant he could be silent. The same result had earlier
+been achieved under the Court’s supervisory power over federal trials in United States
+v. Hale, 422 U.S. 171 (1975). The same principles apply to bar a prosecutor’s use of
+Miranda silence as evidence of an arrestee’s sanity. Wainwright v. Greenfield, 474
+U.S. 284 (1986). In determining whether a state prisoner is entitled to federal ha-
+beas corpus relief because the prosecution violated due process by using his post-
+Miranda silence for impeachment purposes at trial, the proper standard for harmless-
+error review is that announced in Kotteakos v. United States, 328 U.S. 750, 776
+(1946)—whether the due process error had substantial and injurious effect or influ-
+ence in determining the jury’s verdict—not the stricter “harmless beyond a reason-
+able doubt” standard of Chapman v. California, 386 U.S. 18, 24 (1967), applicable
+on direct review. Brecht v. Abrahamson, 507 U.S. 619 (1993). See also Fry v. Pliler,
+551 U.S. 112, 114 (2007) (the “substantial and injurious effect” standard is to be
+applied in federal habeas proceedings even “when the state appellate court failed to
+recognize the error and did not review it for harmlessness under the ‘harmless be-
+yond a reasonable doubt’ standard set forth in Chapman v. California”).
+    217 Jenkins v. Anderson, 447 U.S. 231 (1980). Cf. Baxter v. Palmigiano, 425 U.S.
+
+308 (1976) (prison disciplinary hearing may draw adverse inferences from inmate’s
+assertion of privilege so long as this was not the sole basis of decision against him).
+    218 Simmons v. United States, 390 U.S. 377 (1968). The rationale of the case
+
+was subsequently limited to Fourth Amendment grounds in McGautha v. California,
+402 U.S. 183, 210–13 (1971).
+    219 Harrison v. United States, 392 U.S. 219 (1968).
+    220 Jackson v. United States, 390 U.S. 570, 583 (1968).

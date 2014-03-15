@@ -1,0 +1,53 @@
+principle, the Court in Miller v. Pate 1087 overturned a conviction
+obtained after the prosecution had represented to the jury that a
+pair of men’s shorts found near the scene of a sex attack belonged
+to the defendant and that they were stained with blood; the defen-
+dant showed in a habeas corpus proceeding that no evidence con-
+nected him with the shorts and furthermore that the shorts were
+not in fact bloodstained, and that the prosecution had known these
+facts.
+     This line of reasoning has even resulted in the disclosure to the
+defense of information not relied upon by the prosecution during
+trial.1088 In Brady v. Maryland,1089 the Court held “that the suppres-
+sion by the prosecution of evidence favorable to an accused upon
+request violates due process where the evidence is material either
+to guilt or to punishment, irrespective of the good faith or bad faith
+of the prosecution.” In that case, the prosecution had suppressed
+an extrajudicial confession of defendant’s accomplice that he had
+actually committed the murder.1090 “The heart of the holding in Brady
+is the prosecution’s suppression of evidence, in the face of a de-
+fense production request, where the evidence is favorable to the ac-
+cused and is material either to guilt or to punishment. Important,
+then, are (a) suppression by the prosecution after a request by the
+defense, (b) the evidence’s favorable character for the defense, and
+(c) the materiality of the evidence.” 1091
+    1087  386 U.S. 1 (1967).
+    1088  The Constitution does not require the government, prior to entering into a
+binding plea agreement with a criminal defendant, to disclose impeachment informa-
+tion relating to any informants or other witnesses against the defendant. United
+States v. Ruiz, 536 U.S. 622 (2002). Nor has it been settled whether inconsistent
+prosecutorial theories in separate cases can be the basis for a due process chal-
+lenge. Bradshaw v. Stumpf, 545 U.S. 175 (2005) (Court remanded case to determine
+whether death sentence was based on defendant’s role as shooter because subse-
+quent prosecution against an accomplice proceeded on the theory that, based on new
+evidence, the accomplice had done the shooting).
+     1089 373 U.S. 83, 87 (1963). In Jencks v. United States, 353 U.S. 657 (1957), in
+
+the exercise of its supervisory power over the federal courts, the Court held that the
+defense was entitled to obtain, for impeachment purposes, statements which had
+been made to government agents by government witnesses during the investigatory
+stage. Cf. Scales v. United States, 367 U.S. 203, 257–58 (1961). A subsequent stat-
+ute modified but largely codified the decision and was upheld by the Court. Palermo
+v. United States, 360 U.S. 343 (1959), sustaining 18 U.S.C. § 3500.
+     1090 Although the state court in Brady had allowed a partial retrial so that the
+
+accomplice’s confession could be considered in the jury’s determination of whether
+to impose capital punishment, it had declined to order a retrial of the guilt phase of
+the trial. The defendant’s appeal of this latter decision was rejected, as the issue, as
+the Court saw it, was whether the state court could have excluded the defendant’s
+confessed participation in the crime on evidentiary grounds, as the defendant had
+confessed to facts sufficient to establish grounds for the crime charged.
+     1091 Moore v. Illinois, 408 U.S. 786, 794–95 (1972) (finding Brady inapplicable
+
+because the evidence withheld was not material and not exculpatory). See also Wood
+v. Bartholomew, 516 U.S. 1 (1995) (per curiam) (holding no due process violation

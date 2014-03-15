@@ -1,0 +1,53 @@
+the case that each statute requires proof of a fact that the other
+does not, and no indication existed in the statutes and the legisla-
+tive history that Congress wanted the separate offenses pun-
+ished.154 In this as in other areas, a guilty plea ordinarily pre-
+cludes collateral attack.155
+    Successive Prosecutions for “the Same Offense”.—
+Successive prosecutions raise fundamental double jeopardy con-
+cerns extending beyond those raised by enhanced and multiple pun-
+ishments. It is more burdensome for a defendant to face charges in
+separate proceedings, and if those proceedings are strung out over
+a lengthy period the defendant is forced to live in a continuing state
+of uncertainty. At the same time, multiple prosecutions allow the
+state to hone its trial strategies through successive attempts at con-
+viction.156 In Brown v. Ohio,157 the Court, apparently for the first
+time, applied the same evidence test to bar successive prosecutions
+in state court for different statutory offenses involving the same con-
+duct. The defendant had been convicted of “joyriding,” defined as
+operating a motor vehicle without the owner’s consent, and was then
+prosecuted and convicted of stealing the same automobile. Because
+the state courts had conceded that joyriding was a lesser included
+offense of auto theft, the Court observed that each offense required
+the same proof and for double jeopardy purposes met the Blockburger
+test. The second conviction was overturned.158 Application of the same
+principles resulted in a holding that a prior conviction of failing to
+reduce speed to avoid an accident did not preclude a second trial
+for involuntary manslaughter, because failing to reduce speed was
+not a necessary element of the statutory offense of manslaughter,
+
+     154 The Court reasoned that a conviction for killing in the course of rape could
+
+not be had without providing all of the elements of the offense of rape. See also
+Jeffers v. United States, 432 U.S. 137 (1977) (no indication in legislative history Con-
+gress intended defendant to be prosecuted both for conspiring to distribute drugs
+and for distributing drugs in concert with five or more persons); Simpson v. United
+States, 435 U.S. 6 (1978) (defendant improperly prosecuted both for committing bank
+robbery with a firearm and for using a firearm to commit a felony); Bell v. United
+States, 349 U.S. 81 (1955) (simultaneous transportation of two women across state
+lines for immoral purposes one violation of Mann Act rather than two).
+     155 United States v. Broce, 488 U.S. 563 (1989) (defendant who pled guilty to
+
+two separate conspiracy counts is barred from collateral attack alleging that in fact
+there was only one conspiracy and that double jeopardy applied).
+     156 See Grady v. Corbin, 495 U.S. 508, 518–19 (1990).
+     157 432 U.S. 161 (1977). Cf. In re Nielsen, 131 U.S. 176 (1889) (prosecution of
+
+Mormon for adultery held impermissible following his conviction for cohabiting with
+more than one woman, even though second prosecution required proof of an addi-
+tional fact—that he was married to another woman).
+     158 See also Harris v. Oklahoma, 433 U.S. 682 (1977) (defendant who had been
+
+convicted of felony murder for participating in a store robbery with another person
+who shot a store clerk could not be prosecuted for robbing the store, since store rob-
+bery was a lesser-included crime in the offense of felony murder).

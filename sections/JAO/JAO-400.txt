@@ -1,0 +1,51 @@
+gress to exercise its discretion in fashioning remedies to achieve civil
+and political equality for all citizens.” Within this discretion is the
+“power to determine that in order adequately to protect the right
+to equal utilization of state facilities, it is also appropriate to pun-
+ish other individuals” who would deny such access.2103
+    The Court, however, ultimately rejected this expansion of the
+powers of Congress in United States v. Morrison.2104 In Morrison,
+the Court invalidated a provision of the Violence Against Women
+Act 2105 that established a federal civil remedy for victims of gender-
+motivated violence. The case involved a university student who brought
+a civil action against other students who allegedly raped her. The
+argument was made that there was a pervasive bias against vic-
+tims of gender-motivated violence in state justice systems, and that
+the federal remedy would offset and deter this bias. The Court first
+reaffirmed the state action requirement for legislation passed un-
+der the Fourteenth Amendment,2106 dismissing the dicta in Guest,
+and reaffirming the precedents of the Civil Rights Cases and United
+States v. Harris. The Court also rejected the assertion that the leg-
+islation was “corrective” of bias in the courts, as the suits are not
+directed at the state or any state actor, but rather at the individu-
+als committing the criminal acts.2107
+
+    2103  383 U.S. at 777–79, 784.
+    2104  529 U.S. 598 (2000).
+     2105 Pub. L. 103–322, § 40302, 108 Stat. 1941, 42 U.S.C. § 13981.
+     2106 529 U.S. at 621 (quoting Shelley v. Kraemer, 334 U.S. 1, 13 (1948), for the
+
+proposition that the Amendment “erects no shield against merely private conduct,
+however discriminatory or wrongful”).
+     2107 This holding may have broader significance for federal civil rights law. For
+
+instance, 42 U.S.C. § 1985(3) (a civil statute paralleling the criminal statute held
+unconstitutional in United States v. Harris) lacks a “color of law” requirement. Al-
+though the requirement was read into it in Collins v. Hardyman, 341 U.S. 651 (1951),
+to avoid constitutional problems, it was read out again in Griffin v. Breckenridge,
+403 U.S. 88, 97 (1971) (although it might be “difficult to conceive of what might
+constitute a deprivation of the equal protection of the laws by private persons . . .
+there is nothing inherent in the phrase that requires the action working the depri-
+vation to come from the State”). What the unanimous Court held in Griffin was that
+an “intent to deprive of equal protection, or equal privileges and immunities, means
+that there must be some racial, or perhaps otherwise class-based, invidiously dis-
+criminatory animus behind the conspirators’ action.” Id. at 102. As so construed, the
+statute was held constitutional as applied in the complaint before the Court on the
+basis of the Thirteenth Amendment and the right to travel; there was no necessity
+therefore, to consider Congress’s powers under § 5 of the 14th Amendment. Id. at
+107.
+     The lower courts have been quite divided with respect to what constitutes a
+non-racial, class-based animus, and what constitutional protections must be threat-
+ened before a private conspiracy can be reached under § 1985(3). See, e.g., Action v.
+Gannon, 450 F.2d 1227 (8th Cir. 1971); Dombrowski v. Dowling, 459 F.2d 190 (7th
+Cir. 1972); Great American Fed. S. & L. Ass’n v. Novotny, 584 F.2d 1235 (3d Cir.

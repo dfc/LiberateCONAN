@@ -1,0 +1,52 @@
+    Congress may preempt state regulation without itself prescrib-
+ing a federal standard; it may deregulate a field and thus occupy it
+by opting for market regulation and precluding state or local regu-
+lation.1195
+    Conflict Preemption. Several possible situations will lead to a
+holding that a state law is preempted as in conflict with federal
+law. First, it may be that the two laws, federal and state, will actu-
+ally conflict. Thus, in Rose v. Arkansas State Police,1196 federal law
+provided for death benefits for state law enforcement officers “in ad-
+dition to” any other compensation, while the state law required a
+reduction in state benefits by the amount received from other sources.
+The Court, in a brief, per curiam opinion, had no difficulty finding
+the state provision preempted.1197
+    Second, conflict preemption may occur when it is practically im-
+possible to comply with the terms of both laws. Thus, where a fed-
+eral agency had authorized federal savings and loan associations to
+include “due-on-sale” clauses in their loan instruments and where
+the state had largely prevented inclusion of such clauses, while it
+was literally possible for lenders to comply with both rules, the fed-
+eral rule being permissive, the state regulation prevented the exer-
+cise of the flexibility the federal agency had conferred and was pre-
+empted.1198 More problematic are circumstances in which a party
+has an administrative avenue for seeking removal of impediments
+
+     1195 Transcontinental Gas Pipe Line Corp. v. Mississippi Oil & Gas Board, 474
+
+U.S. 409 (1986); Puerto Rico Dept. of Consumer Affairs v. Isla Petroleum Corp., 485
+U.S. 495 (1988).
+     1196 479 U.S. 1 (1986).
+     1197 See also Lawrence County v. Lead-Deadwood School Dist., 469 U.S. 256 (1985)
+
+(state law requiring local governments to distribute federal payments in lieu of taxes
+in same manner as general state-tax revenues conflicts with federal law authorizing
+local governments to use the payments for any governmental purpose); Southland
+Corp. v. Keating, 465 U.S. 1 (1984) (state franchise law requiring judicial resolution
+of claims preempted by federal arbitration law precluding adjudication in state or
+federal courts of claims parties had contracted to submit to arbitration); Perry v.
+Thomas, 482 U.S. 483 (1987) (federal arbitration law preempts state law providing
+that court actions for collection of wages may be maintained without regard to agree-
+ments to arbitrate); Allied-Bruce Terminix Cos. v. Dobson, 513 U.S. 265 (1995) (fed-
+eral arbitration law preempts state law invalidating predispute arbitration agree-
+ments that were not entered into in contemplation of substantial interstate activity);
+Doctor’s Associates, Inc. v. Casarotto, 517 U.S. 681 (1996) (federal arbitration law
+preempts state statute that conditioned enforceability of arbitration clause on com-
+pliance with special notice requirement). See also Free v. Brand, 369 U.S. 663 (1962).
+     1198 Fidelity Fed. Savings & Loan Assn. v. de la Cuesta, 458 U.S. 141 (1982).
+
+See also Wos v. E.M.A., 568 U.S. ___, No. 12–98, slip op. (2013) (North Carolina
+statute allowing the state, in certain circumstances, to collect one-third of the amount
+of a tort settlement as reimbursement for state-paid medical expenses under Medic-
+aid held to effectively conflict with anti-lien provisions of the federal Medicaid stat-
+ute where settlement designated a lesser amount as medical expenses award).

@@ -1,0 +1,50 @@
+eavesdropping statute could pass constitutional scrutiny,390 and, in
+Katz v. United States,391 the Court in an opinion by one of the Berger
+dissenters, Justice Stewart, modified some of its language and pointed
+to Court approval of some types of statutorily-authorized electronic
+surveillance. Just as Berger had confirmed that one rationale of the
+Olmstead decision, the inapplicability of “seizure” to conversations,
+was no longer valid, Katz disposed of the other rationale. In the
+latter case, officers had affixed a listening device to the outside wall
+of a telephone booth regularly used by Katz and activated it each
+time he entered; since there had been no physical trespass into the
+booth, the lower courts held the Fourth Amendment not relevant.
+The Court disagreed, saying that “once it is recognized that the Fourth
+Amendment protects people—and not simply ‘areas’—against unrea-
+sonable searches and seizures, it becomes clear that the reach of
+that Amendment cannot turn upon the presence or absence of a physi-
+cal intrusion into any given enclosure.” 392 Because the surveillance
+of Katz’s telephone calls had not been authorized by a magistrate,
+it was invalid; however, the Court thought that “it is clear that this
+surveillance was so narrowly circumscribed that a duly authorized
+magistrate, properly notified of the need for such investigation, spe-
+cifically informed of the basis on which it was to proceed, and clearly
+apprised of the precise intrusion it would entail, could constitution-
+ally have authorized, with appropriate safeguards, the very limited
+search and seizure that the government asserts in fact took place.” 393
+The notice requirement, which had loomed in Berger as an obstacle
+
+
+
+    390  388 U.S. at 71, 113.
+    391  389 U.S. 347 (1967).
+     392 389 U.S. at 353. “We conclude that the underpinnings of Olmstead and Gold-
+
+man have been so eroded by our subsequent decisions that the ‘trespass’ doctrine
+there enunciated can no longer be regarded as controlling. The Government’s activi-
+ties in electronically listening to and recording the petitioner’s words violated the
+privacy upon which he justifiably relied while using the telephone booth and thus
+constituted a ‘search and seizure’ within the meaning of the Fourth Amendment.”
+     393 389 U.S. at 354. The “narrowly circumscribed” nature of the surveillance was
+
+made clear by the Court in the immediately preceding passage. “[The Government
+agents] did not begin their electronic surveillance until investigation of the petition-
+er’s activities had established a strong probability that he was using the telephone
+in question to transmit gambling information to persons in other States, in viola-
+tion of federal law. Moreover, the surveillance was limited, both in scope and in du-
+ration, to the specific purpose of establishing the contents of the petitioner’s unlaw-
+ful telephonic communications. The agents confined their surveillance to the brief
+periods during which he used the telephone booth, and they took great care to over-
+hear only the conversations of the petitioner himself.” Id. For similar emphasis upon
+precision and narrow circumscription, see Osborn v. United States, 385 U.S. 323,
+329–30 (1966).

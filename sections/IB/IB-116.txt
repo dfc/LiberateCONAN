@@ -1,0 +1,55 @@
+coercive as to pass the point at which “pressure turns into compul-
+sion.” 632 Certain federalism restraints on other federal powers seem
+not to be relevant to spending conditions.633
+     In 2010, Congress passed the Patient Protection and Affordable
+Care Act (ACA),634 which established a comprehensive health care
+system for the United States. As part of this new system, the Act
+expanded which persons were eligible for Medicaid, which is fi-
+nanced jointly by the federal and state governments. Failure of a
+state to implement such expansion could, in theory, have resulted
+in the withholding of all Medicaid reimbursements, including pay-
+ments for persons previously covered by the Medicaid program. In
+National Federation of Independent Business (NFIB) v. Sebelius,635
+seven Justices (in two separate opinions) held that the require-
+ment that states either comply with the requirements of the Medic-
+aid expansion under the ACA or lose all Medicaid funds violated
+the Tenth Amendment.636 The Court held, however, that withhold-
+ing of just the funds associated with that expansion raised no sig-
+nificant constitutional concerns, essentially making the Medicaid ex-
+pansion voluntary.
+     Chief Justice Roberts’ controlling opinion 637 in NFIB held that
+the ACA Medicaid expansion created a “new” and “independent” pro-
+gram.638 As Congress’s power to direct state activities under the Spend-
+     632 Steward Machine Co. v. Davis, 301 U.S. 548, 589–90 (1937); South Dakota v.
+
+Dole, 483 U.S. 203, 211–12. See North Carolina ex rel. Morrow v. Califano, 445 F.
+Supp. 532 (E.D.N.C. 1977) (three-judge court), aff’d 435 U.S. 962 (1978).
+     633 South Dakota v. Dole, 483 U.S. at 210 (referring to the Tenth Amendment:
+
+“the ‘independent constitutional bar’ limitation on the spending power is not . . . a
+prohibition on the indirect achievement of objectives which Congress is not empow-
+ered to achieve directly”).
+     634 Pub. L. 111–148, as amended.
+     635 567 U.S. ___, No. 11–393, slip op. (2012).
+     636 Chief Justice Robert’s opinion was joined by Justices Breyer and Kagan on
+
+this point, while Justices Scalia, Kennedy, Thomas and Alito made a similar point
+in a joint dissenting opinion. The authoring Justices of the two opinions, however,
+did not join in either the reasoning or judgment of the other opinion.
+     637 “When a fragmented Court decides a case and no single rationale explaining
+
+the result enjoys the assent of five Justices, the holding of the Court may be viewed
+as that position taken by those Members who concurred in the judgments on the
+narrowest grounds.’ ” Marks v. United States, 430 U.S. 188, 193 (1977) (citation omit-
+ted). Justice Roberts opinion is arguably narrower than the dissent, because, as dis-
+cussed below, his opinion found a constitutional violation based on the presence of
+both a “new” “independent” program and a coercive loss of funds, while the dissent-
+ing opinion would have found the coercive loss of funds sufficient. NFIB, 567 U.S.
+___, slip op. at 38–42 (Justices Scalia, Kennedy, Thomas and Alito dissenting).
+     638 567 U.S. ___, slip op. at 50, 53–54. It might be argued that the Roberts’ opin-
+
+ion, with its emphasis on “new” and “independent” programs, is implicitly address-
+ing the “relatedness” inquiry of South Dakota v. Dole. Justice Roberts’ opinion, how-
+ever, does not explicitly discuss the issue, and an argument can be made that there
+is a significant difference between the two inquiries. As noted, the “relatedness in-
+quiry” in Dole was identified as a limitation on the Spending Clause, while the NFIB

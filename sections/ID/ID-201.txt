@@ -1,0 +1,52 @@
+B is applicable, perhaps because a contract was made there or a
+tort was committed there, the federal court is to apply State A’s
+conception of State B’s law.1113
+     The greatest difficulty in applying the Erie doctrine has been
+in cases in which issues of procedure were important.1114 The pro-
+cess was initiated in 1945 when the Court held that a state statute
+of limitations, which would have barred suit in state court, would
+bar it in federal court, although as a matter of federal law the case
+still could have been brought in federal court.1115 The Court re-
+garded the substance-procedure distinction as immaterial. “[S]ince
+a federal court adjudicating a state-created right solely because of
+the diversity of citizenship of the parties is for that purpose, in ef-
+fect, only another court of the State, it cannot afford recovery if the
+right to recover is made unavailable by the State nor can it substan-
+tially affect the enforcement of the right as given by the State.” 1116
+The standard to be applied was compelled by the “intent” of Erie,
+which “was to insure that, in all cases where a federal court is ex-
+ercising jurisdiction solely because of the diversity of citizenship of
+the parties, the outcome of the litigation in the federal court should
+be substantially the same, so far as legal rules determine the out-
+come of a litigation, as it would be if tried in a State court.” 1117
+The Court’s application of this standard created substantial doubt
+that the Federal Rules of Civil Procedure had any validity in diver-
+sity cases.1118
+
+     1113 Klaxon Co. v. Stentor Manufacturing Co., 313 U.S. 487 (1941); Griffin v. Mc-
+
+Coach, 313 U.S. 498 (1941); Wells v. Simonds Abrasive Co., 345 U.S. 514 (1953);
+Nolan v. Transocean Air Lines, 365 U.S. 293 (1961).
+     1114 Interestingly enough, 1938 marked what seemed to be a switching of posi-
+
+tions vis-a-vis federal and state courts of substantive law and procedural law. Un-
+der Tyson, federal courts in diversity actions were free to formulate a federal com-
+mon law, while they were required by the Conformity Act, § 5, 17 Stat. 196 (1872),
+to conform their procedure to that of the state in which the court sat. Erie then
+ruled that state substantive law was to control in federal court diversity actions,
+while by implication matters of procedure in federal court were subject to congres-
+sional governance. Congress authorized the Court to promulgate rules of civil proce-
+dure, 48 Stat. 1064 (1934), which it did in 1938, a few months after Erie was de-
+cided. 302 U.S. 783.
+     1115 Guaranty Trust Co. v. York, 326 U.S. 99 (1945).
+     1116 326 U.S. at 108–09.
+     1117 326 U.S. at 109.
+     1118 Cohen v. Beneficial Industrial Loan Corp., 337 U.S. 541 (1949) (state rule
+
+making unsuccessful plaintiffs liable for all expenses and requiring security for such
+expenses as a condition of proceeding applicable in federal court); Woods v. Inter-
+state Realty Co., 337 U.S. 535 (1949) (state statute barring foreign corporation not
+qualified to do business in the state applies in federal court); Ragan v. Merchants
+Transfer & Warehouse Co., 337 U.S. 530 (1949) (state rule determinative when an
+action is begun for purposes of statute of limitations applicable in federal court al-
+though a Federal Rule of Civil Procedure states a different rule).

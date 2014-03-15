@@ -1,0 +1,44 @@
+931. Cook v. Gralike, 531 U.S. 510 (2001).
+           Provisions of the Missouri Constitution requiring identification on
+      primary and general election ballots of congressional candidates who
+      failed to support term limits in the prescribed manner are unconstitu-
+      tional. States do not have power reserved by the Tenth Amendment to
+      give binding instructions to their congressional representatives, and
+      the “Elections Clause” of Article I, section 4, does not authorize the
+      regulation. The Missouri ballot requirements do not relate to “times”
+      or “places,” and are not valid regulations of the “manner” of holding
+      elections.
+              Justices concurring: Stevens, Scalia, Kennedy, Ginsburg, Breyer
+              Justices concurring specially: Rehnquist, C.J., Kennedy, Thomas, O’Connor, Souter
+
+932. Bartnicki v. Vopper, 532 U.S. 514 (2001).
+           A Pennsylvania prohibition on disclosure of the contents of an il-
+      legally intercepted electronic communication violates the First Amend-
+      ment as applied in this case. The defendants, a talk show host and a
+      community activist, played no part in the illegal interception, and ob-
+      tained the tapes lawfully. The subject matter of the disclosed conver-
+      sation, involving a threat of violence in a labor dispute, was “a matter
+      of public concern.”
+              Justices concurring: Stevens, O’Connor, Kennedy, Souter, Ginsburg, Breyer
+              Justices dissenting: Rehnquist, C.J., Scalia, Thomas
+
+933. Lorillard Tobacco Co. v. Reilly,533 U.S. 525 (2001).
+           Massachusetts’ restrictions on outdoor advertising and point-of-
+      sale advertising of smokeless tobacco and cigars violate the First Amend-
+      ment. The regulations prohibit outdoor advertising within 1,000 feet
+      of a school, park, or playground, and prohibit “point-of-sale” advertis-
+      ing placed lower than five feet above the floor of retail establish-
+      ments. These restrictions do not satisfy the fourth step of the Central
+      Hudson test for regulation of commercial speech. That step requires a
+      “reasonable fit” between the means and ends of a regulation, yet the
+      regulations are not “narrowly tailored” to achieve such a fit.
+              Justices concurring: O’Connor, Scalia, Kennedy, Souter (point-of-sale restric-
+                tions only), Thomas
+              Justices dissenting: Stevens, Ginsburg, Breyer, Souter (outdoor advertising only)
+
+934. Ring v. Arizona, 536 U.S. 584 (2002).
+           Arizona’s capital sentencing law violates the Sixth Amendment right
+      to jury trial by allowing a sentencing judge to find an aggravating cir-
+      cumstance necessary for imposition of the death penalty. The govern-
+      ing principle was established in Apprendi v. New Jersey, 530 U.S. 466
+      (2000), holding that any fact (other than the fact of a prior conviction)

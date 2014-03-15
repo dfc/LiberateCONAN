@@ -1,0 +1,54 @@
+the primary rights being adjudicated were legal in character. Thus,
+the rule that emerged was that legal claims must be tried before
+equitable ones and before a jury if the litigant so wished.47
+     In Ross v. Bernhard,48 the Court further held that the right to
+a jury trial depends on the nature of the issue to be tried rather
+than the procedural framework in which it is raised. The case in-
+volved a stockholder derivative action,49 which has always been con-
+sidered to be a suit in equity. The Court agreed that the action was
+equitable but asserted that it involved two separable claims. The
+first, the stockholder’s standing to sue for a corporation, is an equi-
+table issue; the second, the corporation’s claim asserted by the stock-
+holder, may be either equitable or legal. Because the 1938 merger
+of law and equity in the federal courts eliminated any procedural
+obstacles to transferring jurisdiction to the law side once the equi-
+table issue of standing was decided, the Court continued, if the cor-
+poration’s claim being asserted by the stockholder was legal in na-
+ture, it should be heard on the law side and before a jury.50 Whether
+this analysis will be followed in other areas so that the right to a
+jury trial extends to all legal issues in actions formerly within equi-
+ty’s concurrent jurisdiction is a question now open.51
+   Procedures Limiting Jury’s Role.—As noted above, the pri-
+mary purpose of the Seventh Amendment was to preserve the his-
+     47 If legal and equitable claims are joined, and the court erroneously dismisses
+
+the legal claims and decides common issues in the equitable action, the plaintiff can-
+not be collaterally estopped from relitigating those common issues in a jury trial.
+Lytle v. Household Manufacturing, Inc., 494 U.S. 545 (1990).
+     48 396 U.S. 531 (1970).
+     49 The stockholders’ derivative action is a creation of equity made necessary by
+
+the traditional concept of “the corporate entity” or the “concept of separate personal-
+ity.” That is, the corporation is an entity distinct and separate from its sharehold-
+ers. Thus, while shareholders were relieved from unlimited liability for corporate
+liabilities, the complementary result was that harm to the corporation did not con-
+fer any right of action upon a shareholder to sue to right that harm. But if the
+harm were caused by the abuse of those who managed and controlled the corpora-
+tion, the corporation naturally would not proceed against them and the common law
+courts would not allow the shareholders to bring an action running to the “separate
+personality” of the corporation; equity thus permitted a derivative action in which
+the shareholder is permitted to set in motion the adjudication of a cause of action
+belonging to the corporation. Prunty, The Shareholders’ Derivative Suit: Notes on Its
+Derivation, 32 N.Y.U. L. REV. 980 (1957).
+     50 Justices Stewart and Harlan and Chief Justice Burger dissented, arguing that
+
+the Seventh Amendment did not expand the right to a jury trial, that the Rules
+simply preserved the right as it had existed, and that it was error to think that the
+two could somehow “magically interact” to enlarge the right in a way that neither
+did alone. Ross v. Bernhard, 396 U.S. 531, 543 (1970).
+     51 Among the possibilities in which a legal right was enforceable in equity in
+
+the absence of an adequate remedy at law are suits to compel specific performance
+of a contract, suits for cancellation of a contract, and suits to enjoin tortious action.
+On Ross’ implications, see J. MOORE, FEDERAL PRACTICE §§ 38.11[8.–8], 38.11[9] (2d ed.
+1971).

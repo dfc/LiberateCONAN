@@ -1,0 +1,51 @@
+decide the issues.550 Should this analysis prevail, ripeness as a limi-
+tation on justiciability will decline in importance.
+    Mootness.—A case initially presenting all the attributes neces-
+sary for federal court litigation may at some point lose some attri-
+bute of justiciability and become “moot.” The usual rule is that an
+actual controversy must exist at all stages of trial and appellate
+consideration and not simply at the date the action is initiated.551
+“Under Article III of the Constitution, federal courts may adjudi-
+cate only actual, ongoing cases or controversies. . . . Article III de-
+nies federal courts the power ‘to decide questions that cannot affect
+the rights of litigants in the case before them,’ . . . and confines
+them to resolving ‘real and substantial controvers[ies] admitting of
+specific relief through a decree of a conclusive character, as distin-
+guished from an opinion advising what the law would be upon a
+hypothetical state of facts.’ This case-or-controversy requirement sub-
+sists through all stages of federal judicial proceedings, trial and ap-
+pellate. To sustain our jurisdiction in the present case, it is not enough
+that a dispute was very much alive when suit was filed, or when
+review was obtained in the Court of Appeals. . . . The parties must
+continue to have a ‘personal stake in the outcome’ of the law-
+
+     550 Duke Power Co. v. Carolina Environmental Study Group, 438 U.S. 59, 81–82
+
+(1978). The injury giving standing to plaintiffs was the environmental harm arising
+from the plant’s routine operation; the injury to their legal rights was alleged to be
+the harm caused by the limitation of liability in the event of a nuclear accident. The
+standing injury had occurred, the ripeness injury was conjectural and speculative
+and might never occur. See id. at 102 (Justice Stevens concurring in the result). It
+is evident on the face of the opinion and expressly stated by the objecting Justices
+that the Court used its standing/ripeness analyses in order to reach the merits, so
+as to remove the constitutional cloud cast upon the federal law by the district court
+decision. Id. at 95, 103 (Justices Rehnquist and Stevens concurring in the result).
+     551 E.g., United States v. Munsingwear, 340 U.S. 36 (1950); Golden v. Zwickler,
+
+394 U.S. 103, 108 (1969); SEC v. Medical Committee for Human Rights, 404 U.S.
+403 (1972); Roe v. Wade, 410 U.S. 113, 125 (1973); Sosna v. Iowa, 419 U.S. 393,
+398–399 (1975) (special rule for class actions); United States Parole Comm’n v. Geraghty,
+445 U.S. 388, 397 (1980) (special rule for class actions), and id. at 411 (Justice Pow-
+ell dissenting); Burke v. Barnes, 479 U.S. 361, 363 (1987); Honig v. Doe, 484 U.S.
+305, 317 (1988); Lewis v. Continental Bank Corp., 494 U.S. 472, 477–478 (1990);
+Camreta V. Greene, 563 U.S. ___, No. 09–1954, slip op. (2011); United States v. Ju-
+venile Male, 564 U.S. ___, No. 09–940, slip op. at 4 (2011). Munsingwear has long
+stood for the proposition that the appropriate practice of the Court in a civil case
+that had become moot while on the way to the Court or after certiorari had been
+granted was to vacate or reverse and remand with directions to dismiss. In U.S.
+Bancorp Mortgage Co. v. Bonner Mall Partnership, 513 U.S. 18 (1994), however, the
+Court held that when mootness occurs because the parties have reached a settle-
+ment, vacatur of the judgment below is ordinarily not the best practice; instead, eq-
+uitable principles should be applied so as to preserve a presumptively correct and
+valuable precedent, unless a court concludes that the public interest would be served
+by vacatur.

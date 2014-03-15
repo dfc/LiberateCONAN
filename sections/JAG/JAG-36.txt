@@ -1,0 +1,53 @@
+had been procured by the defendant, testimony given at a previous
+trial on a different indictment could be used at the subsequent trial.203
+The Court had also recognized the admissibility of dying declara-
+tions 204 and of testimony given at a former trial by a witness since
+deceased.205 The prosecution was not permitted to use a judgment
+of conviction against other defendants on charges of theft in order
+to prove that the property found in the possession of the defendant
+now on trial was stolen.206 A prosecutor, however, may comment on
+a defendant’s presence at trial, and call attention to the defen-
+dant’s opportunity to tailor his or her testimony to comport with
+that of previous witnesses.207
+    For years the Court has struggled with the relationship be-
+tween hearsay rules and the Confrontation Clause. In a series of
+decisions beginning in 1965, the Court seemed to equate the Con-
+frontation Clause with the hearsay rule, positing that a major pur-
+pose of the clause was “to give the defendant charged with crime
+an opportunity to cross-examine the witnesses against him,” unless
+one of the hearsay exceptions applies.208 Thus, in Pointer v. Texas,209
+the complaining witness had testified at a preliminary hearing at
+which he was not cross-examined and the defendant was not repre-
+sented by counsel, and by the time of trial, the witness had moved
+to another state and the prosecutor made no effort to obtain his
+    203  Reynolds v. United States, 98 U.S. (8 Otto) 145 (1879).
+    204  Kirby v. United States, 174 U.S. 47, 61 (1899); Robertson v. Baldwin, 165
+U.S. 275, 282 (1897).
+     205 Mattox v. United States, 156 U.S. 237, 240 (1895).
+     206 Kirby v. United States, 174 U.S. 47 (1899), and Dowdell v. United States,
+
+221 U.S. 325 (1911), recognized the inapplicability of the clause to the admission of
+documentary evidence to establish collateral facts, admissible under the common law,
+to permit certification as an additional record to the appellate court of the events of
+the trial.
+     207 Portuondo v. Agard, 529 U.S. 61 (2000).
+     208 Pointer v. Texas, 380 U.S. 400, 406–07 (1965); Douglas v. Alabama, 380 U.S.
+
+415, 418 (1965). “The right to confrontation is basically a trial right. It includes both
+the opportunity to cross-examine and the occasion for the jury to weigh the de-
+meanor of the witness.” Barber v. Page, 390 U.S. 719, 725 (1968). Unjustified limita-
+tion of the defendant’s right to cross-examine witnesses presented against him at
+trial may constitute a confrontation clause violation, Smith v. Illinois, 390 U.S. 129
+(1968), or a denial of due process, Alford v. United States, 282 U.S. 687 (1931); and
+In re Oliver, 333 U.S. 257 (1948).
+     209 380 U.S. 400 (1965). Justices Harlan and Stewart concurred on due process
+
+grounds, rejecting the “incorporation” holding. Id. at 408, 409. See also Barber v.
+Page, 390 U.S. 719 (1968), in which the Court refused to permit the state to use the
+preliminary hearing testimony of a witness in a federal prison in another state at
+the time of trial. The Court acknowledged the hearsay exception permitting the use
+of such evidence when a witness was unavailable but refused to find him “unavail-
+able” when the state had made no effort to procure him; and Mancusi v. Stubbs, 408
+U.S. 204 (1972), in which the Court permitted the state to assume the unavailabil-
+ity of a witness then living in Sweden, and to use the transcript of the witness’
+testimony at a former trial.

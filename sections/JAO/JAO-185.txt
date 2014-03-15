@@ -1,0 +1,52 @@
+     Burden of Proof and Presumptions.—It is clearly within the
+domain of the legislative branch of government to establish presump-
+tions and rules respecting burden of proof in litigation.989 Nonethe-
+less, the Due Process Clause does prevent the deprivation of lib-
+erty or property upon application of a standard of proof too lax to
+make reasonable assurance of accurate factfinding. Thus, “[t]he func-
+tion of a standard of proof, as that concept is embodied in the Due
+Process Clause and in the realm of factfinding, is to ‘instruct the
+factfinder concerning the degree of confidence our society thinks he
+should have in the correctness of factual conclusions for a particu-
+lar type of adjudication.’ ” 990
+     Applying the formula it has worked out for determining what
+process is due in a particular situation,991 the Court has held that
+a standard at least as stringent as clear and convincing evidence is
+required in a civil proceeding to commit an individual involuntarily
+to a state mental hospital for an indefinite period.992 Similarly, be-
+cause the interest of parents in retaining custody of their children
+is fundamental, the state may not terminate parental rights through
+reliance on a standard of preponderance of the evidence—the proof
+necessary to award money damages in an ordinary civil action—
+but must prove that the parents are unfit by clear and convincing
+evidence.993 Further, unfitness of a parent may not simply be pre-
+sumed because of some purported assumption about general char-
+acteristics, but must be established.994
+     As long as a presumption is not unreasonable and is not conclu-
+sive, it does not violate the Due Process Clause. Legislative fiat may
+not take the place of fact in the determination of issues involving
+life, liberty, or property, however, and a statute creating a presump-
+     989 Hawkins v. Bleakly, 243 U.S. 210, 214 (1917); James-Dickinson Co. v. Harry,
+
+273 U.S. 119, 124 (1927). Congress’s power to provide rules of evidence and stan-
+dards of proof in the federal courts stems from its power to create such courts. Vance
+v. Terrazas, 444 U.S. 252, 264–67 (1980); Usery v. Turner Elkhorn Mining Co., 428
+U.S. 1, 31 (1976). In the absence of congressional guidance, the Court has deter-
+mined the evidentiary standard in certain statutory actions. Nishikawa v. Dulles,
+356 U.S. 129 (1958); Woodby v. INS, 385 U.S. 276 (1966).
+     990 Addington v. Texas, 441 U.S. 418, 423 (1979) (quoting In re Winship, 397
+
+U.S. 358, 370 (1970) (Justice Harlan concurring)).
+     991 Mathews v. Eldridge, 424 U.S. 319 (1976).
+     992 Addington v. Texas, 441 U.S. 418 (1979).
+     993 Santosky v. Kramer, 455 U.S. 745 (1982). Four Justices dissented, arguing
+
+that considered as a whole the statutory scheme comported with due process. Id. at
+770 (Justices Rehnquist, White, O’Connor, and Chief Justice Burger). Application of
+the traditional preponderance of the evidence standard is permissible in paternity
+actions. Rivera v. Minnich, 483 U.S. 574 (1987).
+     994 Stanley v. Illinois, 405 U.S. 645 (1972) (presumption that unwed fathers are
+
+unfit parents). But see Michael H. v. Gerald D., 491 U.S. 110 (1989) (statutory pre-
+sumption of legitimacy accorded to a child born to a married woman living with her
+husband defeats the right of the child’s biological father to establish paternity.

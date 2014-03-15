@@ -1,0 +1,51 @@
+     In Asahi Metal Industry Co. v. Superior Court,900 the Court ad-
+dressed more closely how jurisdiction flows with products down-
+stream. The Court identified two standards for limiting jurisdiction
+even as products proceed to foreseeable destinations. The more gen-
+eral standard harked back to the fair play and substantial justice
+doctrine of International Shoe and requires balancing the respec-
+tive interests of the parties, the prospective forum state, and alter-
+native fora. All the Justices agreed with the legitimacy of this test
+in assessing due process limits on jurisdiction.901 However, four Jus-
+tices would also apply a more exacting test: A defendant who placed
+a product in the stream of commerce knowing that the product might
+eventually be sold in a state will be subject to jurisdiction there
+only if the defendant also had purposefully acted to avail itself of
+the state’s market. According to Justice O’Connor, who wrote the
+opinion espousing this test, a defendant subjected itself to jurisdic-
+tion by targeting or serving customers in a state through, for ex-
+ample, direct advertising, marketing through a local sales agent,
+or establishing channels for providing regular advice to local cus-
+tomers. Action, not expectation, is key.902 In Asahi, the state was
+found to lack jurisdiction under both tests cited.
+     Doctrinal differences on the due process touchstones in stream-
+of-commerce cases became more critical to the outcome in J. McIntyre
+Machinery, Ltd. v. Nicastro.903 Justice Kennedy, writing for a four-
+Justice plurality, asserted that it is a defendant’s purposeful avail-
+ment of the forum state that makes jurisdiction consistent with tra-
+ditional notions of fair play and substantial justice. The question is
+not so much the fairness of a state reaching out to bring a foreign
+defendant before its courts as it is a matter of a foreign defendant
+having acted within a state so as to bring itself within the state’s
+     900 480 U.S. 102 (1987). In Asahi, a California resident sued, inter alia, a Tai-
+
+wanese tire tube manufacturer for injuries caused by a blown-out motorcycle tire.
+After plaintiff and the tube manufacturer settled the case, which had been filed in
+California, the tube manufacturer sought indemnity in the California courts against
+Asahi Metal, the Japanese supplier of the tube’s valve assembly.
+     901 All the Justices also agreed that due process considerations foreclosed juris-
+
+diction in Asahi, even though Asahi Metal could have foreseen that some of its valve
+assemblies would end up incorporated into tire tubes sold in the United States. Three
+of the Asahi Justices had been dissenters in World-Wide Volkswagen Corp. v. Woodson.
+Of the three dissenters, Justice Brennan had argued that the “minimum contacts”
+test was obsolete and that jurisdiction should be predicated upon the balancing of
+the interests of the forum state and plaintiffs against the actual burden imposed on
+defendant, 444 U.S. at 299, while Justices Marshall and Blackmun had applied the
+test and found jurisdiction because of the foreseeability of defendants that a defec-
+tive product of theirs might cause injury in a distant state and because the defen-
+dants had entered into an interstate economic network. 444 U.S. at 313.
+     902 480 U.S. at 109–113 (1987). Agreeing with Justice O’Connor on this test were
+
+Chief Justice Rehnquist and Justices Powell and Scalia.
+     903 564 U.S. ___, No. 09–1343, slip op. (2011).

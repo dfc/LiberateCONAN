@@ -1,0 +1,50 @@
+power to impose criminal penalties, described below, further illus-
+trate the difference between delegating the underlying power to set
+basic policy—whether it be the decision to impose taxes or the de-
+cision to declare that certain activities are crimes—and the author-
+ity to exercise discretion in implementing the policy.
+     Crime and Punishment.—The Court has confessed that its
+“cases are not entirely clear as to whether more specific guidance
+is in fact required” for delegations relating to the imposition of crimi-
+nal sanctions.175 It is clear, however, that some essence of the power
+to define crimes and set a range of punishments is not delegable,
+but must be exercised by Congress. This conclusion derives in part
+from the time-honored principle that penal statutes are to be strictly
+construed, and that no one should be “subjected to a penalty un-
+less the words of the statute plainly impose it.” 176 Both Schechter 177
+and Panama Refining 178—the only two cases in which the Court
+has invalidated delegations—involved broad delegations of power to
+“make federal crimes of acts that never had been such before.” 179
+Thus, Congress must provide by statute that violation of the stat-
+ute’s terms—or of valid regulations issued pursuant thereto—shall
+constitute a crime, and the statute must also specify a permissible
+range of penalties. Punishment in addition to that authorized in
+the statute may not be imposed by administrative action.180
+     However, once Congress has exercised its power to declare cer-
+tain acts criminal, and has set a range of punishment for viola-
+tions, authority to flesh out the details may be delegated. Congress
+may provide that violation of valid administrative regulations shall
+be punished as a crime.181 For example, the Court has upheld a
+delegation of authority to classify drugs as “controlled substances,”
+    175  Touby v. United States, 500 U.S. 160, 166 (1991).
+    176  Tiffany v. National Bank of Missouri, 85 U.S. (18 Wall.) 409, 410 (1873).
+     177 A. L. A. Schechter Poultry Corp. v. United States, 295 U.S. 495 (1935).
+     178 Panama Refining Co. v. Ryan, 293 U.S. 388 (1935).
+     179 Fahey v. Mallonee, 332 U.S. 245, 249 (1947).
+     180 L. P. Steuart & Bro. v. Bowles, 322 U.S. 398, 404 (1944) (“[I]t is for Congress
+
+to prescribe the penalties for the laws which it writes. It would transcend both the
+judicial and the administrative function to make additions to those which Congress
+has placed behind a statute”).
+     181 United States v. Grimaud, 220 U.S. 506 (1911). The Forest Reserve Act at
+
+issue in Grimaud clearly provided for punishment for violation of “rules and regula-
+tions of the Secretary.” The Court in Grimaud distinguished United States v. Eaton,
+144 U.S. 677 (1892), which had held that authority to punish for violation of a regu-
+lation was lacking in more general language authorizing punishment for failure to
+do what was “required by law.” 220 U.S. at 519. Extension of the principle that pe-
+nal statutes should be strictly construed requires that the prohibited acts be clearly
+identified in the regulation. M. Kraus & Bros. v. United States, 327 U.S. 614, 621
+(1946). The Court summarized these cases in Loving v. United States, 517 U.S. 748
+(1996), drawing the conclusion that “there is no absolute rule . . . against Con-
+gress’s delegation of authority to define criminal punishments.”

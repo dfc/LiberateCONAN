@@ -1,0 +1,48 @@
+to dual compliance. In Pliva, Inc. v. Mensing,1199 federal law re-
+quired generic drugs to be labeled the same as the brand name coun-
+terpart, while state tort law required drug labels to contain ad-
+equate warnings to render use of the drug reasonably safe. There
+had been accumulating evidence that long-term use of the drug
+metoclopramide carried a significant risk of severe neurological dam-
+age, but manufacturers of generic metoclopramide neither amended
+their warning labels nor sought to have the Food and Drug Admin-
+istration require the brand name manufacturer to include stronger
+label warnings, which consequently would have led to stronger la-
+beling of the generic. Five Justices held that state tort law was pre-
+empted.1200 It was impossible to comply both with the state law duty
+to change the label and the federal law duty to keep the label the
+same.1201 The four dissenting Justices argued that inability to change
+the labels unilaterally was insufficient, standing alone, to establish
+a defense based on impossibility.1202 Emphasizing the federal duty
+to monitor the safety of their drugs, the dissenters would require
+that the generic manufacturers also show some effort to effectuate
+a labeling change through the FDA.
+    In contrast to Pliva, Inc. v. Mensing, the Court found no preemp-
+tion in Wyeth v. Levine,1203 a state tort action against a brand-
+name drug manufacturer based on inadequate labeling. A brand-
+name drug manufacturer, unlike makers of generic drugs, could
+unilaterally strengthen labeling under federal regulations, subject
+to subsequent FDA override, and thereby independently meet state
+tort law requirements. In another case of alleged impossibility, it
+was held possible for an employer to comply both with a state law
+mandating leave and reinstatement to pregnant employees and with
+a federal law prohibiting employment discrimination on the basis
+of pregnancy.1204 Similarly, when faced with both federal and state
+standards on the ripeness of avocados, the Court discerned that the
+
+    1199  564 U.S. ___, No. 09–993, slip op. (2011).
+    1200 564 U.S. ___, No. 09–993, slip op. (2011) (Thomas, J.).
+    1201 Justice Thomas, joined on point by three others, characterized the Su-
+
+premacy Clause phrase “any [state law] to the Contrary notwithstanding” as a non
+obtstante provision that “suggests that federal law should be understood to impliedly
+repeal conflicting state law” and indicates limits on the extent to which courts should
+seek to reconcile federal and state law in preemption cases. 564 U.S. ___, No. 09–
+993, slip op. at 15–17 (2011) (Thomas, J.).
+    1202 564 U.S. ___, No. 09–993, slip op. (2011) (Sotomayor, J., dissenting).
+    1203 555 U.S. ___, No. 06–1249, slip op. (2009).
+    1204 California Federal Savings & Loan Ass’n v. Guerra, 479 U.S. 272 (1987).
+
+Compare Cloverleaf Butter Co. v. Patterson, 315 U.S. 148 (1942) (federal law pre-
+empts more exacting state standards, even though both could be complied with and
+state standards were harmonious with purposes of federal law).

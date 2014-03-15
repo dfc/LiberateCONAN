@@ -1,0 +1,52 @@
+in identifiable prison clothes, because it may impair the presump-
+tion of innocence in the minds of the jurors.1076
+     The use of visible physical restraints, such as shackles, leg irons,
+or belly chains, in front of a jury, has been held to raise due pro-
+cess concerns. In Deck v. Missouri,1077 the Court noted a rule dat-
+ing back to English common law against bringing a defendant to
+trial in irons, and a modern day recognition that such measures
+should be used “only in the presence of a special need.” 1078 The Court
+found that the use of visible restraints during the guilt phase of a
+trial undermines the presumption of innocence, limits the ability of
+a defendant to consult with counsel, and “affronts the dignity and
+decorum of judicial proceedings.” 1079 Even where guilt has already
+been adjudicated, and a jury is considering the application of the
+death penalty, the latter two considerations would preclude the rou-
+tine use of visible restraints. Only in special circumstances, such
+as where a judge has made particularized findings that security or
+flight risk requires it, can such restraints be used.
+     The combination of otherwise acceptable rules of criminal tri-
+als may in some instances deny a defendant due process. Thus, based
+on the particular circumstance of a case, two rules that (1) denied
+a defendant the right to cross-examine his own witness in order to
+elicit evidence exculpatory to the defendant 1080 and (2) denied a de-
+fendant the right to introduce the testimony of witnesses about mat-
+ters told them out of court on the ground the testimony would be
+hearsay, denied the defendant his constitutional right to present his
+own defense in a meaningful way.1081 Similarly, a questionable pro-
+cedure may be saved by its combination with another. Thus, it does
+     1076 Estelle v. Williams, 425 U.S. 501 (1976). The convicted defendant was de-
+
+nied habeas relief, however, because of failure to object at trial. But cf. Holbrook v.
+Flynn, 475 U.S. 560 (1986) (presence in courtroom of uniformed state troopers serv-
+ing as security guards was not the same sort of inherently prejudicial situation);
+Carey v. Musladin, 549 U.S. 70 (2006) (effect on defendant’s fair-trial rights of private-
+actor courtroom conduct—in this case, members of victim’s family wearing buttons
+with the victim’s photograph—has never been addressed by the Supreme Court and
+therefore 18 U.S.C. § 2254(d)(1) precludes habeas relief; see Amendment 8, Limita-
+tions on Habeas Corpus Review of Capital Sentences).
+     1077 544 U.S. 622 (2005).
+     1078 544 U.S. at 626. In Illinois v. Allen, 397 U.S. 337, 344 (1970), the Court
+
+stated, in dictum, that “no person should be tried while shackled and gagged except
+as a last resort.”
+     1079 544 U.S. at 630, 631 (internal quotation marks omitted).
+     1080 The defendant called the witness because the prosecution would not.
+     1081 Chambers v. Mississippi, 410 U.S. 284 (1973). See also Davis v. Alaska, 415
+
+U.S. 786 (1974) (refusal to permit defendant to examine prosecution witness about
+his adjudication as juvenile delinquent and status on probation at time, in order to
+show possible bias, was due process violation, although general principle of protect-
+ing anonymity of juvenile offenders was valid); Crane v. Kentucky, 476 U.S. 683 (1986)
+(exclusion of testimony as to circumstances of a confession can deprive a defendant
+of a fair trial when the circumstances bear on the credibility as well as the voluntari-

@@ -1,0 +1,51 @@
+he need not stand alone against the State at any stage of the pros-
+ecution, formal or informal, in court or out, where counsel’s ab-
+sence might derogate from the accused’s right to a fair trial.” 390 Coun-
+sel’s presence at a lineup is constitutionally necessary because the
+lineup stage is filled with numerous possibilities for errors, both in-
+advertent and intentional, which cannot adequately be discovered
+and remedied at trial.391 However, because there was less certainty
+and frequency of possible injustice at this stage, the Court held that
+the two cases were to be given prospective effect only; more egre-
+gious instances, where identification had been based upon lineups
+conducted in a manner that was unnecessarily suggestive and con-
+ducive to irreparable mistaken identification, could be invalidated
+under the Due Process Clause.392 The Wade-Gilbert rule is inappli-
+cable to other methods of obtaining identification and other evidentiary
+material relating to the defendant, such as blood samples, handwrit-
+ing exemplars, and the like, because there is minimal risk that the
+absence of counsel might derogate from the defendant’s right to a
+fair trial.393
+     In United States v. Ash,394 the Court redefined and modified its
+“critical stage” analysis. According to the Court, the “core purpose”
+of the guarantee of counsel is to assure assistance at trial “when
+the accused was confronted with both the intricacies of the law and
+the advocacy of the public prosecutor.” But assistance would be less
+than meaningful in the light of developments in criminal investiga-
+tion and procedure if it were limited to the formal trial itself; there-
+fore, counsel is compelled at “pretrial events that might appropri-
+ately be considered to be parts of the trial itself. At these newly
+emerging and significant events, the accused was confronted, just
+as at trial, by the procedural system, or by his expert adversary, or
+by both.” 395 Therefore, unless the pretrial stage involved the physi-
+
+    390   388 U.S. at 226 (citations omitted).
+    391   388 U.S. at 227–39. Previously, the manner of an extra-judicial identifica-
+tion affected only the weight, not the admissibility, of identification testimony at trial.
+Justices White, Harlan, and Stewart dissented, denying any objective need for the
+Court’s per se rule and doubting its efficacy in any event. Id. at 250.
+     392 Stovall v. Denno, 388 U.S. 293 (1967).
+     393 Gilbert v. California, 388 U.S. 263, 265–67 (1967) (handwriting exemplars);
+
+Schmerber v. California, 384 U.S. 757, 765–66 (1966) (blood samples).
+     394 413 U.S. 300 (1973). Justices Brennan, Douglas, and Marshall dissented. Id.
+
+at 326.
+     395 413 U.S. at 309–10, 312–13. Justice Stewart, concurring on other grounds,
+
+rejected this analysis, id. at 321, as did the three dissenters. Id. at 326, 338–344.
+“The fundamental premise underlying all of this Court’s decisions holding the right
+to counsel applicable at ‘critical’ pretrial proceedings, is that a ‘stage’ of the prosecu-
+tion must be deemed ‘critical’ for the purposes of the Sixth Amendment if it is one
+at which the presence of counsel is necessary ‘to protect the fairness of the trial
+itself.’ ” Id. at 339 (Justice Brennan dissenting). Examination of defendant by court-

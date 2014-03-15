@@ -1,0 +1,54 @@
+    Search Incident to Arrest.—The common-law rule permit-
+ting searches of the person of an arrestee as an incident to the ar-
+rest has occasioned little controversy in the Court.234 The Court has
+even upheld a search incident to an illegal (albeit not unconstitu-
+tional) arrest.235 The dispute has centered around the scope of the
+search. Because it was the stated general rule that the scope of a
+warrantless search must be strictly tied to and justified by the cir-
+cumstances that rendered its justification permissible, and because
+it was the rule that the justification of a search of the arrestee was
+to prevent destruction of evidence and to prevent access to a weapon,236
+it was argued to the court that a search of the person of the defen-
+dant arrested for a traffic offense, which discovered heroin in a
+crumpled cigarette package, was impermissible, because there could
+have been no destructible evidence relating to the offense for which
+he was arrested and no weapon could have been concealed in the
+cigarette package. The Court rejected this argument, ruling that “no
+additional justification” is required for a custodial arrest of a sus-
+pect based on probable cause.237
+   However, the Justices have long found themselves in disagree-
+ment about the scope of the search incident to arrest as it extends
+beyond the person to the area in which the person is arrested—
+most commonly either his premises or his vehicle. Certain early cases
+went both ways on the basis of some fine distinctions,238 but in Har-
+
+     234 Weeks v. United States, 232 U.S. 383, 392 (1914); Carroll v. United States,
+
+267 U.S. 132, 158 (1925); Agnello v. United States, 269 U.S. 20, 30 (1925).
+     235 Virginia v. Moore, 128 S. Ct. 1598 (2008) (holding that, where an arrest for
+
+a minor offense is prohibited by state law, the arrest will not violate the Fourth
+Amendment if it was based on probable cause).
+     236 Terry v. Ohio, 392 U.S. 1, 19 (1968); Chimel v. California, 395 U.S. 752, 762,
+
+763 (1969).
+     237 United States v. Robinson, 414 U.S. 218, 235 (1973). See also id. at 237–38
+
+(Justice Powell concurring). The Court applied the same rule in Gustafson v. Florida,
+414 U.S. 260 (1973), involving a search of a motorist’s person following his custodial
+arrest for an offense for which a citation would normally have issued. Unlike the
+situation in Robinson, police regulations did not require the Gustafson officer to take
+the suspect into custody, nor did a departmental policy guide the officer as to when
+to conduct a full search. The Court found these differences inconsequential, and left
+for another day the problem of pretextual arrests in order to obtain basis to search.
+Soon thereafter, the Court upheld conduct of a similar search at the place of deten-
+tion, even after a time lapse between the arrest and search. United States v. Ed-
+wards, 415 U.S. 800 (1974).
+     On occasion, an opinion will maintain that a warrantless search incident to ar-
+rest must be aimed at weapons or contraband or at evidence of the crime of arrest.
+Maryland v. King, 569 U.S. ___, No. 12–207, slip op. (2013) (Scalia, J., dissenting)
+(objecting to DNA testing incident to arrest for a serious crime).
+     238 Compare Marron v. United States, 275 U.S. 192 (1927), with Go-Bart Import-
+
+ing Co. v. United States, 282 U.S. 344 (1931), and United States v. Lefkowitz, 285
+U.S. 452 (1932).

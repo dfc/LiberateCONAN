@@ -1,0 +1,53 @@
+statutory limits, but the Court made “clear . . . that the ‘statutory
+maximum’ for Apprendi purposes is the maximum sentence a judge
+may impose solely on the basis of the facts reflected in the jury ver-
+dict or admitted by the defendant. In other words, the relevant ‘statu-
+tory maximum’ is not the maximum sentence a judge may impose
+after finding additional facts, but the maximum he may impose with-
+out any additional findings.” 99
+    Then, in United States v. Booker,100 the Court held that the same
+principles limit sentences that courts may impose under the fed-
+eral Sentencing Guidelines.101 As the Court restated the principle
+in Booker, “[a]ny fact (other than a prior conviction) which is neces-
+sary to support a sentence exceeding the maximum authorized by
+the facts established by a plea of guilty or a jury verdict must be
+admitted by the defendant or proved to a jury beyond a reasonable
+doubt.” 102 Attempts to distinguish Blakely were rejected. The Court
+concluded that the fact that the Guidelines were developed by the
+Sentencing Commission rather than by Congress “lacks constitu-
+tional significance.” 103 Instead, the Guidelines were suspect in ap-
+plication because, on the one hand, they curtailed the role of jury
+factfinding in determining the upper range of a sentence and, on
+the other hand, they mandated sentences from which a court could
+depart only in a limited number of cases and after separately find-
+ing the existence of factors not presented to the jury.104 The manda-
+tory nature of the Guidelines was also important to the Court’s for-
+mulation of a remedy. 105 Rather than engrafting a jury trial
+     99 542 U.S. at 303–304 (italics in original; citations omitted). In Southern Union
+
+Co. v. United States, 567 U.S. ___, No. 11–94, slip op. (2012), the Court cited this
+passage in Blakely as a springboard to its conclusion that the Apprendi line of cases
+apply in imposing criminal fines. The maximum fine that could be imposed in South-
+ern Union Co. was pegged to the number of days a violation continued, but the jury
+was not asked to determine the duration of the violation. The Court saw no “prin-
+cipled basis” for treating criminal fines differently from imprisonment or capital pun-
+ishment. In all these cases, the Sixth Amendment guards against “judicial factfind-
+ing that enlarges the maximum punishment a defendant faces beyond what the jury’s
+verdict or the defendant’s admissions allow.”
+     100 543 U.S. 220 (2005).
+     101 Under the Sentencing Reform Act of 1984, the United States Sentencing Com-
+
+mission adopted binding Sentencing Guidelines, and courts were required to impose
+sentences within the narrow, defined ranges. A judge could depart from the appli-
+cable Guideline only upon finding in writing that an aggravating or mitigating fac-
+tor was present that had not adequately been considered by the Commission. See
+Mistretta v. United States, 488 U.S. 361 (1989).
+     102 543 U.S. at 244.
+     103 543 U.S. at 237. Relying on Mistretta v. United States, 488 U.S. 361 (1989),
+
+the Court also rejected a separation-of-powers argument. Id. at 754–55.
+     104 543 U.S. at 233–35.
+     105 There were two distinct opinions of the Court in Booker. The first, authored
+
+by Justice Stevens and joined by Justices Scalia, Souter, Thomas, and Ginsburg (the
+same Justices who comprised the five-Justice Blakely majority), applied Blakely to

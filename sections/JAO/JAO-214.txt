@@ -1,0 +1,54 @@
+nal responsibility.1137 The Court has identified several tests that are
+used by states in varying combinations to address the issue: the
+M’Naghten test (cognitive incapacity or moral incapacity),1138 voli-
+tional incapacity,1139 and the irresistible-impulse test.1140 “[I]t is clear
+that no particular formulation has evolved into a baseline for due
+process, and that the insanity rule, like the conceptualization of crimi-
+nal offenses, is substantially open to state choice.” 1141
+     Commitment to a mental hospital of a criminal defendant ac-
+quitted by reason of insanity does not offend due process, and the
+period of confinement may extend beyond the period for which the
+person could have been sentenced if convicted.1142 The purpose of
+the confinement is not punishment, but treatment, and the Court
+explained that the length of a possible criminal sentence “therefore
+is irrelevant to the purposes of . . . commitment.” 1143 Thus, the
+insanity-defense acquittee may be confined for treatment “until such
+time as he has regained his sanity or is no longer a danger to him-
+self or society.” 1144 It follows, however, that a state may not indefi-
+nitely confine an insanity-defense acquittee who is no longer men-
+tally ill but who has an untreatable personality disorder that may
+lead to criminal conduct.1145
+
+    1137  Clark v. Arizona, 548 U.S. 735 (2006).
+    1138  M’Naghten’s Case, 8 Eng. Rep. 718 (1843), states that “[T]o establish a de-
+fence on the ground of insanity, it must be clearly proved that, at the time of the
+committing of the act, the party accused was laboring under such a defect of reason,
+from disease of the mind, as not to know the nature and quality of the act he was
+doing; or, if he did know it, that he did not know he was doing what was wrong.” 8
+Eng. Rep., at 722.
+     1139 See Queen v. Oxford, 173 Eng. Rep. 941, 950 (1840) (“If some controlling
+
+disease was, in truth, the acting power within [the defendant] which he could not
+resist, then he will not be responsible”).
+     1140 See State v. Jones, 50 N.H. 369 (1871) (“If the defendant had a mental dis-
+
+ease which irresistibly impelled him to kill his wife—if the killing was the product
+of mental disease in him—he is not guilty; he is innocent—as innocent as if the act
+had been produced by involuntary intoxication, or by another person using his hand
+against his utmost resistance”).
+     1141 Clark, 548 U.S. at 752. In Clark, the Court considered an Arizona statute,
+
+based on the M’Naghten case, that was amended to eliminate the defense of cogni-
+tive incapacity. The Court noted that, despite the amendment, proof of cognitive in-
+capacity could still be introduced as it would be relevant (and sufficient) to prove
+the remaining moral incapacity test. Id. at 753.
+     1142 Jones v. United States, 463 U.S. 354 (1983). The fact that the affirmative
+
+defense of insanity need only be established by a preponderance of the evidence,
+while civil commitment requires the higher standard of clear and convincing evi-
+dence, does not render the former invalid; proof beyond a reasonable doubt of com-
+mission of a criminal act establishes dangerousness justifying confinement and elimi-
+nates the risk of confinement for mere idiosyncratic behavior.
+     1143 463 U.S. at 368.
+     1144 463 U.S. at 370.
+     1145 Foucha v. Louisiana, 504 U.S. 71 (1992).

@@ -1,0 +1,49 @@
+    Although the Court’s decision rapidly became highly controver-
+sial and the source of much political agitation, including playing a
+prominent role in the 1968 presidential election, the Court has con-
+tinued to adhere to it,336 albeit not without considerable qualifica-
+tion. Nevertheless, the constitutional status of the Miranda warn-
+ings has remained clouded in uncertainty. Had the Court announced
+a constitutionally compelled rule, or merely a supervisory rule that
+could be superseded by statute? In 1968, Congress enacted a stat-
+ute, codified at 18 U.S.C. § 3501, designed to set aside Miranda in
+the federal courts and to reinstate the traditional voluntariness test.337
+The statute lay unimplemented, for the most part, due to constitu-
+tional doubts about it. Meanwhile, the Court created exceptions to
+the Miranda warnings over the years, and referred to the warn-
+ings as “prophylactic” 338 and “not themselves rights protected by
+the Constitution.” 339 There were even hints that some Justices might
+be willing to overrule the decision.
+     In Dickerson v. United States,340 the Court addressed the foun-
+dational issue, finding that Miranda was a “constitutional deci-
+sion” that could not be overturned by statute, and consequently that
+18 U.S.C. § 3501, which provided for a less strict “voluntariness”
+standard for the admissibility of confessions, could not be sus-
+tained. Consistent application of Miranda warnings to state proceed-
+ings necessarily implied a constitutional base, the Court explained,
+since federal courts “hold no supervisory authority over state judi-
+cial proceedings.” 341 Moreover, Miranda itself had purported to “give
+concrete constitutional guidance to law enforcement agencies and
+courts to follow.” 342 The two dissenting Justices in Dickerson main-
+tained that the majority’s characterization of Miranda as providing
+concrete constitutional guidance fell short of holding that custodial
+interrogation not preceded by Miranda warnings was unconstitu-
+tional, a position with which the dissenters pointedly disagreed.343
+Eleven years after Dickerson, in the 2011 case J.D.B. v. North Caro-
+lina, the number of Justices asserting that Miranda was not a con-
+
+    336 See, e.g., Rhode Island v. Innis, 446 U.S. 291, 304 (1980) (Chief Justice Burger
+
+concurring) (“The meaning of Miranda has become reasonably clear and law enforce-
+ment practices have adjusted to its strictures; I would neither overrule Miranda,
+disparage it, nor extend it at this late date.”)
+    337 Pub. L. 90–351, § 701(a), 82 Stat. 210, 18 U.S.C. § 3501. See S. Rep. No.
+
+1097, 90th Cong., 2d Sess. 37–53 (1968). An effort to enact a companion measure
+applicable to the state courts was defeated.
+    338 New York v. Quarles, 467 U.S. 549, 653 (1984).
+    339 Michigan v. Tucker, 417 U.S. 433, 444 (1974).
+    340 530 U.S. 428 (2000).
+    341 530 U.S. at 438.
+    342 530 U.S. at 439 (quoting from Miranda, 384 U.S. at 441–42).
+    343 530 U.S. at 444 (Justices Scalia and Thomas dissenting).

@@ -1,0 +1,47 @@
+    Agency Adjudication.—In two decisions subsequent to Mara-
+thon involving legislative courts, Thomas v. Union Carbide Agric.
+Products Co.118 and CFTC v. Schor,119 the Court clearly suggested
+that the majority was now closer to the balancing approach of the
+Marathon dissenters than to the Marathon plurality’s position that
+Congress may confer judicial power on legislative courts only in very
+limited circumstances. Subsequently, however, Granfinanciera, S.A.
+v. Nordberg,120 a reversion to the fundamentality of Marathon, with
+an opinion by the same author, Justice Brennan, cast some doubt
+on this proposition.
+     In Union Carbide, the Court upheld a provision of a pesticide
+law which required binding arbitration, with limited judicial re-
+view, of compensation due one registrant by another for mandatory
+sharing of registration information pursuant to federal statutory law.
+And in Schor, the Court upheld conferral on the agency of author-
+ity, in a reparations adjudication under the Act, to also adjudicate
+“counterclaims” arising out of the same transaction, including those
+arising under state common law. Neither the fact that the pesticide
+case involved a dispute between two private parties nor the fact
+that the CFTC was empowered to decide claims traditionally adju-
+dicated under state law proved decisive to the Court’s analysis.
+     In rejecting a “formalistic” approach and analyzing the “sub-
+stance” of the provision at issue in Union Carbide, Justice O’Connor‘s
+opinion for the Court pointed to several considerations.121 The right
+to compensation was not a purely private right, but “bears many of
+the characteristics of a ‘public’ right,” because Congress was “autho-
+riz[ing] an agency administering a complex regulatory scheme to
+allocate costs and benefits among voluntary participants in the pro-
+gram. . . .” 122 Also deemed important was not “unduly constrict-
+[ing] Congress’s ability to take needed and innovative action pursu-
+ant to its Article I powers”; 123 arbitration seen as “a pragmatic solution
+to [a] difficult problem.” 124 The limited nature of judicial review was
+seen as a plus in the sense that “no unwilling defendant is sub-
+jected to judicial enforcement power.” On the other hand, availabil-
+27 (2011) (citations omitted). The Court also noted that filing of a claim in bank-
+ruptcy court (here, a defamation claim) did not constitute consent to a counter-
+claim, as the claimant had nowhere else to go to obtain recovery. Id.
+    118 473 U.S. 568 (1985).
+    119 478 U.S. 833 (1986).
+    120 492 U.S. 33 (1989).
+    121 Contrast the Court’s approach to Article III separation of powers issues with
+
+the more rigid approach enunciated in INS v. Chadha and Bowsher v. Synar, involv-
+ing congressional incursions on executive power.
+    122 473 U.S. at 589.
+    123 CFTC v. Schor, 478 U.S. at 851 (summarizing the Thomas rule).
+    124 Thomas, 473 U.S. at 590.

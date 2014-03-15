@@ -1,0 +1,55 @@
+sis for all separation of power cases or it may turn out to be but an
+exception to the Court’s dual approach.18
+    Although the two analytical approaches have been character-
+ized in various ways, the names generally attached to them have
+been “formalist” (applied to the more strict line of cases), and “func-
+tional” (applied to the less strict). The formalist approach empha-
+sizes the necessity of maintaining three distinct branches of govern-
+ment by drawing bright lines demarcating them and distinguishing
+amongst them based on their respective roles.19 The functional ap-
+proach emphasizes the core functions of each branch and asks whether
+the challenged action threatens the essential attributes of such branch’s
+functions. Under this approach, there is considerable flexibility af-
+forded the moving branch—usually Congress acting to make struc-
+tural or institutional change—if there is little significant risk of im-
+pairment of a core function or if there is a compelling reason for
+the action.20
+     18 The tenor of a later case, Metropolitan Washington Airports Auth. v. Citizens
+
+for the Abatement of Airport Noise, 501 U.S. 252 (1991), was decidedly formalistic,
+but it involved a factual situation and a doctrinal predicate easily rationalized by
+the principles of Morrison and Mistretta, aggrandizement of its powers by Congress.
+Granfinanciera, S.A. v. Nordberg, 492 U.S. 33 (1989), reasserted the fundamental
+status of Marathon, again in a bankruptcy courts context, although the issue was
+the right to a jury trial under the Seventh Amendment rather than strictly speak-
+ing a separation-of-powers question. Freytag v. Commissioner, 501 U.S. 868 (1991),
+pursued a straightforward appointments-clause analysis, informed by a separation-
+of-powers analysis but not governed by it. Finally, in Public Citizen v. U.S. Depart-
+ment of Justice, 491 U.S. 440, 467 (1989) (concurring), Justice Kennedy would have
+followed the formalist approach, but he explicitly grounded it on the distinction be-
+tween an express constitutional vesting of power as against implicit vestings. Sepa-
+rately, the Court has for some time viewed the standing requirement for access to
+judicial review as reflecting a separation-of-powers component—confining the courts
+to their proper sphere – Allen v. Wright, 468 U.S. 737, 752 (1984), but that view
+seemed largely superfluous to the conceptualization of standing rules. However, in
+Lujan v. Defenders of Wildlife, 504 U.S. 555, 577 (1992), the Court imported the
+take-care clause, obligating the President to see to the faithful execution of the laws,
+into standing analysis, creating a substantial barrier to congressional decisions to
+provide for judicial review of executive actions. It is not at all clear, however, that
+the effort, by Justice Scalia, enjoys the support of a majority of the Court. Id. at
+579–81 (Justices Kennedy and Souter concurring). The cited cases seem to demon-
+strate that a strongly formalistic wing of the Court continues to exist.
+     19 “The hydraulic pressure inherent within each of the separate Branches to ex-
+
+ceed the outer limits of its power . . . must be resisted. Although not ‘hermetically’
+sealed from one another, the powers delegated to the three Branches are function-
+ally identifiable.” INS v. Chadha, 462 U.S. 919, 951 (1983). See id. at 944–51; North-
+ern Pipeline Construction Co. v. Marathon Pipe Line Co., 458 U.S. 50, 64–66 (1982)
+(plurality opinion); Bowsher v. Synar, 478 U.S. 714, 721–727 (1986).
+     20 CFTC v. Schor, 478 U.S. 833 (1986); Thomas v. Union Carbide Agric. Prod-
+
+ucts Co., 473 U.S. 568, 587, 589–93 (1985). The Court had first formulated this analy-
+sis in cases challenging alleged infringements on presidential powers, United States
+v. Nixon, 418 U.S. 683, 713 (1974); Nixon v. Administrator of General Services, 433
+U.S. 425, 442–43 (1977), but it had subsequently turned to the more strict test. Schor
+and Thomas both involved provisions challenged as infringing judicial powers.

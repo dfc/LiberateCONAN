@@ -1,0 +1,52 @@
+ment ceases. If the suspect is thereafter put into custody again, the
+options for questioning no longer are limited to suspect-initiated talks
+or providing counsel, but rather the police may issue new Miranda
+warnings and proceed accordingly.379 Moreover, the Edwards rule
+has not been explicitly extended to other aspects of the Miranda
+warnings.380
+    Fifth, a properly warned suspect may waive his Miranda rights
+and submit to custodial interrogation. Miranda recognized that a
+suspect may voluntarily and knowingly give up his rights and re-
+spond to questioning, but the Court also cautioned that the prosecu-
+tion bore a “heavy burden” to establish that a valid waiver had oc-
+curred.381 The Court continued: “[a] valid waiver will not be presumed
+simply from the silence of the accused after warnings are given or
+simply from the fact that a confession was in fact eventually ob-
+tained.” 382 Subsequent cases indicated that determining whether a
+suspect has waived his Miranda rights is a fact-specific inquiry not
+easily susceptible to per se rules. According to these cases, resolu-
+tion of the issue of waiver “must be determined on ‘the particular
+facts and circumstances surrounding that case, including the back-
+ground, experience, and conduct of the accused.’ ” 383 Under this line
+
+    379  Id.
+    380  For a pre-Edwards case on the right to remain silent, see Michigan v. Mosley,
+423 U.S. 96 (1975) (suspect given Miranda warnings at questioning for robbery, re-
+quested cessation of interrogation, and police complied; some two hours later, a dif-
+ferent policeman interrogated suspect about a murder, gave him a new Miranda warn-
+ing, and suspect made incriminating admission; since police “scrupulously honored”
+suspect’s request, admission valid).
+     381 Miranda v. Arizona, 384 U.S. 436, 475 (1966). See also Tague v. Louisiana,
+
+444 U.S. 469 (1980). A knowing and intelligent waiver need not be predicated on
+complete disclosure by police of the intended line of questioning, hence an accused’s
+signed waiver following arrest for one crime is not invalidated by police having failed
+to inform him of intent to question him about another crime. Colorado v. Spring,
+479 U.S. 564 (1987).
+     382 384 U.S. at 475.
+     383 North Carolina v. Butler, 441 U.S. 369, 374–75 (1979) (quoting Johnson v.
+
+Zerbst, 304 U.S. 458, 464 (1938)). In Oregon v. Elstad, 470 U.S. 298 (1985), the Court
+held that a confession following a Miranda warning is not necessarily tainted by an
+earlier confession obtained without a warning, as long as the earlier confession had
+been voluntary. See Bobby v. Dixon, 565 U.S. ___, No. 10–1540, slip op. (2012). See
+also Moran v. Burbine, 475 U.S. 412 (1986) (signed waivers following Miranda warn-
+ings not vitiated by police having kept from suspect information that attorney had
+been retained for him by a relative); Fare v. Michael C., 442 U.S. 707 (1979) (juve-
+nile who consented to interrogation after his request to consult with his probation
+officer was denied found to have waived rights; totality-of-the-circumstances analy-
+sis held to apply). Elstad was distinguished in Missouri v. Seibert, 542 U.S. 600
+(2004), however, when the failure to warn prior to the initial questioning was a de-
+liberate attempt to circumvent Miranda by use of a two-step interrogation tech-
+nique, and the police, prior to eliciting the statement for the second time, did not
+alert the suspect that the first statement was likely inadmissible.

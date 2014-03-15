@@ -1,0 +1,45 @@
+159. Act of September 13, 1994 (Pub. L. 103–322, § 40302, 108 Stat. 1941,
+    42 U.S.C. § 13981)
+           A provision of the Violence Against Women Act that creates a fed-
+      eral civil remedy for victims of gender-motivated violence exceeds con-
+      gressional power under the Commerce Clause and under section 5 of
+      the Fourteenth Amendment. The commerce power does not authorize
+      Congress to regulate “noneconomic violent criminal conduct based solely
+      on that conduct’s aggregate effect on interstate commerce.” The Four-
+      teenth Amendment prohibits only state action, and affords no protec-
+      tion against purely private conduct. Section 13981, however, is not aimed
+      at the conduct of state officials, but is aimed at private conduct.
+              United States v. Morrison, 529 U.S. 598 (2000).
+              Justices concurring: Rehnquist, C.J., O’Connor, Scalia, Kennedy, Thomas
+              Justices dissenting: Souter, Breyer, Stevens, Ginsburg
+
+
+160. Act of February 8, 1996, 110 Stat. 56, 133–34 (Pub. L. 104–104, title V,
+    § 502, 47 U.S.C. §§ 223(a), 223(d))
+           Two provisions of the Communications Decency Act of 1996—one
+      that prohibits knowing transmission on the Internet of obscene or in-
+      decent messages to any recipient under 18 years of age, and the other
+      that prohibits the knowing sending or displaying of patently offensive
+      messages in a manner that is available to anyone under 18 years of
+      age—violate the First Amendment.
+              Reno v. ACLU, 521 U.S. 844 (1997).
+              Justices concurring: Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer
+              Justices concurring in part and dissenting in part: O’Connor, Rehnquist, C.J.
+
+
+161. Act of February 8, 1996 (Pub. L. 104–104, § 505, 110 Stat. 136, 47 U.S.C.
+    § 561)
+           Section 505 of the Telecommunications Act of 1996, which re-
+      quired cable TV operators that offer channels primarily devoted to sexu-
+      ally oriented programming to prevent signal bleed either by fully scram-
+      bling those channels or by limiting their transmission to designated
+      hours when children are less likely to be watching, violates the First
+      Amendment. The provision is content-based, and therefore can only
+      be upheld if narrowly tailored to promote a compelling governmental
+      interest. The measure is not narrowly tailored, as the government did
+      not establish that the less restrictive alternative found in section 504
+      of the Act—that of scrambling a channel at a subscriber’s request—
+      would be ineffective.
+              United States v. Playboy Entertainment Group, Inc., 529 U.S. 803 (2000).
+              Justices concurring: Kennedy, Stevens, Souter, Thomas, Ginsburg
+              Justices dissenting: Scalia, Breyer, O’Connor, Scalia, Rehnquist, C.J.

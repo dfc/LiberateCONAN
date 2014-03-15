@@ -1,0 +1,53 @@
+tion related to the defendant’s factual guilt or innocence.121 Such
+dismissals relating to guilt or innocence are functional equivalents
+of acquittals, whereas all other dismissals are functional equiva-
+lents of mistrials.
+
+Reprosecution Following Conviction
+     A basic purpose of the Double Jeopardy Clause is to protect a
+defendant “against a second prosecution for the same offense after
+conviction.” 122 It is “settled” that “no man can be twice lawfully pun-
+ished for the same offense.” 123 Of course, the defendant’s interest
+in finality, which informs much of double jeopardy jurisprudence, is
+quite attenuated following conviction, and he will most likely ap-
+peal, whereas the prosecution will ordinarily be content with its judg-
+ment.124 The situation involving reprosecution ordinarily arises, there-
+fore, only in the context of successful defense appeals and controversies
+over punishment.
+    Reprosecution After Reversal on Defendant’s Appeal.—
+Generally, a defendant who is successful in having his conviction
+set aside on appeal may be tried again for the same offense, the
+assumption being made in the first case on the subject that, by ap-
+pealing, a defendant has “waived” his objection to further prosecu-
+tion by challenging the original conviction.125 Although it has char-
+     121 United States v. Scott, 437 U.S. 82 (1978) (at close of evidence, court dis-
+
+missed indictment for preindictment delay; ruling did not go to determination of guilt
+or innocence, but, like a mistrial, permitted further proceedings that would go to
+factual resolution of guilt or innocence). The Court thought that double jeopardy poli-
+cies were resolvable by balancing the defendant’s interest in having the trial con-
+cluded in one proceeding against the government’s right to one complete opportu-
+nity to convict those who have violated the law. The defendant chose to move to
+terminate the proceedings and, having made a voluntary choice, is bound to the con-
+sequences, including the obligation to continue in further proceedings. Id. at 95–
+101. The four dissenters would have followed Jenkins, and accused the Court of hav-
+ing adopted too restrictive a definition of acquittal. Their view is that the rule against
+retrials after acquittal does not, as the Court believed, “safeguard determination of
+innocence; rather, it is that a retrial following a final judgment for the accused nec-
+essarily threatens intolerable interference with the constitutional policy against mul-
+tiple trials.” Id. at 101, 104 (Justices Brennan, White, Marshall, and Stevens). They
+would, therefore, treat dismissals as functional equivalents of acquittals, whenever
+further proceedings would be required after reversals.
+     122 North Carolina v. Pearce, 395 U.S. 711, 717 (1969).
+     123 Ex parte Lange, 85 U.S. (18 Wall.) 163 (1873).
+     124 A prosecutor dissatisfied with the punishment imposed upon the first convic-
+
+tion might seek another trial in order to obtain a greater sentence. Cf. Ciucci v.
+Illinois, 356 U.S. 571 (1958) (under Due Process Clause, Double Jeopardy Clause
+not then applying to states).
+     125 United States v. Ball, 163 U.S. 662 (1896). The English rule precluded a new
+
+trial in these circumstances, and circuit Justice Story adopted that view. United States
+v. Gilbert, 25 Fed. Cas. 1287 (No. 15,204) (C.C.D.Mass. 1834). The history is briefly
+surveyed in Justice Frankfurter’s dissent in Green v. United States, 355 U.S. 184,
+200–05 (1957).

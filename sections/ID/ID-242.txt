@@ -1,0 +1,51 @@
+Then, eight years later, in Moore v. Dempsey,1349 involving another
+conviction in a trial in which the court was alleged to have been
+influenced by a mob and in which the state appellate court had heard
+and rejected Moore’s contentions, the Court directed that the fed-
+eral district judge himself determine the merits of the petitioner’s
+allegations.
+     Moreover, the Court shortly abandoned its emphasis upon want
+of jurisdiction and held that the writ was available to consider con-
+stitutional claims as well as questions of jurisdiction.1350 The land-
+mark case was Brown v. Allen,1351 in which the Court laid down
+several principles of statutory construction of the habeas statute.
+First, all federal constitutional questions raised by state prisoners
+are cognizable in federal habeas. Second, a federal court is not bound
+by state court judgments on federal questions, even though the state
+courts may have fully and fairly considered the issues. Third, a fed-
+eral habeas court may inquire into issues of fact as well as of law,
+although the federal court may defer to the state court if the pris-
+oner received an adequate hearing. Fourth, new evidentiary hear-
+ings must be held when there are unusual circumstances, when there
+is a “vital flaw” in the state proceedings, or when the state court
+record is incomplete or otherwise inadequate.
+     Almost plenary federal habeas review of state court convictions
+was authorized and rationalized in the Court’s famous “1963 tril-
+ogy.” 1352 First, the Court dealt with the established principle that
+a federal habeas court is empowered, where a prisoner alleges facts
+    1349  261 U.S. 86 (1923).
+    1350  Walker v. Johnston, 312 U.S. 275 (1941). See also Johnson v. Zerbst, 304
+U.S. 458 (1938); Walker v. Johnston, 312 U.S. 275 (1941). The way one reads the
+history of the developments is inevitably a product of the philosophy one brings to
+the subject. In addition to the recitations cited in other notes, compare Wright v.
+West, 505 U.S. 277, 285–87 & n.3 (1992) (Justice Thomas for a plurality of the Court),
+with id. at 297–301 (Justice O’Connor concurring).
+     1351 344 U.S. 443 (1953). Brown is commonly thought to rest on the assumption
+
+that federal constitutional rights cannot be adequately protected only by direct Su-
+preme Court review of state court judgments but that independent review, on ha-
+beas, must rest with federal judges. It is, of course, true that Brown coincided with
+the extension of most of the Bill of Rights to the states by way of incorporation and
+expansive interpretation of federal constitutional rights; previously, there was not a
+substantial corpus of federal rights to protect through habeas. See Wright v. West,
+505 U.S. 277, 297–99 (1992) (Justice O’Connor concurring). In Fay v. Noia, 372 U.S.
+391 (1963), Justice Brennan, for the Court, and Justice Harlan, in dissent, engaged
+in a lengthy, informed historical debate about the legitimacy of Brown and its prem-
+ises. Compare id. at 401–24, with id. at 450–61. See the material gathered and cited
+in Hart & Wechsler (6th ed.), supra at 1220–1248.
+     1352 Sanders v. United States, 373 U.S. 1 (1963); Fay v. Noia, 372 U.S. 391 (1963);
+
+Townsend v. Sain, 372 U.S. 293 (1963). These cases dealt, respectively, with the treat-
+ment to be accorded a habeas petition in the three principal categories in which
+they come to the federal court: when a state court has rejected petitioner’s claims
+on the merits, when a state court has refused to hear petitioner’s claims on the mer-

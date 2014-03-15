@@ -1,0 +1,50 @@
+sel’s choices may seem particularly apt in the unstructured, often
+style-driven arena of plea bargaining,331an accused, in considering
+a plea, is clearly entitled to advice of counsel on the prospect of
+conviction at trial and the extent of punishment that might be im-
+posed. Thus, in Lafler v. Cooper, the government conceded that the
+deficient representation part of the Strickland test was met when
+an attorney erroneously advised the defendant during plea negotia-
+tions that the facts in his case would not support a conviction for
+attempted murder.332
+     Moreover, in Padilla v. Kentucky, the Court held that defense
+counsel’s Sixth Amendment duty to a client considering a plea goes
+beyond advice on issues directly before the criminal court to reach
+advice on deportation.333 Because of its severity, historical associa-
+tion with the criminal justice system, and increasing certainty fol-
+lowing conviction and imprisonment, deportation was found to be
+of a “unique nature”: the Court pointedly stated that it was not ad-
+dressing whether distinguishing between direct and collateral con-
+sequences of conviction was appropriate in bounding defense coun-
+sel’s constitutional duty in a criminal case.334 Further, the Court
+held that defense counsel failed to meet prevailing professional norms
+in representing to Padilla that he did not have to worry about de-
+portation because of the length of his legal residency in the U.S.
+The Court emphasized that this conclusion was not based on the
+attorney’s mistaken advice, but rather on a broader obligation to
+inform a noncitizen client whether a plea carries a risk of deporta-
+tion.335 Silence is not an option. On the issue of prejudice to Padilla
+from ineffective assistance, the Court sent the case back to lower
+courts for further findings.336
+     What constitutes prejudice from attorney error, the second
+Strickland requirement, has proved to be a more difficult issue, and
+(attorney’s failure to interview witnesses or search records in preparation for pen-
+alty phase of capital murder trial constituted ineffective assistance of counsel); See
+also, Sears v. Upton, 561 U.S. ___, No. 09–8854, slip op. (2010); Cullen v. Pinholster,
+563 U.S. ___, No. 09–1088, slip op. (2011) (Sotomayor, J. dissenting).
+     331 See, e.g., Premo v. Moore, 562 U.S. ___, No. 09–658, slip op. (2011).
+     332 Lafler v. Cooper, 566 U.S. ___, No. 10–209, slip op. (2012). Failure to commu-
+
+nicate a plea offer to a defendant also may amount to deficient representation. Mis-
+souri v. Frye, 566 U.S. ___, No. 10–444, slip op. (2012) (“[A]s a general rule, defense
+counsel has the duty to communicate formal offers from the prosecution to accept a
+plea on terms and conditions that may be favorable to the accused.”).
+     333 Padilla v. Kentucky, 559 U.S. ___, No. 08–651, slip op. (2010).
+     334 559 U.S. ___, No. 08–651, slip op. at 8.
+     335 559 U.S. ___, No. 08–651, slip op. at 12–16.
+     336 In Chaidez v. United States, 568 U.S. ___, No. 11–820, slip op. (2013), the
+
+Court held that Padilla announced a “new rule” of criminal procedure that did not
+apply “retroactively” during collateral review of convictions then already final. Ret-
+roactive application of the Court’s criminal procedure decisions is discussed under
+the topic “Retroactivity Versus Prospectivity” in Article III, supra

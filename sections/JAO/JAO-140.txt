@@ -1,0 +1,53 @@
+    (6) Decision on the Record. Although this issue arises princi-
+pally in the administrative law area,748 it applies generally. “[T]he
+decisionmaker’s conclusion . . . must rest solely on the legal rules
+and evidence adduced at the hearing. To demonstrate compliance
+with this elementary requirement, the decisionmaker should state
+the reasons for his determination and indicate the evidence he re-
+lied on, though his statement need not amount to a full opinion or
+even formal findings of fact and conclusions of law.” 749
+    (7) Counsel. In Goldberg v. Kelly, the Court held that a govern-
+ment agency must permit a welfare recipient who has been denied
+benefits to be represented by and assisted by counsel.750 In the years
+since, the Court has struggled with whether civil litigants in court
+and persons before agencies who could not afford retained counsel
+should have counsel appointed and paid for, and the matter seems
+far from settled. The Court has established a presumption that an
+indigent does not have the right to appointed counsel unless his
+“physical liberty” is threatened.751 Moreover, that an indigent may
+have a right to appointed counsel in some civil proceedings where
+incarceration is threatened does not mean that counsel must be made
+available in all such cases. Rather, the Court focuses on the circum-
+stances in individual cases, and may hold that provision of counsel
+is not required if the state provides appropriate alternative safe-
+guards.752
+
+     748 The exclusiveness of the record is fundamental in administrative law. See
+
+§ 7(d) of the Administrative Procedure Act, 5 U.S.C. § 556(e). However, one must
+show not only that the agency used ex parte evidence but that he was prejudiced
+thereby. Market Street R.R. v. Railroad Comm’n, 324 U.S. 548 (1945) (agency deci-
+sion supported by evidence in record, its decision sustained, disregarding ex parte
+evidence).
+     749 Goldberg v. Kelly, 397 U.S. 254, 271 (1970) (citations omitted).
+     750 397 U.S. 254, 270–71 (1970).
+     751 Lassiter v. Department of Social Services, 452 U.S. 18 (1981). The Court pur-
+
+ported to draw this rule from Gagnon v. Scarpelli, 411 U.S. 778 (1973) (no per se
+right to counsel in probation revocation proceedings). To introduce this presumption
+into the balancing, however, appears to disregard the fact that the first factor of
+Mathews v. Eldridge, 424 U.S. 319 (1976), upon which the Court (and dissent) re-
+lied, relates to the importance of the interest to the person claiming the right. Thus,
+at least in this context, the value of the first Eldridge factor is diminished. The Court
+noted, however, that the Mathews v. Eldridge standards were drafted in the context
+of the generality of cases and were not intended for case-by-case application. Cf.
+424 U.S. at 344 (1976).
+     752 Turner v. Rogers, 564 U.S. ___, No. 10–10, slip op. (2011). The Turner Court
+
+denied an indigent defendant appointed counsel in a civil contempt proceeding to
+enforce a child support order, even though the defendant faced incarceration unless
+he showed an inability to pay the arrearages. The party opposing the defendant in
+the case was not the state, but rather the unrepresented custodial parent, nor was
+the case unusually complex. A five-Justice majority, though denying a right to coun-
+sel, nevertheless reversed the contempt order because it found that the procedures
+followed remained inadequate.

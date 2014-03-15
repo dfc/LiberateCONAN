@@ -1,0 +1,54 @@
+nied them information respecting an organization that might or might
+not be a political action committee.411 Another area where the Court
+has interpreted this term liberally is injury to the interests of indi-
+viduals and associations of individuals who use the environment,
+affording them standing to challenge actions that threatened those
+environmental conditions.412
+     Even citizens who bring qui tam actions under the False Claims
+Act—actions that entitle the plaintiff (“relator”) to a percentage of
+any civil penalty assessed for violation—have been held to have stand-
+ing, on the theory that the government has assigned a portion of
+its damages claim to the plaintiff, and the assignee of a claim has
+standing to assert the injury in fact suffered by the assignor.413 Cit-
+ing this holding and historical precedent, the Court upheld the stand-
+ing of an assignee who had promised to remit the proceeds of the
+litigation to the assignor.414 The Court noted that “federal courts
+routinely entertain suits which will result in relief for parties that
+are not themselves directly bringing suit. Trustees bring suits to
+benefit their trusts; guardians at litem bring suits to benefit their
+wards; receivers bring suit to benefit their receiverships; assignees
+in bankruptcy bring suit to benefit bankrupt estates; and so forth.” 415
+     The Court has, however, indicated that for plaintiffs to have stand-
+ing based on an injury to others, that there must be an element of
+     411 That the injury was widely shared did not make the claimed injury a “gener-
+
+alized grievance,” the Court held, but rather in this case, as in others, the denial of
+the statutory right was found to be a concrete harm to each member of the class.
+     412 Sierra Club v. Morton, 405 U.S. 727, 735 (1972); United States v. SCRAP,
+
+412 U.S. 669, 687–88 (1973); Duke Power Co. v. Carolina Environmental Study Group,
+438 U.S. 59, 72–74 (1978). But the Court has refused to credit general allegations of
+injury untied to specific governmental actions. E.g., Lujan v. Defenders of Wildlife,
+504 U.S. 555 (1992); Lujan v. National Wildlife Federation, 497 U.S. 871 (1990). SCRAP
+in particular is disfavored as too broad. Lujan v. Defenders of Wildlife, 504 U.S. at
+566. Moreover, unlike the situation in taxpayer suits, there is no requirement of a
+nexus between the injuries claimed and the constitutional rights asserted. In Duke
+Power, 438 U.S. at 78–81, claimed environmental and health injuries grew out of
+construction and operation of nuclear power plants but were not directly related to
+the governmental action challenged, the limitation of liability and indemnification
+in cases of nuclear accident. See also Metropolitan Washington Airports Auth. v. Citi-
+zens for the Abatement of Aircraft Noise, 501 U.S. 252, 264–65 (1991); Friends of
+the Earth v. Laidlaw Envtl. Servs., 528 U.S. 167 (2000).
+     413 Vermont Agency of Nat. Res. v. United States ex rel. Stevens, 529 U.S. 765
+
+(2000). The Court confirmed its conclusion by reference to the long tradition of qui
+tam actions, since the Constitution’s restriction of judicial power to “cases” and “con-
+troversies” has been interpreted to mean “cases and controversies of the sort tradi-
+tionally amenable to, and resolved by, the judicial process.” Id. at 774.
+     414 Sprint Communications Co., L.P. v. APCC Services, Inc., 128 S. Ct. 2531 (2008)
+
+(payphone operators had assigned claims against long-distance carriers to “aggrega-
+tors” to sue on their behalf). Chief Justice Roberts, in a dissent joined by Justices
+Scalia, Thomas, and Alito, stated that the aggregators lacked standing because they
+“have nothing to gain from their lawsuit.” Id. at 2549.
+     415 128 S. Ct. at 2543.

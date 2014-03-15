@@ -1,0 +1,52 @@
+federal standard was a “minimum” one rather than a “uniform” one
+and decided that growers could comply with both.1205
+    Third, a fruitful source of preemption is found when it is deter-
+mined that the state law stands as an obstacle to the accomplish-
+ment of the full purposes and objectives of Congress.1206 Thus, de-
+spite the inclusion of a saving clause preserving liability under common
+law, the National Traffic and Motor Vehicle Safety Act nevertheless
+was found to have preempted a state common law tort action based
+on the failure of a car manufacturer to install front seat airbags:
+Giving car manufacturers some leeway in developing and introduc-
+ing passive safety restraint devices was, according to the Court, a
+key congressional objective under the Act, one that would frus-
+trated should a tort action be allowed to proceed.1207 The Court also
+has voided a state requirement that the average net weight of a
+package of flour in a lot could not be less than the net weight stated
+on the package. While applicable federal law permitted variations
+    1205  Florida Lime & Avocado Growers v. Paul, 373 U.S. 132 (1963).
+    1206  The standard is drawn from Hines v. Davidowitz, 312 U.S. 52, 67 (1941),
+which often is held out as a leading example of field preemption analysis. When
+“frustration of purpose” predominates in an opinion, it may be fairer to characterize
+the issue as one of conflict preemption, rather than field preemption, for the possi-
+bility of a limited state role would appear to be implicitly recognized. Arizona v. United
+States, in which the Court found three of the four Arizona immigration provisions it
+examined to be preempted, illustrates the continuum from field to conflict analysis.
+In overturning state penalties for violations of federal alien registration require-
+ments, the Court found the sweep and detail of the federal law to leave no room
+whatsoever for state regulation. In overturning state sanctions against unauthor-
+ized aliens seeking employment or working, the Court emphasized that the compre-
+hensive system of federal employer sanctions eschewed employee sanctions, and al-
+lowing states to impose them would upset the careful policy balance struck by Congress.
+In overturning state authority to arrest individuals believed to be deportable on crimi-
+nal grounds, the Court did not examine whether state officers have any inherent
+arrest authority in deportation cases, but rather found that allowing states to en-
+gage in such arrests as a general matter creates an obstacle to congressional objec-
+tives. And finally, the Court declined to overturn on its face a state policy of check-
+ing the immigration status of individuals stopped by the police for general law
+enforcement purposes, finding that federal law facilitated status checks and only imple-
+mentation of the status check policy would disclose whether federal enforcement policy
+ultimately would be frustrated. 567 U.S. ___, No. 11–182, slip op. (2012).
+     See also Hillman v. Maretta, 569 U.S. ___, No. 11–1221, slip op. (2013) (state
+law cause of action against ex-spouse for life insurance proceeds paid under a desgna-
+tion of beneficiary in a federal employee policy held to be preempted by federal em-
+ployee insurance statute giving employees the right to designate: beyond administra-
+tive convenience, Congress intended that the proceeds actually belong to named
+beneficiary); Barnett Bank of Marion County v. Nelson, 517 U.S. 25 (1996) (federal
+law empowering national banks in small towns to sell insurance preempts state law
+prohibiting banks from dealing in insurance). Unsurprisingly, the Justices at times
+disagree on what Congress’s primary objectives and purposes were in passing par-
+ticular legislation, and such a disagreement can end with different conclusions about
+whether state law has been preempted. See AT&T Mobility, LLC v. Concepcion, 563
+U.S. ___, No. 09–893, slip op. (2011).
+     1207 Geier v. American Honda Motor Co., 529 U.S. 861 (2000).

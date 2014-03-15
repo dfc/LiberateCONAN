@@ -1,0 +1,48 @@
+dence from state criminal trials.383 State efforts to legalize wiretap-
+ping pursuant to court orders were held by the Court to be precluded
+by the fact that Congress in § 605 had intended to occupy the field
+completely to the exclusion of the states.384
+    Nontelephonic Electronic Surveillance.—The trespass ratio-
+nale of Olmstead was used in cases dealing with “bugging” of prem-
+ises rather than with tapping of telephones. Thus, in Goldman v.
+United States,385 the Court found no Fourth Amendment violation
+when a listening device was placed against a party wall so that con-
+versations were overheard on the other side. But when officers drove
+a “spike mike” into a party wall until it came into contact with a
+heating duct and thus broadcast defendant’s conversations, the Court
+determined that the trespass brought the case within the Amend-
+ment.386 In so holding, the Court, without alluding to the matter,
+overruled in effect the second rationale of Olmstead, the premise
+that conversations could not be seized.
+     The Berger and Katz Cases.—In Berger v. New York,387 the
+Court confirmed the obsolescence of the alternative holding in Olmstead
+that conversations could not be seized in the Fourth Amendment
+sense.388 Berger held unconstitutional on its face a state eavesdrop-
+ping statute under which judges were authorized to issue warrants
+permitting police officers to trespass on private premises to install
+listening devices. The warrants were to be issued upon a showing
+of “reasonable ground to believe that evidence of crime may be thus
+obtained, and particularly describing the person or persons whose
+communications, conversations or discussions are to be overheard
+or recorded.” For the five-Justice majority, Justice Clark discerned
+several constitutional defects in the law. “First, . . . eavesdropping
+is authorized without requiring belief that any particular offense
+has been or is being committed; nor that the ‘property’ sought, the
+conversations, be particularly described.”
+     “The purpose of the probable-cause requirement of the Fourth
+Amendment to keep the state out of constitutionally protected ar-
+     383 Schwartz v. Texas, 344 U.S. 199 (1952). At this time, evidence obtained in
+
+violation of the Fourth Amendment could be admitted in state courts. Wolf v. Colo-
+rado, 338 U.S. 25 (1949). Although Wolf was overruled by Mapp v. Ohio, 367 U.S.
+643 (1961), it was some seven years later and after wiretapping itself had been made
+subject to the Fourth Amendment that Schwartz was overruled in Lee v. Florida,
+392 U.S. 378 (1968).
+     384 Bananti v. United States, 355 U.S. 96 (1957).
+     385 316 U.S. 129 (1942).
+     386 Silverman v. United States, 365 U.S. 505 (1961). See also Clinton v. Vir-
+
+ginia, 377 U.S. 158 (1964) (physical trespass found with regard to amplifying device
+stuck in a partition wall with a thumb tack).
+     387 388 U.S. 41 (1967).
+     388 388 U.S. at 50–53.

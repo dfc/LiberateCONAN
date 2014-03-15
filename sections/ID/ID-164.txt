@@ -1,0 +1,52 @@
+cludes the seizure and forfeiture of vessels engaged in activities in
+violation of the laws of nations or municipal law, such as illicit trade,890
+infraction of revenue laws,891 and the like. 892
+     Admiralty Proceedings.—Procedure in admiralty jurisdiction
+differs in few respects from procedure in actions at law, but the dif-
+ferences that do exist are significant.893 Suits in admiralty tradition-
+ally took the form of a proceeding in rem against the vessel, and,
+with exceptions to be noted, such proceedings in rem are confined
+exclusively to federal admiralty courts, because the grant of exclu-
+sive jurisdiction to the federal courts by the Judiciary Act of 1789
+has been interpreted as referring to the traditional admiralty ac-
+tion, the in rem action, which was unknown to the common law.894
+The savings clause in that Act under which a state court may en-
+tertain actions by suitors seeking a common-law remedy preserves
+to the state tribunals the right to hear actions at law where a common-
+law remedy or a new remedy analogous to a common-law remedy
+exists.895 Concurrent jurisdiction thus exists for the adjudication of
+in personam maritime causes of action against the owner of the ves-
+sel, and a plaintiff may ordinarily choose whether to bring his ac-
+tion in a state court or a federal court.
+    Forfeiture to the crown for violation of the laws of the sover-
+eign was in English law an exception to the rule that admiralty
+has exclusive jurisdiction over in rem maritime actions and was thus
+considered a common-law remedy. Although the Supreme Court some-
+times has used language that would confine all proceedings in rem
+
+    890  Hudson v. Guestier, 8 U.S. (4 Cr.) 293 (1808).
+    891  The Vengeance, 3 U.S. (3 Dall.) 297 (1796); Church v. Hubbard, 6 U.S. (2 Cr.)
+187 (1804); The Schooner Sally, 6 U.S. (2 Cr.) 406 (1805).
+     892 The Brig Ann, 13 U.S. (9 Cr.) 289 (1815); The Sarah, 21 U.S. (8 Wheat.) 391
+
+(1823); Maul v. United States, 274 U.S. 501 (1927).
+     893 Gilmore & Black, supra at 30–33. There are no longer separate rules of pro-
+
+cedure governing admiralty, unification of civil admiralty procedures being achieved
+in 1966. 7 A J. Moore’s Federal Practice §§ .01 et seq (New York: 1971).
+     894 The Moses Taylor, 71 U.S. (4 Wall.) 411 (1866); The Hine v. Trevor, 71 U.S.
+
+(4 Wall.) 555 (1867). But see Taylor v. Carryl, 61 U.S. (20 How.) 583 (1858). In Madruga
+v. Superior Court, 346 U.S. 556 (1954), the jurisdiction of a state court over a parti-
+tion suit at the instance of the majority shipowners was upheld on the ground that
+the cause of action affected only the interest of the defendant minority shipowners
+and therefore was in personam. Justice Frankfurter’s dissent argued: “If this is not
+an action against the thing, in the sense which that has meaning in the law, then
+the concepts of a res and an in rem proceeding have an esoteric meaning that I do
+not understand.” Id. at 564.
+     895 After conferring “exclusive” jurisdiction in admiralty and maritime cases on
+
+the federal courts, § 9 of the Judiciary Act of 1789, 1 Stat. 77, added “saving to suit-
+ors, in all cases the right of a common law remedy, where the common law is com-
+petent to give it. . . .” Fixing the concurrent federal-state line has frequently been a
+source of conflict within the Court. Southern Pacific Co. v. Jensen, 244 U.S. 205 (1917).

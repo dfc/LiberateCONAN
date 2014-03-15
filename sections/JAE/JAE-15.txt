@@ -1,0 +1,52 @@
+fication for the exception.60 The result has been a considerable ex-
+pansion, beyond what existed prior to Katz, of the power of police
+and other authorities to conduct searches.
+    In United States v. Jones 61 the Court seemed to revitalize the
+significance of governmental trespass in determining whether a search
+has occurred, suggesting that an expectation-of-privacy analysis is
+needed only where no such trespass is at issue. In Jones, the Court
+considered whether the attachment of a Global-Position-System de-
+vice to a car used by a suspected narcotics dealer, and the monitor-
+ing of such device for twenty-eight days, constituted a search for
+purposes of the Fourth Amendment. Justice Scalia, writing for the
+Court, found that the attachment of the device to the car repre-
+sented a physical intrusion on private property, and thus obviated
+the need for an expectation-of-privacy analysis.62 While this hold-
+ing meant that the Court did not rule on the constitutional signifi-
+cance of long-term governmental monitoring of a defendant’s move-
+ments without trespass (such as might occur by tracking a cell phone),
+a different majority appears prepared to find a search in those cir-
+cumstances.63
+    Arrests and Other Detentions.—That the Fourth Amend-
+ment was intended to protect against arbitrary arrests as well as
+against unreasonable searches was early assumed by Chief Justice
+Marshall 64 and is now established law.65 At common law, warrant-
+less arrests of persons who had committed a breach of the peace or
+
+      60 E.g., Texas v. White, 423 U.S. 67 (1975) (if probable cause to search automo-
+
+bile existed at scene, it can be removed to station and searched without warrant);
+United States v. Robinson, 414 U.S. 218 (1973) (once an arrest has been validly made,
+search pursuant thereto is so minimally intrusive in addition that scope of search is
+not limited by necessity of security of officer); United States v. Edwards, 415 U.S.
+800 (1974) (incarcerated suspect; officers need no warrant to take his clothes for test
+because little additional intrusion). But see Ybarra v. Illinois, 444 U.S. 85 (1979)
+(officers on premises to execute search warrant of premises may not without more
+search persons found on premises).
+      61 565 U.S. ___, No. 10–1259, slip op. (2012).
+      62 565 U.S. ___, No. 10–1259, slip op. at 3–7. Justice Scalia reprised his physi-
+
+cal trespass analysis in Florida v. Jardines, 569 U.S. ___, No. 11–564, slip op. (2013)
+(police use of drug-sniffing dog on the front porch of a house based on month-old
+anonymous tip). Emphasizing the primacy of the home among constitutionally pro-
+tected areas, Justice Scalia reviewed the law of trespass and concluded that there is
+no implied license, under customary community practice, for police to mount a porch
+to conduct a drug sniff by a trained canine. Any implied license for the public to
+approach a house is limited not only to specific areas, but also to specific purposes,
+according to Justice Scalia. Four dissenting Justices disagreed with this last point,
+and further concluded that the Katz “reasonable expectation of privacy” test was no
+bar. 569 U.S. ___, No. 11–564, slip op. (2013) (Alito, J., dissenting).
+      63 565 U.S. ___, No. 10–1259, slip op. at 14 (Alito, J, concurring in judgment);
+
+Id. at 3 (Sotomayor, J., concurring);
+      64 Ex parte Burford, 7 U.S. (3 Cr.) 448 (1806).

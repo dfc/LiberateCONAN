@@ -1,0 +1,52 @@
+had ever served on a jury and that some exclusions were not the
+result of defense peremptory challenges, the defendant’s claims were
+rejected.
+     The Swain holding as to the evidentiary standard was over-
+ruled in Batson v. Kentucky, the Court ruling that “a defendant may
+establish a prima facie case of purposeful [racial] discrimination in
+selection of the petit jury solely on evidence concerning the prosecu-
+tor’s exercise of peremptory challenges at the defendant’s [own]
+trial.” 1674 To rebut this showing, the prosecutor “must articulate a
+neutral explanation related to the particular case,” but the explana-
+tion “need not rise to the level justifying exercise of a challenge for
+cause.” 1675 In fact, “[a]lthough the prosecutor must present a com-
+prehensible reason, ‘[t]he [rebuttal] does not demand an explana-
+tion that is persuasive, or even plausible’; so long as the reason is
+not inherently discriminatory, it suffices.” 1676 Such a rebuttal hav-
+ing been offered, “the court must then determine whether the defen-
+dant has carried his burden of proving purposeful discrimination.
+This final step involves evaluating ‘the persuasiveness of the justi-
+fication’ proffered by the prosecutor, but the ‘ultimate burden of per-
+suasion regarding racial motivation rests with, and never shifts from,
+
+
+     1674 476 U.S. 79, 96 (1986). Establishing a prima facie case can be done through
+
+a “wide variety of evidence, so long as the sum of proffered facts gives rise to an
+inference of discriminatory purpose.” Id. at 93–94. A state, however, cannot require
+that a defendant prove a prima facie case under a “more likely than not” standard,
+as the function of the Batson test is to create an inference and shift the burden to
+the state to offer race-neutral reasons for the peremptory challenges. Only then does
+a court weigh the likelihood that racial discrimination occurred. Johnson v. Califor-
+nia, 543 U.S. 499 (2005).
+     1675 476 U.S. at 98 (1986). The principles were applied in Trevino v. Texas, 503
+
+U.S. 562 (1991), holding that a criminal defendant’s allegation of a state’s pattern of
+historical and habitual use of peremptory challenges to exclude members of racial
+minorities was sufficient to raise an equal protection claim under Swain as well as
+Batson. In Hernandez v. New York, 500 U.S. 352 (1991), a prosecutor was held to
+have sustained his burden of providing a race-neutral explanation for using peremp-
+tory challenges to strike bilingual Latino jurors; the prosecutor had explained that,
+based on the answers and demeanor of the prospective jurors, he had doubted whether
+they would accept the interpreter’s official translation of trial testimony by Spanish-
+speaking witnesses. The Batson ruling applies to cases pending on direct review or
+not yet final when Batson was decided, Griffith v. Kentucky, 479 U.S. 314 (1987),
+but does not apply to a case on federal habeas corpus review, Allen v. Hardy, 478
+U.S. 255 (1986).
+     1676 Rice v. Collins, 546 U.S. 333, 338 (2006) (citation omitted). The holding of
+
+the case was that, in a habeas corpus action, the Ninth Circuit “panel majority im-
+properly substituted its evaluation of the record for that of the state trial court.” Id.
+at 337–38. Justice Breyer, joined by Justice Souter, concurred but suggested “that
+legal life without peremptories is no longer unthinkable” and “that we should recon-
+sider Batson’s test and the peremptory challenge system as a whole.” Id. at 344.

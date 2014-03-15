@@ -1,0 +1,56 @@
+poses of determining whether a defendant is insane or mentally re-
+tarded and consequently not eligible for the death penalty.87
+    Within the context of a criminal trial, what factual issues are
+submitted to the jury was traditionally determined by whether the
+fact to be established is an element of a crime or instead is a sen-
+tencing factor.88 Under this approach, the right to a jury had ex-
+tended to the finding of all facts establishing the elements of a crime,
+but sentencing factors could be evaluated by a judge.89 Evaluating
+the issue primarily under the Fourteenth Amendment’s Due Pro-
+cess Clause, the Court initially deferred to Congress and the states
+on this issue, allowing them broad leeway in determining which facts
+are elements of a crime and which are sentencing factors.90
+    Breaking with this tradition, however, the Court in Apprendi v.
+New Jersey held that a sentencing factor cannot be used to in-
+crease the maximum penalty imposed for the underlying crime.91
+“The relevant inquiry is one not of form, but of effect.” 92 Apprendi
+had been convicted of a crime punishable by imprisonment for no
+more than ten years, but had been sentenced to 12 years based on
+a judge’s findings, by a preponderance of the evidence, that enhance-
+ment grounds existed under the state’s hate crimes law. “[A]ny fact
+
+     87 Ford v. Wainwright, 477 U.S. 399, 416–417 (1986); Atkins v. Virginia, 536 U.S.
+
+304, 317 (2002); Schriro v. Smith, 546 U.S. 6, 7 (2005). See Eighth Amendment, “Limi-
+tations on Capital Punishment: Diminished Capacity,” infra.
+     88 In Washington v. Recuenco, however, the Court held that “[f]ailure to submit
+
+a sentencing factor to the jury, like failure to submit an element [of a crime] to the
+jury, is not structural error,” entitling the defendant to automatic reversal, but can
+be harmless error. 548 U.S. 212, 222 (2006).
+     89 In James v. United States, 550 U.S. 192 (2007), the Court found no Sixth
+
+Amendment issue raised when it considered “the elements of the offense . . . without
+inquiring into the specific conduct of this particular offender.” Id. at 202 (emphasis
+in original). The question before the Court was whether, under federal law, at-
+tempted burglary, as defined by Florida law, “presents a serious potential risk of
+physical injury to another” and therefore constitutes a “violent felony,” subjecting
+the defendant to a longer sentence. Id. at 196. In answering this question, the Court
+employed the “categorical approach” of looking only to the statutory definition and
+not considering the “particular facts disclosed by the record of conviction.” Id. at
+202. Thus, “the Court [was] engaging in statutory interpretation, not judicial factfind-
+ing,” and “[s]uch analysis raises no Sixth Amendment issue.” Id. at 214.
+     90 For instance, the Court held that whether a defendant “visibly possessed a
+
+gun” during a crime may be designated by a state as a sentencing factor, and deter-
+mined by a judge based on the preponderance of evidence. McMillan v. Pennsylva-
+nia, 477 U.S. 79 (1986). After resolving the issue under the Due Process Clause, the
+Court dismissed the Sixth Amendment jury trial claim as “merit[ing] little discus-
+sion.” Id. at 93. For more on the due process issue, see the discussion in “Proof,
+Burden of Proof, and Presumptions,” infra.
+     91 530 U.S. 466, 490 (2000).
+     92 530 U.S. at 494. “[M]erely because the state legislature placed its hate crime
+
+sentence enhancer within the sentencing provisions of the criminal code does not
+mean that the finding of a biased purpose to intimidate is not an essential element
+of the offense.” Id. at 495 (internal quotation omitted).

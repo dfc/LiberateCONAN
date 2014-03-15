@@ -1,0 +1,55 @@
+whether that official has the authority under state law to make a
+valid waiver.86 However, this argument is only available when the
+state is brought into federal court involuntarily. If a state volun-
+tarily agrees to removal of a state action to federal court, the Court
+has held it may not then invoke a defense of sovereign immunity
+and thereby gain an unfair tactical advantage.87
+    Congressional Withdrawal of Immunity.—The Constitution
+grants Congress power to regulate state action by legislation. At
+least in some instances when Congress does so, it may subject the
+states themselves to suit by individuals to implement the legisla-
+tion. The clearest example arises from the Civil War Amendments,
+which directly restrict state powers and expressly authorize Con-
+gress to enforce these restrictions through appropriate legisla-
+tion.88 Thus, “the Eleventh Amendment and the principle of state
+sovereignty which it embodies . . . are necessarily limited, by the
+enforcement provisions of § 5 of the Fourteenth Amendment.” 89 The
+power to enforce the Civil War Amendments is substantive, how-
+ever, not being limited to remedying judicially cognizable violations
+of the amendments, but extending as well to measures that in Con-
+gress’s judgment will promote compliance. 90 The principal judicial
+brake on this power to abrogate state immunity in legislation en-
+forcing the Civil War Amendments is the rule requiring that con-
+gressional intent to subject states to suit be clearly stated.91
+
+     86 Ford Motor Co. v. Department of Treasury, 323 U.S. 459, 466–467 (1945); Edel-
+
+man v. Jordan, 415 U.S. 651, 677–678 (1974).
+     87 Lapides v. Board of Regents, 535 U.S. 613 (2002).
+     88 Fitzpatrick v. Bitzer, 427 U.S. 445 (1976); Hutto v. Finney, 437 U.S. 678 (1978);
+
+City of Rome v. United States, 446 U.S. 156 (1980). More recent cases affirming Con-
+gress’s § 5 powers include Pennhurst State School & Hosp. v. Halderman, 465 U.S.
+89, 99 (1984); Atascadero State Hosp. v. Scanlon, 473 U.S. 234, 238 (1985); and Dellmuth
+v. Muth, 491 U.S. 223, 227 (1989).
+     89 Fitzpatrick v. Bitzer, 427 U.S. 445, 456 (1976) (under the Fourteenth Amend-
+
+ment, Congress may “provide for private suits against States or state officials which
+are constitutionally impermissible in other contexts.”).
+     90 In Maher v. Gagne, 448 U.S. 122 (1980), the Court found that Congress could
+
+validly authorize imposition of attorneys’ fees on the state following settlement of a
+suit based on both constitutional and statutory grounds, even though settlement had
+prevented determination that there had been a constitutional violation. Maine v.
+Thiboutot, 448 U.S. 1 (1980), held that § 1983 suits could be premised on federal
+statutory as well as constitutional grounds. Other cases in which attorneys’ fees were
+awarded against states are Hutto v. Finney, 437 U.S. 678 (1978); and New York
+Gaslight Club v. Carey, 447 U.S. 54 (1980). See also Frew v. Hawkins, 540 U.S. 431
+(2004) (upholding enforcement of consent decree).
+     91 Even prior to the tightening of the clear statement rule over the past several
+
+decades to require express legislative language (see note and accompanying text, infra),
+application of the rule curbed congressional enforcement. Fitzpatrick v. Bitzer, 427
+U.S. 445 451–53 (1976); Hutto v. Finney, 437 U.S. 678, 693–98 (1978). Because of
+its rule of clear statement, the Court in Quern v. Jordan, 440 U.S. 332 (1979), held
+that in enacting 42 U.S.C. § 1983, Congress had not intended to include states within

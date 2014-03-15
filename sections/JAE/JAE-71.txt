@@ -1,0 +1,47 @@
+eas until it has reason to believe that a specific crime has been or
+is being committed is thereby wholly aborted. Likewise the stat-
+ute’s failure to describe with particularity the conversations sought
+gives the officer a roving commission to ‘seize’ any and all conversa-
+tions. It is true that the statute requires the naming of ‘the person
+or persons whose communications, conversations or discussions are
+to be overheard or recorded. . . .’ But this does no more than iden-
+tify the person whose constitutionally protected area is to be in-
+vaded rather than ‘particularly describing’ the communications, con-
+versations, or discussions to be seized. . . . Secondly, authorization
+of eavesdropping for a two-month period is the equivalent of a se-
+ries of intrusions, searches, and seizures pursuant to a single show-
+ing of probable cause. Prompt execution is also avoided. During such
+a long and continuous (24 hours a day) period the conversations of
+any and all persons coming into the area covered by the device will
+be seized indiscriminately and without regard to their connection
+with the crime under investigation. Moreover, the statute permits
+. . . extensions of the original two-month period—presumably for
+two months each—on a mere showing that such extension is ‘in the
+public interest.’ . . . Third, the statute places no termination date
+on the eavesdrop once the conversation sought is seized. . . . Fi-
+nally, the statute’s procedure, necessarily because its success de-
+pends on secrecy, has no requirement for notice as do conventional
+warrants, nor does it overcome this defect by requiring some show-
+ing of special facts. On the contrary, it permits unconsented entry
+without any showing of exigent circumstances. Such a showing of
+exigency, in order to avoid notice, would appear more important in
+eavesdropping, with its inherent dangers, than that required when
+conventional procedures of search and seizure are utilized. Nor does
+the statute provide for a return on the warrant thereby leaving full
+discretion in the officer as to the use of seized conversations of in-
+nocent as well as guilty parties. In short, the statute’s blanket grant
+of permission to eavesdrop is without adequate judicial supervision
+or protective procedures.” 389
+   Both Justices Black and White in dissent accused the Berger
+majority of so construing the Fourth Amendment that no wiretapping-
+
+     389 388 U.S. at 58–60. Justice Stewart concurred because he thought that the
+
+affidavits in this case had not been sufficient to show probable cause, but he thought
+the statute constitutional in compliance with the Fourth Amendment. Id. at 68. Jus-
+tice Black dissented, arguing that the Fourth Amendment was not applicable to elec-
+tronic eavesdropping but that in any event the “search” authorized by the statute
+was reasonable. Id. at 70. Justice Harlan dissented, arguing that the statute with
+its judicial gloss was in compliance with the Fourth Amendment. Id. at 89. Justice
+White thought both the statute and its application in this case were constitutional.
+Id. at 107.

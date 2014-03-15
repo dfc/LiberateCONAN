@@ -1,0 +1,53 @@
+ized as a private rather than a public right,” at least when the de-
+fendant had not submitted a claim against the bankruptcy es-
+tate.41
+     The Continuing Law-Equity Distinction.—The use of the term
+“common law” in the Amendment to indicate those cases in which
+the right to jury trial was to be preserved reflected, of course, the
+division of the English and United States legal systems into sepa-
+rate law and equity jurisdictions, in which actions cognizable in courts
+of law generally were triable to a jury whereas in equity there was
+no right to a jury. In the federal court system there were unitary
+courts having jurisdiction in both law and equity, but distinct law
+and equity procedures, including the use or nonuse of the jury. Adop-
+tion of the Federal Rules of Civil Procedure in 1938 merged law
+and equity into a single civil jurisdiction and established uniform
+rules of procedure. Legal and equitable claims which previously had
+to be brought as separate causes of action on different “sides” of
+the court could now be joined in a single action, and in some in-
+stances, such as compulsory counterclaims, had to be joined in one
+action.42 But the traditional distinction between law and equity for
+purposes of determining when there was a constitutional right to
+trial by jury remained and led to some difficulty.43
+
+     41 492 U.S. at 55. On the other hand, a creditor who submits a claim against
+
+the bankruptcy estate subjects himself to the bankruptcy court’s equitable power,
+and is not entitled to a jury trial when subsequently sued by the bankruptcy trustee
+to recover preferential monetary transfers. Langenkamp v. Culp, 498 U.S. 42 (1990).
+     42 5 J. MOORE, FEDERAL PRACTICE §§ 38.01–38.05 (2d ed. 1971).
+     43 Under the old equity rules, it had been held that the absolute right to a trial
+
+of the facts by a jury could not be impaired by any blending with a claim, properly
+cognizable at law, of a demand for equitable relief in aid of the legal action or dur-
+ing its pendency. Hipp v. Babin, 60 U.S. (19 How.) 271, 278 (1857). The Seventh
+Amendment was interpreted to mean that equitable and legal issues could not be
+tried in the same suit, so that such aid in the federal courts had to be sought in
+separate proceedings. Scott v. Neely, 140 U.S. 106, 109 (1891); Bennett v. But-
+terworth, 52 U.S. (11 How.) 669 (1850); Lewis v. Cocks, 90 U.S. (23 Wall.) 466, 470
+(1874); Killian v. Ebbinghaus, 110 U.S. 568, 573 (1884); Buzard v. Houston, 119 U.S.
+347, 351 (1886). If an action at law evoked an equitable counterclaim, the trial judge
+would order the legal issues to be separately tried after the disposition of the equity
+issues. In this procedure, however, res judicata and collateral estoppel could operate
+so as to curtail the litigant’s right to a jury finding on factual issues common to
+both claims. But priority of scheduling was considered to be a matter of discretion.
+Federal statutes prohibiting courts of the United States from sustaining suits in eq-
+uity if the remedy was complete at law served to guard the right of trial by jury
+and were liberally construed. Schoenthal v. Irving Trust Co., 287 U.S. 92, 94 (1932).
+     Nor was the distinction between law and equity to be obliterated by state legis-
+lation. Thompson v. Railroad Companies, 73 U.S. (6 Wall.) 134 (1868). So, if state
+law, in advance of judgment, treated the whole proceeding upon a simple contract,
+including determination of validity and of amount due, as an equitable proceeding,
+it brought the case within the federal equity jurisdiction upon removal. Ascertain-
+ment of plaintiff ’s demand being properly by action at law, however, the fact that
+the equity court had power to summon a jury on occasion did not afford an equiva-

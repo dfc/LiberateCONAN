@@ -1,0 +1,54 @@
+stitutional rule grew to four.344 Also, that Miranda may be rooted
+in the Constitution does not, according to the Court, mean that the
+precise articulation of the warnings in it is “immutable.” 345
+     Beyond finding that Miranda has, at the least, “constitutional
+underpinnings,” the Dickerson Court also rejected a request to over-
+rule Miranda. “Whether or not we would agree with Miranda’s rea-
+soning and its resulting rule, were we addressing the issue in the
+first instance,” Chief Justice Rehnquist wrote for the seven-Justice
+majority, “the principles of stare decisis weigh heavily against over-
+ruling it now.” There was no special justification for overruling the
+decision; subsequent cases had not undermined the decision’s doc-
+trinal underpinnings, but rather had “reaffirm[ed]” its “core rul-
+ing.” Moreover, Miranda warnings had “become so embedded in rou-
+tine police practice [that they] have become part of our national
+culture.” 346
+    As to the viability of Miranda claims in federal habeas corpus
+cases, the Court had suggested in 1974 that most claims could be
+disallowed,347 but such a course was squarely rejected in 1993. The
+Court ruled in Withrow v. Williams that Miranda protects a funda-
+mental trial right of the defendant, unlike the Fourth Amendment
+exclusionary rule addressed in Stone v. Powell,348 and claimed vio-
+lations of Miranda merited federal habeas corpus review because
+they relate to the correct ascertainment of guilt.349 The purposes of
+
+     344 564 U.S. ___, No. 09–11121, slip op. (2011) (Jusitces Alito, Scalia, Thomas
+
+and Chief Justice Roberts, dissenting).
+     345 See, e.g., Florida v. Powell, 559 U.S. ___, No. 08–1175, slip op. at 8, 12–13
+
+(2010).
+     346 530 U.S. at 443.
+     347 In Michigan v. Tucker, 417 U.S. 433, 439 (1974), the Court had suggested a
+
+distinction between a constitutional violation and a violation of “the prophylactic rules
+developed to protect that right.” The actual holding in Tucker, however, had turned
+on the fact that the interrogation had preceded the Miranda decision and that warn-
+ings—albeit not full Miranda warnings—had been given.
+     348 428 U.S. 465 (1976).
+     349 507 U.S. 680 (1993). Even though a state prisoner’s Miranda claim may be
+
+considered in federal habeas review, the scope of federal habeas review is narrow.
+Under the Antiterrorism and Effective Death Penalty Act of 1996 (AEDPA), a state
+court judgment may be set aside on habeas review only if the judgment is found to
+be contrary to, or an unreasonable application of, clearly established Supreme Court
+precedent. By contrast, a federal court reviewing a state court judgment on direct
+review considers federal legal questions de novo and can overturn a state court hold-
+ing based on its own independent assessment of federal legal issues. This difference
+in scope of review can be critical. Compare Yarborough v. Alvarado, 541 U.S. 652
+(2004) (habeas petition denied because state court’s refusal to take a juvenile’s age
+into account in applying Miranda was not an unreasonable application of clearly
+established Supreme Court precedent), with J.D.B. v. North Carolina, 564 U.S. ___,
+No. 09–11121, slip op. (2011) (on the Court’s de novo review of the age issue, state
+court’s refusal to take a juvenile’s age into account in applying Miranda held to be
+in error, and case remanded).

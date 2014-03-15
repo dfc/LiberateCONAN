@@ -1,0 +1,54 @@
+    Warrantless “National Security” Electronic Surveil-
+lance.—In Katz v. United States,398 Justice White sought to pre-
+serve for a future case the possibility that in “national security cases”
+electronic surveillance upon the authorization of the President or
+the Attorney General could be permissible without prior judicial ap-
+proval. The Executive Branch then asserted the power to wiretap
+and to “bug” in two types of national security situations, against
+domestic subversion and against foreign intelligence operations, first
+basing its authority on a theory of “inherent” presidential power
+and then in the Supreme Court withdrawing to the argument that
+such surveillance was a “reasonable” search and seizure and there-
+fore valid under the Fourth Amendment. Unanimously, the Court
+held that at least in cases of domestic subversive investigations, com-
+pliance with the warrant provisions of the Fourth Amendment was
+required.399 Whether or not a search was reasonable, wrote Justice
+Powell for the Court, was a question which derived much of its an-
+swer from the warrant clause; except in a few narrowly circum-
+scribed classes of situations, only those searches conducted pursu-
+ant to warrants were reasonable. The Government’s duty to preserve
+the national security did not override the guarantee that before gov-
+ernment could invade the privacy of its citizens it must present to
+a neutral magistrate evidence sufficient to support issuance of a war-
+rant authorizing that invasion of privacy.400 This protection was even
+
+     398 389 U.S. 347, 363–64 (1967) (concurring opinion). Justices Douglas and Bren-
+
+nan rejected the suggestion. Id. at 359–60 (concurring opinion). When it enacted its
+1968 electronic surveillance statute, Congress alluded to the problem in ambiguous
+fashion, 18 U.S.C. § 2511(3), which the Court subsequently interpreted as having
+expressed no congressional position at all. United States v. United States District
+Court, 407 U.S. 297, 302–08 (1972).
+     399 United States v. United States District Court, 407 U.S. 297 (1972). Chief Jus-
+
+tice Burger concurred in the result and Justice White concurred on the ground that
+the 1968 law required a warrant in this case, and therefore did not reach the consti-
+tutional issue. Id. at 340. Justice Rehnquist did not participate. Justice Powell care-
+fully noted that the case required “no judgment on the scope of the President’s sur-
+veillance power with respect to the activities of foreign powers, within or without
+this country.” Id. at 308.
+     400 The case contains a clear suggestion that the Court would approve a congres-
+
+sional provision for a different standard of probable cause in national security cases.
+“We recognize that domestic security surveillance may involve different policy and
+practical considerations from the surveillance of ‘ordinary crime.’ The gathering of
+security intelligence is often long range and involves the interrelation of various sources
+and types of information. The exact targets of such surveillance may be more diffi-
+cult to identify than in surveillance operations against many types of crimes speci-
+fied in Title III. Often, too, the emphasis of domestic intelligence gathering is on the
+prevention of unlawful activity or the enhancement of the Government’s prepared-
+ness for some future crisis or emergency. . . . Different standards may be compat-
+ible with the Fourth Amendment if they are reasonable both in relation to the legiti-
+mate need of Government for intelligence information and the protected rights of
+our citizens. For the warrant application may vary according to the governmental
+interest to be enforced and the nature of citizen right deserving protection. . . . It

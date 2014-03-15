@@ -1,0 +1,53 @@
+vating sentencing factors by judges when imposing capital punish-
+ment.1123 These holdings are subject to at least one exception,
+however,1124 and the decisions might be evaded by legislatures re-
+vising criminal provisions to increase maximum penalties, and then
+providing for mitigating factors within the newly established sen-
+tencing range.
+     Another closely related issue is statutory presumptions, where
+proof of a “presumed fact” that is a required element of a crime, is
+established by another fact, the “basic fact.” 1125 In Tot v. United
+States,1126 the Court held that a statutory presumption was valid
+under the Due Process Clause only if it met a “rational connection”
+test. In that case, the Court struck down a presumption that a per-
+son possessing an illegal firearm had shipped, transported, or re-
+ceived such in interstate commerce. “Under our decisions, a statu-
+tory presumption cannot be sustained if there be no rational connection
+between the fact proved and the ultimate fact presumed, if the in-
+ference of the one from the proof of the other is arbitrary because
+of lack of connection between the two in common experience.”
+     In Leary v. United States,1127 this due process test was stiff-
+ened to require that, for such a “rational connection” to exist, it must
+“at least be said with substantial assurance that the presumed fact
+is more likely than not to flow from the proved fact on which it is
+made to depend.” Thus, the Court voided a provision that permit-
+ted a jury to infer from a defendant’s possession of marijuana his
+knowledge of its illegal importation. A lengthy canvass of factual
+materials established to the Court’s satisfaction that, although the
+      1123 Walton v. Arizona, 497 U.S. 639 (1990), overruled by Ring v. Arizona, 536
+
+U.S. 584 (2002).
+      1124 This limiting principle does not apply to sentencing enhancements based on
+
+recidivism. Apprendi, 530 U.S. at 490. As enhancement of sentences for repeat of-
+fenders is traditionally considered a part of sentencing, establishing the existence of
+previous valid convictions may be made by a judge, despite its resulting in a signifi-
+cant increase in the maximum sentence available. Almendarez-Torres v. United States,
+523 U.S. 224 (1998) (deported alien reentering the United States subject to a maxi-
+mum sentence of two years, but upon proof of felony record, is subject to a maxi-
+mum of twenty years). See also Parke v. Raley, 506 U.S. 20 (1992) (where prosecu-
+tor has burden of establishing a prior conviction, a defendant can be required to
+bear the burden of challenging the validity of such a conviction).
+      1125 See, e.g., Yee Hem v. United States, 268 U.S. 178 (1925) (upholding statute
+
+that proscribed possession of smoking opium that had been illegally imported and
+authorized jury to presume illegal importation from fact of possession); Manley v.
+Georgia, 279 U.S. 1 (1929) (invalidating statutory presumption that every insol-
+vency of a bank shall be deemed fraudulent).
+      1126 319 U.S. 463, 467–68 (1943). Compare United States v. Gainey, 380 U.S. 63
+
+(1965) (upholding presumption from presence at site of illegal still that defendant
+was “carrying on” or aiding in “carrying on” its operation), with United States v.
+Romano, 382 U.S. 136 (1965) (voiding presumption from presence at site of illegal
+still that defendant had possession, custody, or control of still).
+      1127 395 U.S. 6, 36 (1969).

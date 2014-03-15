@@ -1,0 +1,51 @@
+would necessarily presage the settling of the law.110 But the breadth
+of the various opinions not only left unclear the degree of discre-
+tion left in Congress to restructure the bankruptcy courts, but also
+placed in issue the constitutionality of other legislative efforts to
+establish adjudicative systems outside a scheme involving the cre-
+ation of life-tenured judges.111
+     Congress responded to Marathon by enactment of the Bank-
+ruptcy Amendments and Federal Judgeship Act of 1984.112 Bank-
+ruptcy courts were maintained as Article I entities, and overall their
+powers as courts were not notably diminished. However, Congress
+did establish a division between “core proceedings,” which could be
+heard and determined by bankruptcy courts, subject to lenient re-
+view, and other proceedings, which, though initially heard and de-
+cided by bankruptcy courts, could be reviewed de novo in the dis-
+trict court at the behest of any party, unless the parties had consented
+to bankruptcy-court jurisdiction in the same manner as core pro-
+ceedings. A safety valve was included, permitting the district court
+to withdraw any proceeding from the bankruptcy court on cause
+shown.113
+    Notice, however, that in Granfinanciera, S.A. v. Nordberg 114 the
+Court, evaluating the related issue of when a jury trial is required
+under the Seventh Amendment,115 found that a cause of action to
+avoid a fraudulent money transfer was founded on state law, and,
+although denominated a core proceeding by Congress, was actually
+a private right. Similarly, the Court in Stern v. Marshall 116 held
+that a counterclaim of tortuous interference with a gift, although
+made during a bankruptcy proceeding and statutorily deemed a core
+proceeding, was a state common law claim that did not fall under
+any of the public rights exceptions.117
+
+     110 Ex parte Bakelite Corp., 279 U.S. 438 (1929), was, after all, a unanimous
+
+opinion and did not long survive.
+     111 In particular, the Federal Magistrates Act of 1968, under which judges may
+
+refer certain pretrial motions and the trial of certain matters to persons appointed
+to a specific term, was threatened. Pub. L. 90–578, 82 Stat. 1108, as amended, 28
+U.S.C. §§ 631–639. See United States v. Radios, 447 U.S. 667 (1980); Mathews v.
+Weber, 423 U.S. 261 (1976).
+     112 Pub. L. 98–353, 98 Stat. 333, judiciary provisions at 28 U.S.C. §§ 151 et seq.
+     113 See 28 U.S.C. § 157.
+     114 492 U.S. 33 (1989).
+     115 See Seventh Amendment, Cases at Common law, infra.
+     116 564 U.S. ___, No. 10–179, slip op. (2011).
+     117 The Court noted that the claim “. . . is not a matter that can be pursued
+
+only by grace of the other branches . . . or one that ‘historically could have been
+determined exclusively by’ those branches . . . . It does not ‘depend[] on the will of
+Congress’s . . . ; Congress has nothing to do with it. [It] . . . does not flow from a
+federal statutory scheme . . . . [And it] is not ‘completely dependent upon’ adjudica-
+tion of a claim created by federal law . . . . ” 564 U.S. ___, No. 10–179, slip op. at

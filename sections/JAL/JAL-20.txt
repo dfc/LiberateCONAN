@@ -1,0 +1,55 @@
+     Pennsylvania v. Union Gas lasted less than seven years before
+the Court overruled it in Seminole Tribe of Florida v. Florida.95 Chief
+Justice Rehnquist, writing for a 5–4 majority, concluded Union Gas
+had deviated from a line of cases, tracing back to Hans v. Louisi-
+ana,96 that viewed the Eleventh Amendment as implementing the
+“fundamental principle of sovereign immunity [that] limits the grant
+of judicial authority in Article III.” 97 Because “the Eleventh Amend-
+ment restricts the judicial power under Article III, . . . Article I can-
+not be used to circumvent the constitutional limitations placed upon
+federal jurisdiction.” 98 Subsequent cases have upheld this interpre-
+tation.99
+    Section 5 of the Fourteenth Amendment, of course, is another
+matter. Fitzpatrick v. Bitzer,100 which was “based upon a rationale
+wholly inapplicable to the Interstate Commerce Clause, viz., that
+the Fourteenth Amendment, adopted well after the adoption of the
+Eleventh Amendment and the ratification of the Constitution, oper-
+ated to alter the pre-existing balance between state and federal power
+achieved by Article III and the Eleventh Amendment,” remains good
+law.101 This ruling has led to a significant number of cases that ex-
+amined whether a statute that might be applied against non-state
+actors under an Article I power, could also, under section 5 of the
+Fourteenth Amendment, be applied against the states.102
+     95 517 U.S. 44 (1996) (invalidating a provision of the Indian Gaming Regulatory
+
+Act authorizing an Indian tribe to sue a state in federal court to compel perfor-
+mance of a duty to negotiate in good faith toward the formation of a compact).
+     96 134 U.S. 1 (1890).
+     97 517 U.S. at 64 (quoting Pennhurst State School & Hosp. v. Halderman, 465
+
+U.S. 89, 97–98 (1984).
+     98 517 U.S. at 72–73. Justice Souter’s dissent undertook a lengthy refutation of
+
+the majority’s analysis, asserting that the Eleventh Amendment is best understood,
+in keeping with its express language, as barring only suits based on diversity of
+citizenship, and as having no application to federal question litigation. Moreover,
+Justice Souter contended, the state sovereign immunity that the Court mistakenly
+recognized in Hans v. Louisiana was a common law concept that “had no constitu-
+tional status and was subject to congressional abrogation.” 517 U.S. at 117. The Con-
+stitution made no provision for wholesale adoption of the common law, but, on the
+contrary, was premised on the view that common law rules would always be subject
+to legislative alteration. This “imperative of legislative control grew directly out of
+the Framers’ revolutionary idea of popular sovereignty.” Id. at 160.
+     99 College Savings Bank v. Florida Prepaid Postsecondary Educ. Expense Bd.,
+
+527 U.S. 666 (1999) (the Trademark Remedy Clarification Act, an amendment to
+the Lanham Act, did not validly abrogate state immunity); Florida Prepaid Postsec-
+ondary Educ. Expense Bd. v. College Savings Bank, 527 U.S. 627 (1999) (amend-
+ment to patent laws abrogating state immunity from infringement suits is invalid);
+Kimel v. Florida Bd. of Regents, 528 U.S. 62 (2000) (abrogation of state immunity in
+the Age Discrimination in Employment Act is invalid).
+     100 427 U.S. 445 (1976).
+     101 Seminole Tribe, 517 U.S. at 65–66.
+     102 See Fourteenth Amendment, Congressional Definition of Fourteenth Amend-
+
+ment Rights, infra.

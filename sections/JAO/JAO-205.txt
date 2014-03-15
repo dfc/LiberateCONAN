@@ -1,0 +1,53 @@
+     In United States v. Agurs,1092 the Court summarized and some-
+what expanded the prosecutor’s obligation to disclose to the de-
+fense exculpatory evidence in his possession, even in the absence of
+a request, or upon a general request, by defendant. First, as noted,
+if the prosecutor knew or should have known that testimony given
+to the trial was perjured, the conviction must be set aside if there
+is any reasonable likelihood that the false testimony could have af-
+fected the judgment of the jury.1093 Second, as established in Brady,
+if the defense specifically requested certain evidence and the pros-
+ecutor withheld it,1094 the conviction must be set aside if the sup-
+pressed evidence might have affected the outcome of the trial.1095
+Third (the new law created in Agurs), if the defense did not make
+a request at all, or simply asked for “all Brady material” or for “any-
+thing exculpatory,” a duty resides in the prosecution to reveal to
+the defense obviously exculpatory evidence. Under this third prong,
+if the prosecutor did not reveal the relevant information, reversal
+of a conviction may be required, but only if the undisclosed evi-
+dence creates a reasonable doubt as to the defendant’s guilt.1096
+    This tripartite formulation, however, suffered from two appar-
+ent defects. First, it added a new level of complexity to a Brady
+inquiry by requiring a reviewing court to establish the appropriate
+
+where prosecutor’s failure to disclose the result of a witness’ polygraph test would
+not have affected the outcome of the case). The beginning in Brady toward a gen-
+eral requirement of criminal discovery was not carried forward. See the division of
+opinion in Giles v. Maryland, 386 U.S. 66 (1967).
+     In Cone v. Bell, 556 U.S. ___, No. 07–1114, slip op. at 23, 27 (2009), the Court
+emphasized the distinction between the materiality of the evidence with respect to
+guilt and the materiality of the evidence with respect to punishment, and concluded
+that, although the evidence that had been suppressed was not material to the defen-
+dant’s conviction, the lower courts had erred in failing to assess its effect with re-
+spect to the defendant’s capital sentence.
+     1092 427 U.S. 97 (1976).
+     1093 427 U.S. at 103–04. This situation is the Mooney v. Holohan-type of case.
+     1094 A statement by the prosecution that it will “open its files” to the defendant
+
+appears to relieve the defendant of his obligation to request such materials. See Strickler
+v. Greene, 527 U.S. 263, 283–84 (1999); Banks v. Dretke, 540 U.S. 668, 693 (2004).
+     1095 427 U.S. at 104–06. This the Brady situation.
+     1096 427 U.S. at 106–14. This was the Agurs fact situation. Similarly, there is
+
+no obligation that law enforcement officials preserve breath samples that have been
+used in a breath-analysis test; to meet the Agurs materiality standard, “evidence
+must both possess an exculpatory value that was apparent before the evidence was
+destroyed, and be of such a nature that the defendant would be unable to obtain
+comparable evidence by other reasonably available means.” California v. Trombetta,
+467 U.S. 479, 489 (1984). See also Arizona v. Youngblood, 488 U.S. 51 (1988) (negli-
+gent failure to refrigerate and otherwise preserve potentially exculpatory physical
+evidence from sexual assault kit does not violate a defendant’s due process rights
+absent bad faith on the part of the police); Illinois v. Fisher, 540 U.S. 544 (2004)
+(per curiam) (the routine destruction of a bag of cocaine 11 years after an arrest,
+the defendant having fled prosecution during the intervening years, does not violate
+due process).

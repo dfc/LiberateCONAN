@@ -1,0 +1,53 @@
+ferral of ever-increasing grants of jurisdiction to enforce the guar-
+antees recognized and enacted by Congress.761
+    When a Case Arises Under.—The 1875 statute and its pres-
+ent form both speak of civil suits “arising under the Constitution,
+laws, or treaties of the United States,” 762 the language of the Con-
+stitution. Thus, many of the early cases relied heavily upon Chief
+Justice Marshall’s construction of the constitutional language to in-
+terpret the statutory language.763 The result was probably to ac-
+cept more jurisdiction than Congress had intended to convey.764 Later
+cases take a somewhat more restrictive course.
+    Determination whether there is federal question jurisdiction is
+made on the basis of the plaintiff ’s pleadings and not upon the re-
+sponse or the facts as they may develop.765 Plaintiffs seeking ac-
+cess to federal courts on this ground must set out a federal claim
+which is “well-pleaded” and the claim must be real and substantial
+and may not be without color of merit.766 Plaintiffs may not antici-
+pate that defendants will raise a federal question in answer to the
+action.767 But what exactly must be pleaded to establish a federal
+question is a matter of considerable uncertainty in many cases. It
+is no longer the rule that, when federal law is an ingredient of the
+claim, there is a federal question.768
+
+
+
+
+    761  For a brief summary, see Hart & Wechsler (6th ed.), supra at 743–748.
+    762  28 U.S.C. § 1331(a). The original Act was worded slightly differently.
+     763 Osborn v. Bank of the United States, 22 U.S. (9 Wheat.) 738 (1824). See also
+
+Cohens v. Virginia, 19 U.S. (6 Wheat.) 264, 379 (1821).
+     764 C. WRIGHT, HANDBOOK OF THE LAW OF FEDERAL COURTS § 17 (4th ed. 1983).
+     765 See generally Merrell Dow Pharmaceuticals, Inc. v. Thompson, 478 U.S. 804
+
+(1986); Franchise Tax Bd. v. Construction Laborers Vacation Trust, 463 U.S. 1 (1983).
+     766 Newburyport Water Co. v. City of Newburyport, 193 U.S. 561, 576 (1904);
+
+Levering & Garrigues Co. v. Morrin, 289 U.S. 103, 105 (1933); Binderup v. Pathe
+Exchange, 263 U.S. 291, 305–308 (1923). If the complaint states a case arising un-
+der the Constitution or federal law, then federal jurisdiction exists even though on
+the merits the party may have no federal right. In such a case, the proper course
+for the court is to dismiss for failure to state a claim on which relief can be granted
+rather than for want of jurisdiction. Bell v. Hood, 327 U.S. 678 (1946). Of course,
+dismissal for lack of jurisdiction is proper if the federal claim is frivolous or obvi-
+ously insubstantial. Levering & Garrigues Co. v. Morrin, 289 U.S. 103, 105 (1933).
+     767 Louisville & N.R.R. v. Mottley, 211 U.S. 149 (1908). See Skelly Oil Co. v.
+
+Phillips Petroleum Co., 339 U.S. 667 (1950); Phillips Petroleum Co. v. Texaco, Inc.,
+415 U.S. 125 (1974).
+     768 Such was the rule derived from Osborn v. Bank of the United States, 22 U.S.
+
+(9 Wheat.) 738 (1824). See Franchise Tax Board v. Construction Laborers Vacation
+Trust, 463 U.S. 1 (1983); Merrell Dow Pharmaceuticals, Inc. v. Thompson, 478 U.S.
+804 (1986).

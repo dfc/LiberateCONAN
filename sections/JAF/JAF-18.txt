@@ -1,0 +1,49 @@
+port for a mistrial order can be found in the trial record, no specific
+statement of “manifest necessity” need be made by the trial judge.84
+    Emphasis upon the trial judge’s discretion has an impact upon
+the cases in which it is the judge’s error, in granting sua sponte a
+mistrial or granting the prosecutor’s motion. The cases are in doc-
+trinal disarray. Thus, in Gori v. United States,85 the Court permit-
+ted retrial of the defendant when the trial judge had, on his own
+motion and with no indication of the wishes of defense counsel, de-
+clared a mistrial because he thought the prosecutor’s line of ques-
+tioning was intended to expose the defendant’s criminal record, which
+would have constituted prejudicial error. Although the Court thought
+that the judge’s action was an abuse of discretion, it approved re-
+trial on the grounds that the judge’s decision had been taken for
+defendant’s benefit. This rationale was disapproved in the next case,
+in which the trial judge discharged the jury erroneously and in abuse
+of his discretion, because he disbelieved the prosecutor’s assurance
+that certain witnesses had been properly apprised of their constitu-
+tional rights.86 Refusing to permit retrial, the Court observed that
+the “doctrine of manifest necessity stands as a command to trial
+judges not to foreclose the defendant’s option [to go to the first jury
+and perhaps obtain an acquittal] until a scrupulous exercise of ju-
+dicial discretion leads to the conclusion that the ends of public jus-
+tice would not be served by a continuation of the proceedings.” 87
+The later cases appear to accept Jorn as an example of a case where
+the trial judge “acts irrationally or irresponsibly.” But if the trial
+judge acts deliberately, giving prosecution and defense the opportu-
+nity to explain their positions, and according respect to defendant’s
+interest in concluding the matter before the one jury, then he is
+
+     84 “Manifest necessity” characterizes the burden the prosecutor must shoulder
+
+in justifying retrial. 434 U.S. at 505–06. But “necessity” cannot be interpreted liter-
+ally; it means rather a “high degree” of necessity, and some instances, such as hung
+juries, easily meet that standard. Id. at 506–07. In a situation like that presented
+in this case, great deference must be paid to the trial judge’s decision because he
+was in the best position to determine the extent of the possible bias, having ob-
+served the jury’s response, and to respond by the course he deems best suited to
+deal with it. Id. at 510–14. Here, “the trial judge acted responsibly and deliberately,
+and accorded careful consideration to respondent’s interest in having the trial con-
+cluded in a single proceeding. . . . [H]e exercised ‘sound discretion.’ . . . ” Id. at 516.
+     85 367 U.S. 364 (1961). See also United States v. Tateo, 377 U.S. 463 (1964)
+
+(reprosecution permitted after the setting aside of a guilty plea found to be involun-
+tary because of coercion by the trial judge).
+     86 United States v. Jorn, 400 U.S. 470, 483 (1971).
+     87 400 U.S. at 485. The opinion of the Court was by a plurality of four, but two
+
+other Justices joined it after first arguing that jurisdiction was lacking to hear the
+government’s appeal.

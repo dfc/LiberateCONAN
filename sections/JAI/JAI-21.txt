@@ -1,0 +1,56 @@
+     The proscription against a mandatory death penalty has also
+received elaboration. The Court invalidated statutes making death
+the mandatory sentence for persons convicted of first-degree mur-
+der of a police officer,96 and for prison inmates convicted of murder
+while serving a life sentence without possibility of parole.97 If, how-
+ever, actual sentencing authority is conferred on the trial judge, then
+it is not unconstitutional for a statute to require a jury to return a
+non-dispositive death “sentence” upon convicting for specified crimes.98
+Flaws related to those attributed to mandatory sentencing statutes
+were found in a state’s structuring of its capital system to deny the
+jury the option of convicting on a lesser included offense, when do-
+ing so would be justified by the evidence.99 Because the jury had to
+choose between conviction or acquittal, the statute created the risk
+that the jury would convict because it felt the defendant deserved
+to be punished or acquit because it believed death was too severe
+for the particular crime, when at that stage the jury should concen-
+
+volved torture, depravity of mind, or an aggravated battery to the victim”); Proffitt
+v. Florida, 428 U.S. 242, 255 (1976) (upholding “especially heinous, atrocious or cruel”
+aggravating circumstance as interpreted to include only “the conscienceless or piti-
+less crime which is unnecessarily torturous to the victim”); Sochor v. Florida, 504
+U.S. 527 (1992) (impermissible vagueness of “heinousness” factor cured by narrow-
+ing interpretation including strangulation of a conscious victim); Arave v. Creech,
+507 U.S. 463 (1993) (consistent application of narrowing construction of phrase “ex-
+hibited utter disregard for human life” to require that the defendant be a “cold-
+blooded, pitiless slayer” cures vagueness); Bell v. Cone, 543 U.S. 447 (2005) (presump-
+tion that state supreme court applied a narrowing construction because it had done
+so numerous times).
+     96 Roberts v. Louisiana, 431 U.S. 633 (1977) (per curiam) (involving a different
+
+defendant from the first Roberts v. Louisiana case, 428 U.S. 325 (1976).
+     97 Sumner v. Shuman, 483 U.S. 66 (1987).
+     98 Baldwin v. Alabama, 472 U.S. 372 (1985) (mandatory jury death sentence saved
+
+by requirement that trial judge independently weigh aggravating and mitigating fac-
+tors and determine sentence). The constitutionality of this approach has been brought
+into question, however, by the Court’s decision in Ring v. Arizona, 536 U.S. 584 (2002)
+that a judge’s finding of facts constituting aggravating circumstances violates the
+defendant’s right to trial by jury.
+     99 Beck v. Alabama, 447 U.S. 625 (1980). The statute made the guilt determina-
+
+tion “depend . . . on the jury’s feelings as to whether or not the defendant deserves
+the death penalty, without giving the jury any standards to guide its decision on
+this issue.” Id. at 640. Cf. Hopper v. Evans, 456 U.S. 605 (1982). No such constitu-
+tional infirmity is present, however, if failure to instruct on lesser included offenses
+is due to the defendant’s refusal to waive the statute of limitations for those lesser
+offenses. Spaziano v. Florida, 468 U.S. 447 (1984). See Hopkins v. Reeves, 524 U.S.
+88 (1998) (defendant charged with felony murder did not have right to instruction
+as to second degree murder or manslaughter, where Nebraska traditionally did not
+consider these lesser included offenses). See also Schad v. Arizona, 501 U.S. 624 (1991)
+(first-degree murder defendant, who received instruction on lesser included offense
+of second-degree murder, was not entitled to a jury instruction on the lesser in-
+cluded offense of robbery). In Schad the Court also upheld Arizona’s characteriza-
+tion of first degree murder as a single crime encompassing two alternatives, premedi-
+tated murder and felony-murder, and not requiring jury agreement on which alternative
+had occurred.

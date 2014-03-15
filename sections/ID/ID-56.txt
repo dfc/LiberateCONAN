@@ -1,0 +1,56 @@
+conclusive in habeas on all issues of fact or law actually adjudi-
+cated.294 A federal prisoner in a § 2255 proceeding will file his mo-
+tion in the court that sentenced him; 295 a state prisoner in a fed-
+eral habeas action may file either in the district of the court in which
+he was sentenced or in the district in which he is in custody.296
+     Habeas corpus is not a substitute for an appeal.297 It is not a
+method to test ordinary procedural errors at trial or violations of
+state law but only to challenge alleged errors which if established
+would go to make the entire detention unlawful under federal law.298
+If, after appropriate proceedings, the habeas court finds that on the
+facts discovered and the law applied the prisoner is entitled to re-
+lief, it must grant it, ordinarily ordering the government to release
+the prisoner unless he is retried within a certain period.299
+
+Congressional Limitation of the Injunctive Power
+    Although some judicial dicta 300 support the idea of an inherent
+power of the federal courts sitting in equity to issue injunctions in-
+dependently of statutory limitations, neither the course taken by
+Congress nor the specific rulings of the Supreme Court support any
+such principle. Congress has repeatedly exercised its power to limit
+the use of the injunction in federal courts. The first limitation on
+the equity jurisdiction of the federal courts is to be found in § 16 of
+the Judiciary Act of 1789, which provided that no equity suit should
+     294 28 U.S.C. § 2244(c). But an affirmance of a conviction by an equally divided
+
+Court is not an adjudication on the merits. Neil v. Biggers, 409 U.S. 188 (1972).
+     295 28 U.S.C. § 2255.
+     296 28 U.S.C. § 2241(d). Cf. Braden v. 30th Judicial Circuit Court, 410 U.S. 484
+
+(1973), overruling Ahrens v. Clark, 335 U.S. 188 (1948), and holding that a peti-
+tioner may file in the district in which his custodian is located even though the pris-
+oner may be located elsewhere.
+     297 Glasgow v. Moyer, 225 U.S. 420, 428 (1912); Riddle v. Dyche, 262 U.S. 333,
+
+335 (1923); Eagles v. United States ex rel. Samuels, 329 U.S. 304, 311 (1946). But
+compare Brown v. Allen, 344 U.S. 443, 558–560 (1953) (Justice Frankfurter dissent-
+ing in part).
+     298 Estelle v. McGuire, 502 U.S. 62 (1991); Lewis v. Jeffers, 497 U.S. 764, 780
+
+(1990); Pulley v. Harris, 465 U.S. 37, 41–42 (1984).
+     299 8 U.S.C. § 2244(b). See Whiteley v. Warden, 401 U.S. 560, 569 (1971); Irvin
+
+v. Dowd, 366 U.S. 717, 729 (1961).
+     300 In United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 339 (1906),
+
+Justice Brewer, speaking for the Court, approached a theory of inherent equity ju-
+risdiction when he declared: “The principles of equity exist independently of and an-
+terior to all Congressional legislation, and the statutes are either enunciations of
+those principles or limitations upon their application in particular cases.” It should
+be emphasized, however, that the Court made no suggestion that it could apply pre-
+existing principles of equity without jurisdiction over the subject matter. Indeed, the
+inference is to the contrary. In a dissenting opinion in which Justices McKenna and
+Van Devanter joined, in Paine Lumber Co. v. Neal, 244 U.S. 459, 475 (1917), Justice
+Pitney contended that Article III, § 2, “had the effect of adopting equitable remedies
+in all cases arising under the Constitution and laws of the United States where such
+remedies are appropriate.”

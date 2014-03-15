@@ -1,0 +1,50 @@
+v. Wisconsin Right to Life (WRTL II),902 the Court considered what
+standard should be used for such a challenge. Chief Justice Rob-
+erts, in the controlling opinion,903 rejected the suggestion that an
+issue ad broadcast during the specified periods before elections should
+be considered the “functional equivalent” of express advocacy if the
+“intent and effect” of the ad was to influence the voter’s decision in
+an election.904 Rather, Chief Justice Roberts’ opinion held that an
+issue ad is the functional equivalent of express advocacy only if the
+ad is “susceptible of no reasonable interpretation other than as an
+appeal to vote for or against a specific candidate.” 905
+    Then came the case of Citizens United v. FEC,906 which signifi-
+cantly altered the Supreme Court’s jurisprudence on corporations
+and election law. In Citizens United, a non-profit corporation re-
+leased a film critical of then-Senator Hillary Clinton, a candidate
+in the Democratic Party’s 2008 Presidential primary elections, and
+sought to make it available to cable television subscribers within
+30 days of that primary. The case began as another as-applied chal-
+lenge to BCRA, but the Court asked for reargument, and, in a 5–4
+decision, not only struck down the limitations on electioneering com-
+munication on its face (overruling McConnell) but also rejected the
+use of the antidistortion rationale (overruling Austin).
+    In Citizens United, the Court argued that there was a tension
+between the right of corporations to engage in political speech, as
+articulated in Bellotti and its progeny, and the limitations on such
+speech allowed in Austin to avoid the disproportionate economic power
+of corporations. Reasoning that the Court had rejected similar at-
+tempts to level the playing field among differing voices with dispa-
+rate economic resources,907 the Court held that the premise that
+    902  127 S. Ct. 2652 (2007).
+    903  Only Justice Alito joined Parts III and IV of Chief Justice Roberts’ opinion,
+which addressed the issue of as-applied challenges to BCRA. Justices Scalia (joined
+by Kennedy and Thomas) concurred in the judgment, but would have overturned
+McConnell and struck down BCRA’s limits on issue advocacy on its face.
+     904 The suggestion was made that an “intent and effect” standard had been en-
+
+dorsed by the Court in McConnell, which stated that “[t]he justifications for the regu-
+lation of express advocacy apply equally to ads aired during those periods if the ads
+are intended to influence the voters’ decisions and have that effect.” 540 U.S. at 206.
+While acknowledging that an evaluation of the “intent and effect” had been relevant
+to the rejection of a facial challenge, Chief Justice Roberts’ opinion in WRTL II de-
+nied that such a standard had been endorsed for as-applied challenges. 127 S. Ct.
+at 2664–66.
+     905 127 S. Ct. at 2667.
+     906 558 U.S. ___, No. 08–205, slip op. (2010).
+     907 See Buckley, 424 U.S. at 49 (First Amendment’s protections do not depend
+
+on the speaker’s “financial ability to engage in public discussion.”); Davis v. Federal
+Election Commission, 554 U.S. ___, No. 07–320, slip op. (2008) (invalidating the cap
+on contributions to one candidate if the opponent made certain expenditures from
+personal funds.

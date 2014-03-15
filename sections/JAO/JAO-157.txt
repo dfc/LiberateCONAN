@@ -1,0 +1,49 @@
+Whether the case signals a shift away from evidentiary hearing re-
+quirements in the context of regulatory adjudication will depend on
+future developments.835
+    A delay in retrieving money paid to the government is unlikely
+to rise to the level of a violation of due process. In City of Los An-
+geles v. David,836 a citizen paid a $134.50 impoundment fee to re-
+trieve an automobile that had been towed by the city. When he sub-
+sequently sought to challenge the imposition of this impoundment
+fee, he was unable to obtain a hearing until 27 days after his car
+had been towed. The Court held that the delay was reasonable, as
+the private interest affected—the temporary loss of the use of the
+money—could be compensated by the addition of an interest pay-
+ment to any refund of the fee. Further factors considered were that
+a 30-day delay was unlikely to create a risk of significant factual
+errors, and that shortening the delay significantly would be admin-
+istratively burdensome for the city.
+    In another respect, the balancing standard of Mathews has re-
+sulted in states’ having wider flexibility in determining what pro-
+cess is required. For instance, in an alteration of previously exist-
+ing law, no hearing is required if a state affords the claimant an
+adequate alternative remedy, such as a judicial action for damages
+or breach of contract.837 Thus, the Court, in passing on the inflic-
+tion of corporal punishment in the public schools, held that the ex-
+istence of common-law tort remedies for wrongful or excessive ad-
+ministration of punishment, plus the context in which the punishment
+was administered (i.e., the ability of the teacher to observe directly
+the infraction in question, the openness of the school environment,
+the visibility of the confrontation to other students and faculty, and
+the likelihood of parental reaction to unreasonableness in punish-
+ment), made reasonably assured the probability that a child would
+not be punished without cause or excessively.838 The Court did not,
+however, inquire about the availability of judicial remedies for such
+violations in the state in which the case arose.839
+
+     835 For analysis of the case’s implications, see Rakoff, Brock v. Roadway Ex-
+
+press, Inc., and the New Law of Regulatory Due Process, 1987 SUP. CT. REV. 157.
+     836 538 U.S. 715 (2003).
+     837 See, e.g., Lujan v. G & G Fire Sprinklers, Inc., 523 U.S. 189 (2001) (breach
+
+of contract suit against state contractor who withheld payment to subcontractor based
+on state agency determination of noncompliance with Labor Code sufficient for due
+process purposes).
+     838 Ingraham v. Wright, 430 U.S. 651, 680–82 (1977).
+     839 Ingraham v. Wright, 430 U.S. 651, 680–82 (1977). In Memphis Light, Gas &
+
+Water Div. v. Craft, 436 U.S. 1, 19–22 (1987), involving cutoff of utility service for
+non-payment of bills, the Court rejected the argument that common-law remedies
+were sufficient to obviate the pre-termination hearing requirement.

@@ -1,0 +1,51 @@
+an exercise at large by providing the courts with some measure against
+which to judge the official action that has been challenged.” 105
+    The only two instances in which the Court has found an uncon-
+stitutional delegation to a public entity have involved grants of dis-
+cretion that the Court found to be unbounded, hence standardless.
+Thus, in Panama Refining Co. v. Ryan,106 the President was autho-
+rized to prohibit the shipment in interstate commerce of “hot oil”—
+oil produced in excess of state quotas. Nowhere—not in the lan-
+guage conferring the authority, nor in the “declaration of policy,”
+nor in any other provision—did the statute specify a policy to guide
+the President in determining when and under what circumstances
+to exercise the power.107 Although the scope of granted authority in
+Panama Refining was narrow, the grant in A. L. A. Schechter Poul-
+try Corp. v. United States 108 was sweeping. The National Indus-
+trial Recovery Act devolved on the executive branch the power to
+formulate codes of “fair competition” for all industry in order to pro-
+mote “the policy of this title.” The policy was “to eliminate unfair
+competitive practices, to promote the fullest possible utilization of
+the present productive capacity of industries, . . . and otherwise to
+rehabilitate industry. . . .” 109 Though much of the opinion is writ-
+ten in terms of the failure of these policy statements to provide mean-
+ingful standards, the Court was also concerned with the delega-
+tion’s vast scope—the “virtually unfettered” discretion conferred on
+the President of “enacting laws for the government of trade and in-
+dustry throughout the country.” 110
+
+    105  Arizona v. California, 373 U.S. 546, 626 (1963) (Justice Harlan, dissenting).
+    106  293 U.S. 388 (1935).
+     107 The Court, in the view of many observers, was influenced heavily by the fact
+
+that the President’s orders were nowhere published and notice of regulations bear-
+ing criminal penalties for their violations was spotty at best. Cf. E. CORWIN, THE PRESI-
+DENT: OFFICE AND POWERS 1787–1957 394–95 (4th ed. 1958). The result of the Govern-
+ment’s discomfiture in Court was enactment of the Federal Register Act, 49 Stat.
+500 (1935), 44 U.S.C. § 301, providing for publication of Executive Orders and agency
+regulations in the daily Federal Register.
+     108 295 U.S. 495 (1935).
+     109 48 Stat. 195 (1933), Tit. I, § 1.
+     110 295 U.S. at 542. A delegation of narrower scope led to a different result in
+
+Fahey v. Mallonee, 332 U.S. 245, 250 (1947), the Court finding explicit standards
+unnecessary because “[t]he provisions are regulatory” and deal with but one enter-
+prise, banking, the problems of which are well known and the authorized remedies
+as equally well known. “A discretion to make regulations to guide supervisory ac-
+tion in such matters may be constitutionally permissible while it might not be allow-
+able to authorize creation of new crimes in uncharted fields.” The Court has re-
+cently explained that “the degree of agency discretion that is acceptable varies according
+to the scope of the power congressionally conferred.” Whitman v. American Trucking
+Ass’ns, 531 U.S. 457, 475 (2001) (Congress need not provide “any direction” to EPA
+in defining “country elevators,” but “must provide substantial guidance on setting
+air standards that affect the entire national economy”).

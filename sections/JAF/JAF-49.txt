@@ -1,0 +1,53 @@
+after Brown v. Walker were transactional immunity statutes,244 the
+question of the constitutional sufficiency of use immunity did not
+arise, although dicta in cases dealing with immunity continued to
+assert the necessity of the former type of grant.245 But, beginning
+in 1964, when it applied the Self-Incrimination Clause to the states,
+the Court was faced with the problem that arose because a state
+could grant immunity only in its own courts and not in the courts
+of another state or of the United States.246 On the other hand, to
+foreclose the states from compelling testimony because they could
+not immunize a witness in a subsequent “foreign” prosecution would
+severely limit state law enforcement efforts. Therefore, the Court
+emphasized the “use” restriction rationale of Counselman and an-
+nounced that as a “constitutional rule, a state witness could not be
+compelled to incriminate himself under federal law unless federal
+authorities were precluded from using either his testimony or evi-
+dence derived from it,” and thus formulated a use restriction to that
+effect.247 Then, while refusing to adopt the course because of statu-
+tory interpretation reasons, the Court indicated that use restric-
+tion in a federal regulatory scheme requiring the reporting of in-
+criminating information was “in principle an attractive and apparently
+practical resolution of the difficult problem before us,” citing Mur-
+phy with apparent approval.248
+
+     244 Kastigar v. United States, 406 U.S. 441, 457–58 (1972); Piccirillo v. New York,
+
+400 U.S. 548, 571 (1971) (Justice Brennan dissenting). The exception was an immu-
+nity provision of the bankruptcy laws, 30 Stat. 548 (1898), 11 U.S.C. § 25(a)(10),
+repealed by 84 Stat. 931 (1970). The right of a bankrupt to insist on his privilege
+against self-incrimination as against this statute was recognized in McCarthy v.
+Arndstein, 266 U.S. 34, 42 (1924), “because the present statute fails to afford com-
+plete immunity from a prosecution.” The statute also failed to prohibit the use of
+derivative evidence. Arndstein v. McCarthy, 254 U.S. 71 (1920).
+     245 E.g., Hale v. Henkel, 201 U.S. 43, 67 (1906); United States v. Monia, 317
+
+U.S. 424, 425, 428 (1943); Smith v. United States, 337 U.S. 137, 141, 146 (1949);
+United States v. Murdock, 284 U.S. 141, 149 (1931); Adams v. Maryland, 347 U.S.
+179, 182 (1954). In Ullmann v. United States, 350 U.S. 422, 436–37 (1956), Justice
+Frankfurter described the holding of Counselman as relating to the absence of a
+prohibition on the use of derivative evidence.
+     246 Malloy v. Hogan, 378 U.S. 1 (1964), extended the clause to the states. That
+
+Congress could immunize a federal witness from state prosecution and, of course,
+extend use immunity to state courts, was held in Adams v. Maryland, 347 U.S. 179
+(1954), and had been recognized in Brown v. Walker, 161 U.S. 591 (1896).
+     247 Murphy v. Waterfront Comm’n, 378 U.S. 52, 77–99 (1964). Concurring, Jus-
+
+tices White and Stewart argued at length in support of the constitutional sufficiency
+of use immunity and the lack of a constitutional requirement of transactional immu-
+nity. Id. at 92. See also Gardner v. Broderick, 392 U.S. 273 (1968); Uniformed Sani-
+tation Men Ass’n v. Commissioner of Sanitation, 392 U.S. 280 (1968); Garrity v. New
+Jersey, 385 U.S. 493 (1967), recognizing the propriety of compelling testimony with
+a use restriction attached.
+     248 Marchetti v. United States, 390 U.S. 39, 58 (1968).

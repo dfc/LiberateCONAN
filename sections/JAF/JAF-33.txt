@@ -1,0 +1,55 @@
+unless the prosecution in the second trial had to prove failing to
+reduce speed to establish this particular offense.159 In 1990, the Court
+modified the Brown approach, stating that the appropriate focus is
+on same conduct rather than same evidence.160 That interpretation
+held sway only three years, however, before being repudiated as “wrong
+in principle [and] unstable in application.” 161 The Brown Court had
+noted some limitations applicable to its holding,162 and more have
+emerged subsequently. Principles appropriate in the “classically simple”
+lesser-included-offense and related situations are not readily trans-
+posable to “multilayered conduct” governed by the law of con-
+spiracy and continuing criminal enterprise, and it remains the law
+that “a substantive crime and a conspiracy to commit that crime
+are not the ‘same offense’ for double jeopardy purposes.” 163 For double
+jeopardy purposes, a defendant is “punished . . . only for the of-
+fense of which [he] is convicted”; a later prosecution or later punish-
+ment is not barred simply because the underlying criminal activity
+has been considered at sentencing for a different offense.164 Simi-
+larly, recidivism-based sentence enhancement does not constitute mul-
+
+
+    159  Illinois v. Vitale, 447 U.S. 410 (1980).
+    160  Grady v. Corbin, 495 U.S. 508 (1990) (holding that the state could not pros-
+ecute a traffic offender for negligent homicide because it would attempt to prove con-
+duct for which the defendant had already been prosecuted—driving while intoxi-
+cated and failure to keep to the right of the median). A subsequent prosecution is
+barred, the Court explained, if the government, to establish an essential element of
+an offense, will prove conduct that constitutes an offense for which the defendant
+has already been prosecuted. Id. at 521.
+     161 United States v. Dixon, 509 U.S. 688, 709 (1993) (applying Blockburger test
+
+to determine whether prosecution for a crime, following conviction for criminal con-
+tempt for violation of a court order prohibiting that crime, constitutes double jeop-
+ardy).
+     162 The Court suggested that if the legislature had provided that joyriding is a
+
+separate offense for each day the vehicle is operated without the owner’s consent, so
+that the two indictments each specifying a different date on which the offense oc-
+curred would have required different proof, the result might have been different,
+but this, of course, met the Blockburger problem. Brown v. Ohio, 432 U.S. 161, 169
+n.8 (1977). The Court also suggested that an exception might be permitted where
+the State is unable to proceed on the more serious charge at the outset because the
+facts necessary to sustain that charge had not occurred or had not been discovered.
+Id. at 169 n.7. See also Jeffers v. United States, 432 U.S. 137, 150–54 (1977) (plural-
+ity opinion) (exception where defendant elects separate trials); Ohio v. Johnson, 467
+U.S. 493 (1984) (trial court’s acceptance of guilty plea to lesser included offense and
+dismissal of remaining charges over prosecution’s objections does not bar subse-
+quent prosecution on those “remaining” counts).
+     163 United States v. Felix, 503 U.S. 378, 389 (1992). The fact that Felix consti-
+
+tuted a “large exception” to Grady was one of the reasons the Court cited in overrul-
+ing Grady. United States v. Dixon, 509 U.S. 688, 709–10 (1993).
+     164 Witte v. United States, 515 U.S. 389 (1995) (consideration of defendant’s al-
+
+leged cocaine dealings in determining sentence for marijuana offenses does not bar
+subsequent prosecution on cocaine charges).

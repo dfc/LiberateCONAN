@@ -1,0 +1,53 @@
+office.874 The Court had previously passed on several opportunities
+to assess this restriction,875 and one of the dissents in Bellotti noted
+the potential conflict.876 While the dissent’s concerns were ulti-
+mately realized in Citizens United v. FEC,877 it was only after many
+years of the Court either distinguishing Bellotti or applying it nar-
+rowly.
+     During that interim, the Court first considered challenges to dif-
+ferent aspects of the federal statute and to related state statutes,
+upholding some restrictions on corporate electoral activities, but lim-
+iting others. In FEC v. National Right to Work Committee,878 the
+Court considered the operation of “separate segregated funds” (in
+common parlance, a Political Action Committee or “PAC”), through
+which, according to federal law, corporations can engage in speci-
+fied political activities. The Court unanimously upheld a prohibi-
+tion on a corporation soliciting money from other corporations for a
+PAC in order to make contributions or expenditures in relation to
+federal elections. Relying on Bellotti for the proposition that the gov-
+ernment may act to prevent “both actual corruption and the appear-
+ance of corruption of elected representatives,” the Court saw no rea-
+son that Congress could not, in its legislative judgment, treat unions,
+corporations, and similar organizations differently from individu-
+als.879
+     However, an exception to this general principle was recognized
+by a divided Court in FEC v. Massachusetts Citizens for Life, Inc.,880
+holding the section’s requirement that independent expenditures be
+     874 2 U.S.C. § 441b. The provision began as § 313 of the Federal Corrupt Prac-
+
+tices Act of 1925, 43 Stat. 1074, prohibiting contributions by corporations. It was
+made temporarily applicable to labor unions in the War Labor Disputes Act of 1943,
+57 Stat. 167, and became permanently applicable in § 304 of the Taft-Hartley Act.
+61 Stat. 159.
+     875 All three cases involved labor unions and were decided on the basis of statu-
+
+tory interpretation, apparently informed with some constitutional doubts. United States
+v. CIO, 335 U.S. 106 (1948); United States v. United Automobile Workers, 352 U.S.
+567 (1957); Pipefitters v. United States, 407 U.S. 385 (1972).
+     876 Bellotti, 435 U.S. at 811–12 (Justice White dissenting). The majority opin-
+
+ion, however, saw several distinctions between the federal law and the law at issue
+in Bellotti. The Court emphasized that Bellotti was a referendum case, not a case
+involving corporate expenditures in the context of partisan candidate elections, in
+which the problem of corruption of elected representatives was a weighty problem.
+“Congress might well be able to demonstrate the existence of a danger of real or
+apparent corruption in independent expenditures by corporations to influence candi-
+date elections.” Id. at 787–88 & n.26.
+     877 558 U.S. ___, No. 08–205, slip op. (2010).
+     878 459 U.S. 197 (1982).
+     879 459 U.S. at 210–11.
+     880 479 U.S. 238 (1986). Justice Brennan’s opinion for the Court was joined by
+
+Justices Marshall, Powell, O’Connor, and Scalia; Chief Justice Rehnquist, author of
+the Court’s opinion in National Right to Work Comm., dissented from the constitu-
+tional ruling, and was joined by Justices White, Blackmun, and Stevens.

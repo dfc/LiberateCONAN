@@ -1,0 +1,45 @@
+             Justices dissenting (except as to standing and mootness): Stevens, Souter, Ginsberg,
+               Breyer
+
+171. Act of July 30, 2002 (Pub. L. 107–204, Title I, §§ 101(e)(6), 107(d)(3),
+    116 Stat. 750; 15 U.S.C.S. §§ 7211(e)(6) and 7217(d)(3))
+           Two provisions of the Sarbanes-Oxley Act, providing that mem-
+      bers of the Public Company Accounting Oversight Board could only be
+      removed by the Commissioners of the Securities and Exchange Com-
+      mission “for good cause shown” and “in accordance with” specified pro-
+      cedures, violated the Constitution’s separation of powers. Because the
+      removal decision was vested in Commissioners who themselves were
+      protected from removal by the President absent a showing of “ineffi-
+      ciency, neglect of duty, or malfeasance in office,” the Court held that
+      the dual for-cause limitations on the removal of Board members with-
+      drew from the President any decision on whether that good cause ex-
+      isted.
+             Free Enterprise Fund v. Public Company Accounting Oversight Bd., 561 U.S.
+               ___, No. 08–861, slip op. (2010).
+             Justices concurring: Roberts, C.J., Scalia, Thomas, Kennedy, Alito
+             Justices dissenting: Stevens, Breyer, Ginsburg, Sotomayor
+
+172. Act of May 27, 2003 (Pub. L. 108–25, Title III, § 301(f), 117 Stat. 711,
+    734; 22 U.S.C.S. § 7631(f))
+           A condition on the provision of federal funds intended to combat
+      HIV/AIDS requiring a recipient to have a policy “explicitly opposing
+      prostitution and sex trafficking” is a violation of First Amendment free
+      speech rights.While the government can ensure it is not funding speech
+      which conflicts with the purposes of a grant, the requirement here im-
+      properly affected the recipient’s protected conduct outside of the fed-
+      eral program. The organization could not avoid the requirement by es-
+      tablishing an affiliate to engage in opposing advocacy because of the
+      “evident hypocrisy” that would entail.
+             Agency for International Development v. Alliance for Open Society Int’l, 570 U.S.
+               ___, No. 12–10, slip op. (2013).
+             Justices concurring: Roberts, C.J., Kennedy, Ginsburg, Breyer, Alito, Sotomayor
+             Justices dissenting: Scalia, Thomas
+
+173. Act of April 30, 2003 (Pub. L. 108–21, §§ 401(a)(1), 401(d)(2), 117 Stat.
+    667, 670; 18 U.S.C. §§ 3553(b)(1), 3742(e))
+           Two provisions of the Sentencing Reform Act, one that makes the
+      Guidelines mandatory and one that sets forth standards governing ap-
+      peals of departures from the mandatory Guidelines, are invalidated.
+      The Sixth Amendment right to a jury trial limits sentence enhance-
+      ments that courts may impose pursuant to the Guidelines.
+             United States v. Booker, 543 U.S. 220 (2005).

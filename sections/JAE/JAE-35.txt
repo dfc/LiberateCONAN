@@ -1,0 +1,55 @@
+tions, “must take care to assure that [searches] are conducted in a
+manner that minimizes unwarranted intrusions upon privacy.” 169
+     Although Andresen was concerned with business records, its dis-
+cussion seemed equally applicable to “personal” papers, such as dia-
+ries and letters, as to which a much greater interest in privacy ex-
+ists. The question of the propriety of seizure of such papers continues
+to be the subject of reservation in opinions,170 but it is far from clear
+that the Court would accept any such exception should the issue
+be presented.171
+     Execution of Warrants.—The Fourth Amendment’s “general
+touchstone of reasonableness . . . governs the method of execution
+of the warrant.” 172 Until recently, however, most such issues have
+been dealt with by statute and rule.173 It was a rule at common
+law that before an officer could break and enter he must give no-
+tice of his office, authority, and purpose and must in effect be re-
+fused admittance,174 and until recently this has been a statutory
+requirement in the federal system 175 and generally in the states.
+In Ker v. California,176 the Court considered the rule of announce-
+ment as a constitutional requirement, although a majority there found
+circumstances justifying entry without announcement.
+     In Wilson v. Arkansas,177 the Court determined that the com-
+mon law “knock and announce” rule is an element of the Fourth
+Amendment reasonableness inquiry. The rule is merely a presump-
+tion, however, that yields under various circumstances, including
+those posing a threat of physical violence to officers, those in which
+     169 427 U.S. at 482, n.11. Minimization, as required under federal law, has not
+
+proved to be a significant limitation. Scott v. United States, 425 U.S. 917 (1976).
+     170 E.g., United States v. Miller, 425 U.S. 435, 440, 444 (1976); Fisher v. United
+
+States, 425 U.S. 391, 401 (1976); California Bankers Ass’n v. Shultz, 416 U.S. 21,
+78–79 (1974) (Justice Powell concurring).
+     171 See, Note, Formalism, Legal Realism, and Constitutionally Protected Privacy
+
+Under the Fourth and Fifth Amendments, 90 HARV. L. REV. 945 (1977).
+     172 United States v. Ramirez, 523 U.S. 65, 71 (1998).
+     173 Rule 41(c), Federal Rules of Criminal Procedure, provides, inter alia, that
+
+the warrant shall command its execution in the daytime, unless the magistrate “for
+reasonable cause shown” directs in the warrant that it be served at some other time.
+See Jones v. United States, 357 U.S. 493, 498–500 (1958); Gooding v. United States,
+416 U.S. 430 (1974). A separate statutory rule applies to narcotics cases. 21 U.S.C.
+§ 879(a).
+     174 Semayne’s Case, 5 Coke’s Rep. 91a, 77 Eng. Rep. 194 (K.B. 1604).
+     175 18 U.S.C. § 3109. See Miller v. United States, 357 U.S. 301 (1958); Wong Sun
+
+v. United States, 371 U.S. 471 (1963).
+     176 374 U.S. 23 (1963). Ker was an arrest warrant case, but no reason appears
+
+for differentiating search warrants. Eight Justices agreed that federal standards should
+govern and that the rule of announcement was of constitutional stature, but they
+divided 4-to-4 whether entry in this case had been pursuant to a valid exception.
+Justice Harlan who had dissented from the federal standards issue joined the four
+finding a justifiable exception to carry the result.
+     177 514 U.S. 927 (1995).

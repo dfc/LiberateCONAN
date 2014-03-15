@@ -1,0 +1,52 @@
+be a noteworthy case,912 or whether it was rather a “warning shot”
+across the bow of Congress, urging more restraint in the exercise
+of power or more care in the drafting of laws, was not immediately
+clear. The Court’s decision five years later in United States v. Mor-
+rison,913 however, suggests that stricter scrutiny of Congress’s com-
+merce power exercises is the chosen path, at least for legislation
+that falls outside the area of economic regulation.914 The Court will
+no longer defer, via rational basis review, to every congressional find-
+ing of substantial effects on interstate commerce, but instead will
+examine the nature of the asserted nexus to commerce, and will
+also consider whether a holding of constitutionality is consistent with
+its view of the commerce power as being a limited power that can-
+not be allowed to displace all exercise of state police powers.
+     In Morrison the Court applied Lopez principles to invalidate a
+provision of the Violence Against Women Act (VAWA) that created
+a federal cause of action for victims of gender-motivated violence.
+Gender-motivated crimes of violence “are not, in any sense of the
+phrase, economic activity,” 915 the Court explained, and there was
+allegedly no precedent for upholding commerce-power regulation of
+intrastate activity that was not economic in nature. The provision,
+like the invalidated provision of the Gun-Free School Zones Act, con-
+tained no jurisdictional element tying the regulated violence to in-
+terstate commerce. Unlike the Gun-Free School Zones Act, the VAWA
+did contain “numerous” congressional findings about the serious ef-
+fects of gender-motivated crimes,916 but the Court rejected reliance
+on these findings. “The existence of congressional findings is not suf-
+ficient, by itself, to sustain the constitutionality of Commerce Clause
+
+     912 “Not every epochal case has come in epochal trappings.” 514 U.S. at 615 (Jus-
+
+tice Souter dissenting) (wondering whether the case is only a misapplication of es-
+tablished standards or is a veering in a new direction).
+     913 529 U.S. 598 (2000). Once again, the Justices were split 5–4, with Chief Jus-
+
+tice Rehnquist’s opinion of the Court being joined by Justices O’Connor, Scalia, Ken-
+nedy, and Thomas, and with Justices Souter, Stevens, Ginsburg, and Breyer dissent-
+ing.
+     914 For an expansive interpretation in the area of economic regulation, decided
+
+during the same Term as Lopez, see Allied-Bruce Terminix Cos. v. Dobson, 513 U.S.
+265 (1995). Lopez did not “purport to announce a new rule governing Congress’s Com-
+merce Clause power over concededly economic activity.” Citizens Bank v. Alafabco,
+Inc., 539 U.S. 52, 58 (2003).
+     915 529 U.S. at 613.
+     916 Dissenting Justice Souter pointed to a “mountain of data” assembled by Con-
+
+gress to show the effects of domestic violence on interstate commerce. 529 U.S. at
+628–30. The Court has evidenced a similar willingness to look behind congressional
+findings purporting to justify exercise of enforcement power under section 5 of the
+Fourteenth Amendment. See discussion under “enforcement,” infra. In Morrison it-
+self, the Court determined that congressional findings were insufficient to justify the
+VAWA as an exercise of Fourteenth Amendment power. 529 U.S. at 619–20.

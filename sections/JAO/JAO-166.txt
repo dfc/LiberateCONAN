@@ -1,0 +1,52 @@
+by no agents whatsoever.886 The Due Process Clause was declared
+not to “forbid a State to protect its citizens from such injustice” of
+having to file suits on their claims at a far distant home office of
+such company, especially in view of the fact that such suits could
+be more conveniently tried in Virginia where claims of loss could
+be investigated.887
+     Likewise, the Court reviewed a California statute which sub-
+jected foreign mail order insurance companies engaged in contracts
+with California residents to suit in California courts, and which had
+authorized the petitioner to serve a Texas insurer by registered mail
+only.888 The contract between the company and the insured speci-
+fied that Austin, Texas, was the place of “making” and the place
+where liability should be deemed to arise. The company mailed pre-
+mium notices to the insured in California, and he mailed his pre-
+mium payments to the company in Texas. Acknowledging that the
+connection of the company with California was tenuous—it had no
+office or agents in the state and no evidence had been presented
+that it had solicited anyone other than the insured for business—
+the Court sustained jurisdiction on the basis that the suit was on a
+contract which had a substantial connection with California. “The
+contract was delivered in California, the premiums were mailed there
+and the insured was a resident of that State when he died. It can-
+not be denied that California has a manifest interest in providing
+effective means of redress for its residents when their insurers re-
+fuse to pay claims.” 889
+     886 Travelers Health Ass’n v. Virginia ex rel. State Corp. Comm’n, 339 U.S. 643
+
+(1950). The decision was 5-to-4 with one of the majority Justices also contributing a
+concurring opinion. Id. at 651 (Justice Douglas). The possible significance of the con-
+currence is that it appears to disagree with the implication of the majority opinion,
+id. at 647–48, that a state’s legislative jurisdiction and its judicial jurisdiction are
+coextensive. Id. at 652–53 (distinguishing between the use of the state’s judicial power
+to enforce its legislative powers and the judicial jurisdiction when a private party is
+suing). See id. at 659 (dissent).
+     887 339 U.S. at 647–49. The holding in Minnesota Commercial Men’s Ass’n v.
+
+Benn, 261 U.S. 140 (1923), that a similar mail order insurance company could not
+be viewed as doing business in the forum state and that the circumstances under
+which its contracts with forum state citizens, executed and to be performed in its
+state of incorporation, were consummated could not support an implication that the
+foreign company had consented to be sued in the forum state, was distinguished
+rather than formally overruled. 339 U.S. at 647. In any event, Benn could not have
+survived McGee v. International Life Ins. Co., 355 U.S. 220 (1957), below.
+     888 McGee v. International Life Ins. Co., 355 U.S. 220 (1957).
+     889 355 U.S. at 223. The Court also noticed the proposition that the insured could
+
+not bear the cost of litigation away from home as well as the insurer. See also Perkins
+v. Benguet Consolidating Mining Co., 342 U.S. 437 (1952), a case too atypical on its
+facts to permit much generalization but which does appear to verify the implication
+of International Shoe that in personam jurisdiction may attach to a corporation even
+where the cause of action does not arise out of the business done by defendant in
+the forum state, as well as to state, in dictum, that the mere presence of a corpo-

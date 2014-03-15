@@ -1,0 +1,53 @@
+    Due process considerations can also come into play in sentenc-
+ing if the state attempts to withhold relevant information from the
+jury. For instance, inSimmons v. South Carolina, the Court held
+that due process requires that if prosecutor makes an argument for
+the death penalty based on the future dangerousness of the defen-
+dant to society, the jury must then be informed if the only alterna-
+tive to a death sentence is a life sentence without possibility of pa-
+role.1172 But, in Ramdass v. Angelone,1173 the Court refused to apply
+the reasoning of Simmons because the defendant was not techni-
+cally parole ineligible at time of sentencing.
+    A defendant should not be penalized for exercising a right to
+appeal. Thus, it is a denial of due process for a judge to sentence a
+convicted defendant on retrial to a longer sentence than he re-
+ceived after the first trial if the object of the sentence is to punish
+the defendant for having successfully appealed his first conviction
+or to discourage similar appeals by others.1174 If the judge does im-
+pose a longer sentence the second time, he must justify it on the
+record by showing, for example, the existence of new information
+meriting a longer sentence.1175
+    Because the possibility of vindictiveness in resentencing is de
+minimis when it is the jury that sentences, however, the require-
+ment of justifying a more severe sentence upon resentencing is in-
+applicable to jury sentencing, at least in the absence of a showing
+that the jury knew of the prior vacated sentence.1176 The presump-
+tion of vindictiveness is also inapplicable if the first sentence was
+imposed following a guilty plea. Here the Court reasoned that a trial
+
+     1172 512 U.S. 154 (1994). See also Shafer v. South Carolina, 532 U.S. 36 (2001)
+
+(amended South Carolina law still runs afoul of Simmons).
+     1173 530 U.S. 156 (2000).
+     1174 North Carolina v. Pearce, 395 U.S. 711 (1969). Pearce was held to be nonretroac-
+
+tive in Michigan v. Payne, 412 U.S. 47 (1973). When a state provides a two-tier court
+system in which one may have an expeditious and somewhat informal trial in an
+inferior court with an absolute right to trial de novo in a court of general criminal
+jurisdiction if convicted, the second court is not bound by the rule in Pearce, be-
+cause the potential for vindictiveness and inclination to deter is not present. Colten
+v. Kentucky, 407 U.S. 104 (1972). But see Blackledge v. Perry, 417 U.S. 21 (1974),
+discussed supra.
+     1175 An intervening conviction on other charges for acts committed prior to the
+
+first sentencing may justify imposition of an increased sentence following a second
+trial. Wasman v. United States, 468 U.S. 559 (1984).
+     1176 Chaffin v. Stynchcombe, 412 U.S. 17 (1973). The Court concluded that the
+
+possibility of vindictiveness was so low because normally the jury would not know
+of the result of the prior trial nor the sentence imposed, nor would it feel either the
+personal or institutional interests of judges leading to efforts to discourage the seek-
+ing of new trials. Justices Stewart, Brennan, and Marshall thought the principle
+was applicable to jury sentencing and that prophylactic limitations appropriate to
+the problem should be developed. Id. at 35, 38. Justice Douglas dissented on other
+grounds. Id. at 35. The Pearce presumption that an increased, judge-imposed second

@@ -1,0 +1,52 @@
+fer taxes to gifts or bequests of nonresidents; 3) allocation of the
+income of multi-jurisdictional entities for tax purposes; 4) the scope
+of state authority to tax income of nonresidents; and 5) collection
+of state use taxes.
+    The Court’s opinions in these cases have often discussed due
+process and dormant commerce clause issues as if they were indis-
+tinguishable.414 A later decision, Quill Corp. v. North Dakota,415 how-
+ever, used a two-tier analysis that found sufficient contact to sat-
+isfy due process but not dormant commerce clause requirements.
+In Quill,416 the Court struck down a state statute requiring an out-
+of-state mail order company with neither outlets nor sales represen-
+tatives in the state to collect and transmit use taxes on sales to
+state residents, but did so based on Commerce Clause rather than
+due process grounds. Taxation of an interstate business does not
+offend due process, the Court held, if that business “purposefully
+avails itself of the benefits of an economic market in the [taxing]
+State . . . even if it has no physical presence in the State.” 417 Thus,
+Quill may be read as implying that the more stringent Commerce
+Clause standard subsumes due process jurisdictional issues, and that
+consequently these due process issues need no longer be separately
+considered.418 This interpretation has yet to be confirmed, however,
+and a detailed review of due process precedents may prove useful.
+    Real Property.—Even prior to the ratification of the Four-
+teenth Amendment, it was a settled principle that a state could not
+tax land situated beyond its limits. Subsequently elaborating upon
+that principle, the Court has said that, “we know of no case where
+     414 For discussion of the relationship between the taxation of interstate com-
+
+merce and the dormant commerce clause, see Taxation, supra.
+     415 504 U.S. 298 (1992).
+     416 504 U.S. 298 (1992).
+     417 The Court had previously held that the requirement in terms of a benefit is
+
+minimal. Commonwealth Edison Co. v. Montana, 453 U.S. 609 (1981), (quoting
+Carmichael v. Southern Coal & Coke Co., 301 U.S. 495, 521–23 (1937)). It is satis-
+fied by a “minimal connection” between the interstate activities and the taxing State
+and a rational relationship between the income attributed to the State and the in-
+trastate values of the enterprise. Mobil Oil Corp. v. Commissioner of Taxes, 445 U.S.
+425, 436–37 (1980); Moorman Mfg. Co. v. Bair, 437 U.S. 267, 272–73 (1978). See
+especially Standard Pressed Steel Co. v. Department of Revenue, 419 U.S. 560, 562
+(1975); National Geographic Soc’y v. California Bd. of Equalization, 430 U.S. 551
+(1977).
+     418 A physical presence within the state is necessary, however, under the Com-
+
+merce Clause analysis applicable to taxation of mail order sales. See Quill Corp. v.
+North Dakota, 504 U.S. at 309–19 (refusing to overrule the Commerce Clause rul-
+ing in National Bellas Hess, Inc. v. Department of Revenue, 386 U.S. 753, 756 (1967)).
+See also Trinova Corp. v. Michigan Dep’t of Treasury, 498 U.S. 358 (1991) (neither
+the Commerce Clause nor the Due Process Clause is violated by application of a
+business tax, measured on a value added basis, to a company that manufactures
+goods in another state, but that operates a sales office and conducts sales within
+state).

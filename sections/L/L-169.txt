@@ -1,0 +1,43 @@
+924. Rice v. Cayetano, 528 U.S. 495 (2000).
+           A provision of the Hawaii Constitution restricting the right to vote
+      for trustees of the Office of Hawaiian Affairs to persons who are descen-
+      dants of people inhabiting the Hawaiian Islands in 1778 is a race-
+      based voting qualification that violates the Fifteenth Amendment. An-
+      cestry can be—and in this case is—a proxy for race.
+             Justices concurring: Kennedy, Rehnquist, C.J., O’Connor, Scalia, Thomas
+             Justices concurring specially: Breyer, Souter
+             Justices dissenting: Stevens, Ginsburg
+
+925. Carmell v. Texas,529 U.S. 513 (2000).
+          A Texas law that eliminated a requirement that the testimony of
+      a sexual assault victim age 14 or older must be corroborated by two
+      other witnesses violates the Ex Post Facto Clause of Art. I, § 10 as
+      applied to a crime committed while the earlier law was in effect. So
+      applied, the law falls into the category of an ex post facto law that
+      requires less evidence in order to convict. Under the old law, the peti-
+      tioner could have been convicted only if the victim’s testimony had been
+      corroborated by two witnesses, while under the amended law the peti-
+      tioner was convicted on the victim’s testimony alone.
+             Justices concurring: Stevens, Scalia, Souter, Thomas, Breyer
+             Justices dissenting: Ginsburg, Rehnquist, C.J., O’Connor, Kennedy
+
+926. Troxel v. Granville,530 U.S. 57 (2000).
+           A Washington State law allowing “any person” to petition a court
+      “at any time” to obtain visitation rights whenever visitation “may serve
+      the best interests” of a child is unconstitutional as applied to an order
+      requiring a parent to allow her child’s grandparents more extensive
+      visitation than the parent wished. Because no deference was accorded
+      to the parent’s wishes, the parent’s due process liberty interest in mak-
+      ing decisions concerning her child’s care, custody, and control was vio-
+      lated.
+             Justices concurring: O’Connor, Rehnquist, C.J., Ginsburg, Breyer
+             Justices concurring specially: Souter, Thomas
+             Justices dissenting: Stevens, Scalia, Kennedy
+
+927. Apprendi v. New Jersey, 530 U.S. 466 (2000).
+          A New Jersey “hate crime” statute that allows a judge to extend a
+      sentence upon finding by a preponderance of the evidence that the de-
+      fendant, in committing a crime for which he has been found guilty,
+      acted with a purpose to intimidate because of race, violates the Four-
+      teenth Amendment’s Due Process Clause and the Sixth Amendment’s
+      requirements of speedy and public trial by an impartial jury. Any fact

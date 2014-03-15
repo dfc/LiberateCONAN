@@ -1,0 +1,58 @@
+insurance for purposes of state laws “purporting to regulate” insur-
+ance companies or insurance contracts.1170 Interpretation of the pro-
+visions has resulted in contentious and divided Court opinions.1171
+    Also illustrative of the judicial difficulty with ambiguous pre-
+emption language are the fractured opinions in Cipollone, in which
+the Court had to decide whether sections of the Federal Cigarette
+Labeling and Advertising Act, enacted in 1965 and 1969, pre-
+empted state common-law actions against a cigarette company for
+the alleged harm visited on a smoker.1172 The 1965 provision barred
+
+     1170 29 U.S.C. §§ 1144(a), 1144(b)(2)(A), 1144(b)(2)(B). The Court has described
+
+this section as a “virtually unique pre-emption provision.” Franchise Tax Bd. v. Con-
+struction Laborers Vacation Trust, 463 U.S. 1, 24 n.26 (1983). See Ingersoll-Rand
+Co. v. McClendon, 498 U.S. 133, 138–139 (1990); see also id. at 142–45 (describing
+and applying another preemption provision of ERISA).
+     1171 Ingersoll-Rand Co. v. McClendon, 498 U.S. 133 (1990) (ERISA preempts state
+
+common-law claim of wrongful discharge to prevent employee attaining benefits un-
+der plan covered by ERISA); FMC Corp. v. Holliday, 498 U.S. 52 (1990) (provision of
+state motor-vehicle financial-responsibility law barring subrogation and reimburse-
+ment from claimant’s tort recovery for benefits received from a self-insured health-
+care plan preempted by ERISA); Fort Halifax Packing Co. v. Coyne, 482 U.S. 1 (1987)
+(state law requiring employers to provide a one-time severance payment to employ-
+ees in the event of a plant closing held not preempted by 5–4 vote); Metropolitan
+Life Ins. Co. v. Massachusetts, 471 U.S. 724 (1985) (state law mandating that cer-
+tain minimum mental-health-care benefits be provided to those insured under gen-
+eral health-insurance policy or employee health-care plan is a law “which regulates
+insurance” and is not preempted); Shaw v. Delta Air Lines, 463 U.S. 85 (1983) (state
+law forbidding discrimination in employee benefit plans on the basis of pregnancy
+not preempted, because of another saving provision in ERISA, and provision requir-
+ing employers to pay sick-leave benefits to employees unable to work because of preg-
+nancy not preempted under construction of coverage sections, but both laws “relate
+to” employee benefit plans); Alessi v. Raybestos-Manhattan, Inc., 451 U.S. 504 (1981)
+(state law prohibiting plans from reducing benefits by amount of workers’ compensa-
+tion awards “relates to” employee benefit plan and is preempted); District of Colum-
+bia v. Greater Washington Bd. of Trade, 506 U.S. 125 (1992) (law requiring employ-
+ers to provide health insurance coverage, equivalent to existing coverage, for workers
+receiving workers’ compensation benefits); John Hancock Mutual Life Ins. Co. v. Har-
+ris Trust and Savings Bank, 510 U.S. 86 (1993) (ERISA’s fiduciary standards, not
+conflicting state insurance laws, apply to insurance company’s handling of general
+account assets derived from participating group annuity contract); New York State
+Conf. of Blue Cross & Blue Shield Plans v. Travelers Ins. Co., 514 U.S. 645 (1995)
+(no preemption of statute that required hospitals to collect surcharges from patients
+covered by a commercial insurer but not from patients covered by Blue Cross/Blue
+Shield plan); De Buono v. NYSA–ILA Medical and Clinical Services Fund, 520 U.S.
+806 (1997); California Div. of Labor Standards Enforcement v. Dillingham Construc-
+tion, Inc., 519 U.S. 316 (1997); Boggs v. Boggs, 520 U.S. 833 (1997) (decided not on
+the basis of the express preemption language but instead by implied preemption analy-
+sis); Aetna Health, Inc. v. Davila, 542 U.S. 200 (2004) (suit brought against HMO
+under state health care liability act for failure to exercise ordinary care when deny-
+ing benefits is preempted).
+     1172 Cipollone v. Liggett Group, 505 U.S. 504 (1992). The decision relied on two
+
+controversial rules of construction. First, the courts should interpret narrowly provi-
+sions that purport to preempt state police-power regulations, and, second, that when
+a law has express preemption language courts should look only to that language
+and presume that when the preemptive reach of a law is defined Congress did not

@@ -1,0 +1,50 @@
+duties, but rather was a punishment for past offenses.2021 A similar
+oath required of suitors in the courts also was held void.2022
+    Changes in Punishment.—Justice Chase in Calder v. Bull gave
+an alternative description of the four categories of ex post facto laws,
+two of which related to punishment. One such category was laws
+that inflict punishment “where the party was not, by law, liable to
+any punishment”; the other was laws that inflict greater punish-
+ment than was authorized when the crime was committed.2023
+    Illustrative of the first of these punishment categories is “a law
+enacted after expiration of a previously applicable statute of limita-
+tions period [as] applied to revive a previously time-barred prosecu-
+tion.” Such a law, the Court ruled in Stogner v. California,2024 is
+prohibited as ex post facto. Courts that had upheld extension of un-
+expired statutes of limitation had been careful to distinguish situa-
+tions in which the limitations periods have expired. The Court viewed
+revival of criminal liability after the law had granted a person “ef-
+fective amnesty” as being “unfair” in the sense addressed by the
+Ex Post Facto Clause.
+    Illustrative of the second punishment category are statutes, all
+applicable to offenses committed prior to their enactment, that changed
+an indeterminate sentence law to require a judge to impose the maxi-
+mum sentence,2025 that required solitary confinement for prisoners
+previously sentenced to death,2026 and that allowed a warden to fix,
+within limits of one week, and keep secret the time of execu-
+tion.2027 Because it made more onerous the punishment for crimes
+committed before its enactment, a law that altered sentencing guide-
+lines to make it more likely that the sentencing authority would
+impose on a defendant a more severe sentence than was previously
+likely and making it impossible for the defendant to challenge the
+sentence was ex post facto as to one who had committed the offense
+prior to the change.2028 The Court adopted similar reasoning as re-
+gards changes in the U.S. Sentencing Guidelines: even though the
+    2021  Cummings v. Missouri, 71 U.S. (4 Wall.) 277, 316 (1867).
+    2022  Pierce v. Carskadon, 83 U.S. (16 Wall.) 234, 237–39 (1873).
+     2023 3 U.S. (3 Dall.) 386, 389 (1798).
+     2024 539 U.S. 607, 632–33 (2003) (invalidating application of California’s law to
+
+revive child abuse charges 22 years after the limitations period had run for the al-
+leged crimes).
+     2025 Lindsey v. Washington, 301 U.S. 397 (1937). But note the limitation of Lind-
+
+sey in Dobbert v. Florida, 432 U.S. 282, 298–301 (1977).
+     2026 Holden v. Minnesota, 137 U.S. 483, 491 (1890).
+     2027 Medley, Petitioner, 134 U.S. 160, 171 (1890).
+     2028 Miller v. Florida, 482 U.S. 423 (1987). But see California Dep’t of Correc-
+
+tions v. Morales, 514 U.S. 499 (1995) (a law amending parole procedures to decrease
+frequency of parole-suitability hearings is not ex post facto as applied to prisoners
+who committed offenses before enactment). The opinion modifies previous opinions
+that had held some laws impermissible because they operated to the disadvantage

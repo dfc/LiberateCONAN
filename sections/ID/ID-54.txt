@@ -1,0 +1,54 @@
+proceedings—here, Combatant Status Review Tribunals or (CSRTs)—
+rather than proceedings before a court of law.282 The Court also ex-
+pressed concern that the detentions had, in some cases, lasted as
+long as six years without significant judicial oversight.283 The Court
+further noted the limitations at the CSRT stage on a detainee’s abil-
+ity to find and present evidence to challenge the government’s case,
+the unavailability of assistance of counsel, the inability of a de-
+tainee to access certain classified government records which could
+contain critical allegations against him, and the admission of hear-
+say evidence. While reserving judgment as to whether the CSRT
+process itself comports with due process, the Court found that the
+appeals process for these decisions, assigned to the United States
+Court of Appeals for the District of Columbia, did not contain the
+means necessary to correct errors occurring in the CSRT pro-
+cess.284
+     Habeas Corpus: The Process of the Writ.—A petition for a
+writ of habeas corpus is filed by or on behalf of a person in “cus-
+tody,” a concept which has been expanded so much that it is no lon-
+ger restricted to actual physical detention in jail or prison.285 The
+writ acts upon the custodian, not the prisoner, so the issue under
+the jurisdictional statute is whether the custodian is within the dis-
+trict court’s jurisdiction.286 Traditionally, the proceeding could not
+be used to secure an adjudication of a question which if deter-
+mined in the petitioner’s favor would not result in his immediate
+     282 Under the Detainee Treatment Act, Pub. L. 109–148, Title X, Congress granted
+
+only a limited appeal right to determination made by the Executive Branch as to
+“(I) whether the status determination of [a] Combatant Status Review Tribunal . . .
+was consistent with the standards and procedures specified by the Secretary of De-
+fense . . . and (ii) to the extent the Constitution and laws of the United States are
+applicable, whether the use of such standards and procedures to make the determi-
+nation is consistent with the Constitution and laws of the United States.” § 1005(e)(2)(C).
+     283 128 S. Ct. at 2263, 2275.
+     284 The Court focused in particular on the inability of the reviewing court to
+
+admit and consider relevant exculpatory evidence that was not introduced in the
+prior proceeding. The Court also listed other potential constitutional infirmities in
+the review process, including the absence of provisions empowering the D.C. Circuit
+to order release from detention, and not permitting petitioners to challenge the Presi-
+dent’s authority to detain them indefinitely.
+     285 28 U.S.C. §§ 2241(c), 2254(a). “Custody” does not mean one must be con-
+
+fined; a person on parole or probation is in custody. Jones v. Cunningham, 371 U.S.
+236 (1963). A person on bail or on his own recognizance is in custody, Justices of
+Boston Mun. Court v. Lydon, 466 U.S. 294, 300–301 (1984); Lefkowitz v. Newsome,
+420 U.S. 283, 291 n.8 (1975); Hensley v. Municipal Court, 411 U.S. 345 (1973), and
+Braden v. 30th Judicial Circuit Court, 410 U.S. 484 (1973), held that an inmate of
+an Alabama prison was also sufficiently in the custody of Kentucky authorities who
+had lodged a detainer with Alabama to obtain the prisoner upon his release.
+     286 Braden v. 30th Judicial Circuit Court, 410 U.S. 484, 494–95 (1973) (issue is
+
+whether “the custodian can be reached by service of process”). See also Rasul v. Bush,
+542 U.S. 466 (2004) (federal district court for District of Columbia had jurisdiction
+of habeas petitions from prisoners held at U.S. Naval base at Guantanamo Bay, Cuba);

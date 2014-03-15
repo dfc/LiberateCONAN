@@ -1,0 +1,41 @@
+208. Boyle v. United Technologies Corp., 487 U.S. 500 (1988).
+           Virginia tort law governing product design defects is preempted
+      by federal common law as applied to suits against government contrac-
+      tors for damages resulting from design defects in military equipment
+      if the equipment conformed to reasonably precise specifications and if
+      the contractor warned the government of known dangers.
+             Justices concurring: Scalia, White, O’Connor, Kennedy, Rehnquist, C.J.
+             Justices dissenting: Brennan, Marshall, Blackmun, Stevens
+
+209. Bonito Boats, Inc. v. Thunder Craft Boats, Inc., 489 U.S. 141 (1989).
+           A Florida statute prohibiting the use of the direct molding pro-
+      cess to duplicate unpatented boat hulls, and creating a cause of action
+      in favor of the original manufacturer, is preempted by federal patent
+      law as conflicting with the balance Congress has struck between pat-
+      ent protection and free trade in industrial design.
+
+210. Davis v. Michigan Dep’t of Treasury, 489 U.S. 803 (1989).
+          Michigan’s income tax law, by providing exemption for retirement
+      benefits of state employees but not for retirement benefits of Federal
+      employees, discriminates against federal employees in violation of 4
+      U.S.C. § 111 and in violation of the constitutional doctrine of intergov-
+      ernmental tax immunity.
+             Justices concurring: Kennedy, Brennan, White, Marshall, Blackmun, O’Connor,
+               Scalia, Rehnquist, C.J.
+             Justice dissenting: Stevens
+
+211. FMC Corp. v. Holliday, 498 U.S. 52 (1990).
+           A provision of Pennsylvania’s motor vehicle financial responsibil-
+      ity law prohibiting subrogation and reimbursement from a claimant’s
+      tort recovery for benefits received from a self-insured health care plan
+      is preempted by ERISA as “relat[ing] to [an] employee benefit plan.”
+             Justices concurring: O’Connor, White, Marshall, Blackmun, Scalia, Kennedy,
+               Rehnquist, C.J.
+             Justice dissenting: Stevens
+
+212. Ingersoll-Rand Co. v. McClendon, 498 U.S. 133 (1990).
+           A Texas common law claim that an employee was wrongfully dis-
+      charged to prevent his attainment of benefits under a plan covered by
+      ERISA is preempted as a “State law” that “relates to” a covered ben-
+      efit plan. The state cause of action also “conflicts directly” with an ex-
+      clusive ERISA cause of action.

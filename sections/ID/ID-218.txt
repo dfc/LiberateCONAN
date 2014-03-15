@@ -1,0 +1,55 @@
+tions about legislative denials of jurisdiction for judicial review of
+constitutional issues and construing statutes so as not to deny ju-
+risdiction.1212
+    Ex parte McCardle 1213 marks the farthest advance of congres-
+sional imposition of its will on the federal courts, and it is signifi-
+cant because the curb related to the availability of the writ of ha-
+beas corpus, which is marked out with special recognition by the
+Constitution.1214
+     But how far did McCardle actually reach? In concluding its opin-
+ion, the Court carefully observed: “Counsel seem to have supposed,
+if effect be given to the repealing act in question, that the whole
+appellate power of the court, in cases of habeas corpus, is denied.
+But this is an error. The act of 1868 does not exempt from that
+jurisdiction any cases but appeals from Circuit Courts under the
+act of 1867. It does not affect the jurisdiction which was previously
+exercised.” 1215 A year later, in Ex parte Yerger,1216 the Court held
+that it did have authority under the Judiciary Act of 1789 to re-
+view on certiorari a denial by a circuit court of a petition for writ
+of habeas corpus on behalf of one held by the military in the South.
+It thus remains unclear whether the Court would have followed its
+language suggesting plenary congressional control if the effect had
+been to deny absolutely an appeal from a denial of a writ of habeas
+corpus.1217
+
+     1212 Johnson v. Robison, 415 U.S. 361, 366–367 (1974); Weinberger v. Salfi, 422
+
+U.S. 749, 762 (1975); Bowen v. Michigan Academy of Family Physicians, 476 U.S.
+667, 681 n.12 (1986); Webster v. Doe, 486 U.S. 592, 603 (1988). In the last cited
+case, Justice Scalia attacked the reservation and argued for nearly complete congres-
+sional discretion. Id. at 611–15 (concurring).
+     1213 74 U.S. (7 Wall) 506 (1869). For the definitive analysis of the case, see Van
+
+Alstyne, A Critical Guide to Ex Parte McCardle, 15 ARIZ. L. REV. 229 (1973).
+     1214 Article I, § 9, cl. 2.
+     1215 Ex parte McCardle, 74 U.S. (7 Wall.) 506, 515 (1869). A restrained reading
+
+of McCardle is strongly suggested by Felker v. Turpin, 518 U.S. 651 (1996). A 1996
+congressional statute giving to federal courts of appeal a “gate-keeping” function over
+the filing of second or successive habeas petitions limited further review, including
+denying the Supreme Court appellate review of circuit court denials of motions to
+file second or successive habeas petitions. Pub. L. 104–132, § 106, 110 Stat. 1214,
+1220, amending 28 U.S.C. § 2244(b). Upholding the limitation, which was nearly iden-
+tical to the congressional action at issue in McCardle and Yerger, the Court held
+that its jurisdiction to hear appellate cases had been denied, but, just as in Yerger,
+the statute did not annul the Court’s jurisdiction to hear habeas petitions filed as
+original matters in the Supreme Court. No constitutional issue was thus presented.
+     1216 75 U.S. (8 Wall.) 85 (1869). Yerger is fully reviewed in C. FAIRMAN, HISTORY OF
+
+THE SUPREME COURT OF THE UNITED STATES: VOL. VI, PT. I: RECONSTRUCTION AND REUNION,
+1864–88 (New York: 1971), 558–618.
+     1217 Cf. Eisentrager v. Forrestal, 174 F.2d 961, 966 (D.C.Cir. 1949), rev’d on other
+
+grounds sub nom. Johnson v. Eisentrager, 339 U.S. 763 (1950). Justice Douglas, with
+whom Justice Black joined, said in Glidden Co. v. Zdanok, 370 U.S. 530, 605 n.11
+(1962) (dissenting opinion): “There is a serious question whether the McCardle case

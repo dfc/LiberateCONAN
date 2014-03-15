@@ -1,0 +1,52 @@
+question of the merits of the original case by a plea of “nil debet.”
+It was answered in the words of the first implementing statute of
+1790 5 that such records and proceedings were entitled in each state
+to the same faith and credit as in the state of origin, and that, as
+they were records of a court in the state of origin, and so conclu-
+sive of the merits of the case there, they were equally so in the
+forum state. The Court found that it had not been the intention of
+the Constitution merely to reenact the common law—that is, the
+principles of private international law—with regard to the recep-
+tion of foreign judgments, but to amplify and fortify these.6 Some
+years later, in Hampton v. McConnell,7 Chief Justice Marshall went
+even further, using language that seems to show that he regarded
+the judgment of a state court as constitutionally entitled to be ac-
+corded in the courts of sister states not simply the faith and credit
+on conclusive evidence but the validity of final judgment.
+    When, however, the next important case arose, the Court had
+come under new influences. This case was McElmoyle v. Cohen,8 in
+which the issue was whether a statute of limitations of the State of
+Georgia, which applied only to judgments obtained in courts other
+than those of Georgia, could constitutionally bar an action in Geor-
+gia on a judgment rendered by a court of record of South Carolina.
+Declining to follow Marshall’s lead in Hampton v. McConnell, the
+Court held that the Constitution was not intended “materially to
+interfere with the essential attributes of the lex fori,” that the act
+of Congress only established a rule of evidence—of conclusive evi-
+dence to be sure, but still of evidence only; and that it was neces-
+     5 Chap. XI, 1 Stat. 122 (“records and judicial proceedings authenticated as afore-
+
+said, shall have such faith and credit given to them in every court within the United
+States, as they have by law or usage in the courts of the state from whence the said
+records are or shall be taken”).
+     6 On the same basis, a judgment cannot be impeached either in or out of the
+
+state by showing that it was based on a mistake of law. American Express Co. v.
+Mullins, 212 U.S. 311, 312 (1909). Fauntleroy v. Lum, 210 U.S. 230 (1908); Hartford
+Life Ins. Co. v. Ibs, 237 U.S. 662 (1915); Hartford Life Ins. Co. v. Barber, 245 U.S.
+146 (1917).
+     7 16 U.S. (3 Wheat.) 234 (1818).
+     8 38 U.S. (13 Pet.) 312 (1839). See also Townsend v. Jemison, 50 U.S. (9 How.)
+
+407, 413–20 (1850); Bank of Alabama v. Dalton, 50 U.S. (9 How.) 522, 528 (1850);
+Bacon v. Howard, 61 U.S. (20 How.) 22, 25 (1858); Christmas v. Russell, 72 U.S. (5
+Wall.) 290, 301 (1866); Wisconsin v. Pelican Ins. Co., 127 U.S. 265, 292 (1888); Great
+Western Tel. Co. v. Purdy, 162 U.S. 329 (1896); Wells v. Simonds Abrasive Co., 345
+U.S. 514, 516–18 (1953). Subsequently, the Court reconsidered and adhered to the
+rule of these cases, although the Justices divided with respect to rationales. Sun Oil
+Co. v. Wortman, 486 U.S. 717 (1988). Acknowledging that in some areas it had treated
+statutes of limitations as substantive rules, such as in diversity cases to insure uni-
+formity with state law in federal courts, the Court ruled that such rules are proce-
+dural for full-faith-and-credit purposes, since “[t]he purpose . . . of the Full Faith
+and Credit Clause . . . is . . . to delimit spheres of state legislative competence.” Id.
+at 727.

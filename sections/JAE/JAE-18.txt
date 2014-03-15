@@ -1,0 +1,56 @@
+    Until relatively recently, the legality of arrests was seldom liti-
+gated in the Supreme Court because of the rule that a person de-
+tained pursuant to an arbitrary seizure—unlike evidence obtained
+as a result of an unlawful search—remains subject to custody and
+presentation to court.77 But the application of self-incrimination and
+other exclusionary rules to the states and the heightening of their
+scope in state and federal cases alike brought forth the rule that
+verbal evidence, confessions, and other admissions, like all deriva-
+tive evidence obtained as a result of unlawful seizures, could be ex-
+cluded.78 Thus, a confession made by one illegally in custody must
+be suppressed, unless the causal connection between the illegal ar-
+rest and the confession had become so attenuated that the latter
+should not be deemed “tainted” by the former.79 Similarly, finger-
+prints and other physical evidence obtained as a result of an unlaw-
+ful arrest must be suppressed.80
+    Searches and Inspections in Noncriminal Cases.—Certain
+early cases held that the Fourth Amendment was applicable only
+when a search was undertaken for criminal investigatory pur-
+poses,81 and the Supreme Court until recently employed a reason-
+ableness test for such searches without requiring either a warrant
+
+     77 Ker v. Illinois, 119 U.S. 436, 440 (1886); see also Albrecht v. United States,
+
+273 U.S. 1 (1927); Frisbie v. Collins, 342 U.S. 519 (1952).
+     78 Wong Sun v. United States, 371 U.S. 471 (1963). Such evidence is the “fruit
+
+of the poisonous tree,” Nardone v. United States, 308 U.S. 338, 341 (1939), that is,
+evidence derived from the original illegality. Previously, if confessions were volun-
+tary for purposes of the self-incrimination clause, they were admissible notwithstand-
+ing any prior official illegality. Colombe v. Connecticut, 367 U.S. 568 (1961).
+     79 Although there is a presumption that the illegal arrest is the cause of the
+
+subsequent confession, the presumption is rebuttable by a showing that the confes-
+sion is the result of “an intervening . . . act of free will.” Wong Sun v. United States,
+371 U.S. 471, 486 (1963). The factors used to determine whether the taint has been
+dissipated are the time between the illegal arrest and the confession, whether there
+were intervening circumstances (such as consultation with others, Miranda warn-
+ings, etc.), and the degree of flagrancy and purposefulness of the official conduct.
+Brown v. Illinois, 422 U.S. 590 (1975) (Miranda warnings alone insufficient); Dunaway
+v. New York, 442 U.S. 200 (1979); Taylor v. Alabama, 457 U.S. 687 (1982); Kaupp v.
+Texas, 538 U.S. 626 (2003). In Johnson v. Louisiana, 406 U.S. 356 (1972), the fact
+that the suspect had been taken before a magistrate who advised him of his rights
+and set bail, after which he confessed, established a sufficient intervening circum-
+stance.
+     80 Davis v. Mississippi, 394 U.S. 721 (1969); Taylor v. Alabama, 457 U.S. 687
+
+(1982). In United States v. Crews, 445 U.S. 463 (1980), the Court, unanimously but
+for a variety of reasons, held proper the identification in court of a defendant, who
+had been wrongly arrested without probable cause, by the crime victim. The court
+identification was not tainted by either the arrest or the subsequent in-custody iden-
+tification. See also Hayes v. Florida, 470 U.S. 811, 815 (1985), suggesting in dictum
+that a “narrowly circumscribed procedure for fingerprinting detentions on less than
+probable cause” may be permissible.
+     81 In re Strouse, 23 Fed. Cas. 261 (No. 13,548) (D. Nev. 1871); In re Meador, 16
+
+Fed. Cas. 1294, 1299 (No. 9375) (N.D. Ga. 1869).

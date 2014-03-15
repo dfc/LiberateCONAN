@@ -1,0 +1,49 @@
+    Scope of the Amendment.—The language of the provision that
+became the Fourth Amendment underwent some modest changes
+on its passage through the Congress, and it is possible that the changes
+reflected more than a modest significance in the interpretation of
+the relationship of the two clauses. Madison’s introduced version
+provided “The rights to be secured in their persons, their houses,
+their papers, and their other property, from all unreasonable searches
+and seizures, shall not be violated by warrants issued without prob-
+able cause, supported by oath or affirmation, or not particularly de-
+scribing the places to be searched, or the persons or things to be
+seized.” 8 As reported from committee, with an inadvertent omis-
+sion corrected on the floor,9 the section was almost identical to the
+introduced version, and the House defeated a motion to substitute
+“and no warrant shall issue” for “by warrants issuing” in the com-
+mittee draft. In some fashion, the rejected amendment was in-
+serted in the language before passage by the House and is the lan-
+guage of the ratified constitutional provision.10
+    As noted above, the noteworthy disputes over search and sei-
+zure in England and the colonies revolved about the character of
+warrants. There were, however, lawful warrantless searches, pri-
+marily searches incident to arrest, and these apparently gave rise
+to no disputes. Thus, the question arises whether the Fourth Amend-
+ment’s two clauses must be read together to mean that the only
+searches and seizures which are “reasonable” are those which meet
+the requirements of the second clause, that is, are pursuant to war-
+rants issued under the prescribed safeguards, or whether the two
+clauses are independent, so that searches under warrant must com-
+ply with the second clause but that there are “reasonable” searches
+under the first clause that need not comply with the second clause.11
+This issue has divided the Court for some time, has seen several
+reversals of precedents, and is important for the resolution of many
+    8  1 ANNALS OF CONGRESS 434–35 (June 8, 1789).
+    9  The word “secured” was changed to “secure” and the phrase “against unreason-
+able searches and seizures” was reinstated. Id. at 754 (August 17, 1789).
+     10 Id. It has been theorized that the author of the defeated revision, who was
+
+chairman of the committee appointed to arrange the amendments prior to House
+passage, simply inserted his provision and that it passed unnoticed. N. LASSON, THE
+HISTORY AND DEVELOPMENT OF THE FOURTH AMENDMENT TO THE UNITED STATES CONSTITUTION
+101–03 (1937).
+     11 The amendment was originally in one clause as quoted above; it was the in-
+
+sertion of the defeated amendment to the language which changed the text into two
+clauses and arguably had the effect of extending the protection against unreason-
+able searches and seizures beyond the requirements imposed on the issuance of war-
+rants. It is also possible to read the two clauses together to mean that some sei-
+zures even under warrants would be unreasonable, and this reading has indeed been
+effectuated in certain cases, although for independent reasons. Boyd v. United States,
+116 U.S. 616 (1886); Gouled v. United States, 255 U.S. 298 (1921), overruled by War-

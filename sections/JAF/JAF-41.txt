@@ -1,0 +1,56 @@
+can be no valid claim if there is no criminal prosecution 198 The Court
+in recent years has also applied the privilege to situations, such as
+police interrogation of suspects, in which there is no legal compul-
+sion to speak.199
+    What the privilege protects against is compulsion of “testimo-
+nial” disclosures. Thus, the clause is not offended by such non-
+testimonial compulsions as requiring a person in custody to stand
+or walk in a police lineup, to speak prescribed words, to model par-
+ticular clothing, or to give samples of handwriting, fingerprints, or
+blood.200 A person may be compelled to produce specific documents
+even though they contain incriminating information.201 If, however,
+the existence of specific documents is not known to the govern-
+ment, and the act of production informs the government about the
+     198 Chavez v. Martinez, 538 U.S. 760 (2003) (rejecting damages claim brought
+
+by suspect interrogated in hospital but not prosecuted).
+     199 Miranda v. Arizona, 384 U.S. 436 (1966).
+     200 Schmerber v. California, 384 U.S. 757, 764 (1966); United States v. Wade,
+
+388 U.S. 218, 221–23 (1967); Holt v. United States, 218 U.S. 245, 252 (1910). In
+California v. Byers, 402 U.S. 424 (1971), four Justices believed that requiring any
+person involved in a traffic accident to stop and give his name and address did not
+involve testimonial compulsion and therefore the privilege was inapplicable, id. at
+431–34 (Chief Justice Burger and Justices Stewart, White, and Blackmun), but Jus-
+tice Harlan, id. at 434 (concurring), and Justices Black, Douglas, Brennan, and Mar-
+shall, id. at 459, 464 (dissenting), disagreed. In South Dakota v. Neville, 459 U.S.
+553 (1983), the Court indicated as well that a state may compel a motorist sus-
+pected of drunk driving to submit to a blood alcohol test, and may also give the
+suspect a choice about whether to submit, but use his refusal to submit to the test
+as evidence against him. The Court rested its evidentiary ruling on the absence of
+coercion, preferring not to apply the sometimes difficult distinction between testimo-
+nial and physical evidence. In another case, involving roadside videotaping of a drunk
+driving suspect, the Court found that the slurred nature of the suspect’s speech, as
+well as his answers to routine booking questions as to name, address, weight, height,
+eye color, date of birth, and current age, were not testimonial in nature. Pennsylva-
+nia v. Muniz, 496 U.S. 582 (1990). On the other hand, the suspect’s answer to a
+request to identify the date of his sixth birthday was considered testimonial. Id. Two
+Justices challenged the interpretation limiting application to “testimonial” disclo-
+sures, claiming that the original understanding of the word “witness” was not lim-
+ited to someone who gives testimony, but included someone who gives any kind of
+evidence. United States v. Hubbell, 530 U.S. 27, 49 (2000) (Justice Thomas, joined
+by Justice Scalia, concurring).
+     201 Fisher v. United States, 425 U.S. 391 (1976). Compelling a taxpayer by sub-
+
+poena to produce documents produced by his accountants from his own papers does
+not involve testimonial self-incrimination and is not barred by the privilege. “[T]he
+Fifth Amendment does not independently proscribe the compelled production of ev-
+ery sort of incriminating evidence but applies only when the accused is compelled to
+make a testimonial communication that is incriminating.” Id. at 408 (emphasis by
+Court). Even further removed from the protection of the privilege is seizure pursu-
+ant to a search warrant of business records in the handwriting of the defendant.
+Andresen v. Maryland, 427 U.S. 463 (1976). A court order compelling a target of a
+grand jury investigation to sign a consent directive authorizing foreign banks to dis-
+close records of any and all accounts over which he had a right of withdrawal is not
+testimonial in nature, since the factual assertions are required of the banks and not
+of the target. Doe v. United States, 487 U.S. 201 (1988).

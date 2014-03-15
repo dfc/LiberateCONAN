@@ -1,0 +1,49 @@
+more needed in “national security cases” than in cases of “ordi-
+nary” crime, the Justice continued, because the tendency of govern-
+ment so often is to regard opponents of its policies as a threat and
+hence to tread in areas protected by the First Amendment as well
+as by the Fourth.401 Rejected also was the argument that courts
+could not appreciate the intricacies of investigations in the area of
+national security or preserve the secrecy which is required.402
+    The question of the scope of the President’s constitutional pow-
+ers, if any, remains judicially unsettled.403 Congress has acted, how-
+ever, providing for a special court to hear requests for warrants for
+electronic surveillance in foreign intelligence situations, and permit-
+ting the President to authorize warrantless surveillance to acquire
+foreign intelligence information provided that the communications
+to be monitored are exclusively between or among foreign powers
+and there is no substantial likelihood any “United States person”
+will be overheard.404
+
+Enforcing the Fourth Amendment: The Exclusionary Rule
+    The Fourth Amendment declares a right to be free from unrea-
+sonable searches and seizures, but how this right translates into
+concrete terms is not specified. Several possible methods of enforce-
+ment have been suggested, but only one—the exclusionary rule—
+has been applied with any frequency by the Supreme Court, and
+Court in recent years has limited its application.
+    Alternatives to the Exclusionary Rule.—Theoretically, there
+are several alternatives to the exclusionary rule. An illegal search
+and seizure may be criminally actionable and officers undertaking
+one thus subject to prosecution, but the examples when officers are
+criminally prosecuted for overzealous law enforcement are ex-
+
+may be that Congress, for example, would judge that the application and affidavit
+showing probable cause need not follow the exact requirements of § 2518 but should
+allege other circumstances more appropriate to domestic security cases. . . .” 407
+U.S. at 322–23.
+     401 407 U.S. at 313–24.
+     402 407 U.S. at 320.
+     403 See United States v. Butenko, 494 F.2d 593 (3d Cir.), cert. denied, 419 U.S.
+
+881 (1974); Zweibon v. Mitchell, 516 F.2d 594 (D.C. Cir. 1975), cert. denied, 425 U.S.
+944 (1976), appeal after remand, 565 F.2d 742 (D.C. Cir. 1977), on remand, 444 F.
+Supp. 1296 (D.D.C. 1978), aff’d in part, rev’d in part, 606 F.2d 1172 (D.C. Cir. 1979),
+cert. denied, 453 U.S. 912 (1981); Smith v. Nixon, 606 F.2d 1183 (D.C. Cir. 1979),
+cert. denied, 453 U.S. 912 (1981); United States v. Truong Ding Hung, 629 F.2d 908
+(4th Cir. 1980), after remand, 667 F.2d 1105 (4th Cir. 1981); Halkin v. Helms, 690
+F.2d 977 (D.C. Cir. 1982).
+     404 Foreign Intelligence Surveillance Act of 1978, Pub. L. 95–511, 92 Stat. 1797,
+
+50 U.S.C. §§ 1801–1811. See United States v. Belfield, 692 F.2d 141 (D.C. Cir. 1982)
+(upholding constitutionality of disclosure restrictions in Act).

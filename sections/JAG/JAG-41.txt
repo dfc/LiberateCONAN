@@ -1,0 +1,45 @@
+     The Court subsequently concluded that “little more than the ap-
+plication of our holding in Crawford v. Washington” was needed to
+find that “affidavits reporting the results of forensic analysis which
+showed that material seized by the police and connected to the de-
+fendant was cocaine” were subject to the right of confrontation. The
+Court found that the analysts were required to testify in person
+even though state law declared their affidavits “prima facie evi-
+dence of the composition, quality, and the net weight of the nar-
+cotic . . . analyzed.” 229 Further, where such testimony is required,
+the prosecution may not use a “surrogate” witness who, although
+familiar with the mechanics of forensic testing, had not signed the
+certification or personally performed or observed the performance
+of the test. Such a surrogate could not speak to concerns about the
+integrity of testing procedures or to questions about the perfor-
+mance of the certifying analyst.230 A year after this apparently straight-
+forward holding in Bullcoming v. New Mexico, however, the Court’s
+guidance on trial consideration of forensic reports was clouded by
+Williams v. Illinois.231 In Williams, an expert witness (not a surro-
+gate witness from the testing lab) testified that a DNA profile she
+had prepared from the defendant’s blood matched a DNA profile re-
+ported by an outside lab from a swab of a rape victim. A four-
+Justice plurality held that the expert incorporated the lab’s report
+in her testimony in a way not intended to prove that the outside
+lab had in fact tested a swab from a particular rape victim and come
+up with the defendant’s DNA profile, but rather in a way solely in-
+tended to establish a basis for the expert’s opinion that two DNA
+profiles matched. Four dissenters vigorously asserted the contrary,
+finding that the outside lab’s report served the purpose of incrimi-
+nating the defendant directly because it identified the rape victim
+as the source of the material the lab profiled. The expert’s testi-
+mony effectively was used to connect the defendant with a named
+individual and not just his DNA profile with a DNA sample ob-
+tained from some unnamed source. Accordingly, the dissent as-
+serted the Confrontation Clause required that the defendant have
+an opportunity to examine the lab technicians responsible for the
+report. The ninth Justice in the case, Justice Thomas, agreed the
+report was directly incriminating because the expert expressly used
+it to link her profile of the defendant’s DNA to the rape victim. Nev-
+ertheless, Justice Thomas concurred in judgment of the plurality,
+
+    229 Melendez-Diaz v. Massachusetts, 557 U.S. ___, No. 07–591, slip op. at 23, 1,
+
+2 (2009).
+    230 Bullcoming v. New Mexico, 564 U.S. ___, No. 09–10876, slip op. at 12 (2011).
+    231 567 U.S. ___, No. 10–8505, slip op. (2012).

@@ -1,0 +1,50 @@
+defense such as insanity or entrapment, the defendant is not sub-
+ject to retrial.115 However, it may be that the trial judge will grant
+a motion to dismiss that is neither a mistrial nor an acquittal, but
+is instead a termination of the trial in defendant’s favor based on
+some decision not relating to his factual guilt or innocence, such as
+prejudicial preindictment delay.116 The prosecution may not simply
+begin a new trial but must seek first to appeal and overturn the
+dismissal, a course that was not open to federal prosecutors until
+enactment of the Omnibus Crime Control Act in 1971.117 That law
+has resulted in tentative and uncertain rulings with respect to when
+such dismissals may be appealed and further proceedings directed.
+In the first place, it is unclear in many instances whether a judge’s
+ruling is a mistrial, a dismissal, or an acquittal.118 In the second
+place, because the Justices have such differing views about the poli-
+cies underlying the Double Jeopardy Clause, determinations of which
+dismissals preclude appeals and further proceedings may result from
+shifting coalitions and from revised perspectives. Thus, the Court
+first fixed the line between permissible and impermissible appeals
+at the point at which further proceedings would have had to take
+place in the trial court if the dismissal were reversed. If the only
+thing that had to be done was to enter a judgment on a guilty ver-
+dict after reversal, appeal was constitutional and permitted under
+the statute; 119 if further proceedings, such as continuation of the
+trial or some further factfinding, was necessary, appeal was not per-
+mitted.120 Now, but by a close division of the Court, the determin-
+ing factor is not whether further proceedings must be had but whether
+the action of the trial judge, whatever its label, correct or not, re-
+solved some or all of the factual elements of the offense charged in
+defendant’s favor, whether, that is, the court made some determina-
+
+    115  See “Acquittal by the Trial Judge,” supra.
+    116  United States v. Wilson, 420 U.S. 332 (1975) (preindictment delay); United
+States v. Jenkins, 420 U.S. 358 (1975) (determination of law based on facts adduced
+at trial; ambiguous whether judge’s action was acquittal or dismissal); United States
+v. Scott, 437 U.S. 82 (1978) (preindictment delay).
+     117 See United States v. Scott, 437 U.S. 82, 84–86 (1978); United States v. Sis-
+
+son, 399 U.S. 267, 291–96 (1970).
+     118 Cf. Lee v. United States, 432 U.S. 23 (1977).
+     119 United States v. Wilson, 420 U.S. 332 (1975) (after jury guilty verdict, trial
+
+judge dismissed indictment on grounds of preindictment delay; appeal permissible
+because upon reversal all trial judge had to do was enter judgment on the jury’s
+verdict).
+     120 United States v. Jenkins, 420 U.S. 358 (1975) (after presentation of evidence
+
+in bench trial, judge dismissed indictment; appeal impermissible because if dis-
+missal was reversed there would have to be further proceedings in the trial court
+devoted to resolving factual issues going to elements of offense charged and result-
+ing in supplemental findings).

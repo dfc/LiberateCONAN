@@ -1,0 +1,51 @@
+     In making this decision, the Court noted that “[l]ooking back
+over the long history of litigation a trend is clearly discernible to-
+ward expanding the permissible scope of state jurisdiction over for-
+eign corporations and other nonresidents.” 890 However, in Hanson
+v. Denckla, decided during the same Term, the Court found in
+personam jurisdiction lacking for the first time since International
+Shoe Co. v. Washington, pronouncing firm due process limitations.
+In Hanson,891 the issue was whether a Florida court considering a
+contested will obtained jurisdiction over corporate trustees of dis-
+puted property through use of ordinary mail and publication. The
+will had been entered into and probated in Florida, the claimants
+were resident in Florida and had been personally served, but the
+trustees, who were indispensable parties, were resident in Dela-
+ware. Noting the trend in enlarging the ability of the states to ob-
+tain in personam jurisdiction over absent defendants, the Court de-
+nied the exercise of nationwide in personam jurisdiction by states,
+saying that “it would be a mistake to assume that th[e] trend [to
+expand the reach of state courts] heralds the eventual demise of
+all restrictions on the personal jurisdiction of state courts.” 892
+    The Court recognized in Hanson that Florida law was the most
+appropriate law to be applied in determining the validity of the will
+and that the corporate defendants might be little inconvenienced
+by having to appear in Florida courts, but it denied that either cir-
+cumstance satisfied the Due Process Clause. The Court noted that
+due process restrictions do more than guarantee immunity from in-
+convenient or distant litigation, in that “[these restrictions] are con-
+sequences of territorial limitations on the power of the respective
+States. However minimal the burden of defending in a foreign tri-
+bunal, a defendant may not be called upon to do so unless he has
+rate official within the state on business of the corporation would suffice to create
+jurisdiction if the claim arose out of that business and service were made on him
+within the state. 342 U.S. at 444–45. The Court held that the state could, but was
+not required to, assert jurisdiction over a corporation owning gold and silver mines
+in the Philippines but temporarily (because of the Japanese occupation) carrying on
+a part of its general business in the forum state, including directors’ meetings, busi-
+ness correspondence, banking, and the like, although it owned no mining properties
+in the state.
+     890 McGee v. International Life Ins. Co., 355 U.S. 220, 222 (1957). An exception
+
+exists with respect to in personam jurisdiction in domestic relations cases, at least
+in some instances. E.g., Vanderbilt v. Vanderbilt, 354 U.S. 416 (1957) (holding that
+sufficient contacts afforded Nevada in personam jurisdiction over a New York resi-
+dent wife for purposes of dissolving the marriage but Nevada did not have jurisdic-
+tion to terminate the wife’s claims for support).
+     891 357 U.S. 235 (1958). The decision was 5-to-4. See 357 U.S. at 256 (Justice
+
+Black dissenting), 262 (Justice Douglas dissenting).
+     892 357 U.S. at 251. In dissent, Justice Black observed that “of course we have
+
+not reached the point where state boundaries are without significance and I do not
+mean to suggest such a view here.” 357 U.S. at 260.

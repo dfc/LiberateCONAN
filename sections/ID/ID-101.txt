@@ -1,0 +1,51 @@
+after the filing of the federal action but before any proceedings of
+substance have taken place in federal court,536 and federal courts
+were instructed not to issue declaratory judgments in the absence
+of the factors permitting issuance of injunctions under the same cir-
+cumstances. But in the absence of a pending state action or the sub-
+sequent and timely filing of one, a request for a declaratory judg-
+ment that a statute or ordinance is unconstitutional does not have
+to meet the stricter requirements justifying the issuance of an in-
+junction.537
+    Ripeness.—Just as standing historically has concerned who may
+bring an action in federal court, the ripeness doctrine concerns when
+it may be brought. Formerly, it was a wholly constitutional prin-
+ciple requiring a determination that the events bearing on the sub-
+stantive issue have happened or are sufficiently certain to occur so
+as to make adjudication necessary and so as to assure that the is-
+sues are sufficiently defined to permit intelligent resolution. The fo-
+cus was on the harm to the rights claimed rather than on the harm
+to the plaintiff that gave him standing to bring the action,538 al-
+though, to be sure, in most cases the harm is the same. But in lib-
+eralizing the doctrine of ripeness in recent years the Court subdi-
+vided it into constitutional and prudential parts 539 and conflated
+standing and ripeness considerations.540
+    The early cases generally required potential plaintiffs to expose
+themselves to possibly irreparable injury in order to invoke federal
+judicial review. Thus, in United Public Workers v. Mitchell,541 gov-
+ernment employees alleged that they wished to engage in various
+political activities and that they were deterred from their desires
+by the Hatch Act prohibitions on political activities. As to all but
+one plaintiff, who had himself actually engaged in forbidden activ-
+
+    536 Hicks v. Miranda, 422 U.S. 332, 349 (1975).
+    537 Steffel v. Thompson, 415 U.S. 452 (1974). In cases covered by Steffel, the
+federal court may issue preliminary or permanent injunctions to protect its judg-
+ments, without satisfying the Younger tests. Doran v. Salem Inn, 422 U.S. 922, 930–
+931 (1975); Wooley v. Maynard, 430 U.S. 705, 712 (1977).
+    538 United Public Workers v. Mitchell, 330 U.S. 75 (1947); International Long-
+
+shoremen’s Union v. Boyd, 347 U.S. 222 (1954). For recent examples of lack of ripe-
+ness, see Ohio Forestry Ass’n v. Sierra Club, 523 U.S. 726 (1998); Texas v. United
+States, 523 U.S. 296 (1998).
+    539 Regional Rail Reorganization Act Cases, 419 U.S. 102, 138–148 (1974) (cer-
+
+tainty of injury a constitutional limitation, factual adequacy element a prudential
+one).
+    540 Duke Power Co. v. Carolina Environmental Study Group, 438 U.S. 59, 81–82
+
+(1978) (that plaintiffs suffer injury-in-fact and such injury would be redressed by
+granting requested relief satisfies Article III ripeness requirement; prudential ele-
+ment satisfied by determination that Court would not be better prepared to render
+a decision later than now). But compare Renne v. Geary, 501 U.S. 312 (1991).
+    541 330 U.S. 75 (1947).

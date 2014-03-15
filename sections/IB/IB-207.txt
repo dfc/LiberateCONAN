@@ -1,0 +1,49 @@
+discriminated between privately issued bonds.1107 In what may por-
+tend a significant change in dormant commerce clause doctrine, how-
+ever, the Court declined to evaluate the governmental benefits of
+Kentucky’s tax scheme versus the economic burdens it imposed, hold-
+ing that, at least in this instance, the “Judicial Branch is not insti-
+tutionally suited to draw reliable conclusions.” 1108
+     Drawing the line between regulations that are facially discrimi-
+natory and regulations that necessitate balancing is not an easy task.
+Not every claim of unconstitutional protectionism has been sus-
+tained. Thus, in Minnesota v. Clover Leaf Creamery Co.,1109 the Court
+upheld a state law banning the retail sale of milk products in plas-
+tic, nonreturnable containers but permitting sales in other nonre-
+turnable, nonrefillable containers, such as paperboard cartons. The
+Court found no discrimination against interstate commerce, be-
+cause both in-state and out-of-state interests could not use plastic
+containers, and it refused to credit a lower, state-court finding that
+the measure was intended to benefit the local pulpwood industry.
+In Exxon Corp. v. Governor of Maryland,1110 the Court upheld a stat-
+ute that prohibited producers or refiners of petroleum products from
+operating retail service stations in Maryland. The statute did not
+on its face discriminate against out-of-state companies, but, as there
+were no producers or refiners in Maryland, “the burden of the dives-
+titure requirements” fell solely on such companies.1111 The Court found,
+however, that “this fact does not lead, either logically or as a prac-
+tical matter, to a conclusion that the State is discriminating against
+interstate commerce at the retail level,” 1112 as the statute does not
+“distinguish between in-state and out-of-state companies in the re-
+tail market.” 1113
+    Still a model example of balancing is Chief Justice Stone’s opin-
+ion in Southern Pacific Co. v. Arizona.1114 At issue was the validity
+     1107 128 S. Ct. at 1810–11. The Court noted that “[t]here is no forbidden discrimi-
+
+nation because Kentucky, as a public entity, does not have to treat itself as being
+‘substantially similar’ to the other bond issuers in the market.” Id. at 1811. Three
+members of the Court would have also found this taxation scheme constitutional
+under the “market participant” doctrine, despite the argument that the state, in this
+instance, was acting as a market regulator, not as a market participant. Id. at 1812–14
+(Justice Souter, joined by Justices Stevens and Breyer).
+     1108 128 S. Ct. at 1817.
+     1109 449 U.S. 456, 470–74 (1981).
+     1110 437 U.S. 117 (1978).
+     1111 437 U.S. at 125.
+     1112 437 U.S. at 125.
+     1113 437 U.S. at 126.
+     1114 325 U.S. 761 (1945). Interestingly, Justice Stone had written the opinion for
+
+the Court in South Carolina State Highway Dep’t v. Barnwell Bros., 303 U.S. 177
+(1938), in which, in a similar case involving regulation of interstate transportation
+and proffered safety reasons, he had eschewed balancing and deferred overwhelm-

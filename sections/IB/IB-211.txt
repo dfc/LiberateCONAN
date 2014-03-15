@@ -1,0 +1,52 @@
+was void under both the Import-Export Clause 1127 and the Com-
+merce Clause. According to the Chief Justice, an inseparable part
+of the right to import was the right to sell, and a tax on the sale of
+an article is a tax on the article itself. Thus, the taxing power of
+the states did not extend in any form to imports from abroad so
+long as they remain “the property of the importer, in his ware-
+house, in the original form or package” in which they were im-
+ported. This is the famous “original package” doctrine. Only when
+the importer parts with his importations, mixes them into his gen-
+eral property by breaking up the packages, may the state treat them
+as taxable property.
+    Obviously, to the extent that the Import-Export Clause was con-
+strued to impose a complete ban on taxation of imports so long as
+they were in their original packages, there was little occasion to
+develop a Commerce Clause analysis that would have reached only
+discriminatory taxes or taxes upon goods in transit.1128 In other re-
+spects, however, the Court has applied the foreign commerce as-
+pect of the clause more stringently against state taxation.
+    Thus, in Japan Line, Ltd. v. County of Los Angeles,1129 the Court
+held that, in addition to satisfying the four requirements that gov-
+ern the permissibility of state taxation of interstate commerce,1130
+“When a State seeks to tax the instrumentalities of foreign com-
+merce, two additional considerations . . . come into play. The first
+is the enhanced risk of multiple taxation. . . . Second, a state tax
+on the instrumentalities of foreign commerce may impair federal
+uniformity in an area where federal uniformity is essential.” 1131 Mul-
+tiple taxation is to be avoided with respect to interstate commerce
+     1127 Article I, § 10, cl. 2. This aspect of the doctrine of the case was considerably
+
+expanded in Low v. Austin, 80 U.S. (13 Wall.) 29 (1872), and subsequent cases, to
+bar states from levying nondiscriminatory, ad valorem property taxes upon goods
+that are no longer in import transit. This line of cases was overruled in Michelin
+Tire Corp. v. Wages, 423 U.S. 276 (1976).
+     1128 See, e.g., Halliburton Oil Well Co. v. Reily, 373 U.S. 64 (1963); Minnesota v.
+
+Blasius, 290 U.S. 1 (1933). After the holding in Michelin Tire, the two clauses are
+now congruent. The Court has observed that the two clauses are animated by the
+same policies. Japan Line, Ltd. v. County of Los Angeles, 441 U.S. 434, 449–50 n.14
+(1979).
+     1129 441 U.S. 434 (1979).
+     1130 Complete Auto Transit, Inc. v. Brady, 430 U.S. 274, 279 (1977). A state tax
+
+failed to pass the nondiscrimination standard in Kraft General Foods, Inc. v. Iowa
+Dept. of Revenue and Finance, 505 U.S. 71 (1992). Iowa imposed an income tax on
+a unitary business operating throughout the United States and in several foreign
+countries. It taxed the dividends that a corporation received from its foreign subsid-
+iaries, but not the dividends it received from its domestic subsidiaries. Therefore,
+there was a facial distinction between foreign and domestic commerce.
+     1131 441 U.S. at 446, 448. See also Itel Containers Int’l Corp. v. Huddleston, 507
+
+U.S. 60 (1993) (sustaining state sales tax as applied to lease of containers delivered
+within the state and used in foreign commerce).

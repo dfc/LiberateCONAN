@@ -1,0 +1,51 @@
+appeared to refine the Strickland test when it stated that an “analy-
+sis focusing solely on mere outcome determination” is “defective” un-
+less attention is also given to whether the result was “fundamen-
+tally unfair or unreliable.” 340 However, the Court subsequently
+characterized Lockhart as addressing a class of exceptions to the
+“outcome determinative” test, and not supplanting it. According to
+Williams v. Taylor, it would disserve justice in some circumstances
+to find prejudice premised on a likelihood of a different outcome.341
+An overriding interest in fundamental fairness precluded a preju-
+dice finding in Lockhart, for example, because such a finding would
+be nothing more than a fortuitous windfall for the defendant. As
+another example, it would be unjust to find legitimate prejudice in
+a defense attorney’s interference with a defendant’s perjured testi-
+mony, even if that testimony could have altered a trial’s out-
+come.342 In Lafler v. Cooper, four dissenters further would have im-
+posed a fundamental fairness overlay to foreclose relief whenever a
+defendant proceeded to trial after turning down a plea offer be-
+cause of incompetent advice of counsel.343 In their view, conviction
+after a full and fair trial cannot be prejudicial in a constitutional
+sense, even if a forgone plea would have yielded lesser charges or
+punishment. This view did not prevail, however.
+    A second category of recognized exceptions to the application of
+the “outcome determinative” prejudice test includes the relatively
+limited number of cases in which prejudice is presumed. This pre-
+sumption occurs when there are “circumstances that are so likely
+to prejudice the accused that the cost of litigating their effect in a
+particular case is unjustified.” 344 These situations, the Court ex-
+plained in United States v. Cronic, involve some kind of “break-
+down of the adversarial process,” and include actual or construc-
+tive denial of counsel, denial of such basics as the right to effective
+
+     340 506 U.S. 364, 368–70 (1993). Defense counsel had failed to raise a constitu-
+
+tional claim during sentencing that would have saved the defendant from a death
+sentence. The case precedent that supported the claim was itself overturned after
+sentencing but before defendant asserted in a habeas writ that he had received in-
+effective assistance. The Court held, 7–2, that even though the adequacy of coun-
+sel’s representation is assessed under the standards that existed contemporaneously
+with the conduct, it was inappropriate in assessing prejudice to give the defendant
+the benefit of overturned case law. So long as the defendant was not deprived of a
+procedural or substantive right to which he would still be entitled, relief is not avail-
+able. 506 U.S. at 372–73.
+     341 529 U.S. 362 (2000).
+     342 529 U.S. at 391–93. The latter example references Nix. v. Whiteside, 475 U.S.
+
+157, 175–76 (1986).
+     343 566 U.S. ___, No. 10–209, slip op. (2012) (Scalia, J., with Roberts, C.J., and
+
+Thomas, J., dissenting); 566 U.S. ___, No. 10–209, slip op. (2012) (Alito, J., dissent-
+ing).
+     344 United States v. Cronic, 466 U.S. 648, 658 (1984).

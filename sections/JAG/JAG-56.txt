@@ -1,0 +1,49 @@
+ment would stand for little if the often uninformed decision to re-
+tain a particular lawyer could reduce or forfeit the defendant’s en-
+titlement to constitutional protection.” 314 To an argument that a state
+need only appoint for indigent defendants to satisfy Sixth Amend-
+ment requirements, the Court responded that “the State’s conduct
+of a criminal trial itself implicates the State in the defendant’s con-
+viction”, and no state may proceed against a defendant whose coun-
+sel, appointed or retained, cannot defend him fully and faith-
+fully.315
+     Fidelity has been at issue in cases of joint representation of co-
+defendants. In Glasser v. United States, the Court found a trial judge
+erred in appointing one defendant’s attorney to also represent a co-
+defendant in a conspiracy case; the judge knew of potential con-
+flicts of interest in the case, and the original defendant had earlier
+expressed a desire for sole representation.316 Counsel for codefen-
+dants in another case made a timely assertion to the trial judge
+that continuing joint representation could pose a conflict of inter-
+est, and the Court found that the trial judge erred in not examin-
+ing the assertion of potential conflict closely and permitting or ap-
+pointing separate counsel, absent a finding that the risk of conflict
+was remote.317 Joint representation does not deny effective assis-
+tance per se, however. Judges are not automatically required to ini-
+tiate an inquiry into the propriety of multiple representation, be-
+ing able to assume in the absence of undefined “special circumstances”
+that no conflict exists. On the other hand, a defendant who objects
+to joint representation must be given an opportunity to make the
+case that potential conflicts exists. Absent an objection, a defen-
+dant must later show the existence of an “actual conflict of interest
+which adversely affected his lawyer’s performance.” Once it is estab-
+lished that a conflict did actively affect the lawyer’s joint represen-
+tation, however, a defendant need not additionally prove that the
+lawyer’s representation was prejudicial to the outcome of the case.318
+
+    314   Cuyler v. Sullivan, 446 U.S. 335, 344 (1980).
+    315   Id.
+      316 315 U.S. 60 (1942).
+      317 Holloway v. Arkansas, 435 U.S. 475 (1978). Counsel had been appointed by
+
+the court.
+      318 Cuyler v. Sullivan, 446 U.S. 335, 348–50 (1980). Accord But see Wood v. Geor-
+
+gia, 450 U.S. 261 (1981) (where counsel retained by defendants’ employer had con-
+flict between their interests and employer’s, and all the facts were known to trial
+judge, he should have inquired further); Wheat v. United States, 486 U.S. 153 (1988)
+(district court correctly denied defendant’s waiver of right to conflict-free representa-
+tion; separate representation order is justified by likelihood of attorney’s conflict of
+interest). Where an alleged conflict is not premised on joint representation, but rather
+on a prior representation of a different client, for example, a defendant may be re-
+quired to show actual prejudice in addition to a potential conflict. Mickens v. Taylor,

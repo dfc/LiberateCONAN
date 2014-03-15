@@ -1,0 +1,49 @@
+ment.629 Also, the Court has held that First Amendment itself af-
+fords some limitation upon governmental acquisition of informa-
+tion, although only where the exposure of such information would
+violate freedom of association or the like.630
+     Similarly, in Fisher v. United States,631 the Court held that the
+Fifth Amendment’s Self-incrimination Clause did not prevent the
+IRS from obtaining income tax records prepared by accountants and
+in the hands of either the taxpayer or his attorney, no matter how
+incriminating, because the Amendment only protects against com-
+pelled testimonial self-incrimination. The Court noted that it “has
+never suggested that every invasion of privacy violates the privi-
+lege. Within the limits imposed by the language of the Fifth Amend-
+ment, which we necessarily observe, the privilege truly serves pri-
+vacy interests; but the Court has never on any ground, personal
+privacy included, applied the Fifth Amendment to prevent the oth-
+erwise proper acquisition or use of evidence that, in the Court’s view,
+did not involve compelled testimonial self-incrimination of some
+sort.” 632 Furthermore, it wrote, “[w]e cannot cut the Fifth Amend-
+ment completely loose from the moorings of its language, and make
+it serve as a general protector of privacy—a word not mentioned in
+its text and a concept directly addressed in the Fourth Amend-
+ment.” 633
+     So what remains of informational privacy? A cryptic opinion in
+Whalen v. Roe 634 may indicate the Court’s continuing willingness
+to recognize privacy interests as independent constitutional rights.
+At issue was a state’s pervasive regulation of prescription drugs with
+abuse potential, and a centralized computer record-keeping system
+through which prescriptions, including patient identification, could
+be stored. The scheme was attacked on the basis that it invaded
+privacy interests against disclosure and privacy interests involving
+autonomy of persons in choosing whether to have the medication.
+The Court appeared to agree that both interests are protected, but
+    629 The Bank Secrecy Act required the banks to retain cancelled checks. The
+
+Court held that the checks were business records of the bank in which the deposi-
+tors had no expectation of privacy and therefore there was no Fourth Amendment
+standing to challenge government legal process directed to the bank, and this sta-
+tus was unchanged by the fact that the banks kept the records under government
+mandate in the first place.
+    630 See Buckley v. Valeo, 424 U.S. 1, 60–82 (1976); Whalen v. Roe, 429 U.S. 589,
+
+601 n.27, 604 n.32 (1977); United States v. Miller, 425 U.S. 435, 444 n.6 (1976). The
+Court continues to reserve the question of the “[s]pecial problems of privacy which
+might be presented by subpoena of a personal diary.” Fisher v. United States, 425
+U.S. 391, 401 n.7 (1976).
+    631 425 U.S. 391 (1976).
+    632 425 U.S. at 399.
+    633 425 U.S. at 401.
+    634 429 U.S. 589 (1977).

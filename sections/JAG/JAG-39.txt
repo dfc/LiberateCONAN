@@ -1,0 +1,56 @@
+statement by a witness who is under oath, in the presence of the
+jury, and subject to cross-examination by the defendant is only one
+way of complying with the Confrontation Clause, four Justices con-
+cluded. Thus, at least in the absence of prosecutorial misconduct or
+negligence and where the evidence is not “crucial” or “devastating,”
+these Justices found that the Confrontation Clause could be satis-
+fied if “the trier of fact [has] a satisfactory basis for evaluating the
+truth of the [hearsay] statement.” The reliability of a statement was
+to be ascertained in each case by an inquiry into the likelihood that
+cross-examination of the declarant at trial could successfully call
+into question the declaration’s apparent meaning or the declarant’s
+sincerity, perception, or memory.218
+    In Ohio v. Roberts,219 a Court majority adopted a reliability test
+for satisfying the confrontation requirement through use of a state-
+ment by an unavailable witness.220 Over the course of 24 years, Rob-
+erts was applied, narrowed,221 and finally overruled in Crawford v.
+     218 400 U.S. at 86–89. The quoted phrase is at 89, (quoting California v. Green,
+
+399 U.S. 149, 161 (1970)). Justice Harlan concurred to carry the case, on the view
+that (1) the Confrontation Clause requires only that any testimony actually given at
+trial must be subject to cross-examination, but (2) in the absence of countervailing
+circumstances introduction of prior recorded testimony—“trial by affidavit”—would
+violate the clause. Id. at 93, 95, 97. Justices Marshall, Black, Douglas, and Brennan
+dissented, id. at 100, arguing for adoption of a rule that: “The incriminatory extrajudicial
+statement of an alleged accomplice is so inherently prejudicial that it cannot be in-
+troduced unless there is an opportunity to cross-examine the declarant, whether or
+not his statement falls within a genuine exception to the hearsay rule.” Id. at 110–
+11. The Clause protects defendants against use of substantive evidence against them,
+but does not bar rebuttal of the defendant’s own testimony. Tennessee v. Street, 471
+U.S. 409 (1985) (use of accomplice’s confession not to establish facts as to defen-
+dant’s participation in the crime, but instead to support officer’s rebuttal of defen-
+dant’s testimony as to circumstances of defendant’s confession; presence of officer
+assured right of cross-examination).
+     219 448 U.S. 56 (1980). The witness was absent from home and her parents tes-
+
+tified they did not know where she was or how to get in touch with her. The state’s
+sole effort to locate her was to deliver a series of subpoenas to her parents’ home.
+Over the objection of three dissenters, the Court held this to be an adequate basis
+to demonstrate her unavailability. Id. at 74–77.
+     220 “[O]nce a witness is shown to be unavailable . . . , the Clause countenances
+
+only hearsay marked with such trustworthiness that ‘there is no material departure
+from the reason of the general rule.’ ” 448 U.S. at 65 (quoting Snyder v. Massachu-
+setts, 291 U.S. 97, 107 (1934)). The Court indicated that reliability could be inferred
+without more if the evidence falls within a firmly rooted hearsay exception.
+     221 Applying Roberts, the Court held that the fact that defendant’s and codefen-
+
+dant’s confessions “interlocked” on a number of points was not a sufficient indicium
+of reliability, since the confessions diverged on the critical issues of the respective
+roles of the two defendants. Lee v. Illinois, 476 U.S. 530 (1986). Roberts was nar-
+rowed in United States v. Inadi, 475 U.S. 387 (1986), which held that the rule of
+“necessity” is confined to use of testimony from a prior judicial proceeding, and is
+inapplicable to co-conspirators’ out-of-court statements. See also White v. Illinois, 502
+U.S. 346, 357 (1992) (holding admissible “evidence embraced within such firmly rooted
+exceptions to the hearsay rule as those for spontaneous declarations and statements
+made for medical treatment”); and Idaho v. Wright, 497 U.S. 805, 822–23 (1990) (in-

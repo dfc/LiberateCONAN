@@ -1,0 +1,55 @@
+derlying basis for Miranda v. Arizona 401 left that case basically un-
+affected by Kirby, but it appears that Escobedo v. Illinois,402 and
+perhaps other cases, is greatly restricted thereby.
+    Post-Conviction Proceedings.—The right to counsel under the
+Sixth Amendment applies to “criminal prosecutions,” a restriction
+that limits its scope but does not exhaust all constitutional rights
+to representation in adversarial contexts associated with the crimi-
+nal justice process. The Sixth Amendment requires counsel at the
+sentencing stage,403 and the Court has held that, where sentencing
+was deferred after conviction and the defendant was placed on pro-
+bation, he must be afforded counsel at a hearing on revocation of
+probation and imposition of the deferred sentence.404 Beyond this,
+however, the Court has eschewed Sixth Amendment analysis, in-
+stead delimiting the right to counsel under due process and equal
+protection principles.405
+     Noncriminal and Investigatory Proceedings.—Commit-
+ment proceedings that lead to the imposition of essentially crimi-
+nal punishment are subject to the Due Process Clause and require
+the assistance of counsel.406 A state administrative investigation by
+a fire marshal inquiring into the causes of a fire was held not to be
+
+dissented in Wade and Gilbert, dissented in Kirby simply on the basis that those
+two cases controlled this one. Id. at 705. Indictment, as the quotation from Kirby
+indicates, is not a necessary precondition. Any initiation of judicial proceedings suf-
+fices. E.g., Brewer v. Williams, 430 U.S. 387 (1977) (suspect had been seized pursu-
+ant to an arrest warrant, arraigned, and committed by court); United States v. Gouveia,
+467 U.S. 180 (1984) (Sixth Amendment attaches as of arraignment—there is no right
+to counsel for prison inmates placed under administrative segregation during a lengthy
+investigation of their participation in prison crimes).
+     401 “[T]he Miranda decision was based exclusively upon the Fifth and Four-
+
+teenth Amendment privilege against compulsory self-incrimination, upon the theory
+that custodial interrogation is inherently coercive.” 406 U.S. at 688 (emphasis by
+Court).
+     402 “But Escobedo is not apposite here for two distinct reasons. First, the Court
+
+in retrospect perceived that the ‘prime purpose’ of Escobedo was not to vindicate the
+constitutional right to counsel as such, but, like Miranda, ‘to guarantee full effectua-
+tion of the privilege against self-incrimination. . . .’ Johnson v. New Jersey, 384 U.S.
+719, 729. Secondly, and perhaps even more important for purely practical purposes,
+the Court has limited the holding of Escobedo to its own facts, Johnson v. New Jer-
+sey, supra, at 733–34, and those facts are not remotely akin to the facts of the case
+before us.” 406 U.S. at 689. But see id. at 693 n.3 (Justice Brennan dissenting).
+     403 Townsend v. Burke, 334 U.S. 736 (1948).
+     404 Mempa v. Rhay, 389 U.S. 128 (1967) (applied retroactively in McConnell v.
+
+Rhay, 393 U.S. 2 (1968)).
+     405 State criminal appeals, applications for collateral relief, and post-sentencing
+
+parole or probation determinations are examples of procedures with respect to which
+the Court has not invoked the Sixth Amendment. Using due process analysis, the
+Court has found no constitutional right to counsel in prison disciplinary proceed-
+ings. Wolff v. McDonnell, 418 U.S. 539, 560–70 (1974); Baxter v. Palmigiano, 425
+U.S. 308, 314–15 (1976). See Fourteenth Amendment, “Rights of Prisoners,” infra.
+     406 Specht v. Patterson, 386 U.S. 605 (1967).

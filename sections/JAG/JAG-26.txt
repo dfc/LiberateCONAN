@@ -1,0 +1,54 @@
+in the jury-selection process.” 130 Further, once a plaintiff demon-
+strates a prima facie violation, the defendant faces a formidable bur-
+den: the jury selection process may be sustained under the Sixth
+Amendment only if those aspects of the process that result in the
+disproportionate exclusion of a distinctive group, such as exemp-
+tion criteria, “manifestly and primarily” advance a “significant state
+interest.” 131 Thus, in one case the Court voided a selection system
+under which no woman would be called for jury duty unless she
+had previously filed a written declaration of her desire to be sub-
+ject to service, and, in another it invalidated a state selection sys-
+tem granting women who so requested an automatic exemption from
+jury service.132
+     Second, there must be assurance that the jurors chosen are un-
+biased, i.e., willing to decide the case on the basis of the evidence
+presented. The Court has held that in the absence of an actual show-
+ing of bias, a defendant in the District of Columbia is not denied
+an impartial jury when he is tried before a jury composed primar-
+ily of government employees.133 A violation of a defendant’s right to
+an impartial jury does occur, however, when the jury or any of its
+members is subjected to pressure or influence which could impair
+freedom of action; the trial judge should conduct a hearing in which
+the defense participates to determine whether impartiality has been
+undermined.134 Exposure of the jury to possibly prejudicial mate-
+rial and disorderly courtroom activities may deny impartiality and
+must be inquired into.135 Private communications, contact, or tam-
+     130 Duren v. Missouri, 439 U.S. 357, 364 (1979). To show that underrepresenta-
+
+tion resulted from systematic exclusion requires rigorous evidence beyond merely
+pointing to a single factor or a host of factors that might have caused fewer mem-
+bers of a distinct group to have been included. Berghuis v. Smith, 559 U.S. ___, No.
+08–1402, slip op. (2010).
+     131 439 U.S. at 367–68.
+     132 Taylor v. Louisiana, 419 U.S. 522 (1975); Duren v. Missouri, 439 U.S. 357
+
+(1979).
+     133 Frazier v. United States, 335 U.S. 497 (1948); Dennis v. United States, 339
+
+U.S. 162 (1950). On common-law grounds, the Court in Crawford v. United States,
+212 U.S. 183 (1909), disqualified such employees, but a statute removing the disquali-
+fication because of the increasing difficulty in finding jurors in the District of Colum-
+bia was sustained in United States v. Wood, 299 U.S. 123 (1936).
+     134 Remmer v. United States, 350 U.S. 377 (1956) (attempted bribe of a juror
+
+reported by him to authorities); Smith v. Phillips, 455 U.S. 209 (1982) (during trial
+one of the jurors had been actively seeking employment in the District Attorney’s
+office).
+     135 E.g., Irvin v. Dowd, 366 U.S. 717 (1961); Sheppard v. Maxwell, 384 U.S. 333
+
+(1966). Exposure of the jurors to knowledge about the defendant’s prior criminal re-
+cord and activities is not alone sufficient to establish a presumption of reversible
+prejudice, but on voir dire jurors should be questioned about their ability to judge
+impartially. Murphy v. Florida, 421 U.S. 794 (1975). The Court indicated that under
+the same circumstances in a federal trial it would have overturned the conviction
+pursuant to its supervisory power. Id. at 797–98, citing Marshall v. United States,

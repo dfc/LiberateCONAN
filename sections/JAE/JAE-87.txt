@@ -1,0 +1,48 @@
+     The most severe curtailment of the rule came in 1984 with the
+adoption of a “good faith” exception. In United States v. Leon,466 the
+Court created an exception for evidence obtained as a result of offi-
+cers’ objective, good-faith reliance on a warrant, later found to be
+defective, issued by a detached and neutral magistrate. Justice White’s
+opinion for the Court could find little benefit in applying the exclu-
+sionary rule where there has been good-faith reliance on an invalid
+warrant. Thus, there was nothing to offset the “substantial social
+costs exacted by the [rule].” 467 “The exclusionary rule is designed
+to deter police misconduct rather than to punish the errors of judges
+and magistrates,” and in any event the Court considered it un-
+likely that the rule could have much deterrent effect on the actions
+of truly neutral magistrates.468 Moreover, the Court thought that
+the rule should not be applied “to deter objectively reasonable law
+enforcement activity,” and that “[p]enalizing the officer for the mag-
+istrate’s error . . . cannot logically contribute to the deterrence of
+Fourth Amendment violations.” 469 The Court also suggested some
+circumstances in which courts would be unable to find that officers’
+reliance on a warrant was objectively reasonable: if the officers have
+been “dishonest or reckless in preparing their affidavit,” if it should
+have been obvious that the magistrate had “wholly abandoned” his
+neutral role, or if the warrant was obviously deficient on its face
+(e.g., lacking in particularity).
+    The Court applied the Leon standard in Massachusetts v. Shep-
+pard,470 holding that an officer possessed an objectively reasonable
+belief that he had a valid warrant after he had pointed out to the
+magistrate that he had not used the standard form, and the magis-
+trate had indicated that the necessary changes had been incorpo-
+rated in the issued warrant. Then, the Court then extended Leon
+to hold that the exclusionary rule is inapplicable to evidence ob-
+tained by an officer acting in objectively reasonable reliance on a
+statute later held to violate the Fourth Amendment.471 Justice
+Blackmun’s opinion for the Court reasoned that application of the
+exclusionary rule in such circumstances would have no more deter-
+     466 468 U.S. 897 (1984). The same objectively reasonable “good-faith” rule now
+
+applies in determining whether officers obtaining warrants are entitled to qualified
+immunity from suit. Malley v. Briggs, 475 U.S. 335 (1986).
+     467 468 U.S. at 907.
+     468 468 U.S. at 916–17.
+     469 468 U.S. at 919, 921.
+     470 468 U.S. 981 (1984).
+     471 Illinois v. Krull, 480 U.S. 340 (1987). The same difficult-to-establish qualifi-
+
+cations apply: there can be no objectively reasonable reliance “if, in passing the stat-
+ute, the legislature wholly abandoned its responsibility to enact constitutional laws,”
+or if “a reasonable officer should have known that the statute was unconstitu-
+tional.” Id. at 355.

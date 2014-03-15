@@ -1,0 +1,48 @@
+the Miranda rule differed from the Mapp v. Ohio 350 exclusionary
+rule denied enforcement in habeas proceedings in Stone, the Court
+explained, because the primary purpose of Mapp was to deter fu-
+ture Fourth Amendment violations, a purpose that the Court claimed
+would only be marginally advanced by allowing collateral re-
+view.351 A further consideration was that eliminating review of Miranda
+claims would not significantly reduce federal habeas review of state
+convictions, because most Miranda claims could be recast in terms
+of due process denials resulting from admission of involuntary con-
+fessions.352
+    In any event, the Court has established several lines of deci-
+sions interpreting key aspects of Miranda.
+     First, Miranda warnings must be given prior to “questioning
+initiated by law enforcement officers after a person has been taken
+into custody or otherwise deprived of his freedom of action in any
+significant way.” 353 The cases have distilled “custody or other sig-
+nificant deprivation of action” into a two-part assessment under which
+restricting a person’s movement is a necessary but not sufficient el-
+ement. Not all inhibitions of “free movement” trigger Miranda.
+Whether a person is “in custody” during questioning depends on the
+coercive pressure posed. The Court applies an objective, context-
+specific test of how intimidated a reasonable person in the sus-
+pect’s shoes would feel to freely exercise his right against self-
+incrimination. A police officer’s subjective and undisclosed view that
+a person being interrogated is a criminal suspect is not relevant
+for Miranda purposes, nor is the subjective view of the person be-
+ing questioned.354 The only refinement to this one-size-fits-all rea-
+sonable person test is consideration of age if the detainee is a juve-
+nile.355
+    An ordinary traffic stop does not to amount to Miranda “cus-
+tody.” 356 Nor do all interrogations of prison inmates about previous
+outside conduct, even if the inmate is isolated from the general prison
+
+    350  367 U.S. 643 (1961).
+    351  507 U.S. at 686–93.
+     352 507 U.S. at 693.
+     353 Miranda v. Arizona, 384 U.S. 436, 444 (1966) (emphasis added).
+     354 Stansbury v. California, 511 U.S. 318 (1994).
+     355 J.D.B. v. North Carolina, 564 U.S. ___, No. 09–11121, slip op. (2011) (case
+
+remanded to evaluate whether a 13-year-old student questioned by a uniformed po-
+lice officer and school administrators on school grounds was in custody).
+     356 Berkemer v. McCarty, 468 U.S. 420, 440 (1984) (roadside questioning of mo-
+
+torist stopped for traffic violation not custodial interrogation until “freedom of ac-
+tion is curtailed to a ‘degree associated with formal arrest’ ”). Thus, “custody” for
+self-incrimination purposes under the Fifth Amendment does not necessarily cover
+all detentions that are “seizures” under the Fourth Amendment. Id.

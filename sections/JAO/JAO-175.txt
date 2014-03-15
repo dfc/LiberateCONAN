@@ -1,0 +1,50 @@
+    A further tightening of jurisdictional standards occurred in Rush
+v. Savchuk.928 The plaintiff was injured in a one-car accident in In-
+diana while a passenger in a car driven by defendant. Plaintiff later
+moved to Minnesota and sued defendant, still resident in Indiana,
+in state court in Minnesota. There were no contacts between the
+defendant and Minnesota, but defendant’s insurance company did
+business there and plaintiff garnished the insurance contract, signed
+in Indiana, under which the company was obligated to defend de-
+fendant in litigation and indemnify him to the extent of the policy
+limits. The Court refused to permit jurisdiction to be grounded on
+the contract; the contacts justifying jurisdiction must be those of
+the defendant engaging in purposeful activity related to the fo-
+rum.929 Rush thus resulted in the demise of the controversial Seider
+v. Roth doctrine, which lower courts had struggled to save after Shaf-
+fer v. Heitner.930
+    Actions in Rem: Estates, Trusts, Corporations.—Generally,
+probate will occur where the decedent was domiciled, and, as a pro-
+bate judgment is considered in rem, a determination as to assets in
+that state will be determinative as to all interested persons.931 In-
+sofar as the probate affects real or personal property beyond the
+state’s boundaries, however, the judgment is in personam and can
+bind only parties thereto or their privies.932 Thus, the Full Faith
+and Credit Clause would not prevent an out-of-state court in the
+state where the property is located from reconsidering the first court’s
+finding of domicile, which could affect the ultimate disposition of
+the property.933
+    The difficulty of characterizing the existence of the res in a par-
+ticular jurisdiction is illustrated by the in rem aspects of Hanson v.
+
+    928  444 U.S. 320 (1980).
+    929  444 U.S. at 328–30. In dissent, Justices Brennan and Stevens argued that
+what the state courts had done was the functional equivalent of direct-action stat-
+utes. Id. at 333 (Justice Stevens); World-Wide Volkswagen Corp. v. Woodson, 444
+U.S. 286, 299 (1980) (Justice Brennan). The Court, however, refused so to view the
+Minnesota garnishment action, saying that “[t]he State’s ability to exert its power
+over the ‘nominal defendant’ is analytically prerequisite to the insurer’s entry into
+the case as a garnishee.” Id. at 330–31. Presumably, the comment is not meant to
+undermine the validity of such direct-action statutes, which was upheld in Watson
+v. Employers Liability Assurance Corp., 348 U.S. 66 (1954), a choice-of-law case rather
+than a jurisdiction case.
+     930 See O’Conner v. Lee-Hy Paving Corp., 579 F.2d 194 (2d Cir. 1978), cert. de-
+
+nied, 439 U.S. 1034 (1978).
+     931 Goodrich v. Ferris, 214 U.S. 71, 80 (1909); McCaughey v. Lyall, 224 U.S. 558
+
+(1912).
+     932 Baker v. Baker, Eccles & Co., 242 U.S. 394 (1917); Riley v. New York Trust
+
+Co., 315 U.S. 343 (1942).
+     933 315 U.S. at 353.

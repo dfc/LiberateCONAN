@@ -1,0 +1,52 @@
+that increases the penalty for a crime beyond the prescribed statu-
+tory maximum,” the Court concluded, “must be submitted to a jury,
+and proved beyond a reasonable doubt.” 93 The one exception Ap-
+prendi recognized was for sentencing enhancements based on recidi-
+vism.94
+    Apprendi’s importance soon became evident as the Court ap-
+plied its reasoning in other situations. In Ring v. Arizona,95 the Court,
+overruling precedent,96 applied Apprendi to invalidate an Arizona
+law that authorized imposition of the death penalty only if the judge
+made a factual determination as to the existence of any of several
+aggravating factors. Although Arizona required that the judge’s find-
+ings as to aggravating factors be made beyond a reasonable doubt,
+and not merely by a preponderance of the evidence, the Court ruled
+that the findings must be made by a jury.97
+    In Blakely v. Washington,98 the Court applied Apprendi to cast
+doubt on types of widely adopted reform measures that were in-
+tended to foster more consistent sentencing practices. Blakely, who
+pled guilty to an offense for which the “standard range” under the
+Washington State’s sentencing law was 49 to 53 months, was sen-
+tenced to 90 months based on the judge’s determination—not de-
+rived from facts admitted in the guilty plea—that the offense had
+been committed with “deliberate cruelty,” a basis for an “upward
+departure” under the statute. The 90-month sentence conformed to
+
+    93  530 U.S. at 490.
+    94  530 U.S. at 490. Enhancement of sentences for repeat offenders is tradition-
+ally considered a part of sentencing, and a judge may find the existence of previous
+valid convictions even if the result is a significant increase in the maximum sen-
+tence available. Almendarez-Torres v. United States, 523 U.S. 224 (1998) (deported
+alien reentering the United States is subject to a maximum sentence of two years,
+but upon proof of a felony record, is subject to a maximum of twenty years). Almendarez-
+Torres was cited with approval on this point in James v. United States, 550 U.S.
+192, 214 n.8 (2007) (“prior convictions need not be treated as an element of the of-
+fense for Sixth Amendment purposes”). See also Parke v. Raley, 506 U.S. 20 (1992)
+(if the prosecutor has the burden of establishing a prior conviction, a defendant can
+be required to bear the burden of challenging its validity).
+     95 536 U.S. 584 (2002).
+     96 Walton v. Arizona, 497 U.S. 639 (1990). Ring also appears to overrule some
+
+other decisions on the same issue, including Spaziano v. Florida, 468 U.S. 447, 459
+(1984), and Hildwin v. Florida, 490 U.S. 638, 640–41 (1989) (per curiam), and under-
+cuts the reasoning of another. See Clemons v. Mississippi, 494 U.S. 738 (1990) (ap-
+pellate court may reweigh aggravating and mitigating factors and uphold imposi-
+tion of death penalty even though jury relied on an invalid aggravating factor).
+     97 “Because Arizona’s enumerated aggravating factors operate as ‘the functional
+
+equivalent of an element of a greater offense,’ . . . the Sixth Amendment requires
+that they be found by a jury.” 536 U.S. at 609. The Court rejected Arizona’s request
+that it recognize an exception for capital sentencing in order not to interfere with
+elaborate sentencing procedures designed to comply with the Eighth Amendment.
+Id. at 605–07.
+     98 542 U.S. 296 (2004).

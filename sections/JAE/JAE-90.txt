@@ -1,0 +1,48 @@
+     Operation of the Rule: Standing.—The Court for a long pe-
+riod followed a rule of “standing” by which it determined whether
+a party was the appropriate person to move to suppress allegedly
+illegal evidence. Akin to Article III justiciability principles, which
+emphasize that one may ordinarily contest only those government
+actions that harm him, the standing principle in Fourth Amend-
+ment cases “require[d] of one who seeks to challenge the legality of
+a search as the basis for suppressing relevant evidence that he al-
+lege, and if the allegation be disputed that he establish, that he
+himself was the victim of an invasion of privacy.” 481 Subsequently,
+the Court departed from the concept of standing to telescope the
+inquiry into one inquiry rather than two. Finding that standing served
+no useful analytical purpose, the Court has held that the issue of
+exclusion is to be determined solely upon a resolution of the sub-
+stantive question whether the claimant’s Fourth Amendment rights
+have been violated. “We can think of no decided cases of this Court
+that would have come out differently had we concluded . . . that
+the type of standing requirement . . . reaffirmed today is more prop-
+erly subsumed under substantive Fourth Amendment doctrine. Rig-
+orous application of the principle that the rights secured by this
+Amendment are personal, in place of a notion of ‘standing,’ will pro-
+duce no additional situations in which evidence must be excluded.
+The inquiry under either approach is the same.” 482 One must there-
+fore show that “the disputed search and seizure has infringed an
+interest of the defendant which the Fourth Amendment was de-
+signed to protect.” 483
+    The Katz reasonable expectation of privacy rationale has now
+displaced property-ownership concepts that previously might have
+supported either standing to suppress or the establishment of an
+interest that has been invaded. Thus, it is no longer sufficient to
+allege possession or ownership of seized goods to establish the in-
+terest, if a justifiable expectation of privacy of the defendant was
+ing to warrantless search); New York v. Belton, 453 U.S. 454 (1981) (upholding war-
+rantless search of entire interior of passenger car, including closed containers, as
+incident to arrest of driver); Arizona v. Gant, 556 U.S. ___, No. 07–542 (U.S. Apr. 21
+(2009), slip op. at 18 (the Belton rule applies “only if the arrestee is within reaching
+distance of the passenger compartment at the time of the search or it is reasonable
+to believe that the vehicle contains evidence of the offense of arrest”); United States
+v. Ross, 456 U.S. 798 (1982) (upholding warrantless search of movable container found
+in a locked car trunk).
+     481 Jones v. United States, 362 U.S. 257, 261 (1960). That is, the movant must
+
+show that he was “a victim of search or seizure, one against whom the search was
+directed, as distinguished from one who claims prejudice only through the use of
+evidence gathered as a consequence of search or seizure directed at someone else.”
+Id. See Alderman v. United States, 394 U.S. 165, 174 (1969).
+     482 Rakas v. Illinois, 439 U.S. 128, 139 (1978).
+     483 439 U.S. at 140.

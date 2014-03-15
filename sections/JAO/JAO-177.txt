@@ -1,0 +1,55 @@
+addresses were unknown to the bank, the Court held that it was
+feasible to make serious efforts to notify residents and nonresi-
+dents whose whereabouts were known, such as by mailing notice
+to the addresses on record with the bank.942
+     Notice: Service of Process.—Before a state may legitimately
+exercise control over persons and property, the state’s jurisdiction
+must be perfected by an appropriate service of process that is effec-
+tive to notify all parties of proceedings that may affect their rights.943
+Personal service guarantees actual notice of the pendency of a le-
+gal action, and has traditionally been deemed necessary in actions
+styled in personam.944 But “certain less rigorous notice procedures
+have enjoyed substantial acceptance throughout our legal history;
+in light of this history and the practical obstacles to providing per-
+sonal service in every instance,” the Court in some situations has
+allowed the use of procedures that “do not carry with them the same
+certainty of actual notice that inheres in personal service.” 945 But,
+whether the action be in rem or in personam, there is a constitu-
+tional minimum; due process requires “notice reasonably calcu-
+lated, under all the circumstances, to apprise interested parties of
+the pendency of the action and afford them an opportunity to pres-
+ent their objections.” 946
+
+     942 A related question is which state has the authority to escheat a corporate
+
+debt. See Western Union Tel. Co. v. Pennsylvania, 368 U.S. 71 (1961); Texas v. New
+Jersey, 379 U.S. 674 (1965). Where a state seeks to escheat intangible corporate
+property such as uncollected debt, the Court found that the multiplicity of states
+with a possible interest made a “contacts” test unworkable. Citing ease of adminis-
+tration rather than logic or jurisdiction, the Court held that the authority to take
+the uncollected claims against a corporation by escheat would be based on whether
+the last known address on the company’s books for the each creditor was in a par-
+ticular state.
+     943 “An elementary and fundamental requirement of due process in any proceed-
+
+ing which is to be accorded finality is notice reasonably calculated, under all the
+circumstances, to apprise interested parties of the pendency of the action and afford
+them an opportunity to present their objections.” Mullane v. Central Hanover Bank
+& Trust Co., 339 U.S. 306, 314 (1950). “There . . . must be a basis for the defen-
+dant’s amenability to service of summons. Absent consent, this means there must
+be authorization for service of summons on the defendant.” Omni Capital Int’l v.
+Rudolph Wolff & Co., 484 U.S. 97 (1987).
+     944 McDonald v. Mabee, 243 U.S. 90, 92 (1971).
+     945 Greene v. Lindsey, 456 U.S. 444, 449 (1982). See Dusenbery v. United States,
+
+534 U.S. 161 (2001) (upholding a notice of forfeiture that was delivered by certified
+mail to the mailroom of a prison where the individual to be served was incarcer-
+ated, even though the individual himself did not sign for the letter).
+     946 Mullane v. Central Hanover Bank & Trust Co., 339 U.S. 306, 314 (1950).
+
+Thus, in Jones v. Flowers, 547 U.S. 220 (2006), the Court held that, after a state’s
+certified letter, intended to notify a property owner that his property would be sold
+unless he satisfied a tax delinquency, was returned by the post office marked “un-
+claimed,” the state should have taken additional reasonable steps to notify the prop-
+erty owner, as it would have been practicable for it to have done so. And, in Greene
+v. Lindsey, 456 U.S. 444 (1982), the Court held that, in light of substantial evidence

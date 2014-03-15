@@ -1,0 +1,54 @@
+most important of which is the claim of good faith.413 Such “good
+faith” claims, however, are not based on the subjective intent of the
+officer. Instead, officers are entitled to qualified immunity “where
+clearly established law does not show that the search violated the
+Fourth Amendment,” 414 or where they had an objectively reason-
+able belief that a warrantless search later determined to violate the
+Fourth Amendment was supported by probable cause or exigent cir-
+cumstances.415 On the practical side, persons subjected to illegal ar-
+rests and searches and seizures are often disreputable persons to-
+ward whom juries are unsympathetic, or they are indigent and unable
+to sue. The result, therefore, is that the Court has emphasized ex-
+clusion of unconstitutionally seized evidence in subsequent crimi-
+nal trials as the only effective enforcement method.
+    Development of the Exclusionary Rule.—Exclusion of evi-
+dence as a remedy for Fourth Amendment violations found its be-
+ginning in Boyd v. United States,416 which, as noted above, in-
+volved not a search and seizure but a compulsory production of
+business papers, which the Court likened to a search and seizure.
+Further, the Court analogized the Fifth Amendment’s self-
+incrimination provision to the Fourth Amendment’s protections to
+derive a rule that required exclusion of the compelled evidence be-
+cause the defendant had been compelled to incriminate himself by
+
+     413 This is the rule in actions under 42 U.S.C. § 1983, Pierson v. Ray, 386 U.S.
+
+547 (1967), and on remand in Bivens the court of appeals promulgated the same
+rule to govern trial of the action. Bivens v. Six Unknown Named Agents of the Fed-
+eral Bureau of Narcotics, 456 F.2d 1339 (2d Cir. 1972).
+     414 Pearson v. Callahan, 555 U.S. ___, No. 07–751, slip op. (2009), quoted in Saf-
+
+ford Unified School District #1 v. Redding, 557 U.S. ___, No. 08–479, slip op. at 11
+(2009). In Saucier v. Katz, 533 U.S. 194 (2001), the Court had mandated a two-step
+procedure to determine whether an officer has qualified immunity: first, a determi-
+nation whether the officer’s conduct violated a constitutional right, and then a deter-
+mination whether the right had been clearly established. In Pearson, the Court held
+“that, while the sequence set forth [in Saucier] is often appropriate, it should no
+longer be regarded as mandatory. The judges of the district courts and the courts of
+appeals should be permitted to exercise their sound discretion in deciding which of
+the two prongs of the qualified immunity analysis should be addressed first in light
+of the circumstances in the particular case at hand.” 555 U.S. ___, No. 07–751, slip
+op. at 10. See also Harlow v. Fitzgerald, 457 U.S. 800, 818 (1982).
+     415 Anderson v. Creighton, 483 U.S. 635 (1987). The qualified immunity inquiry
+
+“has a further dimension” beyond what is required in determining whether a police
+officer used excessive force in arresting a suspect: the officer may make “a reason-
+able mistake” in his assessment of what the law requires. Saucier v. Katz, 533 U.S.
+194, 205–06 (2001). See also Brosseau v. Haugen, 543 U.S. 194, 201 (2004) (because
+cases create a “hazy border between excessive and acceptable force,” an officer’s mis-
+understanding as to her authority to shoot a suspect attempting to flee in a vehicle
+was not unreasonable); Malley v. Briggs, 475 U.S. 335, 345 (1986) (qualified immu-
+nity protects police officers who applied for a warrant unless “a reasonably well-
+trained officer in [the same] position would have known that his affidavit failed to
+establish probable cause and that he should not have applied for a warrant”).
+     416 116 U.S. 616 (1886).

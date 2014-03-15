@@ -1,0 +1,49 @@
+stance arose when the Court unexpectedly recognized a statute of
+limitations for certain securities actions that was shorter than what
+had been recognized in many jurisdictions, resulting in the dis-
+missal of several suits, which then become final because they were
+not appealed. Congress subsequently enacted a statute that, though
+not changing the limitations period prospectively, retroactively ex-
+tended the time for suits that had been dismissed and provided for
+the reopening of these final judgments. In Plaut v. Spendthrift Farm,
+Inc.,143 the Court invalidated the statute, holding it impermissible
+for Congress to disturb a final judgment. “Having achieved finality,
+. . . a judicial decision becomes the last word of the judicial depart-
+ment with regard to a particular case or controversy, and Congress
+may not declare by retroactive legislation that the law applicable
+to that very case was something other than what the courts said it
+was.” 144 In Miller v. French,145 by contrast, the Court ruled that
+the Prison Litigation Reform Act’s automatic stay of ongoing injunc-
+tions remedying violations of prisoners’ rights did not amount to
+an unconstitutional legislative revision of a final judgment. Rather,
+the automatic stay merely altered “the prospective effect” of injunc-
+tions, and it is well established that such prospective relief “re-
+mains subject to alteration due to changes in the underlying law.” 146
+    “Shall Be Vested”.—The distinction between judicial power and
+jurisdiction is especially pertinent to the meaning of the words “shall
+be vested” in § 1. Whereas all the judicial power of the United States
+is vested in the Supreme Court and the inferior federal courts cre-
+ated by Congress, neither has ever been vested with all the juris-
+diction which could be granted and, Justice Story to the con-
+trary,147 the Constitution has not been read to require that Congress
+confer the entire jurisdiction it might.148 Thus, except for the origi-
+nal jurisdiction of the Supreme Court, which flows directly from the
+Constitution, two prerequisites to jurisdiction must be present: first,
+the Constitution must have given the courts the capacity to receive
+composed of “inferior courts” and “one Supreme Court.” “Within that hierarchy, the
+decision of an inferior court is not (unless the time for appeal has expired) the final
+word of the department as a whole.” Id. at 227.
+     143 514 U.S. 211 (1995).
+     144 514 U.S. at 227 (emphasis supplied by Court).
+     145 530 U.S. 327 (2000).
+     146 530 U.S. at 344.
+     147 Martin v. Hunter’s Lessee, 14 U.S. (1 Wheat.) 304, 328–331 (1816). See also
+
+3 J. STORY, COMMENTARIES ON THE CONSTITUTION OF THE UNITED STATES (1833) 1584–1590.
+     148 See, e.g., Turner v. Bank of North America, 4 U.S. (4 Dall.) 8, 10 (1799) (Jus-
+
+tice Chase). A recent, sophisticated attempt to resurrect the core of Justice Story’s
+argument appears in Amar, A Neo-Federalist View of Article III: Separating the Two
+Tiers of Federal Jurisdiction, 65 B. U. L. REV. 205 (1985); see also Amar, Meltzer,
+and Redish, Symposium: Article III and the Judiciary Act of 1789, 138 U. PA. L.
+REV. 1499 (1990). Professor Amar argues from the text of Article III, § 2, cl. 1, that

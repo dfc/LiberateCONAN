@@ -1,0 +1,52 @@
+federal agency in violation of 18 U.S.C. § 1001 erred when it took
+the issue of the “materiality” of the false statement away from the
+jury.73 Later, however, the Court backed off from this latter ruling,
+holding that failure to submit the issue of materiality to the jury
+in a tax fraud case can constitute harmless error.74 Subsequently,
+the Court held that, just as failing to prove materiality to the jury
+beyond a reasonable doubt can be harmless error, so can failing to
+prove a sentencing factor to the jury beyond a reasonable doubt.
+“Assigning this distinction constitutional significance cannot be rec-
+onciled with our recognition in Apprendi that elements and sentenc-
+ing factors must be treated the same for Sixth Amendment pur-
+poses.” 75
+    When the Jury Trial Guarantee Applies.—The Sixth Amend-
+ment is phrased in terms of “all criminal prosecutions,” but the Court
+has always excluded petty offenses from the guarantee to a jury
+trial in federal courts, defining the line between petty and serious
+offenses either by the maximum punishment available 76 or by the
+nature of the offense.77 This line has been adhered to in the appli-
+cation of the Sixth Amendment to the states,78 and the Court has
+now held “that no offense can be deemed ‘petty’ for purposes of the
+right to trial by jury where imprisonment for more than six months
+is authorized.” 79 A defendant who is prosecuted in a single proceed-
+ing for multiple petty offenses, however, does not have a constitu-
+
+    73  515 U.S. at 523.
+    74  Neder v. United States, 527 U.S. 1 (1999).
+     75 Washington v. Recuenco, 548 U.S. 212, 220 (2006). Apprendi is discussed in
+
+the next section.
+     76 District of Columbia v. Clawans, 300 U.S. 617 (1937); Schick v. United States,
+
+195 U.S. 65 (1904); Callan v. Wilson, 127 U.S. 540 (1888).
+     77 District of Columbia v. Colts, 282 U.S. 63 (1930).
+     78 Duncan v. Louisiana, 391 U.S. 145, 159–62 (1968); Dyke v. Taylor Implement
+
+Mfg. Co., 391 U.S. 216 (1968).
+     79 Baldwin v. New York, 399 U.S. 66, 69 (1970). Justices Black and Douglas would
+
+have required a jury trial in all criminal proceedings in which the sanction imposed
+bears the indicia of criminal punishment. Id. at 74 (concurring); Cheff v. Schnackenberg,
+384 U.S. 373, 384, 386 (1966) (dissenting). Chief Justice Burger and Justices Har-
+lan and Stewart objected to setting this limitation at six months for the States, pre-
+ferring to give them greater leeway. Baldwin, 399 U.S. at 76; Williams v. Florida,
+399 U.S. 78, 117, 143 (1970) (dissenting). No jury trial was required when the trial
+judge suspended sentence and placed defendant on probation for three years. Frank
+v. United States, 395 U.S. 147 (1969). There is a presumption that offenses carrying
+a maximum imprisonment of six months or less are “petty,” although it is possible
+that such an offense could be pushed into the “serious” category if the legislature
+tacks on onerous penalties not involving incarceration. No jury trial is required, how-
+ever, when the maximum sentence is six months in jail, a fine not to exceed $1,000,
+a 90-day driver’s license suspension, and attendance at an alcohol abuse education
+course. Blanton v. City of North Las Vegas, 489 U.S. 538, 542–44 (1989).

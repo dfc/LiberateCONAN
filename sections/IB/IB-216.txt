@@ -1,0 +1,53 @@
+has failed to make. In making this determination, the Court’s evalu-
+ation of the desirability of overlapping regulatory schemes or over-
+lapping criminal sanctions cannot but be a substantial factor.” 1149
+     Preemption Standards.—Until roughly the New Deal, as re-
+cited above, the Supreme Court applied a doctrine of “dual federal-
+ism,” under which the Federal Government and the states were sepa-
+rate sovereigns, each preeminent in its own fields but lacking authority
+in the other’s. This conception affected preemption cases, with the
+Court taking the view, largely, that any congressional regulation of
+a subject effectively preempted the field and ousted the states.1150
+Thus, when Congress entered the field of railroad regulation, the
+result was invalidation of many previously enacted state measures.
+Even here, however, safety measures tended to survive, and health
+and safety legislation in other areas was protected from the effects
+of federal regulatory actions.
+    In the 1940s, the Court began to develop modern standards, still
+recited and relied on, for determining when preemption oc-
+curred.1151 All modern cases recite some variation of the basic stan-
+dards. “[T]he question whether a certain state action is pre-empted
+by federal law is one of congressional intent. The purpose of Con-
+gress is the ultimate touchstone. To discern Congress’s intent we
+examine the explicit statutory language and the structure and pur-
+pose of the statute.” 1152 Congress’s intent to supplant state author-
+ity in a particular field may be “explicitly stated in the statute’s
+     1149 Cramton, Pennsylvania v. Nelson: A Case Study in Federal Preemption, 26
+
+U. CHI. L. REV. 85, 87–88 (1956). “The [Court] appears to use essentially the same
+reasoning process in a case nominally hinging on preemption as it has in past cases
+in which the question was whether the state law regulated or burdened interstate
+commerce. [The] Court has adopted the same weighing of interests approach in pre-
+emption cases that it uses to determine whether a state law unjustifiably burdens
+interstate commerce. In a number of situations the Court has invalidated statutes
+on the preemption ground when it appeared that the state laws sought to favor lo-
+cal economic interests at the expense of the interstate market. On the other hand,
+when the Court has been satisfied that valid local interests, such as those in safety
+or in the reputable operation of local business, outweigh the restrictive effect on in-
+terstate commerce, the Court has rejected the preemption argument and allowed
+state regulation to stand.” Note, Preemption as a Preferential Ground: A New Canon
+of Construction, 12 STAN. L. REV. 208, 217 (1959) (quoted approvingly as a “thought-
+ful student comment” in G. GUNTHER, CONSTITUTIONAL LAW 297 (12th ed. 1991)).
+     1150 E.g., Charleston & W. Car. Ry. v. Varnville Co., 237 U.S. 597, 604 (1915).
+
+But see Corn Products Refining Co. v. Eddy, 249 U.S. 427, 438 (1919).
+     1151 E.g., Hines v. Davidowitz, 312 U.S. 52 (1941); Cloverleaf Butter v. Patter-
+
+son, 315 U.S. 148 (1942); Rice v. Santa Fe Elevator Corp., 331 U.S. 218 (1947); Cali-
+fornia v. Zook, 336 U.S. 725 (1949).
+     1152 Gade v. National Solid Wastes Mgmt. Ass’n, 505 U.S. 88, 96 (1992) (inter-
+
+nal quotation marks and case citations omitted). Recourse to legislative history as
+one means of ascertaining congressional intent, although contested, is permissible.
+Wisconsin Public Intervenor v. Mortier, 501 U.S. 597, 606–12 & n.4 (1991). See also
+Dan’s City Used Cars, Inc. v. Pelkey, 569 U.S. ___, No. 12–52, slip op. (2013) (provi-

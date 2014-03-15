@@ -1,0 +1,55 @@
+tory grounds.227 However, the Court did find that the government
+may not detain the petitioner indefinitely for purposes of interroga-
+tion, and must afford him the opportunity to offer evidence that he
+is not an enemy combatant.228
+     In Rasul v. Bush,229 the Court rejected an Executive Branch ar-
+gument that foreign prisoners being held at Guantanamo Bay were
+outside of federal court jurisdiction. The Court distinguished ear-
+lier case law arising during World War II that denied habeas cor-
+pus petitions from German citizens who had been captured and tried
+overseas by United States military tribunals.230 In Rasul, the Court
+noted that the Guantanamo petitioners were not citizens of a coun-
+try at war with the United States,231 had not been afforded any
+form of tribunal, and were being held in a territory over which the
+United States exercised exclusive jurisdiction and control.232 In ad-
+dition, the Court found that statutory grounds existed for the exten-
+sion of habeas corpus to these prisoners.233
+     In response to Rasul, Congress amended the habeas statute to
+eliminate all federal habeas jurisdiction over detainees, whether its
+     227 542 U.S. 507 (2004). There was no opinion of the Court. Justice O’Connor,
+
+joined by Chief Justice Rehnquist, Justice Kennedy and Justice Breyer, avoided rul-
+ing on the Executive Branch argument that such detentions could be authorized by
+its Article II powers alone, and relied instead on the “Authorization for Use of Mili-
+tary Force” passed by Congress. Justice Thomas also found that the Executive Branch
+had the power to detain the petitioner, although his dissenting opinion found that
+such detentions were authorized by Article II. Justice Souter, joined by Justice Ginsberg,
+rejected the argument that the Congress had authorized such detentions, while Jus-
+tice Scalia, joined with Justice Stevens, denied that such congressional authoriza-
+tion was possible without a suspension of the writ of habeas corpus.
+     228 At a minimum, the petitioner must be given notice of the asserted factual
+
+basis for holding him, must be given a fair chance to rebut that evidence before a
+neutral decisionmaker, and must be allowed to consult an attorney. 542 U.S. at 533,
+539.
+     229 542 U.S. 466 (2004).
+     230 Johnson v. Eisentrager, 339 U.S. 763, 789 (1950).
+     231 The petitioners were Australians and Kuwaitis.
+     232 Rasul v. Bush, 542 U.S. at 467.
+     233 The Court found that 28 U.S.C. § 2241, which had previously been con-
+
+strued to require the presence of a petitioner in a district court’s jurisdiction, was
+now satisfied by the presence of a jailor-custodian. See Braden v. 30th Judicial Cir-
+cuit Court, 410 U.S. 484 (1973). Another “enemy combatant” case, this one involv-
+ing an American citizen arrested on American soil, was remanded after the Court
+found that a federal court’s habeas jurisdiction under 28 U.S.C. § 2241 was limited
+to jurisdiction over the immediate custodian of a petitioner. Rumsfeld v. Padilla, 542
+U.S. 426 (2004) (federal court’s jurisdiction over Secretary of Defense Rumsfeld not
+sufficient to satisfy presence requirement under 28 U.S.C. § 2241). In Munaf v. Geren,
+128 S. Ct. 2207 (2008), the Court held that the federal habeas statute, 28 U.S.C.
+§ 2241, applied to American citizens held by the Multinational Force—Iraq, an inter-
+national coalition force operating in Iraq and composed of 26 different nations, in-
+cluding the United States. The Court concluded that the habeas statute extends to
+American citizens held overseas by American forces operating subject to an Ameri-
+can chain of command, even when those forces are acting as part of a multinational
+coalition.

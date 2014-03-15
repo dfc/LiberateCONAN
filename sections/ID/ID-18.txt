@@ -1,0 +1,51 @@
+ing” inquiry as to whether Congress is encroaching inordinately on
+judicial functions, whereas the concern is not so great where “pub-
+lic” rights are involved.81
+     However, in a subsequent case, Granfinanciera, S.A. v. Nordberg,
+the distinction was pronounced determinative not only of the issue
+whether a matter could be referred to a non-Article III tribunal,
+but whether Congress could dispense with civil jury trials.82 In so
+doing, however, the Court vitiated much of the core content of “pri-
+vate” rights as a concept and left resolution of the central issue to
+a balancing test. That is, “public” rights are, strictly speaking, those
+in which the cause of action inheres in or lies against the Federal
+Government in its sovereign capacity, the understanding since Mur-
+ray’s Lessee. However, to accommodate Crowell v. Benson, Atlas Roof-
+ing, and similar cases, seemingly private causes of action between
+private parties will also be deemed “public” rights when Congress,
+acting for a valid legislative purpose pursuant to its Article I pow-
+ers, fashions a cause of action that is analogous to a common-law
+claim and integrates it so closely into a public regulatory scheme
+that it becomes a matter appropriate for agency resolution with lim-
+ited involvement by the Article III judiciary.83 Nonetheless, despite
+its fixing by Congress as a “core proceeding” suitable for an Article
+I bankruptcy court adjudication, the Court held the particular cause
+of action at issue (fraudulent conveyance) was a private issue as to
+which the parties were entitled to a civil jury trial, necessarily sug-
+
+
+     81 “In essence, the public rights doctrine reflects simply a pragmatic understand-
+
+ing that when Congress selects a quasi-judicial method of resolving matters that
+‘could be conclusively determined by the Executive and Legislative Branches,’ the
+danger of encroaching on the judicial powers is reduced.” Thomas v. Union Carbide
+Agric. Products Co., 473 U.S. 568, 589 (1985) (quoting Northern Pipeline, 458 U.S.
+at 68 (plurality opinion)).
+     82 492 U.S. 33, 51–55 (1989). A Seventh Amendment jury-trial case, the decision
+
+is critical to the Article III issue as well, because, as the Court makes clear what
+was implicit before, whether Congress can submit a legal issue to an Article I tribu-
+nal and whether it can dispense with a civil jury on that legal issue must be an-
+swered by the same analysis. “[T]he question whether the Seventh Amendment per-
+mits Congress to assign its adjudication to a tribunal that does not employ juries as
+factfinders requires the same answer as the question whether Article III allows Con-
+gress to assign adjudication of that cause of action to a non-Article III tribunal . . . .”
+Id. at 52–53.
+     83 492 U.S. at 52–54. The Court reiterated that the government need not be a
+
+party as a prerequisite to a matter being of “public right.” Id. at 54. Concurring,
+Justice Scalia argued that public rights historically were and should remain only
+those matters to which the Federal Government is a party. Id. at 65. See also Stern
+v. Marshall, 564 U.S. ___, No. 10–179, slip op. at 25 (2011) (“[W]hat makes a right
+‘public’ rather than private is that the right is integrally related to particular Fed-
+eral Government action”).

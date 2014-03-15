@@ -1,0 +1,48 @@
+legislation enacted under the Commerce Clause only if it is clear
+that there is no rational basis for a congressional finding that the
+regulated activity affects interstate commerce, or that there is no
+reasonable connection between the regulatory means selected and
+the asserted ends.” 894 Moreover, “[t]he pertinent inquiry therefore
+is not how much commerce is involved but whether Congress could
+rationally conclude that the regulated activity affects interstate com-
+merce.” 895
+    In a companion case, the Court reiterated that “[t]he denomina-
+tion of an activity as a ‘local’ or ‘intrastate’ activity does not resolve
+the question whether Congress may regulate it under the Com-
+merce Clause. As previously noted, the commerce power ‘extends to
+those activities intrastate which so affect interstate commerce, or
+the exertion of the power of Congress over it, as to make regula-
+tion of them appropriate means to the attainment of a legitimate
+end, the effective execution of the granted power to regulate inter-
+state commerce.’ ” 896 Judicial review is narrow. Congress’s determi-
+nation of an “effect” must be deferred to if it is rational, and Con-
+gress must have acted reasonably in choosing the means.897
+    Fourth, a still more potent engine of regulation has been the
+expansion of the class-of-activities standard, which began in the “af-
+fecting” cases. In Perez v. United States,898 the Court sustained the
+application of a federal “loan-sharking” law to a local culprit. The
+Court held that, although individual loan-sharking activities might
+be intrastate in nature, still it was within Congress’s power to de-
+termine that the activity was within a class the activities of which
+did affect interstate commerce, thus affording Congress the oppor-
+tunity to regulate the entire class. Although the Perez Court and
+the congressional findings emphasized that loan-sharking was gen-
+erally part of organized crime operating on a national scale and that
+loan-sharking was commonly used to finance organized crime’s na-
+tional operations, subsequent cases do not depend upon a defen-
+sible assumption of relatedness in the class.
+
+    894  Hodel v. Indiana, 452 U.S. 314, 323–24 (1981).
+    895  452 U.S. at 324.
+     896 Hodel v. Virginia Surface Mining & Recl. Ass’n, 452 U.S. 264 (1981) (quoting
+
+United States v. Wrightwood Dairy Co., 315 U.S. 110, 119 (1942)).
+     897 452 U.S. at 276, 277. The scope of review is restated in Preseault v. ICC,
+
+494 U.S. 1, 17 (1990). Then-Justice Rehnquist, concurring in the two Hodel cases,
+objected that the Court was making it appear that no constitutional limits existed
+under the Commerce Clause, whereas in fact it was necessary that a regulated ac-
+tivity must have a substantial effect on interstate commerce, not just some effect.
+He thought it a close case that the statutory provisions here met those tests. 452
+U.S. at 307–13.
+     898 402 U.S. 146 (1971).

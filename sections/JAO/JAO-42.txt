@@ -1,0 +1,52 @@
+    Early Limitations on Review.—Even while reviewing the rea-
+sonableness of rates, the Court recognized some limits on judicial
+review. As early as 1894, the Court asserted that “[t]he courts are
+not authorized to revise or change the body of rates imposed by a
+legislature or a commission; they do not determine whether one rate
+is preferable to another, or what under all circumstances would be
+fair and reasonable as between the carriers and the shippers; they
+do not engage in any mere administrative work; but still there can
+be no doubt of their power and duty to inquire whether a body of
+rates . . . is unjust and unreasonable, . . . and if found so to be, to
+restrain its operation.” 165 One can also infer from these early hold-
+ings a distinction between unreviewable fact questions that relate
+only to the wisdom or expediency of a rate order, and reviewable
+factual determinations that bear on a commission’s power to act.166
+    Further, the Court placed various obstacles in the path of the
+complaining litigant. Thus, not only must a person challenging a
+rate assume the burden of proof,167 but he must present a case of
+“manifest constitutional invalidity.” 168 And, if, notwithstanding this
+effort, the question of confiscation remains in doubt, no relief will
+be granted.169 Moreover, even the Court was inclined to withhold
+judgment on the application of a rate until its practical effect could
+be surmised.170
+     In the course of time this distinction solidified. Thus, the Court
+initially adopted the position that it would not disturb findings of
+     165 Reagan v. Farmers’ Loan & Trust Co., 154 U.S. 362, 397 (1894). And later,
+
+in 1910, the Court made a similar observation that courts may not, “under the guise
+of exerting judicial power, usurp merely administrative functions by setting aside”
+an order of the commission merely because such power was unwisely or expediently
+exercised. ICC v. Illinois Cent. R.R., 215 U.S. 452, 470 (1910). This statement, made
+in the context of federal ratemaking, appears to be equally applicable to judicial
+review of state agency actions.
+     166 This distinction was accorded adequate emphasis by the Court in Louisville
+
+& Nashville R.R. v. Garrett, 231 U.S. 298, 310–13 (1913), in which it declared that
+“the appropriate question for the courts” is simply whether a “commission,” in estab-
+lishing a rate, “acted within the scope of its power” and did not violate “constitu-
+tional rights . . . by imposing confiscatory requirements.” The carrier contesting the
+rate was not entitled to have a court also pass upon a question of fact regarding the
+reasonableness of a higher rate the carrier charged prior to the order of the commis-
+sion. All that need concern a court, it said, is the fairness of the proceeding whereby
+the commission determined that the existing rate was excessive, but not the expedi-
+ency or wisdom of the commission’s having superseded that rate with a rate regula-
+tion of its own.
+     167 Des Moines Gas Co. v. Des Moines, 238 U.S. 153 (1915).
+     168 Minnesota Rate Cases (Simpson v. Shepard), 230 U.S. 352, 452 (1913).
+     169 Knoxville v. Water Co., 212 U.S. 1 (1909).
+     170 Willcox v. Consolidated Gas Co., 212 U.S. 19 (1909). However, a public util-
+
+ity that has petitioned a commission for relief from allegedly confiscatory rates need
+not await indefinitely for the commission’s decision before applying to a court for
+equitable relief. Smith v. Illinois Bell Tel. Co., 270 U.S. 587 (1926).

@@ -1,0 +1,48 @@
+company to defend and pay the judgment. But, in Harris v. Balk,923
+the facts of the case and the establishment of jurisdiction through
+quasi in rem proceedings raised the issue of fairness and territori-
+ality. The claimant was a Maryland resident who was owed a debt
+by Balk, a North Carolina resident. The Marylander ascertained,
+apparently adventitiously, that Harris, a North Carolina resident
+who owed Balk an amount of money, was passing through Mary-
+land, and the Marylander attached this debt. Balk had no notice of
+the action and a default judgment was entered, after which Harris
+paid over the judgment to the Marylander. When Balk later sued
+Harris in North Carolina to recover on his debt, Harris argued that
+he had been relieved of any further obligation by satisfying the judg-
+ment in Maryland, and the Supreme Court sustained his defense,
+ruling that jurisdiction had been properly obtained and the Mary-
+land judgment was thus valid.924
+    Subsequently, Harris v. Balk was overruled by Shaffer v. Heitner,925
+in which the Court rejected the Delaware state court’s jurisdiction,
+holding that the “minimum contacts” test of International Shoe ap-
+plied to all in rem and quasi in rem actions. The case involved a
+Delaware sequestration statute under which plaintiffs were autho-
+rized to bring actions against nonresident defendants by attaching
+their “property” within Delaware, the property here consisting of
+shares of corporate stock and options to stock in the defendant cor-
+poration. The stock was considered to be in Delaware because that
+was the state of incorporation, but none of the certificates represent-
+ing the seized stocks were physically present in Delaware. The rea-
+son for applying the same test as is applied in in personam cases,
+the Court said, “is simple and straightforward. It is premised on
+recognition that ‘[t]he phrase ‘judicial jurisdiction’ over a thing,’ is
+a customary elliptical way of referring to jurisdiction over the inter-
+ests of persons in a thing.” 926 Thus, “[t]he recognition leads to the
+conclusion that in order to justify an exercise of jurisdiction in rem,
+the basis for jurisdiction must be sufficient to justify exercising ‘ju-
+risdiction over the interests of persons in a thing.’ ” 927
+    923 198 U.S. 215 (1905).
+    924 Compare New York Life Ins. Co. v. Dunlevy, 241 U.S. 518 (1916) (action pur-
+portedly against property within state, proceeds of an insurance policy, was really
+an in personam action against claimant and, claimant not having been served, the
+judgment is void). But see Western Union Tel. Co. v. Pennsylvania, 368 U.S. 71 (1961).
+    925 433 U.S. 186 (1977).
+    926 433 U.S. at 207 (internal quotation from RESTATEMENT (SECOND) OF CONFLICT OF
+
+LAWS 56, Introductory Note (1971)).
+    927 433 U.S. at 207. The characterization of actions in rem as being not actions
+
+against a res but against persons with interests merely reflects Justice Holmes’ in-
+sight in Tyler v. Judges of the Court of Registration, 175 Mass. 71, 76–77, 55 N.E.,
+812, 814, appeal dismissed, 179 U.S. 405 (1900).

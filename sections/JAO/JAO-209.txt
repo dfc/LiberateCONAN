@@ -1,0 +1,55 @@
+    The Court, however, summarily rejected the argument that Mul-
+laney means that the prosecution must negate an insanity de-
+fense,1114 and, later, in Patterson v. New York,1115 upheld a state stat-
+ute that required a defendant asserting “extreme emotional
+disturbance” as an affirmative defense to murder 1116 to prove such
+by a preponderance of the evidence. According to the Court, the con-
+stitutional deficiency in Mullaney was that the statute made mal-
+ice an element of the offense, permitted malice to be presumed upon
+proof of the other elements, and then required the defendant to prove
+the absence of malice. In Patterson, by contrast, the statute obli-
+gated the state to prove each element of the offense (the death, the
+intent to kill, and the causation) beyond a reasonable doubt, while
+allowing the defendant to prove an affirmative defense by prepon-
+derance of the evidence that would reduce the degree of the of-
+fense.1117 This distinction has been criticized as formalistic, as the
+legislature can shift burdens of persuasion between prosecution and
+defense easily through the statutory definitions of the offenses.1118
+
+     1114 Rivera v. Delaware, 429 U.S. 877 (1976), dismissing as not presenting a sub-
+
+stantial federal question an appeal from a holding that Mullaney did not prevent a
+state from placing on the defendant the burden of proving insanity by a preponder-
+ance of the evidence. See Patterson v. New York, 432 U.S. 197, 202–05 (1977) (ex-
+plaining the import of Rivera). Justice Rehnquist and Chief Justice Burger concur-
+ring in Mullaney, 421 U.S. at 704, 705, had argued that the case did not require
+any reconsideration of the holding in Leland v. Oregon, 343 U.S. 790 (1952), that
+the defense may be required to prove insanity beyond a reasonable doubt.
+     1115 432 U.S. 197 (1977).
+     1116 Proving the defense would reduce a murder offense to manslaughter.
+     1117 The decisive issue, then, was whether the statute required the state to prove
+
+beyond a reasonable doubt each element of the offense. See also Dixon v. United
+States, 548 U.S. 1 (2006) (requiring defendant in a federal firearms case to prove
+her duress defense by a preponderance of evidence did not violate due process). In
+Dixon, the prosecution had the burden of proving all elements of two federal fire-
+arms violations, one requiring a “willful” violation (having knowledge of the facts
+that constitute the offense) and the other requiring a “knowing” violation (acting
+with knowledge that the conduct was unlawful). Although establishing other forms
+of mens rea (such as “malicious intent”) might require that a prosecutor prove that
+a defendant’s intent was without justification or excuse, the Court held that neither
+of the forms of mens rea at issue in Dixon contained such a requirement. Conse-
+quently, the burden of establishing the defense of duress could be placed on the de-
+fendant without violating due process.
+     1118 Dissenting in Patterson, Justice Powell argued that the two statutes were
+
+functional equivalents that should be treated alike constitutionally. He would hold
+that as to those facts that historically have made a substantial difference in the
+punishment and stigma flowing from a criminal act the state always bears the bur-
+den of persuasion but that new affirmative defenses may be created and the burden
+of establishing them placed on the defendant. 432 U.S. at 216. Patterson was fol-
+lowed in Martin v. Ohio, 480 U.S. 228 (1987) (state need not disprove defendant
+acted in self-defense based on honest belief she was in imminent danger, when of-
+fense is aggravated murder, an element of which is “prior calculation and design”).
+Justice Powell, again dissenting, urged a distinction between defenses that negate
+an element of the crime and those that do not. Id. at 236, 240.

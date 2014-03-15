@@ -1,0 +1,56 @@
+if he penalizes the assertion of a right or privilege by the defen-
+dant by charging more severely or recommending a longer sen-
+tence.1158
+    In accepting a guilty plea, the court must inquire whether the
+defendant is pleading voluntarily, knowingly, and understand-
+ingly,1159 and “the adjudicative element inherent in accepting a plea
+of guilty must be attended by safeguards to insure the defendant
+what is reasonably due in the circumstances. Those circumstances
+will vary, but a constant factor is that, when a plea rests in any
+significant degree on a promise or agreement of the prosecutor, so
+that it can be said to be part of the inducement or consideration,
+such promise must be fulfilled.” 1160
+
+
+
+States v. Goodwin, 457 U.S. 368 (1982) (after defendant was charged with a misde-
+meanor, refused to plead guilty and sought a jury trial in district court, the govern-
+ment obtained a four-count felony indictment and conviction).
+     1158 Blackledge v. Perry, 417 U.S. 21 (1974). Defendant was convicted in an in-
+
+ferior court of a misdemeanor. He had a right to a de novo trial in superior court,
+but when he exercised the right the prosecutor obtained a felony indictment based
+upon the same conduct. The distinction the Court draws between this case and
+Bordenkircher and Goodwin is that of pretrial conduct, in which vindictiveness is
+not likely, and post-trial conduct, in which vindictiveness is more likely and is not
+permitted. Accord, Thigpen v. Roberts, 468 U.S. 27 (1984). The distinction appears
+to represent very fine line-drawing, but it appears to be one the Court is committed
+to.
+     1159 Boykin v. Alabama, 395 U.S. 238 (1969). In Henderson v. Morgan, 426 U.S.
+
+637 (1976), the Court held that a defendant charged with first degree murder who
+elected to plead guilty to second degree murder had not voluntarily, in the constitu-
+tional sense, entered the plea because neither his counsel nor the trial judge had
+informed him that an intent to cause the death of the victim was an essential ele-
+ment of guilt in the second degree; consequently no showing was made that he know-
+ingly was admitting such intent. “A plea may be involuntary either because the ac-
+cused does not understand the nature of the constitutional protections that he is
+waiving . . . or because he has such an incomplete understanding of the charge that
+his plea cannot stand as an intelligent admission of guilt.” Id. at 645 n.13. However,
+this does not mean that a court accepting a guilty plea must explain all the ele-
+ments of a crime, as it may rely on counsel’s representations to the defendant. Bradshaw
+v. Stumpf, 545 U.S. 175 (2005) (where defendant maintained that shooting was done
+by someone else, guilty plea to aggravated manslaughter was still valid, as such
+charge did not require defendant to be the shooter). See also Blackledge v. Allison,
+431 U.S. 63 (1977) (defendant may collaterally challenge guilty plea where defen-
+dant had been told not to allude to existence of a plea bargain in court, and such
+plea bargain was not honored).
+     1160 Santobello v. New York, 404 U.S. 257, 262 (1971). Defendant and a prosecu-
+
+tor reached agreement on a guilty plea in return for no sentence recommendation
+by the prosecution. At the sentencing hearing months later, a different prosecutor
+recommended the maximum sentence, and that sentence was imposed. The Court
+vacated the judgment, holding that the prosecutor’s entire staff was bound by the
+promise. Prior to the plea, however, the prosecutor may withdraw his first offer, and
+a defendant who later pled guilty after accepting a second, less attractive offer has
+no right to enforcement of the first agreement. Mabry v. Johnson, 467 U.S. 504 (1984).

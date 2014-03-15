@@ -1,0 +1,56 @@
+return. Offering the preliminary hearing testimony violated the de-
+fendant’s right of confrontation. In Douglas v. Alabama,210 the pros-
+ecution called as a witness the defendant’s alleged accomplice, and
+when the accomplice refused to testify, pleading his privilege against
+self-incrimination, the prosecutor read to him to “refresh” his memory
+a confession in which he implicated the defendant. Because the de-
+fendant could not cross-examine the accomplice with regard to the
+truth of the confession, the Court held that the Confrontation Clause
+had been violated. In Bruton v. United States,211 the use at a joint
+trial of a confession made by one of the defendants was held to vio-
+late the confrontation rights of the other defendant who was impli-
+cated by it because he could not cross-examine the codefendant.212
+
+     210 380 U.S. 415 (1965). See also Smith v. Illinois, 390 U.S. 129 (1968) (Confron-
+
+tation Clause was violated by allowing an informer as to identify himself by alias
+and to conceal his true name and address because the defense could not effectively
+cross-examine); Davis v. Alaska, 415 U.S. 308 (1974) (state law prohibiting disclo-
+sure of the identity of juvenile offenders could not be applied to preclude cross-
+examination of a witness about his juvenile record when the object was to allege
+possible bias on the part of the witness). Cf. Chambers v. Mississippi, 410 U.S. 284
+(1973); United States v. Nobles, 422 U.S. 233, 240–41 (1975).
+     211 391 U.S. 123 (1968). The Court in this case equated confrontation with the
+
+hearsay rule, first emphasizing “that the hearsay statement inculpating petitioner
+was clearly inadmissible against him under traditional rules of evidence”, id. at 128
+n.3, and then observing that “[t]he reason for excluding this evidence as an evidentiary
+matter also requires its exclusion as a constitutional matter.” Id. at 136 n.12 (empha-
+sis by Court). Bruton was applied retroactively in a state case in Roberts v. Russell,
+392 U.S. 293 (1968). Where, however, the codefendant takes the stand in his own
+defense, denies making the alleged out-of-court statement implicating defendant, and
+proceeds to testify favorably to the defendant concerning the underlying facts, the
+defendant has not been denied his right of confrontation under Bruton. Nelson v.
+O’Neil, 402 U.S. 622 (1971). In two cases, violations of the rule in Bruton have been
+held to be “harmless error” in the light of the overwhelming amount of legally ad-
+mitted evidence supporting conviction. Harrington v. California, 395 U.S. 250 (1969);
+Schneble v. Florida, 405 U.S. 427 (1972). Bruton was held inapplicable, however,
+when the nontestifying codefendant’s confession was redacted to omit any reference
+to the defendant, and was circumstantially incriminating only as the result of other
+evidence properly introduced. Richardson v. Marsh, 481 U.S. 200 (1987). Bruton was
+held applicable, however, where a blank space or the word “deleted” is substituted
+for the defendant’s name in a co-defendant’s confession, making such confession in-
+criminating of the defendant on its face. Gray v. Maryland, 523 U.S. 185 (1998).
+     212 In Parker v. Randolph, 442 U.S. 62 (1979), the Court was evenly divided on
+
+the question whether interlocking confessions may be admitted without violating the
+clause. Four Justices held that admission of such confessions is proper, even though
+neither defendant testifies, if the judge gives the jury a limiting instruction. Four
+Justices held that a harmless error analysis should be applied, although they then
+divided over its meaning in this case. The former approach was rejected in favor of
+the latter in Cruz v. New York, 481 U.S. 186 (1987). The appropriate focus is on
+reliability, the Court indicated, and “the defendant’s confession may be considered
+at trial in assessing whether his codefendant’s statements are supported by suffi-
+cient ‘indicia of reliability’ to be directly admissible against him (assuming the ‘un-
+availability’ of the codefendant) despite the lack of opportunity for cross-
+examination.” 481 U.S. at 193–94.

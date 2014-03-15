@@ -1,0 +1,52 @@
+fixing of jury size at 12 was “a historical accident” that, although
+firmly established when the Sixth Amendment was proposed and
+ratified, was not required as an attribute of the jury system, either
+as a matter of common-law background 63 or by any ascertainment
+of the intent of the framers.64 Being bound neither by history nor
+framers’ intent, the Court thought the “relevant inquiry . . . must
+be the function that the particular feature performs and its rela-
+tion to the purposes of the jury trial.” The size of the jury, the Court
+continued, bore no discernable relationship to the purposes of jury
+trial—the prevention of oppression and the reliability of factfind-
+ing. Furthermore, there was little reason to believe that any great
+advantage accrued to the defendant by having a jury composed of
+12 rather than six, which was the number at issue in the case, or
+that the larger number appreciably increased the variety of view-
+points on the jury. A jury should be large enough to promote group
+deliberation, free from outside attempts at intimidation, and to pro-
+vide a fair possibility that a cross-section of the community will be
+represented on it, but the Court did not speculate whether there
+was a minimum permissible size and it recognized the propriety of
+conditioning jury size on the seriousness of the offense.65
+    When the unanimity rule was reconsidered, the division of the
+Justices was such that different results were reached for state and
+federal courts.66 Applying the same type of analysis as that used in
+Williams, four Justices acknowledged that unanimity was a common-
+law rule but observed for the reasons reviewed in Williams that it
+      63   The development of 12 as the jury size is traced in Williams, 399 U.S. at 86–
+92.
+     64 399 U.S. at 92–99. Although the historical materials were scanty, the Court
+
+thought it more likely than not that the framers of the Bill of Rights did not intend
+to incorporate into the word “jury” all its common-law attributes. This conclusion
+was drawn from the extended dispute between House and Senate over inclusion of
+a “vicinage” requirement in the clause, which was a common law attribute, and the
+elimination of language attaching to jury trials their “accustomed requisites.” But
+see id. at 123 n.9 (Justice Harlan).
+     65 399 U.S. at 99–103. In Ballew v. Georgia, 435 U.S. 223 (1978), the Court unani-
+
+mously, but with varying expressions of opinion, held that conviction by a unani-
+mous five-person jury in a trial for a nonpetty offense deprived an accused of his
+right to trial by jury. Although readily admitting that the line between six and five
+members is not easy to justify, the Justices believed that reducing a jury to five
+persons in nonpetty cases raised substantial doubts as to the fairness of the proceed-
+ing and proper functioning of the jury to warrant drawing the line at six.
+     66 Apodaca v. Oregon, 406 U.S. 404 (1972), involved a trial held after decision
+
+in Duncan v. Louisiana, 391 U.S. 145 (1968), and thus concerned whether the Sixth
+Amendment itself required jury unanimity, while Johnson v. Louisiana, 406 U.S. 356
+(1972), involved a pre-Duncan trial and thus raised the question whether due pro-
+cess required jury unanimity. Johnson held, five-to-four, that the due process require-
+ment of proof of guilt beyond a reasonable doubt was not violated by a conviction on
+a nine-to-three jury vote in a case in which punishment was necessarily at hard
+labor.

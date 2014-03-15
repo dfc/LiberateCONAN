@@ -1,0 +1,52 @@
+given “diversity jurisdiction” in one form or another to the federal
+courts since the Judiciary Act of 1789.1056 The traditional explana-
+tion remains that offered by Chief Justice Marshall. “However true
+the fact may be, that the tribunals of the states will administer jus-
+tice as impartially as those of the nation, to parties of every descrip-
+tion, it is not less true that the Constitution itself either entertains
+apprehensions on this subject, or views with such indulgence the
+possible fears and apprehensions of suitors, that it has established
+national tribunals for the decision of controversies between aliens
+and a citizen, or between citizens of different states.” 1057 Other ex-
+planations have been offered and controverted,1058 but diversity cases
+constitute a large bulk of cases on the dockets of the federal courts
+today, though serious proposals for restricting access to federal courts
+in such cases have been before Congress for some time.1059 The es-
+sential difficulty with this type of jurisdiction is that it requires fed-
+eral judges to decide issues of local import on the basis of their read-
+ing of how state judges would decide them, an oftentimes laborious
+process, which detracts from the time and labor needed to resolve
+issues of federal import.
+    The Meaning of “State” and the District of Columbia Prob-
+lem.—In Hepburn v. Ellzey,1060 Chief Justice Marshall for the Court
+confined the meaning of the word “state” as used in the Constitu-
+tion to “the members of the American confederacy” and ruled that
+a citizen of the District of Columbia could not sue a citizen of Vir-
+ginia on the basis of diversity of citizenship. Marshall noted that it
+     1056 1 Stat. 78, 11. The statute also created alienage jurisdiction of suits be-
+
+tween a citizen of a state and an alien. See Holt, The Origins of Alienage Jurisdic-
+tion, 14 OKLA. CITY L. REV. 547 (1989). Early versions of the statute conferred diver-
+sity jurisdiction only when the suit was between a citizen of the state in which the
+suit was brought and a citizen of another state. The Act of March 3, 1875, § 1. 18
+Stat. 470, first established the language in the present statute, 28 U.S.C. § 1332(a)(1),
+merely requiring diverse citizenship, so that a citizen of Maryland could sue a citi-
+zen of Delaware in federal court in New Jersey. The statute also sets a threshold
+amount at controversy for jurisdiction to attach; the jurisdictional amount was as
+low as $3,000 in 1958, but set at $75,000 in 1996. 28 U.S.C. § 1332(a). Snyder v.
+Harris, 394 U.S. 332 (1969), held that in a class action in diversity the individual
+claims could not be aggregated to meet the jurisdictional amount. Zahn v. Interna-
+tional Paper Co., 414 U.S. 291 (1974), extended Snyder in holding that even though
+the named plaintiffs had claims of more than $10,000, the extant jurisdictional amount,
+they could not represent a class in which many of the members had claims for less
+than $10,000. A separate provision on diversity and class actions sets the jurisdic-
+tional amount at $5 million. 28 U.S.C. § 1332(d).
+     1057 Bank of the United States v. Deveaux, 9 U.S. (5 Cr.) 61, 87 (1809).
+     1058 Summarized and discussed in C. WRIGHT, HANDBOOK OF THE LAW OF FEDERAL
+
+COURTS 23 (4th ed. 1983); AMERICAN LAW INSTITUTE, STUDY OF THE DIVISION OF JURISDICTION
+BETWEEN STATE AND FEDERAL COURTS 99–110, 458–464 (1969).
+     1059 The principal proposals are those of the American Law Institute. Id. at 123–
+
+34.
+     1060 6 U.S. (2 Cr.) 445 (1805).

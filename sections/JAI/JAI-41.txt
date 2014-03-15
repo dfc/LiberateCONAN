@@ -1,0 +1,52 @@
+illustrates how these restrictions can operate to defeat challenges
+to state-imposed death sentences.203
+     In Carey v. Musladin,204 the Court noted that it had previously
+held that “the State cannot, consistently with the Fourteenth Amend-
+ment, compel an accused to stand trial before a jury while dressed
+in identifiable prison clothes,” 205 but that it had never ruled on the
+effect on a defendant’s fair trial rights of spectator conduct. In Carey,
+the spectator conduct that allegedly affected the defendant’s right
+to a fair trial consisted of members of the victim’s family wearing
+buttons with the victim’s photograph. Given the lack of holdings from
+the Court on the question of spectator conduct, the Court in Carey
+found that “it cannot be said that the state court unreasonabl[y]
+appli[ed] clearly established Federal law” in denying the defendant
+relief.206 Consequently, the Antiterrorism and Effective Death Pen-
+alty Act of 1996 precluded habeas relief. Similarly, because the Su-
+preme Court has never ruled on whether, during a plea hearing at
+which the defendant pleads guilty, defense counsel’s being linked
+to the courtroom by speaker phone, rather than being physically
+present, is likely to result in such poor performance that the Cronic
+standard for ineffective assistance of counsel should apply, the Court
+again could not say “that the state court ‘unreasonabl[y] appli[ed]
+clearly established Federal law.’ ” 207
+     The Court has also ruled that a death row inmate has no con-
+stitutional right to an attorney to help prepare a petition for state
+collateral review.208
+     203 The state court’s decision, which applied the rule from Strickland v. Washing-
+
+ton, 466 U.S. 668 (1984), rather than the rule from United States v. Cronic, 466
+U.S. 648 (1984), to hold that the attorney’s performance was not constitutionally
+inadequate, was not “contrary to” clearly established law. Cronic had held that there
+are some situations, e.g., when counsel “entirely fails to subject the prosecution’s
+case to meaningful adversarial testing,” so presumptively unfair as to obviate the
+need to show actual prejudice to the defendant’s case. See “Effective Assistance of
+Counsel” under Sixth Amendment. The Bell v. Cone Court emphasized the word “en-
+tirely,” noting that the petitioner challenged the defense attorney’s performance only
+“at specific points” in the process. Nor was the second statutory test met. Strickland,
+a “highly deferential” test asking whether an attorney’s performance fell below an
+“objective standard of reasonableness,” was not “unreasonably applied.” The attor-
+ney could reasonably have concluded that evidence presented during the guilt phase
+of the trial was still “fresh” to the jury, and that repetition through the presentation
+of mitigating evidence or through a closing statement was unnecessary to counter
+the state’s presentation of aggravating circumstances justifying a death sentence.
+     204 549 U.S. 70 (2006).
+     205 Estelle v. Williams, 425 U.S. 501, 512 (1976).
+     206 549 U.S. at 77 (quoting from 28 U.S.C. § 2254(d)(1)).
+     207 Wright v. Van Patten, 128 S. Ct. 743 (2008) (per curiam), quoting Carey v.
+
+Musladin, 549 U.S. 70, 77 (2006) (under the Antiterrorism and Effective Death Pen-
+alty Act of 1996, 28 U.S.C. § 2254(d)(1), defendant not entitled to habeas relief).
+     208 Murray v. Giarratano, 492 U.S. 1 (1989) (“unit attorneys” assigned to pris-
+
+ons were available for some advice prior to filing a claim).

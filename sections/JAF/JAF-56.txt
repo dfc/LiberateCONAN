@@ -1,0 +1,49 @@
+ests protected by the Amendment—protection of privacy and main-
+tenance of an accusatorial system—with the noncriminal purpose,
+the necessity for self-reporting as a means of securing information,
+and the nature of the disclosures required, Justice Harlan voted to
+sustain the statute.275 Byers was applied in Baltimore Dep’t of So-
+cial Services v. Bouknight 276 to uphold a juvenile court’s order that
+the mother of a child under the court’s supervision produce the child.
+Although in this case the mother was suspected of having abused
+or murdered her child, the order was justified out of concern for
+the child’s safety—a “compelling reason[ ] unrelated to criminal law
+enforcement.” 277 Moreover, because the mother had custody of her
+previously abused child only as a result of the juvenile court’s or-
+der, the Court analogized to the required records cases to conclude
+that the mother had submitted to the requirements of the civil regu-
+latory regime as the child’s “custodian.”
+
+Confessions: Police Interrogation, Due Process, and
+   Self-Incrimination
+    The Common Law Rule.—By the latter part of the eigh-
+teenth century English and early American courts had developed a
+rule that coerced confessions were potentially excludable from ad-
+mission at trial because they were testimonially untrustworthy.278
+The Supreme Court at times continued to ground exclusion of invol-
+untary confessions on this common law foundation of unreliability
+without any mention of the constitutional bar against self-
+incrimination. Consider this dictum from an 1884 opinion: “[V]olun-
+tary confession of guilt is among the most effectual proofs in the
+law, . . . [b]ut the presumption upon which weight is given to such
+evidence, namely, that one who is innocent will not imperil his safety
+or prejudice his interests by an untrue statement, ceases when the
+confession appears to have been made either in consequence of in-
+ducements of a temporal nature, held out by one in authority, touch-
+ing the charge preferred, or because of a threat or promise by or in
+the presence of such person, which, operating upon the fears or hopes
+of the accused, in reference to the charge, deprives him of that free-
+     275 402 U.S. at 448–58. The four dissenters argued that it was unquestionable
+
+that Byers would have faced real risks of self-incrimination by compliance with the
+statute and that this risk was sufficient to invoke the privilege. Id. at 459, 464 (Jus-
+tices Black, Douglas, Brennan, and Marshall).
+     276 493 U.S. 549 (1990).
+     277 493 U.S. at 561. By the same token, the Court concluded that the targeted
+
+group—persons who care for children pursuant to a juvenile court’s custody or-
+der—is not a group “inherently suspect of criminal activities” in the Albertson-
+Marchetti sense.
+     278 3 J. WIGMORE, A TREATISE ON THE ANGLO-AMERICAN SYSTEM OF EVIDENCE § 823 (3d
+
+ed. 1940); Developments in the Law—Confessions, 79 HARV. L. REV. 935, 954–59 (1966).

@@ -1,0 +1,53 @@
+of police interrogation was no unheralded novelty in Miranda v. Ari-
+zona.317 Though the historical basis of the rule excluding coerced
+and involuntary confessions, in both early state confession cases 318
+and earlier cases from the lower federal courts,319 was their untrust-
+worthiness,320 in Lisenba v. California,321 Justice Roberts drew a
+distinction between the common law confession rule and the stan-
+dard of due process. “[T]he fact that the confessions have been con-
+clusively adjudged by the decision below to be admissible under State
+law, notwithstanding the circumstances under which they were made,
+does not answer the question whether due process was lacking. The
+aim of the rule that a confession is inadmissible unless it was vol-
+untarily made is to exclude false evidence. Tests are invoked to de-
+termine whether the inducement to speak was such that there is a
+fair risk the confession is false. . . . The aim of the requirement of
+due process is not to exclude presumptively false evidence, but to
+prevent fundamental unfairness in the use of evidence, whether true
+or false.” Over the next several years, while the Justices continued
+to use the terminology of voluntariness, the Court accepted at dif-
+ferent times the different rationales of trustworthiness and consti-
+tutional fairness.322
+    Ultimately, however, those Justices who chose to ground the ex-
+clusionary rule on the latter consideration predominated, so that,
+in Rogers v. Richmond,323 Justice Frankfurter spoke for six other
+Justices in writing: “Our decisions under that [Fourteenth] Amend-
+ment have made clear that convictions following the admission into
+    317  384 U.S. 436 (1966).
+    318  Brown v. Mississippi, 297 U.S. 278 (1936); Chambers v. Florida, 309 U.S.
+227 (1940); White v. Texas, 310 U.S. 530 (1940).
+     319 Hopt v. Utah, 110 U.S. 574 (1884); Wilson v. United States, 162 U.S. 613
+
+(1896).
+     320 3 J. WIGMORE, A TREATISE ON THE ANGLO-AMERICAN SYSTEM OF EVIDENCE § 882, at
+
+246 (3d ed. 1940).
+     321 314 U.S. 219, 236 (1941).
+     322 Compare Ashcraft v. Tennessee, 322 U.S. 143 (1944), with Lyons v. Okla-
+
+homa, 322 U.S. 596 (1944), and Malinski v. New York, 324 U.S. 401 (1945). In Watts
+v. Indiana, 338 U.S. 49 (1949), Harris v. South Carolina, 338 U.S. 68 (1949), and
+Turner v. Pennsylvania, 338 U.S. 62 (1949), five Justices followed the due process-
+fairness standard while four adhered to a trustworthiness rationale. See 338 U.S. at
+57 (Justice Jackson concurring and dissenting). In Stein v. New York, 346 U.S. 156,
+192 (1953), the trustworthiness rationale had secured the adherence of six Justices.
+The primary difference between the two standards is the admissibility under the
+trustworthiness standard of a coerced confession if its trustworthiness can be estab-
+lished, if, that is, it can be corroborated.
+     323 365 U.S. 534, 540–41 (1961). Similar expressions may be found in Spano v.
+
+New York, 360 U.S. 315 (1959), and Blackburn v. Alabama, 361 U.S. 199 (1960). See
+also Culombe v. Connecticut, 367 U.S. 568, 583 n.25 (1961), in which Justice Frank-
+furter, announcing the judgment of the Court, observed that “the conceptions under-
+lying the rule excluding coerced confessions and the privilege again self-
+incrimination have become, to some extent, assimilated.”

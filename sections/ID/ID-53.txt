@@ -1,0 +1,51 @@
+today, rather than as it existed in 1789.” 275 This statement, how-
+ever, appears to be in tension with the theory of congressionally
+defined habeas found in Bollman, unless one assumes that a ha-
+beas right, once created, cannot be diminished. The Court, how-
+ever, in reviewing provisions of the Antiterrorism and Effective Death
+Penalty Act 276 that limited habeas, passed up an opportunity to de-
+lineate Congress’s permissive authority over habeas, finding that none
+of the limitations to the writ in that statute raised questions of con-
+stitutional import.277
+    For practical purposes, the issue appears to have been resolved
+by Boumediene v. Bush,278 in which the Court held that Congress’s
+attempt to eliminate all federal habeas jurisdiction over “enemy com-
+batant” detainees held at Guantanamo Bay 279 violated the Suspen-
+sion Clause. Although the Court did not explicitly identify whether
+the underlying right to habeas that was at issue arose from stat-
+ute, common law, or the Constitution itself, it did decline to infer
+“too much” from the lack of historical examples of habeas being ex-
+tended to enemy aliens held overseas.280 In Boumediene, the Court
+instead emphasized a “functional” approach that considered the citi-
+zenship and status of the detainee, the adequacy of the process through
+which the status determination was made, the nature of the sites
+where apprehension and detention took place, and any practical ob-
+stacles inherent in resolving the prisoner’s entitlement to the writ.281
+    In further determining that the procedures afforded to the de-
+tainees to challenge their detention in court were not adequate sub-
+stitutes for habeas, the Court noted the heightened due process con-
+cerns when a detention is based principally on Executive Branch
+    275 Felker v. Turpin, 518 U.S. 651, 663–64 (1996). See INS v. St. Cyr, 533 U.S.
+
+289, 300–01 (2001) (leaving open the question of whether post-1789 legal develop-
+ments are protected); Swain v. Pressley, 430 U.S. 372 (1977) (finding “no occasion”
+to define the contours of constitutional limits on congressional modification of the
+writ).
+    276 Pub. L. 104–132, §§ 101–08, 110 Stat. 1214, 1217–26, amending, inter alia,
+
+28 U.S.C. §§ 2244, 2253, 2254, 2255, and Fed. R. App. P. 22.
+    277 Felker v. Turpin, 518 U.S. 651 (1996).
+    278 128 S. Ct. 2229 (2008).
+    279 In Rasul v. Bush, 542 U.S. 466 (2004), the Court found that 28 U.S.C. § 2241,
+
+the federal habeas statute, applied to these detainees. Congress then removed all
+court jurisdiction over these detainees under the Detainee Treatment Act of 2005,
+Pub. L. 109–148, § 1005(e)(1) (providing that “no court . . . shall have jurisdiction
+to hear or consider . . . an application for . . . habeas corpus filed by . . . an alien
+detained . . . at Guantanamo Bay).” After the Court decided in Hamdan v. Rumsfeld,
+548 U.S. 557 (2006), that the Detainee Treatment Act did not apply to detainees
+whose cases were pending at the time of enactment, it was amended by the Mili-
+tary Commissions Act of 2006, Pub. L. 109–366, to also apply to pending cases where
+a detainee had been determined to be an enemy combatant.
+    280 128 S. Ct. at 2251.
+    281 128 S. Ct. at 2258, 2259.

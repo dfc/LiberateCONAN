@@ -1,0 +1,54 @@
+dence in a certain way is that not merely evidence so acquired shall
+not be used before the Court but that it shall not be used at all.” 455
+    Although the exclusionary rule has not been completely repudi-
+ated, its use has been substantially curbed. For instance, defen-
+dants who themselves were not subjected to illegal searches and
+seizures may not object to the introduction of evidence illegally ob-
+tained from co-conspirators or codefendants,456 and even a defen-
+dant whose rights have been infringed may find the evidence admit-
+ted, not as proof of guilt, but to impeach his testimony.457 Further,
+evidence obtained through a wrongful search and seizure may some-
+times be used directly in the criminal trial, if the prosecution can
+show a sufficient attenuation of the link between police misconduct
+and obtaining the evidence.458 Defendants who have been con-
+victed after trials in which they were given a full and fair opportu-
+nity to raise claims of Fourth Amendment violations may not sub-
+
+    455  Silverthorne Lumber Co. v. United States, 251 U.S. 385, 392 (1920).
+    456  E.g., Rakas v. Illinois, 439 U.S. 128 (1978); United States v. Padilla, 508 U.S.
+77 (1993) (only persons whose privacy or property interests are violated may object
+to a search on Fourth Amendment grounds; exerting control and oversight over prop-
+erty by virtue of participation in a criminal conspiracy does not alone establish such
+interests); United States v. Salvucci, 448 U.S. 83 (1980); Rawlings v. Kentucky, 448
+U.S. 98 (1980). In United States v. Payner, 447 U.S. 727 (1980), the Court held it
+impermissible for a federal court to exercise its supervisory power to police the ad-
+ministration of justice in the federal system to suppress otherwise admissible evi-
+dence on the ground that federal agents had flagrantly violated the Fourth Amend-
+ment rights of third parties in order to obtain evidence to use against others when
+the agents knew that the defendant would be unable to challenge their conduct un-
+der the Fourth Amendment.
+     457 United States v. Havens, 446 U.S. 620 (1980); Walder v. United States, 347
+
+U.S. 62 (1954). Cf. Agnello v. United States, 269 U.S. 20 (1925) (now vitiated by
+Havens). The impeachment exception applies only to the defendant’s own testimony,
+and may not be extended to use illegally obtained evidence to impeach the testi-
+mony of other defense witnesses. James v. Illinois, 493 U.S. 307 (1990).
+     458 Wong Sun v. United States, 371 U.S. 471, 487–88 (1963); Alderman v. United
+
+States, 394 U.S. 165, 180–85 (1969); Brown v. Illinois, 422 U.S. 590 (1975); Taylor v.
+Alabama, 457 U.S. 687 (1982). United States v. Ceccolini, 435 U.S. 268 (1978), re-
+fused to exclude the testimony of a witness discovered through an illegal search.
+Because a witness was freely willing to testify and therefore more likely to come
+forward, the application of the exclusionary rule was not to be tested by the stan-
+dard applied to exclusion of inanimate objects. Deterrence would be little served and
+relevant and material evidence would be lost to the prosecution. In New York v. Har-
+ris, 495 U.S. 14 (1990), the Court refused to exclude a station-house confession made
+by a suspect whose arrest at his home had violated the Fourth Amendment be-
+cause, even though probable cause had existed, no warrant had been obtained. And,
+in Segura v. United States, 468 U.S. 796 (1984), evidence seized pursuant to a war-
+rant obtained after an illegal entry was admitted because there had been an inde-
+pendent basis for issuance of the warrant. This rule also applies to evidence ob-
+served in plain view during the initial illegal search. Murray v. United States, 487
+U.S. 533 (1988). See also United States v. Karo, 468 U.S. 705 (1984) (excluding con-
+sideration of tainted evidence, there was sufficient untainted evidence in affidavit to
+justify finding of probable cause and issuance of search warrant).

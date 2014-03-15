@@ -1,0 +1,51 @@
+requirement onto the Sentencing Reform Act, under which the Guide-
+lines were adopted, the Court instead invalidated two of its provi-
+sions, one making application of the Guidelines mandatory, and, con-
+comitantly, one requiring de novo review for appeals of departures
+from the mandatory Guidelines, and held that the remainder of the
+Act could remain intact.106 As the Court explained, this remedy “makes
+the Guidelines effectively advisory. It requires a sentencing court
+to consider Guidelines ranges, but it permits the court to tailor the
+sentence in light of other statutory concerns as well.” 107
+     In Cunningham v. California,108 the Court addressed whether
+California’s determinate state sentencing law, yet another style of
+legislative effort intended to regularize criminal sentencing, sur-
+vived the Booker-Blakely line of cases. That law, and its implement-
+ing rules, required that the trial judge in the case sentence the de-
+fendant to 12 years in prison unless the judge found one or more
+additional “circumstances in aggravation,” in which case the sen-
+tence would be 16 years. Aggravating circumstances could include
+specific factual findings made by a judge under a “preponderance
+of the evidence” standard in apparent violation of Booker and Blakely.
+The court was also free to consider “additional criteria reasonably
+related to the decision being made.” 109 The state argued that this
+latter provision conformed the California sentencing scheme to Booker,
+which contemplated that judges retain discretion to select a spe-
+cific sentence within a statutory range, subject to appellate review
+to determine “reasonableness.” The Court rejected this argument,
+finding that the scheme impermissibly allocated sole authority to
+judges to find the facts that permitted imposition of a higher alter-
+native sentence.110
+     The Court, however, has refused to apply Apprendi’s principles
+to judicial factfinding that supports the imposition of mandatory mini-
+find a Sixth Amendment violation; the other, authored by Justice Breyer, and joined
+by Chief Justice Rehnquist and Justices O’Connor, Kennedy, and Ginsburg (the Blakely
+dissenters joined by Justice Ginsburg), set forth the remedy.
+     106 543 U.S. at 259. Consistent with the role it envisioned for a sentencing judge,
+
+the Court substituted a “reasonableness” standard for the statutory de novo appel-
+late review standard that it struck down. 543 U.S. at 262.
+     107 543 U.S. at 245–246 (statutory citations omitted). Although not addressed in
+
+the Booker ruling, a provision of the Sentencing Guidelines that limits district courts
+from departing from the Guidelines during resentencing (the previous sentence hav-
+ing been vacated) on grounds other than those considered during for the first sen-
+tencing, was subsequently struck down as conflicting with the now-advisory nature
+of the Guidelines. Pepper v. United States, 562 U.S. ___, No. 09–6822, slip op. (2011).
+     108 549 U.S. 270 (2007).
+     109 549 U.S. at 278–79, quoting California Rule 4.408(a).
+     110 549 U.S. at 279–80. “The reasonableness requirement that Booker antici-
+
+pated for the federal system operates within the Sixth Amendment constraints de-
+lineated in our precedent, not as a substitute for those constraints.” 549 U.S. at 292–
+93.

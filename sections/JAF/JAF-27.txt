@@ -1,0 +1,53 @@
+the prosecution had failed to rebut defendant’s proof of insanity. In
+directing that the defendant could not be retried, the Court ob-
+served that if the trial court “had so held in the first instance, as
+the reviewing court said it should have done, a judgment of acquit-
+tal would have been entered and, of course, petitioner could not be
+retried for the same offense. . . . [I]t should make no difference that
+the reviewing court, rather than the trial court, determined the evi-
+dence to be insufficient.” 132 The policy underlying the clause of not
+allowing the prosecution to make repeated efforts to convict fore-
+closes giving the prosecution another opportunity to supply evi-
+dence which it failed to muster in the first proceeding. On the other
+hand, if a reviewing court reverses a jury conviction because of its
+disagreement on the weight rather than the sufficiency of the evi-
+dence, retrial is permitted; the appellate court’s decision does not
+mean that acquittal was the only proper course, hence the defer-
+ence required for acquittals is not merited.133 Also, the Burks rule
+does not bar reprosecution following a reversal based on erroneous
+admission of evidence, even if the remaining properly admitted evi-
+dence would be insufficient to convict.134
+    Sentence Increases.—The Double Jeopardy Clause protects
+against imposition of multiple punishment for the same offense.135
+The application of the principle leads, however, to a number of com-
+plexities. In a simple case, it was held that where a court inadver-
+tently imposed both a fine and imprisonment for a crime for which
+the law authorized one or the other but not both, it could not, after
+the fine had been paid and the defendant had entered his short term
+of confinement, recall the defendant and change its judgment by
+    132 Id. at 10–11. See also Greene v. Massey, 437 U.S. 19 (1978) (remanding for
+
+determination whether appellate majority had reversed for insufficient evidence or
+whether some of the majority had based decision on trial error); Hudson v. Louisi-
+ana, 450 U.S. 40 (1981) (Burks applies where appellate court finds some but insuffi-
+cient evidence adduced, not only where it finds no evidence). Burks was distin-
+guished in Justices of Boston Mun. Court v. Lydon, 466 U.S. 294 (1984), which held
+that a defendant who had elected to undergo a bench trial with no appellate review
+but with the right of trial de novo before a jury (and with appellate review avail-
+able) could not bar trial de novo and reverse his bench trial conviction by asserting
+that the conviction had been based on insufficient evidence. The two-tiered system
+in effect gave the defendant two chances at acquittal; under those circumstances
+jeopardy was not terminated by completion of the first entirely optional stage.
+    133 Tibbs v. Florida, 457 U.S. 31 (1982). The decision was 5-to-4, the dissent ar-
+
+guing that weight and insufficiency determinations should be given identical Double
+Jeopardy Clause treatment. Id. at 47 (Justices White, Brennan, Marshall, and
+Blackmun).
+    134 Lockhart v. Nelson, 488 U.S. 33 (1988) (state may reprosecute under ha-
+
+bitual offender statute even though evidence of a prior conviction was improperly
+admitted; at retrial, state may attempt to establish other prior convictions as to which
+no proof was offered at prior trial).
+    135 Ex parte Lange, 85 U.S. (18 Wall.) 163, 173 (1874); North Carolina v. Pearce,
+
+395 U.S. 711, 717 (1969).

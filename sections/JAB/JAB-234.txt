@@ -1,0 +1,57 @@
+defendants, and a majority of Justices agreed on that point.1227 In
+Philadelphia Newspapers, however, the Court expressly reserved the
+issue of “what standards would apply if the plaintiff sues a nonmedia
+defendant.” 1228
+    Other issues besides who is covered by the Times privilege are
+of considerable importance. The use of the expression “actual mal-
+ice” has been confusing in many respects, because it is in fact a
+concept distinct from the common law meaning of malice or the mean-
+ings common understanding might give to it.1229 Constitutional “ac-
+tual malice” means that the defamation was published with knowl-
+edge that it was false or with reckless disregard of whether it was
+false.1230 Reckless disregard is not simply negligent behavior, but
+publication with serious doubts as to the truth of what is ut-
+tered.1231 A defamation plaintiff under the Times or Gertz standard
+has the burden of proving by “clear and convincing” evidence, not
+merely by the preponderance of evidence standard ordinarily borne
+in civil cases, that the defendant acted with knowledge of falsity or
+with reckless disregard.1232 Moreover, the Court has held, a Gertz
+plaintiff has the burden of proving the actual falsity of the defama-
+tory publication.1233 A plaintiff suing the press 1234 for defamation
+under the Times or Gertz standards is not limited to attempting to
+prove his case without resort to discovery of the defendant’s edito-
+
+    1227   472 U.S. at 753 (plurality); id. at 773 (Justice White); id. at 781–84 (dis-
+sent).
+    1228 475 U.S. at 779 n.4. Justice Brennan added a brief concurring opinion ex-
+
+pressing his view that such a distinction is untenable. Id. at 780.
+    1229 See, e.g., Herbert v. Lando, 441 U.S. 153, 199 (1979) (Justice Stewart dis-
+
+senting).
+    1230 New York Times Co. v. Sullivan, 376 U.S. 254, 280 (1964); Garrison v. Loui-
+
+siana, 379 U.S. 64, 78 (1964); Cantrell v. Forest City Publishing Co., 419 U.S. 245,
+251–52 (1974).
+    1231 St. Amant v. Thompson, 390 U.S. 727, 730–33 (1968); Beckley Newspapers
+
+Corp. v. Hanks, 389 U.S. 81 (1967). A finding of “highly unreasonable conduct consti-
+tuting an extreme departure from the standards of investigation and reporting ordi-
+narily adhered to by responsible publishers” is alone insufficient to establish actual
+malice. Harte-Hanks Communications v. Connaughton, 491 U.S. 657 (1989) (none-
+theless upholding the lower court’s finding of actual malice based on the “entire re-
+cord”).
+    1232 Gertz v. Robert Welch, Inc., 418 U.S. 323, 331–32 (1974); Beckley Newspa-
+
+pers Corp. v. Hanks, 389 U.S. 81, 83 (1967). See New York Times Co. v. Sullivan,
+376 U.S. 254, 285–86 (1964) (“convincing clarity”). A corollary is that the issue on
+motion for summary judgment in a New York Times case is whether the evidence is
+such that a reasonable jury might find that actual malice has been shown with con-
+vincing clarity. Anderson v. Liberty Lobby, 477 U.S. 242 (1986).
+    1233 Philadelphia Newspapers v. Hepps, 475 U.S. 767 (1986) (leaving open the
+
+issue of what “quantity” or standard of proof must be met).
+    1234 Because the defendants in these cases have typically been media defen-
+
+dants (but see Garrison v. Louisiana, 379 U.S. 64 (1964); Henry v. Collins, 380 U.S.
+356 (1965)), and because of the language in the Court’s opinions, some have argued

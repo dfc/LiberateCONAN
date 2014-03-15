@@ -1,0 +1,53 @@
+rent effect on officers than it would when officers reasonably rely
+on an invalid warrant, and no more deterrent effect on legislators
+who enact invalid statutes than on magistrates who issue invalid
+warrants.472 Finally, the Court has held that the exclusionary rule
+does not apply if the police conduct a search in objectively reason-
+able reliance on binding judicial precedent, even a defendant suc-
+cessfully challenges that precedent.473
+     The Court also applied Leon to allow the admission of evidence
+obtained incident to an arrest that was based on a mistaken belief
+that there was probable cause to arrest, where the mistaken belief
+had resulted from a negligent bookkeeping error by a police em-
+ployee other than the arresting officer. In Herring v. United States,474
+a police employee had failed to remove from the police computer
+database an arrest warrant that had been recalled five months ear-
+lier, and the arresting officer as a consequence mistakenly believed
+that the arrest warrant remained in effect. The Court upheld the
+admission of evidence because the error had been “the result of iso-
+lated negligence attenuated from the arrest.” 475 Although the Court
+did “not suggest that all recordkeeping errors by the police are im-
+mune from the exclusionary rule,” it emphasized that, “[t]o trigger
+the exclusionary rule, police conduct must be sufficiently deliberate
+that exclusion can meaningfully deter it, and sufficiently culpable
+that such deterrence is worth the price paid by the justice system.
+As laid out in our cases, the exclusionary rule serves to deter delib-
+erate, reckless, or grossly negligent conduct, or in some circum-
+stances recurring or systemic negligence.” 476
+
+     472 Dissenting Justice O’Connor disagreed with this second conclusion, suggest-
+
+ing that the grace period “during which the police may freely perform unreasonable
+searches . . . creates a positive incentive [for legislatures] to promulgate unconstitu-
+tional laws,” and that the Court’s ruling “destroys all incentive on the part of indi-
+vidual criminal defendants to litigate the violation of their Fourth Amendment rights”
+and thereby obtain a ruling on the validity of the statute. 480 U.S. at 366, 369.
+     473 Davis v. United States, 564 U.S. ___, No. 09–11328, slip op. (2011). Justice
+
+Breyer, in dissent, points out that under Griffith v. Kentucky, 479 U.S. 314 (1987),
+“a new rule for the conduct of criminal prosecutions is to be applied retroactively to
+all cases, state or federal, pending on direct review or not yet final . . . .” Thus, the
+majority opinion in Davis would allow the incongruous result that a defendant could
+prove his Fourth Amendment rights had been violated, but could still be left with-
+out a viable remedy. Id. at 2 (Breyer, J., dissenting).
+     474 555 U.S. ___, No. 07–513, slip op. (2009), Herring was a five-to-four decision,
+
+with two dissenting opinions.
+     475 129 S. Ct. at 698.
+     476 129 S. Ct. at 703, 702. Justice Ginsburg, in a dissent joined by Justices Ste-
+
+vens, Souter, and Breyer, stated that “the Court’s opinion underestimates the need
+for a forceful exclusionary rule and the gravity of recordkeeping errors in law en-
+forcement.” Id. at 706. Justice Ginsburg added that the majority’s suggestion that
+the exclusionary rule “is capable of only marginal deterrence when the misconduct
+at issue is merely careless, not intentional or reckless . . . runs counter to a founda-

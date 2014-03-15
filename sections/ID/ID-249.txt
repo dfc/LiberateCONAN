@@ -1,0 +1,47 @@
+McClesky v. Zant,1381 the Court construed the “abuse of the writ”
+language to require a showing of both “cause and prejudice” before
+a petitioner may allege in a second or later petition a ground or
+grounds not alleged in the first. In other words, to avoid subse-
+quent dismissal, a petitioner must allege in his first application all
+the grounds he may have, unless he can show cause, some external
+impediment, for his failure and some actual prejudice from the er-
+ror alleged. If he cannot show cause and prejudice, the petitioner
+may be heard only if she shows that a “fundamental miscarriage of
+justice” will occur, which means she must make a “colorable show-
+ing of factual innocence.” 1382
+    Fifth, the Court abandoned the rules of Fay v. Noia, although
+it was not until 1991 that it expressly overruled the case.1383 Fay,
+it will be recalled, dealt with so-called procedural-bar circum-
+stances; that is, if a defendant fails to assert a claim at the proper
+time or in accordance with proper procedure under valid state rules,
+and if the state then refuses to reach the merits of his claim and
+rules against him solely because of the noncompliance with state
+procedure, when may a petitioner present the claim in federal ha-
+beas? The answer in Fay was that the federal court always had power
+to review the claim but that it had discretion to deny relief to a
+habeas claimant if it found that the prisoner had intentionally waived
+his right to pursue his state remedy through a “deliberate bypass”
+of state procedure.
+    That is no longer the law. “In all cases in which a state pris-
+oner has defaulted his federal claims in state court pursuant to an
+independent and adequate state procedural rule, federal habeas re-
+view of the claims is barred unless the prisoner can demonstrate
+cause for the default and actual prejudice as a result of the alleged
+violation of federal law, or demonstrate that failure to consider the
+claims will result in a fundamental miscarriage of justice. Fay was
+based on a conception of federal/state relations that undervalued
+the importance of state procedural rules.” 1384 The “miscarriage-of-
+justice” element is probably limited to cases in which actual inno-
+    1381  499 U.S. 467 (1991).
+    1382  499 U.S. at 489–97. The “actual innocence” element runs through the cases
+under all the headings.
+     1383 Coleman v. Thompson, 501 U.S. 722, 744–51 (1991).
+     1384 Coleman v. Thompson, 501 U.S. 722, 750 (1991). The standard has been
+
+developed in a long line of cases. Davis v. United States, 411 U.S. 233 (1973) (under
+federal rules); Francis v. Henderson, 425 U.S. 536 (1976); Engle v. Isaac, 456 U.S.
+107 (1982); Murray v. Carrier, 477 U.S. 478 (1986); Harris v. Reed, 489 U.S. 255
+(1989). Coleman arose because the defendant’s attorney had filed his appeal in state
+court three days late. Wainwright v. Sykes involved the failure of defendant to ob-
+ject to the admission of inculpatory statements at the time of trial. Engle v. Isaac
+involved a failure to object at trial to jury instructions.

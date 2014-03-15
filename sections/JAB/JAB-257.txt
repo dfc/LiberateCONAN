@@ -1,0 +1,50 @@
+tive of earning a profit.1353 The Third Circuit upheld a preliminary
+injunction against enforcement of the statute on the ground that,
+“because the standard by which COPA gauges whether material is
+‘harmful to minors’ is based on identifying ‘contemporary commu-
+nity standards[,]’ the inability of Web publishers to restrict access
+to their Web sites based on the geographic locale of the site visitor,
+in and of itself, imposes an impermissible burden on constitution-
+ally protected First Amendment speech.” 1354 This is because it re-
+sults in communications available to a nationwide audience being
+judged by the standards of the community most likely to be of-
+fended. The Supreme Court vacated and remanded, holding “that
+COPA’s reliance on community standards to identify ‘material that
+is harmful to minors’ does not by itself render the statute substan-
+tially overbroad for purposes of the First Amendment.” 1355
+     Upon remand, the Third Circuit again upheld the preliminary
+injunction, and the Supreme Court affirmed and remanded the case
+for trial. The Supreme Court found that the district court had not
+abused its discretion in granting the preliminary injunction, be-
+cause the government had failed to show that proposed alterna-
+tives to COPA would not be as effective in accomplishing its goal.
+The primary alternative to COPA, the Court noted, is blocking and
+filtering software. Filters are less restrictive than COPA because “[t]hey
+impose selective restrictions on speech at the receiving end, not uni-
+versal restriction at the source.” 1356 Subsequently, the district court
+found COPA to violate the First Amendment and issued a perma-
+nent injunction against its enforcement; the Third Circuit affirmed,
+and the Supreme Court denied certioriari.1357
+     In United States v. American Library Association, Inc., a four-
+Justice plurality of the Supreme Court upheld the Children’s Inter-
+net Protection Act (CIPA), which, as the plurality summarized it,
+provides that a public school or “library may not receive federal as-
+sistance to provide Internet access unless it installs software to block
+     1353 “Harmful to minors” statutes ban the distribution of material to minors that
+
+is not necessarily obscene under the Miller test. In Ginsberg v. New York, 390 U.S.
+629, 641 (1968), the Supreme Court, applying a rational basis standard, upheld New
+York’s harmful-to-minors statute.
+     1354 ACLU v. Reno, 217 F.3d 162, 166 (3d Cir. 2000).
+     1355 Ashcroft v. ACLU, 535 U.S. 564, 585 (2002) (emphasis in original).
+     1356 Ashcroft v. ACLU, 542 U.S. 656, 667 (2004). Justice Breyer, dissenting, wrote
+
+that blocking and filtering software is not a less restrictive alternative because “it is
+part of the status quo” and “[i]t is always less restrictive to do nothing than to do
+something.” Id. at 684. The majority opinion countered that Congress “may act to
+encourage the use of filters,” and “[t]he need for parental cooperation does not auto-
+matically disqualify a proposed less restrictive alternative.” Id. at 669.
+     1357 American Civil Liberties Union v. Gonzales, 478 F. Supp. 2d 775 (E.D. Pa.
+
+2007), aff’d sub nom. American Civil Liberties Union v. Mukasey, 534 F.3d 181 (3d
+Cir. 2008), cert. denied, 129 S. Ct. 1032 (2009).

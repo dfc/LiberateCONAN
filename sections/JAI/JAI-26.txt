@@ -1,0 +1,53 @@
+the defendant’s future dangerousness, due process requires that the
+jury be informed if the alternative to a death sentence is a life sen-
+tence without possibility of parole.121
+    What is the effect on a death sentence if an “eligibility factor”
+(a factor making the defendant eligible for the death penalty) or an
+“aggravating factor” (a factor, to be weighed against mitigating fac-
+tors, in determining whether a defendant who has been found eli-
+gible for the death penalty should receive it) is found invalid? In
+Brown v. Sanders, the Court announced “the following rule: An in-
+validated sentencing factor (whether an eligibility factor or not) will
+render the sentence unconstitutional by reason of its adding an im-
+proper element to the aggravation scale in the weighing process un-
+less one of the other sentencing factors enables the sentencer to give
+aggravating weight to the same facts and circumstances.” 122
+    Appellate review under a harmless error standard can preserve
+a death sentence based in part on a jury’s consideration of an ag-
+gravating factor later found to be invalid,123 or on a trial judge’s
+consideration of improper aggravating circumstances.124 In each case
+the sentencing authority had found other aggravating circum-
+stances justifying imposition of capital punishment, and in Zant evi-
+dence relating to the invalid factor was nonetheless admissible on
+another basis.125 Even in states that require the jury to weigh statu-
+tory aggravating and mitigating circumstances (and even in the ab-
+independently assess any mitigating factors before jury as a whole balanced the weight
+of mitigating evidence against each aggravating factor, with unanimity required be-
+fore balance in favor of an aggravating factor may be found).
+     121 Simmons v. South Carolina, 512 U.S. 154 (1994). See also Shafer v. South
+
+Carolina, 532 U.S. 36 (2001) (amended South Carolina law still runs afoul of Sim-
+mons); Kelly v. South Carolina, 534 U.S. 246 (2002) (prosecutor need not express
+intent to rely on future dangerousness; logical inference may be drawn). But see Ramdass
+v. Angelone, 530 U.S. 156 (2000) (refusing to apply Simmons because the defendant
+was not technically parole ineligible at time of sentencing).
+     122 546 U.S. 212, 220 (2006). In some states, “the only aggravating factors per-
+
+mitted to be considered by the sentencer [are] the specified eligibility factors.” Id. at
+217. These are known as weighing states; non-weighing states, by contrast, are those
+that permit “the sentencer to consider aggravating factors different from, or in addi-
+tion to, the eligibility factors.” Id. Prior to Brown v. Sanders, in weighing states, the
+Court deemed “the sentencer’s consideration of an invalid eligibility factor” to re-
+quire “reversal of the sentence (unless a state appellate court determined the error
+was harmless or reweighed the mitigating evidence against the valid aggravating
+factors).” Id.
+     123 Zant v. Stephens, 462 U.S. 862 (1983).
+     124 Barclay v. Florida, 463 U.S. 954 (1983).
+     125 In Eighth Amendment cases as in other contexts involving harmless consti-
+
+tutional error, the court must find that error was “ ‘harmless beyond a reasonable
+doubt in that it did not contribute to the [sentence] obtained.’ ” Sochor v. Florida,
+504 U.S. 527, 540 (quoting Chapman v. California, 386 U.S. 18, 24 (1967)). Thus,
+where psychiatric testimony was introduced regarding an invalid statutory aggravat-
+ing circumstance, and where the defendant was not provided the assistance of an
+independent psychiatrist in order to develop rebuttal testimony, the lack of rebuttal

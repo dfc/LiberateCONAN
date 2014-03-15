@@ -1,0 +1,49 @@
+because the scheme was surrounded with extensive security protec-
+tion against disclosure beyond that necessary to achieve the pur-
+poses of the program it was not thought to “pose a sufficiently griev-
+ous threat to either interest to establish a constitutional violation.” 635
+Lower court cases have raised substantial questions as to whether
+this case established a “fundamental right” to informational pri-
+vacy, and instead found that some as yet unspecified balancing test
+or intermediate level of scrutiny was at play.636
+    More than two decades after Whalen, the Court remains ambiva-
+lent about whether such a privacy right exists, but seems to have
+settled on a context-specific standard of reasonableness to evaluate
+such claims. In Nasa v. Nelson 637 the Court considered whether gov-
+ernment contractors working at NASA’s Jet Propulsion Laboratory
+could be required as part of a background investigation to fill out
+questionnaires regarding, among other topics, illegal drug use or
+treatment thereof, and to have personal references queried as to
+any adverse information going to honesty or trustworthiness. Over
+a vigorous dissent, the Court presumed without deciding that the
+government actions implicated a privacy interest of constitutional
+significance,638 but then, considering that the employees in ques-
+tion were working in a federal facility and that the background check
+was the same as was used for federal employees, the Court upheld
+the questions as “reasonable, employment related” inquiries.639
+    The Court has also briefly considered yet another aspect of pri-
+vacy—the idea that certain personal activities that were otherwise
+unprotected could obtain some level of constitutional protection by
+being performed in particular private locations, such as the home.
+In Stanley v. Georgia,640 the Court held that the government may
+not make private possession of obscene materials for private use a
+crime. Normally, investigation and apprehension of an individual
+      635 429 U.S. at 598–604. The Court cautioned that it had decided nothing about
+
+the privacy implications of the accumulation and disclosure of vast amounts of infor-
+mation in data banks. Safeguarding such information from disclosure “arguably has
+its roots in the Constitution,” at least “in some circumstances,” the Court seemed to
+indicate. Id. at 605. Compare id. at 606 (Justice Brennan concurring). What the Court’s
+careful circumscription of the privacy issue through balancing does to the concept is
+unclear after Nixon v. Administrator of General Services, 433 U.S. 425, 455–65 (1977)
+(stating that an invasion of privacy claim “cannot be considered in abstract [and]
+. . . must be weighed against the public interest”). But see id. at 504, 525–36 (Chief
+Justice Burger dissenting), and 545 n.1 (Justice Rehnquist dissenting).
+      636 See, e.g., Plante v. Gonzalez, 575 F.2d 1119, 1134 (5th Cir. 1978) (“. . . we
+
+believe that the balancing test, more common to due process claims, is appropriate
+here.”).
+      637 562 U.S. ___, No. 09–530, slip op. (2011).
+      638 562 U.S. ___, No. 09–530, slip op. at 11.
+      639 562 U.S. ___, No. 09–530, slip op. at 12–16.
+      640 394 U.S. 557 (1969).

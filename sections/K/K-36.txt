@@ -1,0 +1,45 @@
+      tract’s total acreage violates the Fifth Amendment’s Takings Clause
+      by completely abrogating rights of intestacy and devise.
+              Hodel v. Irving, 481 U.S. 704 (1987).
+              Justices concurring: O’Connor, Brennan, Marshall, Blackmun, Powell, Scalia,
+                Rehnquist, C.J.
+              Justices concurring specially: Stevens, White
+
+
+135. Act of April 20, 1983, 97 Stat. 69 (Pub. L. No. 98–21 § 101(b)(1) (amend-
+    ing 26 U.S.C. § 3121(b)(5))
+           The 1983 extension of the Social Security tax to then-sitting judges
+      violates the Compensation Clause of Article III, § 1. The Clause “does
+      not prevent Congress from imposing a non-discriminatory tax laid gen-
+      erally upon judges and other citizens . . . , but it does prohibit taxa-
+      tion that singles out judges for specially unfavorable treatment.” The
+      1983 Social Security law gave 96% of federal employees “total free-
+      dom” of choice about whether to participate in the system, and struc-
+      tured the system in such a way that “virtually all” of the remaining
+      4% of employees—except the judges—could opt to retain existing cov-
+      erage. By requiring then-sitting judges to join the Social Security Sys-
+      tem and pay Social Security taxes, the 1983 law discriminated against
+      judges in violation of the Compensation Clause.
+              United States v. Hatter, 532 U.S. 557 (2001).
+              Justices concurring: Breyer, Kennedy, Souter, Ginsburg, Scalia, Thomas,
+                Rehnquist, C.J.
+
+
+136. Act of July 10, 1984 (Pub. L. 98–353, Title I, § 104(a), 98 Stat. 340; 28
+    U.S.C. § 157(b)(2)(C)
+           Because bankruptcy courts are Article I entities, Congress estab-
+      lished a division between “core proceedings,” which could be heard and
+      determined by bankruptcy courts, subject to lenient review, and other
+      proceedings, which, though initially heard and decided by bankruptcy
+      courts, could be reviewed de novo in the district court at the behest of
+      any party, unless the parties had consented to bankruptcy-court juris-
+      diction in the same manner as core proceedings. Among these “core
+      proceedings” were counterclaims by the estate against persons filing
+      claims against the estate. The Court held that a counterclaim of tor-
+      tious interference with a gift, although made during a bankruptcy pro-
+      ceeding, was a state common law claim that did not fall under any of
+      the public rights exceptions allowing for exercise of Article III jurisdic-
+      tion.
+              Stern v. Marshall, 564 U.S. ___, No. 10–179, slip op. (2011).
+              Justices concurring: Roberts, C. J.,, Scalia, Kennedy, Thomas, Alito
+              Justices dissenting: Breyer, Ginsburg, Sotomayor, Kagan

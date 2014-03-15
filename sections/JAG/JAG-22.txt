@@ -1,0 +1,56 @@
+mum sentences.111 The Court has also refused to extend Apprendi
+to a judge’s decision to impose sentences for discrete crimes consecu-
+tively rather than concurrently.112 The Court explained that, when
+a defendant has been convicted of multiple offenses, each involving
+discrete sentencing prescriptions, the states apply various rules re-
+garding whether a judge may impose the sentences consecutively
+or concurrently.113 The Court held that “twin considerations—
+historical practice and respect for state sovereignty—counsel against
+extending Apprendi’s rule” to preclude judicial factfinding in this
+situation as well.114
+    In Rita v. United States, the Court upheld the application, by
+federal courts of appeals, of the presumption “that a sentence im-
+posed within a properly calculated United States Sentencing Guide-
+lines range is a reasonable sentence.” 115 Even if the presumption
+“increases the likelihood that the judge, not the jury, will find ‘sen-
+tencing facts,’ ” the Court wrote, it “does not violate the Sixth Amend-
+     111 Prior to its decision in Apprendi, the Court had held that factors determina-
+
+tive of minimum sentences could be decided by a judge. McMillan v. Pennsylvania,
+477 U.S. 79 (1986). Although the vitality of McMillan was put in doubt by Ap-
+prendi, McMillan was subsequently reaffirmed in Harris v. United States, 536 U.S.
+545, 568–69 (2002). Five Justices in Harris thought that factfinding required for im-
+position of mandatory minimums fell within Apprendi’s reasoning, but one of the
+five, Justice Breyer, concurred in the judgment on practical grounds despite his rec-
+ognition that McMillan was not “easily” distinguishable “in terms of logic.” 536 U.S.
+at 569. Justice Thomas’ dissenting opinion, id. at 572, joined by Justices Stevens,
+Souter, and Ginsburg, elaborated on the logical inconsistency, and suggested that
+the Court’s deference to Congress’s choice to treat mandatory minimums as sentenc-
+ing factors made avoidance of Apprendi a matter of “clever statutory drafting.” Id.
+at 579.
+     112 Oregon v. Ice, 129 S. Ct. 711 (2009).
+     113 Most states follow the common-law tradition of giving judges unfettered dis-
+
+cretion over the matter, while some states presume that sentences will run consecu-
+tively but allow judges to order concurrent sentences upon finding cause to do so.
+“It is undisputed,” the Court noted, “that States may proceed on [either of these]
+two tracks without transgressing the Sixth Amendment.” 129 S. Ct. at 714.
+     114 129 S. Ct. at 717. The Court also noted other decisions judges make that are
+
+likely to evade the strictures of Apprendi, including determining the length of super-
+vised release, attendance at drug rehabilitation programs, terms of community ser-
+vice, and imposition of fines and orders of restitution. Id. at 719. Justice Scalia, joined
+by Chief Justice Roberts and Justices Souter and Thomas, dissented, finding the
+majority’s applying Apprendi “only to the length of a sentence for an individual crime
+and not to the total sentence for a defendant . . . a strange exception to the trea-
+sured right of trial by jury.” Id. at 720 (Scalia, J., dissenting).
+     115 551 U.S. 338, 341 (2007). The Court emphasized that it was upholding “an
+
+appellate court presumption. Given our explanation in Booker that appellate ‘reason-
+ableness’ review merely asks whether the trial court abused its discretion, the pre-
+sumption applies only on appellate review. . . . [T]he sentencing court does not en-
+joy the benefit of a legal presumption that the Guidelines sentence should apply.”
+Id. at 351, quoted in part in Nelson v. United States, 129 S. Ct. 891 (2009) (per
+curiam), where the Court added, “The Guidelines are not only not mandatory on
+sentencing courts; they are also not to be presumed reasonable.” Id. at 892 (empha-
+sis in original).

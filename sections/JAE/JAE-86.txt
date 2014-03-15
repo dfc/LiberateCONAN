@@ -1,0 +1,56 @@
+sequently raise those claims on federal habeas corpus because, the
+Court found, the costs outweigh the minimal deterrent effect.459
+    The exclusionary rule is inapplicable in parole revocation hear-
+ings,460 and a violation of the “knock-and-announce” rule (the pro-
+cedure that police officers must follow to announce their presence
+before entering a residence with a lawful warrant) 461 does not re-
+quire suppression of the evidence gathered pursuant to a search.462
+If an arrest or a search that was valid at the time it took place
+becomes bad through the subsequent invalidation of the statute un-
+der which the arrest or search was made, the Court has held that
+evidence obtained thereby is nonetheless admissible.463 In other cases,
+a grand jury witness was required to answer questions even though
+the questions were based on evidence obtained from an unlawful
+search and seizure,464 and federal tax authorities were permitted
+in a civil proceeding to use evidence that had been unconstitution-
+ally seized from a defendant by state authorities.465
+
+    459  Stone v. Powell, 428 U.S. 465, 494 (1976).
+    460  Pennsylvania Bd. of Probation and Parole v. Scott, 524 U.S. 357 (1998).
+     461 The “knock and announce” requirement is codified at 18 U.S.C. § 3109, and
+
+the Court has held that the rule is also part of the Fourth Amendment reasonable-
+ness inquiry. Wilson v. Arkansas, 514 U.S. 927 (1995).
+     462 Hudson v. Michigan, 547 U.S. 586 (2006). Writing for the majority, Justice
+
+Scalia explained that the exclusionary rule was inappropriate because the purpose
+of the knock-and-announce requirement was to protect human life, property, and the
+homeowner’s privacy and dignity; the requirement has never protected an individu-
+al’s interest in preventing seizure of evidence described in a warrant. Id. at 594.
+Furthermore, the Court believed that the “substantial social costs” of applying the
+exclusionary rule would outweigh the benefits of deterring knock-and-announce vio-
+lations by applying it. Id. The Court also reasoned that other means of deterrence,
+such as civil remedies, were available and effective, and that police forces have be-
+come increasingly professional and respectful of constitutional rights in the past half-
+century. Id. at 599. Justice Kennedy wrote a concurring opinion emphasizing that
+“the continued operation of the exclusionary rule . . . is not in doubt.” Id. at 603. In
+dissent, Justice Breyer asserted that the majority’s decision “weakens, perhaps de-
+stroys, much of the practical value of the Constitution’s knock-and-announce protec-
+tion.” Id. at 605.
+     463 Michigan v. DeFillippo, 443 U.S. 31 (1979) (statute creating substantive crimi-
+
+nal offense). Statutes that authorize unconstitutional searches and seizures but which
+have not yet been voided at the time of the search or seizure may not create this
+effect, however, Torres v. Puerto Rico, 442 U.S. 465 (1979); Ybarra v. Illinois, 444
+U.S. 85 (1979). This aspect of Torres and Ybarra was to a large degree nullified by
+Illinois v. Krull, 480 U.S. 340 (1987), rejecting a distinction between substantive and
+procedural statutes and holding the exclusionary rule inapplicable in the case of a
+police officer’s objectively reasonable reliance on a statute later held to violate the
+Fourth Amendment. Similarly, the exclusionary rule does not require suppression of
+evidence that was seized incident to an arrest that was the result of a clerical error
+by a court clerk. Arizona v. Evans, 514 U.S. 1 (1995).
+     464 United States v. Calandra, 414 U.S. 338 (1974).
+     465 United States v. Janis, 428 U.S. 433 (1976). Similarly, the rule is inappli-
+
+cable in civil proceedings for deportation of aliens. INS v. Lopez-Mendoza, 468 U.S.
+1032 (1984).

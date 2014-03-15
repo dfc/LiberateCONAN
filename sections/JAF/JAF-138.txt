@@ -1,0 +1,49 @@
+ownership that extinguishment of this right ordinarily constitutes
+a taking.750 Similarly valued is the right to pass on property to one’s
+heirs.751
+     Failure to incur administrative (and judicial) delays can result
+in dismissal of an as-applied taking claim based on ripeness doc-
+trine, an area of takings law that the Court has developed exten-
+sively since Penn Central. In the leading decision of Williamson County
+Regional Planning Commission v. Hamilton Bank,752 the Court an-
+nounced the canonical two-part ripeness test for takings actions
+brought in federal court. First, for an as-applied challenge, the prop-
+erty owner must obtain from the regulating agency a “final, defini-
+tive position” regarding how it will apply its regulation to the own-
+er’s land. Second, when suing a state or municipality, the owner
+must exhaust any possibilities for obtaining compensation from the
+state or its courts before coming to federal court. Thus, the claim
+in Williamson County was found unripe because the plaintiff had
+failed to seek a variance (first prong of test), and had not sought
+compensation from the state courts in question even though they
+recognized inverse condemnation claims (second prong). Similarly,
+in MacDonald, Sommer & Frates v. County of Yolo,753 a final deci-
+sion was found lacking where the landowner had been denied ap-
+proval for one subdivision plan calling for intense development, but
+that denial had not foreclosed the possibility that a scaled-down
+(though still economic) version would be approved. In a somewhat
+different context, a taking challenge to a municipal rent control or-
+dinance was considered “premature” in the absence of evidence that
+a tenant hardship provision had ever been applied to reduce what
+would otherwise be considered a reasonable rent increase.754 Begin-
+ning with Lucas in 1992, however, the Court’s ripeness determina-
+tions have displayed an impatience with formalistic reliance on the
+“final decision” rule, while nonetheless explicitly reaffirming it. In
+     750 Nollan v. California Coastal Comm’n, 483 U.S. 825, 831–32 (1987) (physical
+
+occupation occurs with public easement that eliminates right to exclude others); Kai-
+ser Aetna v. United States, 444 U.S. 164 (1979) (imposition of navigation servitude
+requiring public access to a privately-owned pond was a taking under the circum-
+stances; owner’s commercially valuable right to exclude others was taken, and re-
+quirement amounted to “an actual physical invasion”). But see PruneYard Shopping
+Center v. Robins, 447 U.S. 74, 84 (1980) (requiring shopping center to permit indi-
+viduals to exercise free expression rights on property onto which public had been
+invited was not destructive of right to exclude others or “so essential to the use or
+economic value of [the] property” as to constitute a taking).
+     751 Hodel v. Irving, 481 U.S. 704 (1987) (complete abrogation of the right to pass
+
+on to heirs fractionated interests in lands constitutes a taking), Babbitt v. Youpee,
+519 U.S. 234 (1997) (same result based on “severe” restriction of the right).
+     752 473 U.S. 172 (1985).
+     753 477 U.S. 340 (1986).
+     754 Pennell v. City of San Jose, 485 U.S. 1 (1988).

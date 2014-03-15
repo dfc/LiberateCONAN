@@ -1,0 +1,53 @@
+with regard to the first, there have been developed certain rules
+plus a statutory limitation designed to minimize needless conflict.
+     Comity.—“[T]he notion of ‘comity,’ ” Justice Black asserted, is
+composed of “a proper respect for state functions, a recognition of
+the fact that the entire country is made up of a Union of separate
+state governments, and a continuance of the belief that the Na-
+tional Government will fare best if the States and their institu-
+tions are left free to perform their separate functions in their sepa-
+rate ways. This, perhaps for lack of a better and clearer way to describe
+it, is referred to by many as ‘Our Federalism’. . . .” 1274 Comity is a
+self-imposed rule of judicial restraint whereby independent tribu-
+nals of concurrent or coordinate jurisdiction act to moderate the
+stresses of coexistence and to avoid collisions of authority. It is not
+a rule of law but “one of practice, convenience, and expediency,” 1275
+which persuades but does not command.
+    Abstention.—Perhaps the fullest expression of the concept of
+comity may be found in the abstention doctrine. The abstention doc-
+trine instructs federal courts to abstain from exercising jurisdiction
+if applicable state law, which would be dispositive of the contro-
+versy, is unclear and a state court interpretation of the state law
+question might obviate the necessity of deciding a federal constitu-
+tional issue.1276 Abstention is not proper, however, where the rel-
+
+     1274 Younger v. Harris, 401 U.S. 37, 44 (1971). Compare Fair Assessment in Real
+
+Estate Ass’n v. McNary, 454 U.S. 100 (1981), with id. at 119–25 (Justice Brennan
+concurring, joined by three other Justices).
+     1275 Mast, Foos & Co. v. Stover Manufacturing Co., 177 U.S. 458, 488 (1900).
+
+Recent decisions emphasize comity as the primary reason for restraint in federal
+court actions tending to interfere with state courts. E.g., O’Shea v. Littleton, 414
+U.S. 488, 499–504 (1974); Huffman v. Pursue, Ltd., 420 U.S. 592, 599–603 (1975);
+Trainor v. Hernandez, 431 U.S. 434, 441 (1977); Moore v. Sims, 442 U.S. 415, 430
+(1979). The Court has also cited comity as a reason to restrict access to federal ha-
+beas corpus. Francis v. Henderson, 425 U.S. 536, 541 and n.31 (1976); Wainwright
+v. Sykes, 433 U.S. 72, 83, 88, 90 (1977); Engle v. Isaac, 456 U.S. 107, 128–29 (1982).
+See also Rosewell v. LaSalle National Bank, 450 U.S. 503 (1981); Fair Assessment
+in Real Estate Ass’n v. McNary, 454 U.S. 100 (1981) (comity limits federal court
+interference with state tax systems); Levin v. Commerce Energy, Inc., 560 U.S. ___,
+No. 09–223, slip op. (2010) (comity has particular force in cases challenging consti-
+tutionality of state taxation of commercial activities). And see Missouri v. Jenkins,
+495 U.S. 33 (1990).
+     1276 C. WRIGHT, HANDBOOK OF THE LAW OF FEDERAL COURTS 13 (4th ed. 1983). The
+
+basic doctrine was formulated by Justice Frankfurter for the Court in Railroad Comm’n
+v. Pullman Co., 312 U.S. 496 (1941). Other strands of the doctrine are that a federal
+court should refrain from exercising jurisdiction in order to avoid needless conflict
+with a state’s administration of its own affairs, Burford v. Sun Oil Co., 319 U.S. 315
+(1943); Alabama Public Service Comm’n v. Southern Ry., 341 U.S. 341 (1951); Great
+Lakes Dredge & Dock Co. v. Huffman, 319 U.S. 293 (1943); Martin v. Creasy, 360
+U.S. 219 (1959); Moses H. Cone Hosp. v. Mercury Constr. Corp., 460 U.S. 1 (1983);
+New Orleans Public Service, Inc. v. Council of the City of New Orleans, 491 U.S.
+350 (1989) (carefully reviewing the scope of the doctrine), especially where state law

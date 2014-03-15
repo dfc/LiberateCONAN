@@ -1,0 +1,48 @@
+in several cases. Although involving a warrantless arrest, Draper
+v. United States 119 may be said to have begun the line of cases. A
+previously reliable, named informant reported to an officer that the
+defendant would arrive with narcotics on a particular train, and
+described the clothes he would be wearing and the bag he would be
+carrying; the informant, however, gave no basis for his informa-
+tion. FBI agents met the train, observed that the defendant fully
+fit the description, and arrested him. The Court held that the cor-
+roboration of part of the informer’s tip established probable cause
+to support the arrest. A case involving a search warrant, Jones v.
+United States,120 apparently considered the affidavit as a whole to
+see whether the tip plus the corroborating information provided a
+substantial basis for finding probable cause, but the affidavit also
+set forth the reliability of the informer and sufficient detail to indi-
+cate that the tip was based on the informant’s personal observa-
+tion. Aguilar v. Texas 121 held insufficient an affidavit that merely
+asserted that the police had “reliable information from a credible
+person” that narcotics were in a certain place, and held that when
+the affiant relies on an informant’s tip he must present two types
+of evidence to the magistrate. First, the affidavit must indicate the
+informant’s basis of knowledge—the circumstances from which the
+informant concluded that evidence was present or that crimes had
+been committed—and, second, the affiant must present information
+that would permit the magistrate to decide whether or not the in-
+formant was trustworthy. Then, in Spinelli v. United States,122 the
+Court applied Aguilar in a situation in which the affidavit con-
+tained both an informant’s tip and police information of a corrobo-
+rating nature.
+     The Court rejected the “totality” test derived from Jones and
+held that the informant’s tip and the corroborating evidence must
+be separately considered. The tip was rejected because the affidavit
+contained neither any information which showed the basis of the
+tip nor any information which showed the informant’s credibility.
+The corroborating evidence was rejected as insufficient because it
+did not establish any element of criminality but merely related to
+    119 358 U.S. 307 (1959). For another case applying essentially the same prob-
+
+able cause standard to warrantless arrests as govern arrests by warrant, see Mc-
+Cray v. Illinois, 386 U.S. 300 (1967) (informant’s statement to arresting officers met
+Aguilar probable cause standard). See also Whitely v. Warden, 401 U.S. 560, 566
+(1971) (standards must be “at least as stringent” for warrantless arrest as for obtain-
+ing warrant).
+    120 362 U.S. 257 (1960).
+    121 378 U.S. 108 (1964).
+    122 393 U.S. 410 (1969). Both concurring and dissenting Justices recognized ten-
+
+sion between Draper and Aguilar. See id. at 423 (Justice White concurring), id. at
+429 (Justice Black dissenting and advocating the overruling of Aguilar).

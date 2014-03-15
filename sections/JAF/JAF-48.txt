@@ -1,0 +1,54 @@
+witness,235 the statute was soon rendered unenforceable by the rul-
+ing in Counselman v. Hitchcock 236 that an analogous limited immu-
+nity statute was unconstitutional because it did not confer an im-
+munity coextensive with the privilege it replaced. Counselman was
+ambiguous with regard to its grounds because it identified two faults
+in the statute: it did not proscribe “derivative” evidence 237 and it
+prohibited only future use of the compelled testimony.238 The latter
+language accentuated a division between adherents of “transac-
+tional” immunity and of “use” immunity which has continued to the
+present.239 In any event, following Counselman, Congress enacted
+a statute that conferred transactional immunity as the price for be-
+ing able to compel testimony,240 and the Court sustained this law
+in a five-to-four decision.241
+    “The 1893 statute has become part of our constitutional fabric
+and has been included ‘in substantially the same terms, in virtu-
+ally all of the major regulatory enactments of the Federal Govern-
+ment.’ ” 242 So spoke Justice Frankfurter in 1956, broadly reaffirm-
+ing Brown v. Walker and upholding the constitutionality of a federal
+immunity statute.243 Because all but one of the immunity acts passed
+
+
+    235  Ch. 11, 12 Stat. 333 (1862).
+    236  142 U.S. 547 (1892). The statute struck down was ch. 13, 15 Stat. 37 (1868).
+     237 Counselman v. Hitchcock, 142 U.S. 547, 564 (1892). See also id. at 586.
+     238 142 U.S. at 585–86.
+     239 “Transactional” immunity means that once a witness has been compelled to
+
+testify about an offense, he may never be prosecuted for that offense, no matter how
+much independent evidence might come to light; “use” immunity means that no tes-
+timony compelled to be given and no evidence derived from or obtained because of
+the compelled testimony may be used if the person is subsequently prosecuted on
+independent evidence for the offense.
+     240 Ch. 83, 27 Stat. 443 (1893).
+     241 Brown v. Walker, 161 U.S. 591 (1896). The majority reasoned that one was
+
+excused from testifying only if there could be legal detriment flowing from his act of
+testifying. If a statute of limitations had run or if a pardon had been issued with
+regard to a particular offense, a witness could not claim the privilege and refuse to
+testify, no matter how much other detriment, such as loss of reputation, would at-
+tach to his admissions. Therefore, because the statute acted as a pardon or amnesty
+and relieved the witness of all legal detriment, he must testify. The four dissenters
+contended essentially that the privilege protected against being compelled to incrimi-
+nate oneself regardless of any subsequent prosecutorial effort, id. at 610, and that a
+witness was protected against infamy and disparagement as much as prosecution.
+Id. at 628.
+     242 Ullmann v. United States, 350 U.S. 422, 438 (1956) (quoting Shapiro v. United
+
+States, 335 U.S. 1, 6 (1948)).
+     243 “[The] sole concern [of the privilege] is . . . with the danger to a witness forced
+
+to give testimony leading to the infliction of ‘penalties affixed to the criminal acts’. . . .
+Immunity displaces the danger. Once the reason for the privilege ceases, the privi-
+lege ceases.” 350 U.S. at 438–39. The internal quotation is from Boyd v. United States,
+116 U.S. 616, 634 (1886).

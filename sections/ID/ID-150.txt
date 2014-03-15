@@ -1,0 +1,52 @@
+position of a case, notwithstanding that other non-federal ques-
+tions of fact and law may be involved therein.807 “Pendent jurisdiction,”
+as this form is commonly called, exists whenever the state and fed-
+eral claims “derive from a common nucleus of operative fact” and
+are such that a plaintiff “would ordinarily be expected to try them
+all in one judicial proceeding.” 808 Ordinarily, it is a rule of pru-
+dence that federal courts should not pass on federal constitutional
+claims if they may avoid it and should rest their conclusions upon
+principles of state law where possible.809 But the federal court has
+discretion whether to hear the pendent state claims in the proper
+case. Thus, the trial court should look to “considerations of judicial
+economy, convenience and fairness to litigants” in exercising its dis-
+cretion and should avoid needless decisions of state law. If the fed-
+eral claim, though substantial enough to confer jurisdiction, was dis-
+missed before trial, or if the state claim substantially predominated,
+the court would be justified in dismissing the state claim.810
+    A variant of pendent jurisdiction, sometimes called “ancillary
+jurisdiction,” is the doctrine allowing federal courts to acquire juris-
+diction entirely of a case presenting two federal issues, although it
+might properly not have had jurisdiction of one of the issues if it
+had been independently presented.811 Thus, in an action under a
+federal statute, a compulsory counterclaim not involving a federal
+question is properly before the court and should be decided.812 The
+concept has been applied to a claim otherwise cognizable only in
+admiralty when joined with a related claim on the law side of the
+federal court, and in this way to give an injured seaman a right to
+jury trial on all of his claims when ordinarily the claim cognizable
+
+     807 Osborn v. Bank of the United States, 22 U.S. (9 Wheat.) 738, 822–28 (1824);
+
+Siler v. Louisville & Nashville R.R. Co., 213 U.S. 175 (1909); Hurn v. Oursler, 289
+U.S. 238 (1933); United Mine Workers v. Gibbs, 383 U.S. 715 (1966).
+     808 Osborn v. Bank, 22 U.S. at 725. This test replaced a difficult-to-apply test of
+
+Hurn v. Oursler, 289 U.S. 238, 245–46 (1933). See also Kokkonen v. Guardian Life
+Ins. Co., 511 U.S. 375 (1994); Peacock v. Thomas, 516 U.S. 349 (1996) (both cases
+using the new vernacular of “ancillary jurisdiction”).
+     809 Siler v. Louisville & Nashville R. Co., 213 U.S. 175 (1909); Greene v. Louis-
+
+ville & Interurban R.R., 244 U.S. 499 (1917); Hagans v. Lavine, 415 U.S. 528, 546–
+550 (1974). In fact, it may be an abuse of discretion for a federal court to fail to
+decide on an available state law ground instead of reaching the federal constitu-
+tional question. Schmidt v. Oakland Unified School Dist., 457 U.S. 594 (1982) (per
+curiam). However, narrowing previous law, the Court held in Pennhurst State School
+& Hosp. v. Halderman, 465 U.S. 89 (1984), held that, when a pendent claim of state
+law involves a claim that is against a state for purposes of the Eleventh Amend-
+ment, federal courts may not adjudicate it.
+     810 United Mine Workers v. Gibbs, 383 U.S. 715, 726–27 (1966).
+     811 The initial decision was Freeman v. Howe, 65 U.S. (24 How.) 450 (1861), in
+
+which federal jurisdiction was founded on diversity of citizenship.
+     812 Moore v. New York Cotton Exchange, 270 U.S. 593 (1926).

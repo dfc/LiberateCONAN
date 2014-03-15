@@ -1,0 +1,53 @@
+pute capable of judicial resolution”; that is, his continuing interest
+adequately assures that “sharply presented issues” are placed be-
+fore the court “in a concrete factual setting” with “self-interested
+parties vigorously advocating opposing positions.” 574
+     The immediate effect of these cases was that litigation in which
+class actions are properly certified or in which they should have
+been certified would rarely be mooted if the named plaintiff (or in
+effect his attorney) chose to pursue the matter, even though the named
+plaintiff could no longer obtain any personal relief from the deci-
+sion sought.575 The cases further raised the prospect of a possible
+weakening of the “personal stake” requirement in other areas, such
+as the representation of third-party claims in non-class actions and
+the initiation of some litigation in the form of a “private attorneys
+general” pursuit of adjudication.576 In Genesis Healthcare Corp. v.
+Symczyk,577 however, the Court appeared to cabin a more flexible
+concept of mootness to class actions. 578
+    Retroactivity Versus Prospectivity.—One of the distinguish-
+ing features of an advisory opinion is that it lays down a rule to be
+applied to future cases, much as does legislation generally. It should
+therefore follow that an Article III court could not decide purely pro-
+spective cases, cases which do not govern the rights and disabili-
+
+      574 445 U.S. at 403. Justices Powell, Stewart, Rehnquist, and Chief Justice Burger
+
+dissented, id. at 409, arguing there could be no Article III personal stake in a proce-
+dural decision separate from the outcome of the case. In Deposit Guaranty Nat’l
+Bank v. Roper, 445 U.S. 326 (1980), in an opinion by Chief Justice Burger, the Court
+held that a class action was not mooted when defendant tendered to the named plain-
+tiffs the full amount of recovery they had individually asked for and could hope to
+retain. Plaintiffs’ interest in shifting part of the share of costs of litigation to those
+who would share in its benefits if the class were certified was deemed to be a suffi-
+cient, continuing “personal stake”, although the value of this interest was at best
+speculative. Compare Genesis Healthcare Corp. v. Symczyk, 569 U.S. ___, No. 11–
+1059, slip op. (2013).
+      575 The named plaintiff must still satisfy the class action requirement of ad-
+
+equacy of representation. United States Parole Comm’n v. Geraghty, 445 U.S. 388,
+405–407 (1980). On the implications of Geraghty, which the Court has not returned
+to, see Hart & Wechsler (6th ed.), supra at 194–198.
+      576 Geraghty, 445 U.S. at 404 & n.11; see also 445 U.S. at 419–24 (Justice Pow-
+
+ell dissenting).
+      577 569 U.S. ___, No. 11–1059, slip op. (2013).
+      578 In Genesis Healthcare Corp., the plaintiff sought damages under a provision
+
+of the Fair Labor Standards Act that authorized her to file on behalf of herself and
+“other employees similarly situated.” The plaintiff ’s individual claim was assumed
+to have been made moot by the defendant’s subsequent offer of a full settlement to
+her, with the consequence, according to the five-Justice majority, that plaintiff’s collective-
+action allegations no longer were justiciable in the absence of additional claimants
+opting in. Unlike a class in a class action, the catch-all of “other employees simi-
+larly situated” has no independent legal status under a collective-action suit apart
+from those filing written consent with the court.

@@ -1,0 +1,51 @@
+level of materiality by classifying the situation under which the ex-
+culpating information was withheld. Second, it was not clear, if the
+fairness of the trial was at issue, why the circumstances of the fail-
+ure to disclose should affect the evaluation of the impact that such
+information would have had on the trial. Ultimately, the Court ad-
+dressed these issues in United States v. Bagley 1097.
+     In Bagley, the Court established a uniform test for materiality,
+choosing the most stringent requirement that evidence is material
+if there is a reasonable probability that, had the evidence been dis-
+closed to the defense, the outcome of the proceeding would have been
+different.1098 This materiality standard, found in contexts outside
+of Brady inquiries,1099 is applied not only to exculpatory material,
+but also to material that would be relevant to the impeachment of
+witnesses.1100 Thus, where inconsistent earlier statements by a wit-
+ness to an abduction were not disclosed, the Court weighed the spe-
+cific effect that impeachment of the witness would have had on es-
+tablishing the required elements of the crime and of the punishment,
+finally concluding that there was no reasonable probability that the
+jury would have reached a different result.1101
+     The Supreme Court has also held that “Brady suppression oc-
+curs when the government fails to turn over even evidence that is
+‘known only to police investigators and not to the prosecutor.’ . . .
+‘[T]he individual prosecutor has a duty to learn of any favorable
+evidence known to others acting on the government’s behalf in the
+case, including the police.’ ” 1102
+    Proof, Burden of Proof, and Presumptions.—It had long been
+presumed that “reasonable doubt” was the proper standard for crimi-
+    1097  473 U.S. 667 (1985).
+    1098  473 U.S. at 682. Or, to phrase it differently, a Brady violation is established
+by showing that the favorable evidence could reasonably be taken to put the whole
+case in such a different light as to undermine confidence in the verdict. Kyles v.
+Whitley, 514 U.S. 419, 435 (1995). Accord Smith v. Cain, 565 U.S. ___, No. 10–8145,
+slip op. (2012) (prior inconsistent statements of sole eyewitness withheld from defen-
+dant; state lacked other evidence sufficient to sustain confidence in the verdict inde-
+pendently).
+     1099 See United States v. Malenzuela-Bernal, 458 U.S. 858 (1982) (testimony made
+
+unavailable by Government deportation of witnesses); Strickland v. Washington, 466
+U.S. 668 (1984) (incompetence of counsel).
+     1100 473 U.S. at 676–77.
+     1101 Strickler v. Greene, 527 U.S. 263 (1999). But see Banks v. Dretke, 540 U.S.
+
+668, 692–94 (2004) (failure of prosecution to correct perjured statement that wit-
+ness had not been coached and to disclose that separate witness was a paid govern-
+ment informant established prejudice for purposes of habeas corpus review); Smith
+v. Cain, 565 U.S. ___, No. 10–8145, slip op. (2012) (prior inconsistent statements of
+sole eyewitness withheld from defendant; state lacked other evidence sufficient to
+sustain confidence in the verdict independently).
+     1102 Youngblood v. West Virginia, 547 U.S. 867, 869–70 (2006) (per curiam), quot-
+
+ing Kyles v. Whitley, 514 U.S. 419, 438, 437 (1995).

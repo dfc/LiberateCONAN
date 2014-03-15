@@ -1,0 +1,59 @@
+and that he cannot raise those claims again in a habeas peti-
+tion.1368 Grounded as it is in the Court’s dissatisfaction with the
+exclusionary rule, the case has not since been extended to other con-
+stitutional grounds,1369 but the rationale of the opinion suggests the
+likelihood of reaching other exclusion questions.1370
+    Second, the Court has formulated a “new rule” exception to ha-
+beas cognizance. That is, subject to two exceptions,1371 a case de-
+cided after a petitioner’s conviction and sentence became final may
+not be the predicate for federal habeas relief if the case announces
+or applies a “new rule.” 1372 A decision announces a new rule “if the
+result was not dictated by precedent existing at the time the defen-
+dant’s conviction became final.” 1373 If a rule “was susceptible to de-
+bate among reasonable minds,” it could not have been dictated by
+precedent, and therefore it must be classified as a “new rule.” 1374
+    Third, the Court has largely maintained the standards of Townsend
+v. Sain, as embodied in somewhat modified form in statute, with
+respect to when federal judges must conduct an evidentiary hear-
+     1368 Stone v. Powell, 428 U.S. 465 (1976). The decision is based as much on the
+
+Court’s dissatisfaction with the exclusionary rule as with its desire to curb habeas.
+Holding that the purpose of the exclusionary rule is to deter unconstitutional searches
+and seizures rather than to redress individual injuries, the Court reasoned that no
+deterrent purpose was advanced by applying the rule on habeas, except to encour-
+age state courts to give claimants a full and fair hearing. Id. at 493–95.
+     1369 Stone does not apply to a Sixth Amendment claim of ineffective assistance
+
+of counsel in litigating a search and seizure claim. Kimmelman v. Morrison, 477 U.S.
+365, 382–383 (1986). See also Rose v. Mitchell, 443 U.S. 545 (1979) (racial discrimi-
+nation in selection of grand jury foreman); Jackson v. Virginia, 443 U.S. 307 (1979)
+(insufficient evidence to satisfy reasonable doubt standard).
+     1370 Issues of admissibility of confessions (Miranda violations) and eyewitness
+
+identifications are obvious candidates. See, e.g., Duckworth v. Eagan, 492 U.S. 195,
+205 (1989) (Justice O’Connor concurring); Brewer v. Williams, 430 U.S. 387, 413–14
+(1977) (Justice Powell concurring), and id. at 415 (Chief Justice Burger dissenting);
+Wainwright v. Sykes, 433 U.S. 72, 87 n.11 (1977) (reserving Miranda).
+     1371 The first exception permits the retroactive application on habeas of a new
+
+rule if the rule places a class of private conduct beyond the power of the state to
+proscribe or addresses a substantive categorical guarantee accorded by the Constitu-
+tion. The rule must, to say it differently, either decriminalize a class of conduct or
+prohibit the imposition of a particular punishment on a particular class of persons.
+The second exception would permit the application of “watershed rules of criminal
+procedure” implicating the fundamental fairness and accuracy of the criminal pro-
+ceeding. Saffle v. Parks, 494 U.S. 484, 494–95 (1990) (citing cases); Sawyer v. Smith,
+497 U.S. 227, 241–45 (1990).
+     1372 Teague v. Lane, 489 U.S. 288 (1989) (plurality opinion); Penry v. Lynaugh,
+
+492 U.S. 302, 313–19 (1989).
+     1373 Butler v. McKellar, 494 U.S. 407, 412 (1990) (quoting Penry v. Lynaugh,
+
+492 U.S. 302, 314 (1989), which was quoting Teague v. Lane, 489 U.S. 288, 314 (1989).
+This sentence was quoted again in Whorton v. Bockting, 549 U.S. 406, 416 (2007)).
+     1374 494 U.S. at 415. See also Stringer v. Black, 503 U.S. 222, 228–29 (1992).
+
+This latter case found that two decisions relied on by petitioner merely drew on ex-
+isting precedent and so did not establish a new rule. See also O’Dell v. Netherland,
+521 U.S. 151 (1997); Lambrix v. Singletary, 520 U.S. 518 (1997); Gray v. Netherland,
+518 U.S. 152 (1996). But compare Bousley v. Brooks, 523 U.S. 614 (1998).

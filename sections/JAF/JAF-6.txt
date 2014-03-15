@@ -1,0 +1,53 @@
+for the offense under inquiry 8 and the commission of perjury by a
+witness before the grand jury is punishable, irrespective of the na-
+ture of the warning given him when he appears and regardless of
+the fact that he may already be a putative defendant when he is
+called.9
+    Of greater significance were two cases in which the Court held
+the Fourth Amendment to be inapplicable to grand jury subpoenas
+requiring named parties to give voice exemplars and handwriting
+samples to the grand jury for identification purposes.10 According
+to the Court, the issue turned on a dual inquiry—“whether either
+the initial compulsion of the person to appear before the grand jury,
+or the subsequent directive to make a voice recording is an unrea-
+sonable ‘seizure’ within the meaning of the Fourth Amendment.” 11
+First, a subpoena to appear was held not to be a seizure, because
+it entailed significantly less social and personal affront than did an
+arrest or an investigative stop, and because every citizen has an
+obligation, which may be onerous at times, to appear and give what-
+ever aid he may to a grand jury.12 Second, the directive to make a
+voice recording or to produce handwriting samples did not bring the
+Fourth Amendment into play because no one has any expectation
+of privacy in the characteristics of either his voice or his handwrit-
+ing.13 Because the Fourth Amendment was inapplicable, there was
+no necessity for the government to make a preliminary showing of
+the reasonableness of the grand jury requests.
+
+     8 United States v. Washington, 431 U.S. 181 (1977). Because defendant when
+
+he appeared before the grand jury was warned of his rights to decline to answer
+questions on the basis of self-incrimination, the decision was framed in terms of those
+warnings, but the Court twice noted that it had not decided, and was not deciding,
+“whether any Fifth Amendment warnings whatever are constitutionally required for
+grand jury witnesses . . . .” Id. at 186.
+     9 United States v. Mandujano, 425 U.S. 564 (1976); United States v. Wong, 431
+
+U.S. 174 (1977). Mandujano had been told of his right to assert the privilege against
+self-incrimination, of the consequences of perjury, and of his right to counsel, but
+not to have counsel with him in the jury room. Chief Justice Burger and Justices
+White, Powell, and Rehnquist took the position that no Miranda warning was re-
+quired because there was no police custodial interrogation and that in any event
+commission of perjury was not excusable on the basis of lack of any warning. Jus-
+tices Brennan, Marshall, Stewart, and Blackmun agreed that whatever rights a grand
+jury witness had, perjury was punishable and not to be excused. Id. at 584, 609.
+Wong was assumed on appeal not to have understood the warnings given her and
+the opinion proceeds on the premise that absence of warnings altogether does not
+preclude a perjury prosecution.
+     10 United States v. Dionisio, 410 U.S. 1 (1973); United States v. Mara, 410 U.S.
+
+19 (1973).
+     11 Dionisio, 410 U.S. at 9.
+     12 410 U.S. at 9–13.
+     13 410 U.S. at 13–15. The privacy rationale proceeds from Katz v. United States,
+
+389 U.S. 347 (1967).

@@ -1,0 +1,51 @@
+sure” and that, according to a study, a strip search can “result in
+serious emotional damage,” the Court found that the search vio-
+lated the Fourth Amendment.333 “Because there were no reasons to
+suspect the drugs presented a danger or were concealed in her un-
+derwear,” the Court wrote, “the content of the suspicion failed to
+match the degree of intrusion.” 334 But, even though the Court found
+that the search had violated the Fourth Amendment, it found that
+the school officials who conducted the search were protected from
+liability through qualified immunity, because the law prior to Red-
+ding was not clearly established.335
+     Government Workplace.—Similar principles apply to a public
+employer’s work-related search of its employees’ offices, desks, or
+file cabinets, except that in this context the Court distinguished
+searches conducted for law enforcement purposes. In O’Connor v.
+Ortega,336 a majority of Justices agreed, albeit on somewhat differ-
+ing rationales, that neither a warrant nor a probable cause require-
+ment should apply to employer searches “for noninvestigatory, work-
+related purposes, as well as for investigations of work-related
+misconduct.” 337 Four Justices would require a case-by-case inquiry
+into the reasonableness of such searches; 338 one would hold that
+such searches “do not violate the Fourth Amendment.” 339
+     In City of Ontario v. Quon,340 the Court bypassed adopting an
+approach for determining a government employee’s reasonable ex-
+pectation of privacy, an issue unresolved in O’Connor. Rather, the
+Quon Court followed the “special needs” holding in O’Connor and
+found that, even assuming a reasonable expectation of privacy, a
+city’s warrantless search of the transcripts of a police officer’s on-
+duty text messages on city equipment was reasonable because it
+was justified at its inception by noninvestigatory work-related pur-
+poses and was not excessively intrusive.341 A jury had found the
+purpose of the search to be to determine whether the city’s con-
+tract with its wireless service provider was adequate, and the Court
+    333  557 U.S. ___, No. 08–479, slip op. at 8.
+    334  557 U.S. ___, No. 08–479, slip op. at 1, 9. Justice Thomas dissented from the
+finding of a Fourth Amendment violation.
+     335 See “Alternatives to the Exclusionary Rule,” infra. Justices Stevens and Ginsburg
+
+dissented from the grant of qualified immunity.
+     336 480 U.S. 709 (1987).
+     337 480 U.S. at 725. Not at issue was whether there must be individualized sus-
+
+picion for investigations of work-related misconduct.
+     338 This position was stated in Justice O’Connor’s plurality opinion, joined by
+
+Chief Justice Rehnquist and by Justices White and Powell.
+     339 480 U.S. at 732 (Scalia, J., concurring in judgment).
+     340 560 U.S. ___, No. 08–1332, slip op. (2010).
+     341 In Quon, a police officer was dismissed after a review of the transcripts of
+
+his on-duty text messages revealed that a large majority of his texting was not re-
+lated to work, and some messages were sexually explicit.

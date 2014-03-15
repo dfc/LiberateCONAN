@@ -1,0 +1,54 @@
+solely on the basis of federal incorporation in 1882,789 deprived rail-
+roads holding federal charters of this right in 1915,790 and finally
+in 1925 removed from federal jurisdiction all suits brought by fed-
+erally chartered corporations on the sole basis of such incorpora-
+tion, except where the United States holds at least half of the stock.791
+     Federal Questions Resulting from Special Jurisdictional
+Grants.—In the Labor-Management Relations Act of 1947, Con-
+gress authorized federal courts to entertain suits for violation of col-
+lective bargaining agreements without respect to the amount in con-
+troversy or the citizenship of the parties.792 Although it is likely that
+Congress meant no more than that labor unions could be suable in
+law or equity, in distinction from the usual rule, the Court con-
+strued the grant of jurisdiction to be more than procedural and to
+empower federal courts to apply substantive federal law, divined and
+fashioned from the policy of national labor laws, in such suits.793
+State courts are not disabled from hearing actions brought under
+the section,794 but they must apply federal law.795 Developments un-
+der this section illustrate the substantive importance of many juris-
+dictional grants and indicate how the workload of the federal courts
+may be increased by unexpected interpretations of such grants.796
+
+    789   § 4, 22 Stat. 162.
+    790   § 5, 38 Stat. 803.
+      791 See 28 U.S.C. § 1349.
+      792 § 301, 61 Stat. 156 (1947), 29 U.S.C. § 185.
+      793 Textile Workers of America v. Lincoln Mills, 353 U.S. 448 (1957). Earlier the
+
+Court had given the section a restricted reading in Association of Employees v.
+Westinghouse Electric Corp., 348 U.S. 437 (1955), at least in part because of consti-
+tutional doubts that § 301 cases in the absence of diversity of citizenship presented
+a federal question sufficient for federal jurisdiction. Id. at 449–52, 459–61 (opinion
+of Justice Frankfurter). In Lincoln Mills, the Court resolved this difficulty by ruling
+that federal law was at issue in § 301 suits and thus cases arising under § 301 pre-
+sented federal questions. 353 U.S. at 457. The particular holding of Westinghouse,
+that no jurisdiction exists under § 301 for suits to enforce personal rights of employ-
+ees claiming unpaid wages, was overturned in Smith v. Evening News Ass’n, 371
+U.S. 195 (1962).
+      794 Charles Dowd Box Co. v. Courtney, 368 U.S. 502 (1962).
+      795 Teamsters v. Lucas Flour Co., 369 U.S. 95 (1962). State law is not, however,
+
+to be totally disregarded. “State law, if compatible with the purpose of § 301, may
+be resorted to in order to find the rule that will best effectuate the federal policy
+. . . . Any state law applied, however, will be absorbed as federal law and will not
+be an independent source of private rights.” Textile Workers Union v. Lincoln Mills,
+353 U.S. 448, 457 (1957).
+      796 For example, when federal regulatory statutes create new duties without ex-
+
+plicitly creating private federal remedies for their violation, the readiness or unreadi-
+ness of the federal courts to infer private causes of action is highly significant. Al-
+though inference is an acceptable means of judicial enforcement of statutes, e.g., Texas
+& Pacific Ry. v. Rigsby, 241 U.S. 33 (1916), the Court began broadly to construe
+statutes to infer private actions only with J. I. Case Co. v. Borak, 377 U.S. 426 (1964).
+See Cort v. Ash, 422 U.S. 66 (1975). More recently, influenced by a separation of
+powers critique of implication by Justice Powell, the Court drew back and asserted

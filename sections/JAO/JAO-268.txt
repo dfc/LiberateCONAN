@@ -1,0 +1,57 @@
+     In Washington v. Davis, the Court held that is necessary that
+one claiming harm based on the disparate or disproportionate im-
+pact of a facially neutral law prove intent or motive to discrimi-
+nate.1440 For a time, in reliance upon a prior Supreme Court deci-
+sion that had seemed to eschew motive or intent and to pinpoint
+effect as the key to a constitutional violation, lower courts had ques-
+tioned this proposition.1441 Further, the Court had considered vari-
+ous civil rights statutes which provided that when employment prac-
+tices are challenged for disqualifying a disproportionate numbers
+of blacks, discriminatory purpose need not be proved and that dem-
+onstrating a rational basis for the challenged practices was not a
+sufficient defense.1442 Thus, the lower federal courts developed a con-
+stitutional “disproportionate impact” analysis under which, absent
+some justification going substantially beyond what would be neces-
+sary to validate most other classifications, a violation could be es-
+tablished without regard to discriminatory purpose by showing that
+a statute or practice adversely affected a class.1443 These cases were
+
+     1440 426 U.S. 229, 242 (1976) (“[A] law, neutral on its face and serving ends
+
+otherwise within the power of government to pursue, is not invalid under the Equal
+Protection Clause simply because it may affect a greater proportion of one race than
+of another.”) A classification having a differential impact, absent a showing of dis-
+criminatory purpose, is subject to review under the lenient, rationality standard. Id.
+at 247–48; Rogers v. Lodge, 458 U.S. 613, 617 n.5 (1982). The Court has applied the
+same standard to a claim of selective prosecution allegedly penalizing exercise of
+First Amendment rights. Wayte v. United States, 470 U.S. 598 (1985) (no discrimi-
+natory purpose shown). See also Bazemore v. Friday, 478 U.S. 385 (1986) (existence
+of single-race, state-sponsored 4–H Clubs is permissible, given wholly voluntary na-
+ture of membership).
+     1441 The principal case was Palmer v. Thompson, 403 U.S. 217 (1971), in which
+
+a 5-to-4 majority refused to order a city to reopen its swimming pools closed alleg-
+edly to avoid complying with a court order to desegregate them. The majority opin-
+ion strongly warned against voiding governmental action upon an assessment of of-
+ficial motive, id. at 224–26, but it also drew the conclusion (and the Davis Court
+read it as actually deciding) that, because the pools were closed for both whites and
+blacks, there was no discrimination. The city’s avowed reason for closing the pools—to
+avoid violence and economic loss—could not be impeached by allegations of a racial
+motive. See also Wright v. Council of City of Emporia, 407 U.S. 451 (1972).
+     1442 Griggs v. Duke Power Co., 401 U.S. 424 (1971); Albemarle Paper Co. v. Moody,
+
+422 U.S. 405 (1975). The Davis Court adhered to this reading of Title VII, merely
+refusing to import the statutory standard into the constitutional standard. Washing-
+ton v. Davis, 426 U.S. 229, 238–39, 246–48 (1976). Subsequent cases involving gen-
+der discrimination raised the question of the vitality of Griggs, General Electric Co.
+v. Gilbert, 429 U.S. 125 (1976); Nashville Gas Co. v. Satty, 434 U.S. 136 (1977), but
+the disagreement among the Justices appears to be whether Griggs applies to each
+section of the antidiscrimination provision of Title VII. See Dothard v. Rawlinson,
+433 U.S. 321 (1977); Furnco Const. Co. v. Waters, 438 U.S. 567 (1978). But see Gen-
+eral Building Contractors Ass’n v. Pennsylvania, 458 U.S. 375 (1982) (unlike Title
+VII, under 42 U.S.C. § 1981, derived from the Civil Rights Act of 1866, proof of dis-
+criminatory intent is required).
+     1443 See Washington v. Davis, 426 U.S. 229, 244 n.12 (1976) (listing and disap-
+
+proving cases). Cases that the Court did not cite include those in which the Fifth
+Circuit wrestled with the distinction between de facto and de jure segregation. In

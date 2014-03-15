@@ -1,0 +1,48 @@
+    Dewey was distinguished from Barlow’s in several ways. First,
+Dewey involved a single industry, unlike the broad coverage in
+Barlow’s. Second, the OSHA statute gave minimal direction to in-
+spectors as to time, scope, and frequency of inspections, while FMSHA
+specified a regular number of inspections pursuant to standards.
+Third, deference was due Congress’s determination that unan-
+nounced inspections were necessary if the safety laws were to be
+effectively enforced. Fourth, FMSHA provided businesses the oppor-
+tunity to contest the search by resisting in the civil proceeding the
+Secretary had to bring if consent was denied.91 The standard of a
+long tradition of government supervision permitting warrantless in-
+spections was dispensed with, because it would lead to “absurd re-
+sults,” in that new and emerging industries posing great hazards
+would escape regulation.92 Dewey suggests, therefore, that warrant-
+less inspections of commercial establishments are permissible so long
+as the legislature carefully drafts its statute.
+    Dewey was applied in New York v. Burger 93 to inspection of au-
+tomobile junkyards and vehicle dismantling operations, a situation
+where there is considerable overlap between administrative and pe-
+nal objectives. Applying the Dewey three-part test, the Court con-
+cluded that New York has a substantial interest in stemming the
+tide of automobile thefts, that regulation of vehicle dismantling rea-
+sonably serves that interest, and that statutory safeguards pro-
+vided adequate substitute for a warrant requirement. The Court re-
+jected the suggestion that the warrantless inspection provisions were
+designed as an expedient means of enforcing the penal laws, and
+instead saw narrower, valid regulatory purposes to be served, such
+as establishing a system for tracking stolen automobiles and parts,
+and enhancing the ability of legitimate businesses to compete. “[A]
+State can address a major social problem both by way of an admin-
+istrative scheme and through penal sanctions,” the Court declared;
+in such circumstances warrantless administrative searches are per-
+missible in spite of the fact that evidence of criminal activity may
+well be uncovered in the process.94
+     91 452 U.S. at 596–97, 604–05. Pursuant to the statute, however, the Secretary
+
+has promulgated regulations providing for the assessment of civil penalties for de-
+nial of entry and Dewey had been assessed a penalty of $1,000. Id. at 597 n.3. It
+was also true in Barlow’s that the government resorted to civil process upon refusal
+to admit. 436 U.S. at 317 & n.12.
+     92 Donovan v. Dewey, 452 U.S. 594, 606 (1981). Duration of regulation will now
+
+be a factor in assessing the legitimate expectation of privacy of a business. Id. Ac-
+cord, New York v. Burger, 482 U.S. 691 (1987) (although duration of regulation of
+vehicle dismantling was relatively brief, history of regulation of junk business gen-
+erally was lengthy, and current regulation of dismantling was extensive).
+     93 482 U.S. 691 (1987).
+     94 482 U.S. at 712 (emphasis in original).

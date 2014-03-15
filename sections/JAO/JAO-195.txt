@@ -1,0 +1,51 @@
+duct.1045 Where conduct is not in and of itself blameworthy, how-
+ever, a criminal statute may not impose a legal duty without no-
+tice.1046
+    The question of notice has also arisen in the context of “judge-
+made” law. Although the Ex Post Facto Clause forbids retroactive
+application of state and federal criminal laws, no such explicit re-
+striction applies to the courts. Thus, when a state court abrogated
+the common law rule that a victim must die within a “year and a
+day” in order for homicide charges to be brought in Rogers v. Ten-
+nessee,1047 the question arose whether such rule could be applied to
+acts occurring before the court’s decision. The dissent argued vigor-
+ously that unlike the traditional common law practice of adapting
+legal principles to fit new fact situations, the court’s decision was
+an outright reversal of existing law. Under this reasoning, the new
+“law” could not be applied retrospectively. The majority held, how-
+ever, that only those holdings which were “unexpected and indefen-
+sible by reference to the law which had been express prior to the
+conduct in issue” 1048 could not be applied retroactively. The rela-
+tively archaic nature of “year and a day rule”, its abandonment by
+most jurisdictions, and its inapplicability to modern times were all
+cited as reasons that the defendant had fair warning of the pos-
+sible abrogation of the common law rule.
+    Entrapment.—Certain criminal offenses, because they are con-
+sensual actions taken between and among willing parties, present
+police with difficult investigative problems.1049 Thus, in order to de-
+ter such criminal behavior, police agents may “encourage” persons
+to engage in criminal behavior, such as selling narcotics or contra-
+     1045 E.g., Boyce Motor Lines v. United States, 342 U.S. 337 (1952); Colautti v.
+
+Franklin, 439 U.S. 379, 395 (1979). Cf. Screws v. United States, 325 U.S. 91, 101–03
+(1945) (plurality opinion). The Court have even done so when the statute did not
+explicitly include such a mens rea requirement. E.g., Morissette v. United States,
+342 U.S. 246 (1952).
+     1046 See, e.g., Lambert v. California, 355 U.S. 225 (1957) (invalidating a munici-
+
+pal code that made it a crime for anyone who had ever been convicted of a felony to
+remain in the city for more than five days without registering.). In Lambert, the
+Court emphasized that the act of being in the city was not itself blameworthy, hold-
+ing that the failure to register was quite “unlike the commission of acts, or the fail-
+ure to act under circumstances that should alert the doer to the consequences of his
+deed.” “Where a person did not know of the duty to register and where there was no
+proof of the probability of such knowledge, he may not be convicted consistently with
+due process. Were it otherwise, the evil would be as great as it is when the law is
+written in print too fine to read or in a language foreign to the community.” Id. at
+228, 229–30.
+     1047 532 U.S. 451 (2001).
+     1048 Bouie v. City of Columbia, 378 U.S. 347, 354 (1964).
+     1049 Some of that difficulty may be alleviated through electronic and other sur-
+
+veillance, which is covered by the search and seizure provisions of the Fourth Amend-
+ment, or informers may be used, which also has constitutional implications.

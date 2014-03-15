@@ -1,0 +1,49 @@
+the legal significance of how he reacted, are subject to open review.
+“No more restricted scope of review would suffice adequately to pro-
+tect federal constitutional rights. For the mental state of involun-
+tariness upon which the due process question turns can never be
+affirmatively established other than circumstantially—that is, by in-
+ference; and it cannot be competent to the trier of fact to preclude
+our review simply be declining to draw inferences which the histori-
+cal facts compel. Great weight, of course, is to be accorded to the
+inferences which are drawn by the state courts. In a dubious case,
+it is appropriate . . . that the state court’s determination should con-
+trol. But where, on the uncontested external happenings, coercive
+forces set in motion by state law enforcement officials are unmistak-
+ably in action; where these forces, under all the prevailing states
+of stress, are powerful enough to draw forth a confession; where, in
+fact, the confession does come forth and is claimed by the defen-
+dant to have been extorted from him; and where he has acted as a
+man would act who is subjected to such an extracting process—
+where this is all that appears in the record—a State judgment that
+the confession was voluntary cannot stand.” 402 Miranda, of course,
+does away with the judgments about the effect of lack of warnings,
+and the third phase, the legal determination of the interaction of
+the first two phases, is determined solely by two factual determina-
+tions: whether the warnings were given and if so whether there was
+a valid waiver. Presumably, supported determinations of these two
+facts by trial courts would preclude independent review by the Su-
+preme Court. Yet, the Court has been clear that it may and will
+independently review the facts when the factfinding has such a sub-
+stantial effect on constitutional rights.403
+    In Withrow v. Williams,404 the Court held that the rule of Stone
+v. Powell,405 precluding federal habeas corpus review of a state pris-
+oner’s claim that his conviction rests on evidence obtained through
+an unconstitutional search or seizure, does not extend to preclude
+federal habeas review of a state prisoner’s claim that his conviction
+rests on statements obtained in violation of the safeguards man-
+dated by Miranda.
+
+     402 Culombe v. Connecticut, 367 U.S. 568, 605 (1961). See Watts v. Indiana, 338
+
+U.S. 49, 51 (1949); Malinski v. New York, 324 U.S. 401, 404, 417 (1945).
+     403 “In cases in which there is a claim of denial of rights under the Federal Con-
+
+stitution this Court is not bound by the conclusions of lower courts, but will re-
+examine the evidentiary basis on which those conclusions are founded.” Niemotko v.
+Maryland, 340 U.S. 268, 271 (1951); Time, Inc. v. Pape, 401 U.S. 279, 284 (1971),
+and cases cited therein.
+     404 507 U.S. 680 (1993).
+     405 428 U.S. 465 (1976). See discussion of Stone v. Powell under the Fourth Amend-
+
+ment, infra.

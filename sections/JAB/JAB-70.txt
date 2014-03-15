@@ -1,0 +1,52 @@
+Moreover, it said, RFRA “reflects a lack of proportionality or congru-
+ence between the means adopted and the legitimate end to be achieved
+. . . [and] is a considerable congressional intrusion into the States’
+traditional prerogatives and general authority to regulate for the
+health and welfare of their citizens.” 347 “RFRA,” the Court con-
+cluded, “contradicts vital principles necessary to maintain separa-
+tion of powers and the federal balance.” 348
+    Boerne did not close the books on Smith, however, or even on
+RFRA. Although Boerne held that RFRA was not a valid exercise of
+Fourteenth Amendment enforcement power as applied to restrict states,
+it remained an open issue whether RFRA may be applied to the
+Federal Government, and whether its requirements could be im-
+posed pursuant to other powers. Several lower courts answered these
+questions affirmatively,349 and the Supreme Court has applied RFRA
+to the Federal Government without addressing any constitutional
+questions.350
+    Congress responded to Boerne by enacting a new law purport-
+ing to rest on its commerce and spending powers. The Religious Land
+Use and Institutionalized Persons Act (RLUIPA) 351 imposes the same
+strict scrutiny test struck down in Boerne but limits its application
+to certain land use regulations and to religious exercise by persons
+in state institutions.352 In Cutter v. Wilkinson,353 the Court upheld
+RLUIPA’s prisoner provision against a facial challenge under the
+Establishment Clause, but it did not rule on congressional power
+to enact RLUIPA. The Court held that RLUIPA “does not, on its
+face, exceed the limits of permissible government accommodation
+
+    347  521 U.S. at 533–34.
+    348  521 U.S. at 536.
+     349 See, e.g., In re Young, 141 F.3d 854 (8th Cir. 1998), cert. denied, 525 U.S. 811
+
+(1998) (RFRA is a valid exercise of Congress’s bankruptcy powers as applied to insu-
+late a debtor’s church tithes from recovery by the bankruptcy trustee); O’Bryan v.
+Bureau of Prisons, 349 F.3d 399 (7th Cir. 2003) (RFRA may be applied to require
+the Bureau of Prisons to accommodate religious exercise by prisoners); Kikumura v.
+Hurley, 242 F.3d 950 (10th Cir. 2001) (RFRA applies to Bureau of Prisons).
+     350 Gonzales v. O Centro Espirita Beneficente Uniao Do Vegetal, 546 U.S. 418
+
+(2006) (affirming preliminary injunction issued under RFRA against enforcement of
+the Controlled Substances Act to prevent the drinking of a sacramental tea that
+contains a hallucinogen regulated under the Act).
+     351 Pub. L. 106–274, 114 Stat. 804 (2000); 42 U.S.C. §§ 2000cc et seq.
+     352 The Act requires that state and local zoning and landmark laws and regula-
+
+tions which impose a substantial burden on an individual’s or institution’s exercise
+of religion be measured by a strict scrutiny test, and applies the same strict scru-
+tiny test for any substantial burdens imposed on the exercise of religion by persons
+institutionalized in state or locally run prisons, mental hospitals, juvenile detention
+facilities, and nursing homes. Both provisions apply if the burden is imposed in a
+program that receives federal financial assistance, or if the burden or its removal
+would affect commerce.
+     353 544 U.S. 709 (2005).

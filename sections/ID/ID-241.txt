@@ -1,0 +1,50 @@
+    Habeas Corpus: Scope of the Writ.—At the English common
+law, habeas corpus was available to attack pretrial detention and
+confinement by executive order; it could not be used to question the
+conviction of a person pursuant to the judgment of a court with ju-
+risdiction over the person. That common law meaning was applied
+in the federal courts.1344 Expansion began after the Civil War through
+more liberal court interpretation of “jurisdiction.” Thus, one who had
+already completed one sentence on a conviction was released from
+custody on a second sentence on the ground that the court had lost
+jurisdiction upon completion of the first sentence.1345 Then, the Court
+held that the constitutionality of the statute upon which a charge
+was based could be examined on habeas, because an unconstitu-
+tional statute was said to deprive the trial court of its jurisdic-
+tion. 1346 Other cases expanded the want-of-jurisdiction ratio-
+nale.1347 But the modern status of the writ of habeas corpus may
+be said to have been started in its development in Frank v.
+Mangum,1348 in which the Court reviewed on habeas a murder con-
+viction in a trial in which there was substantial evidence of mob
+domination of the judicial process. This issue had been considered
+and rejected by the state appeals court. The Supreme Court indi-
+cated that, though it might initially have had jurisdiction, the trial
+court could have lost it if mob domination rendered the proceed-
+ings lacking in due process.
+    Further, in order to determine if there had been a denial of due
+process, a habeas court should examine the totality of the process,
+including the appellate proceedings. Because Frank’s claim of mob
+domination was reviewed fully and rejected by the state appellate
+court, he had been afforded an adequate corrective process for any
+denial of rights, and his custody did not violate the Constitution.
+
+     1344 Ex parte Watkins, 28 U.S. (3 Pet.) 193 (1830) (Chief Justice Marshall); cf.
+
+Ex parte Parks, 93 U.S. 18 (1876). But see Fay v. Noia, 372 U.S. 391, 404–415 (1963).
+The expansive language used when Congress in 1867 extended the habeas power of
+federal courts to state prisoners “restrained of . . . liberty in violation of the consti-
+tution, or of any treaty or law of the United States . . . ,” 14 Stat. 385, could have
+encouraged an expansion of the writ to persons convicted after trial.
+     1345 Ex parte Lange, 85 U.S. (18 Wall.) 163 (1874).
+     1346 Ex parte Siebold, 100 U.S. 371 (1880); Ex parte Royall, 117 U.S. 241 (1886);
+
+Crowley v. Christensen, 137 U.S. 86 (1890); Yick Wo v. Hopkins, 118 U.S. 356 (1886).
+     1347 Ex parte Wilson, 114 U.S. 417 (1885); In re Nielsen, 131 U.S. 176 (1889); In
+
+re Snow, 120 U.S. 274 (1887); but see Ex parte Parks, 93 U.S. 18 (1876); Ex parte
+Bigelow, 113 U.S. 328 (1885). It is possible that the Court expanded the office of the
+writ because its reviewing power over federal convictions was closely limited. F. Frank-
+furter & J. Landis, supra. Once such review was granted, the Court began to re-
+strict the use of the writ. E.g., Glasgow v. Moyer, 225 U.S. 420 (1912); In re Lincoln,
+202 U.S. 178 (1906); In re Morgan, 203 U.S. 96 (1906).
+     1348 237 U.S. 309 (1915).

@@ -1,0 +1,54 @@
+all.1108 The holding of the Winship case, however, left open the ques-
+tion as to whether appellate courts should weigh the sufficiency of
+trial evidence. Thus, in Jackson v. Virginia,1109 the Court held that
+federal courts, on direct appeal of federal convictions or collateral
+review of state convictions, must satisfy themselves that the evi-
+dence on the record could reasonably support a finding of guilt be-
+yond a reasonable doubt. The question the reviewing court is to ask
+itself is not whether it believes the evidence at the trial estab-
+lished guilt beyond a reasonable doubt, but whether, after viewing
+the evidence in the light most favorable to the prosecution, any ra-
+tional trier of fact could have found the essential elements of the
+crime beyond a reasonable doubt.1110
+     Because due process requires the prosecution to prove beyond
+a reasonable doubt every fact necessary to constitute the crime
+charged,1111 the Court held in Mullaney v. Wilbur 1112 that it was
+unconstitutional to require a defendant charged with murder to prove
+that he acted “in the heat of passion on sudden provocation” in or-
+der to reduce the homicide to manslaughter. The Court indicated
+that a balancing-of-interests test should be used to determine when
+the Due Process Clause required the prosecution to carry the bur-
+den of proof and when some part of the burden might be shifted to
+the defendant. The decision, however, called into question the prac-
+tice in many states under which some burdens of persuasion 1113 were
+borne by the defense, and raised the prospect that the prosecution
+must bear all burdens of persuasion—a significant and weighty task
+given the large numbers of affirmative defenses.
+
+     1108 Thompson v. City of Louisville, 362 U.S. 199 (1960); Garner v. Louisiana,
+
+368 U.S. 157 (1961); Taylor v. Louisiana, 370 U.S. 154 (1962); Barr v. City of Colum-
+bia, 378 U.S. 146 (1964); Johnson v. Florida, 391 U.S. 596 (1968). See also Chess-
+man v. Teets, 354 U.S. 156 (1957).
+     1109 443 U.S. 307 (1979).
+     1110 443 U.S. at 3116, 318–19. On a somewhat related point, the Court has ruled
+
+that a general guilty verdict on a multiple-object conspiracy need not be set aside if
+the evidence is inadequate to support conviction as to one of the objects of the con-
+spiracy, but is adequate to support conviction as to another. Griffin v. United States,
+112 U.S. 466 (1991).
+     1111 Bunkley v. Florida, 538 U.S. 835 (2003); Fiore v. White, 528 U.S. 23 (1999).
+
+These cases both involved defendants convicted under state statutes that were sub-
+sequently interpreted in a way that would have precluded their conviction. The Court
+remanded the cases to determine if the new interpretation was in effect at the time
+of the previous convictions, in which case those convictions would violate due pro-
+cess.
+     1112 421 U.S. 684 (1975). See also Sandstrom v. Montana, 442 U.S. 510, 520–24
+
+(1979).
+     1113 The general notion of “burden of proof ” can be divided into the “burden of
+
+production” (providing probative evidence on a particular issue) and a “burden of
+persuasion” (persuading the factfinder with respect to an issue by a standard such
+as proof beyond a reasonable doubt). Mullaney, 421 U.S. at 695 n.20.

@@ -1,0 +1,40 @@
+STATE CONSTITUTIONAL AND STATUTORY PROVI-
+   SIONS AND MUNICIPAL ORDINANCES HELD UN-
+   CONSTITUTIONAL OR HELD TO BE PREEMPTED
+   BY FEDERAL LAW
+     Three separate lists of Supreme Court decisions appear below: part I
+lists cases holding state constitutional or statutory provisions unconstitu-
+tional, part II lists cases holding local laws unconstitutional, and part III
+lists cases holding that state or local laws are preempted by federal law.
+As Congress acted as the legislature for the District of Columbia until
+passage of the Home Rule Act on December 24, 1973, District of Columbia
+statutes that were enacted by Congress are treated as federal statutes
+(and included in a prior appendix), and District of Columbia statutes en-
+acted by the District of Columbia government are treated as state stat-
+utes.
+     Each case is briefly summarized, and the votes of Justices are indi-
+cated unless the Court’s decision was unanimous. Justices who write or
+join the majority or plurality opinion are listed under “Justices concur-
+ring”, whether or not they write separate concurring opinions, and Jus-
+tices who do not join the majority or plurality opinion, but write separate
+opinions concurring in the result, are listed under “Justices specially con-
+curring.”
+     Previous editions contained only two lists, one for cases holding state
+laws unconstitutional or preempted by federal law, and one for unconsti-
+tutional or preempted local laws. The 2002 edition added the third cat-
+egory because of the different nature of preemption cases. State or local
+laws held to be preempted by federal law are void not because they con-
+travene any provision of the Constitution, but rather because they conflict
+with a federal statute or treaty, and through operation of the Supremacy
+Clause. Preemption cases formerly listed in one of the first two categories
+have been moved to the third. A few cases with multiple holdings are
+listed in more than one category.
+
+          I. STATE LAWS HELD UNCONSTITUTIONAL
+1. United States v. Peters, 9 U.S. (5 Cr.) 115 (1809).
+          A Pennsylvania statute prohibiting the execution of any process
+      issued to enforce a certain sentence of a federal court, on the ground
+      that the federal court lacked jurisdiction in the cause, could not oust
+      the federal court of jurisdiction. A state statute purporting to annul
+      the judgment of a court of the United States and to destroy rights ac-
+      quired thereunder is without legal foundation.

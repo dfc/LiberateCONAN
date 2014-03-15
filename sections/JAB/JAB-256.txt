@@ -1,0 +1,49 @@
+In Reno v. American Civil Liberties Union,1348 the Court struck down
+two provisions of the Communications Decency Act of 1996 (CDA),
+one of which would have prohibited use of an “interactive computer
+service” to display indecent material “in a manner available to a
+person under 18 years of age.” 1349 This prohibition would, in effect,
+have banned indecent material from all Internet sites except those
+accessible by only by adults. Although intended “to deny minors ac-
+cess to potentially harmful speech . . . , [the CDA’s] burden on adult
+speech,” the Court wrote, “is unacceptable if less restrictive alterna-
+tives would be at least as effective . . . . [T]he Government may
+not ‘reduc[e] the adult population . . . to . . . only what is fit for
+children.’ ” 1350
+     In Reno, the Court distinguished FCC v. Pacifica Founda-
+tion,1351 in which it had upheld the FCC’s restrictions on indecent
+radio and television broadcasts, because (1) “[t]he CDA’s broad cat-
+egorical prohibitions are not limited to particular times and are not
+dependent on any evaluation by an agency familiar with the unique
+characteristics of the Internet,” (2) the CDA imposes criminal pen-
+alties, and the Court has never decided whether indecent broad-
+casts “would justify a criminal prosecution,” and (3) radio and tele-
+vision, unlike the Internet, have, “as a matter of history . . . ‘received
+the most limited First Amendment protection,’ . . . in large part be-
+cause warnings could not adequately protect the listener from un-
+expected program content. . . . [On the Internet], the risk of encoun-
+tering indecent material by accident is remote because a series of
+affirmative steps is required to access specific material.” 1352
+    After the Supreme Court struck down the CDA, Congress en-
+acted the Child Online Protection Act (COPA), which banned “ma-
+terial that is harmful to minors” on Web sites that have the objec-
+
+striction on speech.” The Court also would “not discount the possibility that a graphic
+image could have a negative impact on a young child” (id. at 826), thereby suggest-
+ing again that it may take age into account when applying strict scrutiny.
+     1348 521 U.S. 844 (1997).
+     1349 The other provision the Court struck down would have prohibited indecent
+
+communications, by telephone, fax, or e-mail, to minors.
+     1350 521 U.S. at 874–75. The Court did not address whether, if less restrictive
+
+alternatives would not be as effective, the government would then be permitted to
+reduce the adult population to only what is fit for children. Courts of appeals, how-
+ever, have written that “[t]he State may not regulate at all if it turns out that even
+the least restrictive means of regulation is still unreasonable when its limitations
+on freedom of speech are balanced against the benefits gained from those limita-
+tions.” ACLU v. Reno, 217 F.3d 162, 179 (3d Cir. 2000), vacated and remanded sub
+nom., Ashcroft v. ACLU, 535 U.S. 564 (2002); Carlin Communications, Inc. v. FCC,
+837 F.2d 546, 555 (2d Cir. 1988).
+     1351 438 U.S. 726 (1978).
+     1352 521 U.S. at 867.

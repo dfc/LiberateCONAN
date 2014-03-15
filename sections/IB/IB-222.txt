@@ -1,0 +1,51 @@
+the requirement of any “statement” relating to smoking health, other
+than what the federal law imposed, and the 1969 provision barred
+the imposition of any “requirement or prohibition based on smok-
+ing and health” by any “State law.” It was, thus, a fair question
+whether common-law claims, based on design defect, failure to warn,
+breach of express warranty, fraudulent misrepresentation, and con-
+spiracy to defraud, were preempted or whether only positive state
+enactments came within the scope of the clauses. Two groups of Jus-
+tices concluded that the 1965 section reached only positive state law
+and did not preempt common-law actions; 1173 different alignments
+of Justices concluded that the 1969 provisions did reach common-
+law claims, as well as positive enactments, and did preempt some
+of the claims insofar as they in fact constituted a requirement or
+prohibition based on smoking health.1174
+    Little clarification of the confusing Cipollone decision and opin-
+ions resulted in the cases following, although it does seem evident
+that the attempted distinction limiting courts to the particular lan-
+guage of preemption when Congress has spoken has not prevailed.
+At issue in Medtronic, Inc. v. Lohr 1175 was the Medical Device Amend-
+ments (MDA) of 1976, which prohibited states from adopting or con-
+tinuing in effect “with respect to a [medical] device” any “require-
+ment” that is “different from, or in addition to” the applicable federal
+requirement and that relates to the safety or effectiveness of the
+device.1176 The issue was whether a common-law tort obligation im-
+posed a “requirement” that was different from or in addition to any
+federal requirement. The device, a pacemaker lead, had come on
+the market not pursuant to the rigorous FDA test but rather as
+
+intend to go beyond that reach, so that field and conflict preemption will not be found.
+Id. at 517; and id. at 532–33 (Justice Blackmun concurring and dissenting). Both
+parts of this canon are departures from established law. Narrow construction when
+state police powers are involved has hitherto related to implied preemption, not ex-
+press preemption, and courts generally have applied ordinary-meaning construction
+to such statutory language; further, courts have not precluded the finding of conflict
+preemption, though perhaps field preemption, because of the existence of some ex-
+press preemptive language. See id. at 546–48 (Justice Scalia concurring and dissent-
+ing).
+     1173 505 U.S. at 518–19 (opinion of the court), 533–34 (Justice Blackmun concur-
+
+ring).
+     1174 505 U.S. at 520–30 (plurality opinion), 535–43 (Justice Blackmun concur-
+
+ring and dissenting), 548–50 (Justice Scalia concurring and dissenting).
+     1175 518 U.S. 470 (1996). See also CSX Transportation, Inc. v. Easterwood, 507
+
+U.S. 658 (1993) (under Federal Railroad Safety Act, a state common-law claim alleg-
+ing negligence for operating a train at excessive speed is preempted, but a second
+claim alleging negligence for failure to maintain adequate warning devices at a grade
+crossing is not preempted); Norfolk So. Ry. v. Shanklin, 529 U.S. 344 (2000) (apply-
+ing Easterwood).
+     1176 21 U.S.C. § 350k(a).

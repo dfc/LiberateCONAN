@@ -1,0 +1,45 @@
+ity of limited judicial review of the arbitrator’s findings and deter-
+mination for fraud, misconduct, or misrepresentation, and for due
+process violations, preserved the “ ‘appropriate exercise of the judi-
+cial function.’ ” 125 Thus, the Court concluded, Congress in exercise
+of Article I powers “may create a seemingly ‘private’ right that is
+so closely integrated into a public regulatory scheme as to be a mat-
+ter appropriate for agency resolution with limited involvement by
+the Article III judiciary.” 126
+     In Schor, the Court described Art. III, § 1 as serving a dual pur-
+pose: to protect the role of an independent judiciary and to safe-
+guard the right of litigants to have claims decided by judges free
+from potential domination by the other branches of government. A
+litigant’s Article III right is not absolute, the Court determined, but
+may be waived. This the litigant had done by submitting to the ad-
+ministrative law judge’s jurisdiction rather than independently seek-
+ing relief as he was entitled to and then objecting only after ad-
+verse rulings on the merits. But the institutional integrity claim,
+not being personal, could not be waived, and the Court reached the
+merits. The threat to institutional independence was “weighed” by
+reference to “a number of factors.” The conferral on the CFTC of
+pendent jurisdiction over common law counterclaims was seen as
+more narrowly confined than was the grant to bankruptcy courts
+at issue in Marathon, and as more closely resembling the “model”
+approved in Crowell v. Benson. The CFTC’s jurisdiction, unlike that
+of bankruptcy courts, was said to be confined to “a particularized
+area of the law;” the agency’s orders were enforceable only by order
+of a district court,127 and reviewable under a less deferential stan-
+dard, with legal rulings being subject to de novo review; and the
+agency was not empowered, as had been the bankruptcy courts, to
+exercise “all ordinary powers of district courts.”
+     Granfinanciera followed analysis different from that in Schor,
+although it preserved Union Carbide through its concept of “public
+rights.” State law and other legal claims founded on private rights
+could not be remitted to non-Article III tribunals for adjudication
+unless Congress, in creating an integrated public regulatory scheme,
+has so taken up the right as to transform it. It may not simply re-
+label a private right and place it into the regulatory scheme. The
+Court is hazy with respect to whether the right itself must be a
+    125    Thomas, 473 U.S. at 591, 592 (quoting Crowell v. Benson, 285 U.S. 22, 54
+(1932)).
+    126473 U.S. at 594.
+    127Cf. Union Carbide, 473 U.S. at 591 (fact that “FIFRA arbitration scheme in-
+corporates its own system of internal sanctions and relies only tangentially, if at all,
+on the Judicial Branch for enforcement” cited as lessening danger of encroachment
+on “Article III judicial powers”).

@@ -1,0 +1,51 @@
+Several Justices would have gone further and required a compul-
+sory joinder of all charges against a defendant growing out of a single
+criminal act, occurrence, episode, or transaction, except where a crime
+is not discovered until prosecution arising from the same transac-
+tion has begun or where the same jurisdiction does not have cogni-
+zance of all the crimes.170 But the Court has “steadfastly refused to
+adopt the ‘single transaction’ view of the Double Jeopardy Clause.” 171
+     Yeager v. United States,172 unlike Ashe, “entail[ed] a trial that
+included multiple counts rather than a trial for a single offense. And,
+while Ashe involved an acquittal for that single offense, this case
+[Yeager] involves an acquittal on some counts and a mistrial de-
+clared on others. The reasoning in Ashe is nevertheless controlling
+because, for double jeopardy purposes, the jury’s inability to reach
+a verdict on [some] counts was a nonevent and the acquittals on
+the [other] counts are entitled to the same effect as Ashe’s acquit-
+tal.” The lower court in Yeager had “reasoned that the hung counts
+must be considered to determine what issues the jury decided in
+the first trial. Viewed in isolation, the [lower] court explained, the
+acquittals . . . would preclude retrial because [of the facts that the
+jury would have had to have found in light of its acquittals]. Viewed
+alongside the hung counts, however, the acquittals appeared less
+decisive,” 173 because, if the jury had actually found the facts im-
+plied by its acquittals, then it would have acquitted on the hung
+counts as well. In other words, its having acquitted on some counts
+and not on others was logically inconsistent.174 The Supreme Court,
+however, found that nothing should be inferred from the failure to
+acquit on some counts, because “there is no way to decipher what a
+hung count represents. . . . A host of reasons—sharp disagree-
+ment, confusion about the issues, exhaustion after a long trial, to
+name but a few—could work alone or in tandem to cause a jury to
+
+     170 Ashe v. Swenson, 397 U.S. 436, 448 (1970) (Justices Brennan, Douglas, and
+
+Marshall concurring). Justices Brennan and Marshall adhered to their position in
+Brown v. Ohio, 432 U.S. 161, 170 (1977) (concurring); and Thompson v. Oklahoma,
+429 U.S. 1053 (1977) (dissenting from denial of certiorari).
+     171 Garrett v. United States, 471 U.S. 773, 790 (1985). Earlier, the approach had
+
+been rejected by Chief Justice Burger in Ashe v. Swenson, 397 U.S. 436, 468 (1970)
+(dissenting), by him and Justice Blackmun in Harris v. Washington, 404 U.S. 55, 57
+(1971) (dissenting), and, perhaps, by Justice Rehnquist in Turner v. Arkansas, 407
+U.S. 366, 368 (1972) (dissenting).
+     172 557 U.S. ___, No. 08–67, slip op. at 9 (2009).
+     173 557 U.S. ___, No. 08–67, slip op. at 9–10.
+     174 The Court drew an analogy between its finding that this logical inconsis-
+
+tency does not affect the preclusive force of the acquittals under the Double Jeop-
+ardy Clause, and Justice Holmes’ holding, in Dunn v. United States, 284 U.S. 390,
+393 (1932), “that a logical inconsistency between a guilty verdict and a verdict of
+acquittal does not impugn the validity of either verdict.” 557 U.S. ___, No. 08–67,
+slip op. at 1.

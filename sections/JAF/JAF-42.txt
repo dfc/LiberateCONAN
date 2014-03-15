@@ -1,0 +1,55 @@
+existence, custody, or authenticity of the documents, then the privi-
+lege is implicated.202 Application of these principles resulted in a
+holding that the Independent Counsel could not base a prosecution
+on incriminating evidence identified and produced as the result of
+compliance with a broad subpoena for all information relating to
+the individual’s income, employment, and professional relation-
+ships.203
+     The protection is against “compulsory” incrimination, and tradi-
+tionally the Court has treated within the clause only those compul-
+sions which arise from legally enforceable obligations, culminating
+in imprisonment for refusal to testify or to produce documents.204
+The compulsion need not be imprisonment, but can also be termi-
+nation of public employment 205 or disbarment of a lawyer 206 as a
+legal consequence of a refusal to make incriminating admissions.
+The degree of coercion may also prove decisive, the Court having
+ruled that moving a prisoner from a medium security unit to a maxi-
+mum security unit was insufficient to compel him to incriminate
+himself in spite of the attendant loss of privileges and the harsher
+living conditions.207 However, although it appears that prisoners 208
+
+     202 In United States v. Doe, 465 U.S. 605 (1984), the Court distinguished Fisher,
+
+upholding lower courts’ findings that the act of producing tax records implicates the
+privilege because it would compel admission that the records exist, that they were
+in the taxpayer’s possession, and that they are authentic. Similarly, a juvenile court’s
+order to produce a child implicates the privilege, because the act of compliance “would
+amount to testimony regarding [the subject’s] control over and possession of [the
+child].” Baltimore Dep’t of Social Services v. Bouknight, 493 U.S. 549, 555 (1990).
+     203 United States v. Hubbell, 530 U.S. 27 (2000).
+     204 E.g., Marchetti v. United States, 390 U.S. 39 (1968) (criminal penalties at-
+
+tached to failure to register and make incriminating admissions); Malloy v. Hogan,
+378 U.S. 1 (1964) (contempt citation on refusal to testify). See also South Dakota v.
+Neville, 459 U.S. 553 (1983) (no compulsion in introducing evidence of suspect’s re-
+fusal to submit to blood alcohol test, since state could have forced suspect to take
+test and need not have offered him a choice); Selective Service System v. Minnesota
+PIRG, 468 U.S. 841 (1984) (no coercion in requirement that applicants for federal
+financial assistance for higher education reveal whether they have registered for draft).
+     205 Garrity v. New Jersey, 385 U.S. 493 (1967); Gardner v. Broderick, 392 U.S.
+
+273 (1968); Uniformed Sanitation Men Ass’n v. Commissioner of Sanitation, 392 U.S.
+280 (1968). See also Lefkowitz v. Turley, 414 U.S. 70 (1973), holding unconstitu-
+tional state statutes requiring the disqualification for five years of contractors doing
+business with the state if at any time they refused to waive immunity and answer
+questions respecting their transactions with the state. The state may require employ-
+ees or contractors to respond to inquiries, but only if it offers them immunity suffi-
+cient to supplant the privilege against self-incrimination. See also Lefkowitz v. Cun-
+ningham, 431 U.S. 801 (1977).
+     206 Spevack v. Klein, 385 U.S. 511 (1967).
+     207 McKune v. Lile, 536 U.S. 24 (2002). The transfer was mandated for refusal
+
+to participate in a sexual abuse treatment program that required revelation of sexual
+history and admission of responsibility. The plurality declared that rehabilitation
+programs are permissible if the adverse consequences for non-participation are “re-
+lated to the program objectives and do not constitute atypical and significant hard-

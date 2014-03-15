@@ -1,0 +1,54 @@
+and the evidence to be sought.103 Although a warrant is issued ex
+parte, its validity may be contested in a subsequent suppression hear-
+ing if incriminating evidence is found and a prosecution is brought.104
+     Issuance by Neutral Magistrate.—In numerous cases, the Court
+has referred to the necessity that warrants be issued by a “judicial
+officer” or a “magistrate.” 105 “The point of the Fourth Amendment,
+which often is not grasped by zealous officers, is not that it denies
+law enforcement the support of the usual inferences which reason-
+able men draw from evidence. Its protection consists in requiring
+that those inferences be drawn by a neutral and detached magis-
+trate instead of being judged by the officer engaged in the often com-
+petitive enterprise of ferreting out crime. Any assumption that evi-
+dence sufficient to support a magistrate’s disinterested determination
+to issue a search warrant will justify the officers in making a search
+without a warrant would reduce the Amendment to a nullity and
+leave the people’s homes secure only in the discretion of police offi-
+cers.” 106 These cases do not mean that only a judge or an official
+who is a lawyer may issue warrants, but they do stand for two tests
+of the validity of the power of the issuing party to so act. “He must
+be neutral and detached, and he must be capable of determining
+whether probable cause exists for the requested arrest or search.” 107
+The first test cannot be met when the issuing party is himself en-
+gaged in law enforcement activities,108 but the Court has not re-
+quired that an issuing party have that independence of tenure and
+     103 Although the exceptions may be different for arrest warrants and search war-
+
+rants, the requirements for the issuance of the two are the same. Aguilar v. Texas,
+378 U.S. 108, 112 n.3 (1964). Also, the standards by which the validity of warrants
+are to be judged are the same, whether federal or state officers are involved. Ker v.
+California, 374 U.S. 23 (1963).
+     104 Most often, in the suppression hearings, the defendant will challenge the suf-
+
+ficiency of the evidence presented to the magistrate to constitute probable cause.
+Spinelli v. United States, 393 U.S. 410 (1969); United States v. Harris, 403 U.S. 573
+(1971). He may challenge the veracity of the statements used by the police to pro-
+cure the warrant and otherwise contest the accuracy of the allegations going to es-
+tablish probable cause, but the Court has carefully hedged his ability to do so. Franks
+v. Delaware, 438 U.S. 154 (1978). He may also question the power of the official
+issuing the warrant, Coolidge v. New Hampshire, 403 U.S. 443, 449–53 (1971), or
+the specificity of the particularity required. Marron v. United States, 275 U.S. 192
+(1927).
+     105 United States v. Lefkowitz, 285 U.S. 452, 464 (1932); Giordenello v. United
+
+States, 357 U.S. 480, 486 (1958); Jones v. United States, 362 U.S. 257, 270 (1960);
+Katz v. United States, 389 U.S. 347, 356 (1967); United States v. United States Dis-
+trict Court, 407 U.S. 297, 321 (1972); United States v. Chadwick, 433 U.S. 1, 9 (1977);
+Lo-Ji Sales v. New York, 442 U.S. 319 (1979).
+     106 Johnson v. United States, 333 U.S. 10, 13–14 (1948).
+     107 Shadwick v. City of Tampa, 407 U.S. 345, 354 (1972).
+     108 Coolidge v. New Hampshire, 403 U.S. 443, 449–51 (1971) (warrant issued by
+
+state attorney general who was leading investigation and who as a justice of the
+peace was authorized to issue warrants); Mancusi v. DeForte, 392 U.S. 364, 370–72
+(1968) (subpoena issued by district attorney could not qualify as a valid search war-

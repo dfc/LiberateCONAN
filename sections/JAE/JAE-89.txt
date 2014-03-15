@@ -1,0 +1,54 @@
+    Herring is significant because previous cases applying the good-
+faith exception to the exclusionary rule have involved principally
+Fourth Amendment violations not by the police, but by other gov-
+ernmental entities, such as the judiciary or the legislature. Al-
+though the error in Herring was committed by a police employee
+other than the arresting officer, the introduction of a balancing test
+to evaluate police conduct raises the possibility that even Fourth
+Amendment violations caused by the negligent actions of an arrest-
+ing officer might in the future evade the application of the exclusion-
+ary rule.477
+    For instance, it is unclear from the Court’s analysis in Leon and
+its progeny whether a majority of the Justices would also support
+a good-faith exception for evidence seized without a warrant, al-
+though there is some language broad enough to apply to warrant-
+less seizures.478 It is also unclear what a good-faith exception would
+mean in the context of a warrantless search, because the objective
+reasonableness of an officer’s action in proceeding without a war-
+rant is already taken into account in determining whether there
+has been a Fourth Amendment violation.479 The Court’s increasing
+willingness to uphold warrantless searches as not “unreasonable”
+under the Fourth Amendment, however, may reduce the frequency
+with which the good-faith issue arises in the context of the exclu-
+sionary rule.480
+tional premise of tort law—that liability for negligence, i.e., lack of due care, creates
+an incentive to act with greater care.” Id. at 708. Justice Breyer, in a dissent joined
+by Justice Souter, noted that, although the Court had previously held that recordkeep-
+ing errors made by a court clerk do not trigger the exclusionary rule, Arizona v.
+Evans, 514 U.S. 1 (1995), he believed that recordkeeping errors made by the police
+should trigger the rule, as the majority’s “case-by-case, multifactored inquiry into
+the degree of police culpability” would be difficult for the courts to administer. Id. at
+711.
+      477 See Leon, 468 U.S. 897, 926 (1984) (articulating, in dicta, an “intentional or
+
+reckless” misconduct standard for obviating “good faith” reliance on an invalid war-
+rant).
+      478 The thrust of the analysis in Leon was with the reasonableness of reliance
+
+on a warrant. The Court several times, however, used language broad enough to
+apply to warrantless searches as well. See, e.g., 468 U.S. at 909 (quoting Justice
+White’s concurrence in Illinois v. Gates): “the balancing approach that has evolved
+. . . ‘forcefully suggest[s] that the exclusionary rule be more generally modified to
+permit the introduction of evidence obtained in the reasonable good-faith belief that
+a search or seizure was in accord with the Fourth Amendment’ ”; and id. at 919:
+“[the rule] cannot be expected, and should not be applied, to deter objectively reason-
+able law enforcement activity.”
+      479 See Yale Kamisar, Gates, ‘Probable Cause’, ‘Good Faith’, and Beyond, 69 IOWA
+
+L. REV. 551, 589 (1984) (imposition of a good-faith exception on top of the “already
+diluted” standard for validity of a warrant “would amount to double dilution”).
+      480 See, e.g., Illinois v. Rodriguez, 497 U.S. 177 (1990) (upholding search pre-
+
+mised on officer’s reasonable but mistaken belief that a third party had common
+authority over premises and could consent to search); Schneckloth v. Bustamonte,
+412 U.S. 218 (1973) (no requirement of knowing and intelligent waiver in consent-

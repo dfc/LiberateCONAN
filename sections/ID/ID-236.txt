@@ -1,0 +1,50 @@
+from suit without the state’s consent. Ex parte Young 1314 is a semi-
+nal case in American constitutional law because it created a fiction
+by which the validity of state statutes and other actions could be
+challenged by suits against state officers as individuals.1315
+    Conflict between federal and state courts is inevitable when the
+federal courts are open to persons complaining about unconstitu-
+tional or unlawful state action which could as well be brought in
+the state courts and perhaps is so brought by other persons, but
+the various rules of restraint flowing from the concept of comity re-
+duce federal interference here some considerable degree. It is rather
+in three fairly well defined areas that institutional conflict is most
+pronounced.
+    Federal Restraint of State Courts by Injunctions.—Even
+where the federal anti-injunction law is inapplicable, or where the
+question of application is not reached,1316 those seeking to enjoin
+state court proceedings must overcome substantial prudential bar-
+riers, among them the abstention doctrine 1317 and more important
+than that the equity doctrine that suits in equity “shall not be sus-
+tained in . . . the courts of the United States, in any case where
+plain, adequate and complete remedy may be had at law.” 1318 The
+application of this latter principle has been most pronounced in the
+reluctance of federal courts to interfere with a state’s good faith en-
+forcement of its criminal law. Here, the Court has required of a liti-
+gant seeking to bar threatened state prosecution not only a show-
+ing of irreparable injury that is both great and immediate, but also
+an inability to defend his constitutional rights in the state proceed-
+ing. Certain types of injury, such as the cost, anxiety, and inconve-
+nience of having to defend against a single criminal prosecution,
+are insufficient to be considered irreparable in this sense. Even if a
+state criminal statute is unconstitutional, a person charged under
+it usually has an adequate remedy at law by raising his constitu-
+tional defense in the state trial.1319 The policy has never been stated
+
+    1314  209 U.S. 123 (1908).
+    1315  The fiction is that while the official is a state actor for purposes of suit against
+him, the claim that his action is unconstitutional removes the imprimatur of the
+state that would shield him under the Eleventh Amendment. 209 U.S. at 159–60.
+     1316 28 U.S.C. § 2283 may be inapplicable because no state court proceeding is
+
+pending or because the action is brought under 42 U.S.C. § 1983. Its application
+may never be reached because a court may decide that equitable principles do not
+justify injunctive relief. Younger v. Harris, 401 U.S. 37, 54 (1971).
+     1317 See “Abstention,” supra.
+     1318 The quoted phrase setting out the general principle is from the Judiciary
+
+Act of 1789, § 16, 1 Stat. 82.
+     1319 The older cases are Fenner v. Boykin, 271 U.S. 240 (1926); Spielman Motor
+
+Sales Co. v. Dodge, 295 U.S. 89 (1935); Beal v. Missouri Pac. R.R., 312 U.S. 45 (1941);
+Watson v. Buck, 313 U.S. 387 (1941); Williams v. Miller, 317 U.S. 599 (1942); Doug-

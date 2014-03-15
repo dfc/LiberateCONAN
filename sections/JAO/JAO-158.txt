@@ -1,0 +1,56 @@
+    The Court has required greater protection from property depri-
+vations resulting from operation of established state procedures than
+from those resulting from random and unauthorized acts of state
+employees,840 and presumably this distinction still holds. Thus, the
+Court has held that post-deprivation procedures would not satisfy
+due process if it is “the state system itself that destroys a complain-
+ant’s property interest.” 841 Although the Court briefly entertained
+the theory that a negligent (i.e., non-willful) action by a state offi-
+cial was sufficient to invoke due process, and that a post-
+deprivation hearing regarding such loss was required,842 the Court
+subsequently overruled this holding, stating that “the Due Process
+Clause is simply not implicated by a negligent act of an official caus-
+ing unintended loss of or injury to life, liberty, or property.” 843
+    In “rare and extraordinary situations,” where summary action
+is necessary to prevent imminent harm to the public, and the pri-
+vate interest infringed is reasonably deemed to be of less impor-
+tance, government can take action with no notice and no opportu-
+nity to defend, subject to a later full hearing.844 Examples are seizure
+
+     840 Logan v. Zimmerman Brush Co., 455 U.S. at 435–36 (1982). The Court em-
+
+phasized that a post-deprivation hearing regarding harm inflicted by a state proce-
+dure would be inadequate. “That is particularly true where, as here, the State’s only
+post-termination process comes in the form of an independent tort action. Seeking
+redress through a tort suit is apt to be a lengthy and speculative process, which in
+a situation such as this one will never make the complainant entirely whole.” 455
+U.S. 422, 436–37.
+     841 455 U.S. at 436.
+     842 More expressly adopting the tort remedy theory, the Court in Parratt v. Tay-
+
+lor, 451 U.S. 527 (1981), held that the loss of a prisoner’s mail-ordered goods through
+the negligence of prison officials constituted a deprivation of property, but that the
+state’s post-deprivation tort-claims procedure afforded adequate due process. When
+a state officer or employee acts negligently, the Court recognized, there is no way
+that the state can provide a pre-termination hearing; the real question, therefore, is
+what kind of post-deprivation hearing is sufficient. When the action complained of
+is the result of the unauthorized failure of agents to follow established procedures
+and there is no contention that the procedures themselves are inadequate, the Due
+Process Clause is satisfied by the provision of a judicial remedy which the claimant
+must initiate. 451 U.S. at 541, 543–44. It should be noted that Parratt was a prop-
+erty loss case, and thus may be distinguished from liberty cases, where a tort rem-
+edy, by itself, may not be adequate process. See Ingraham v. Wright, 430 U.S. at
+680–82.
+     843 Daniels v. Williams, 474 U.S. 327, 328 (1986) (involving negligent acts by
+
+prison officials). Hence, there is no requirement for procedural due process stem-
+ming from such negligent acts and no resulting basis for suit under 42 U.S.C. § 1983
+for deprivation of rights deriving from the Constitution. Prisoners may resort to state
+tort law in such circumstances, but neither the Constitution nor § 1983 provides a
+federal remedy.
+     844 Board of Regents v. Roth, 408 U.S. 564, 570 n.7 (1972); Bell v. Burson, 402
+
+U.S. 535, 542 (1971). See Parratt v. Taylor, 451 U.S. 527, 538–40 (1981). Of course,
+one may waive his due process rights, though as with other constitutional rights,
+the waiver must be knowing and voluntary. D.H. Overmyer Co. v. Frick Co., 405
+U.S. 174 (1972). See also Fuentes v. Shevin, 407 U.S. 67, 94–96 (1972).

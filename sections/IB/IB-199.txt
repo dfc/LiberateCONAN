@@ -1,0 +1,47 @@
+ine the in-state business activity which triggers the taxable event
+and the practical or economic effect of the tax on that interstate
+activity.” 1067
+    In Goldberg v. Sweet, the Court upheld as properly apportioned
+a state tax on the gross charge of any telephone call originated or
+terminated in the state and charged to an in-state service address,
+regardless of where the telephone call was billed or paid.1068 A com-
+plex state tax imposed on trucks displays the operation of the test.
+Thus, a state registration tax met the internal consistency test be-
+cause every state honored every other states’, and a motor fuel tax
+similarly was sustained because it was apportioned to mileage trav-
+eled in the state, whereas lump-sum annual taxes, an axle tax and
+an identification marker fee, being unapportioned flat taxes im-
+posed for the use of the state’s roads, were voided, under the inter-
+nal consistency test, because if every state imposed them, then the
+burden on interstate commerce would be great.1069
+    Deference to state taxing authority was evident in a case in which
+the Court sustained a state sales tax on the price of a bus ticket
+for travel that originated in the state but terminated in another
+state. The tax was unapportioned to reflect the intrastate travel and
+the interstate travel.1070 The tax in this case was different from the
+tax upheld in Central Greyhound, the Court held. The previous tax
+constituted a levy on gross receipts, payable by the seller, whereas
+the present tax was a sales tax, also assessed on gross receipts, but
+payable by the buyer. The Oklahoma tax, the Court continued, was
+internally consistent, because if every state imposed a tax on ticket
+sales within the state for travel originating there, no sale would be
+subject to more than one tax. The tax was also externally consis-
+tent, the Court held, because it was a tax on the sale of a service
+that took place in the state, not a tax on the travel.1071
+
+    1067  Goldberg v. Sweet, 488 U.S. 252, 261, 262 (1989) (citations omitted).
+    1068  488 U.S. 252 (1989). The tax law provided a credit for any taxpayer who
+was taxed by another state on the same call. Actual multiple taxation could thus be
+avoided, the risks of other multiple taxation was small, and it was impracticable to
+keep track of the taxable transactions.
+     1069 American Trucking Ass’ns v. Scheiner, 483 U.S. 266 (1987).
+     1070 Indeed, there seemed to be a precedent squarely on point: Central Grey-
+
+hound Lines v. Mealey, 334 U.S. 653 (1948). The Court in that case struck down a
+state statute that failed to apportion its taxation of interstate bus ticket sales to
+reflect the distance traveled within the state.
+     1071 Oklahoma Tax Comm’n v. Jefferson Lines, Inc., 514 U.S. 175 (1995). In-
+
+deed, the Court analogized the tax to that in Goldberg v. Sweet, 488 U.S. 252 (1989),
+a tax on interstate telephone services that originated in or terminated in the state
+and that were billed to an in-state address.

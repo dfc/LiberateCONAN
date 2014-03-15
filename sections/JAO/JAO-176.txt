@@ -1,0 +1,51 @@
+Denckla.934 As discussed earlier,935 the decedent created a trust with
+a Delaware corporation as trustee,936 and the Florida courts had
+attempted to assert both in personam and in rem jurisdiction over
+the Delaware corporation. Asserting the old theory that a court’s in
+rem jurisdiction “is limited by the extent of its power and by the
+coordinate authority of sister States,” 937 i.e., whether the court has
+jurisdiction over the thing, the Court thought it clear that the trust
+assets that were the subject of the suit were located in Delaware
+and thus the Florida courts had no in rem jurisdiction. The Court
+did not expressly consider whether the International Shoe test should
+apply to such in rem jurisdiction, as it has now held it generally
+must, but it did briefly consider whether Florida’s interests arising
+from its authority to probate and construe the domiciliary’s will,
+under which the foreign assets might pass, were a sufficient basis
+of in rem jurisdiction and decided they were not.938 The effect of
+International Shoe in this area is still to be discerned.
+     The reasoning of the Pennoyer 939 rule, that seizure of property
+and publication was sufficient to give notice to nonresidents or ab-
+sent defendants, has also been applied in proceedings for the forfei-
+ture of abandoned property. If all known claimants were personally
+served and all claimants who were unknown or nonresident were
+given constructive notice by publication, judgments in these proceed-
+ings were held binding on all.940 But, in Mullane v. Central Hanover
+Bank & Trust Co.,941 the Court, while declining to characterize the
+proceeding as in rem or in personam, held that a bank managing a
+common trust fund in favor of nonresident as well as resident ben-
+eficiaries could not obtain a judicial settlement of accounts if the
+only notice was publication in a local paper. Although such notice
+by publication was sufficient as to beneficiaries whose interests or
+    934  357 U.S. 235 (1957).
+    935  The in personam aspect of this decision is considered supra.
+     936 She reserved the power to appoint the remainder, after her reserved life es-
+
+tate, either by testamentary disposition or by inter vivos instrument. After she moved
+to Florida, she executed a new will and a new power of appointment under the trust,
+which did not satisfy the requirements for testamentary disposition under Florida
+law. Upon her death, dispute arose as to whether the property passed pursuant to
+the terms of the power of appointment or in accordance with the residuary clause of
+the will.
+     937 357 U.S. at 246.
+     938 357 U.S. at 247–50. The four dissenters, Justices Black, Burton, Brennan,
+
+and Douglas, believed that the transfer in Florida of $400,000 made by a domicili-
+ary and affecting beneficiaries, almost all of whom lived in that state, gave rise to a
+sufficient connection with Florida to support an adjudication by its courts of the ef-
+fectiveness of the transfer. 357 U.S. at 256, 262.
+     939 See discussion of Pennoyer, supra.
+     940 Hamilton v. Brown, 161 U.S. 256 (1896); Security Savings Bank v. Califor-
+
+nia, 263 U.S. 282 (1923). See also Voeller v. Neilston Co., 311 U.S. 531 (1941).
+     941 339 U.S. 306 (1950).

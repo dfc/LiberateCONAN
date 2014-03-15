@@ -1,0 +1,55 @@
+    Modern Tests and Standards: Vagueness, Overbreadth, Strict
+Scrutiny, Intermediate Scrutiny, and Effectiveness of Speech
+Restrictions.—Vagueness is a due process vice that can be brought
+into play with regard to any criminal and many civil statutes,523
+but it has a special signficance when applied to governmental re-
+strictions of speech: fear that a vague restriction may apply to one’s
+speech may deter constitutionally protected speech as well as con-
+stitutionally unprotected speech. Vagueness has been the basis for
+voiding numerous such laws, especially in the fields of loyalty oaths,524
+obscenity and indecency,525 and restrictions on public demonstra-
+tions.526 It is usually combined with the overbreadth doctrine, which
+focuses on the need for precision in drafting a statute that may af-
+fect First Amendment rights; 527 an overbroad statute that sweeps
+under its coverage both protected and unprotected speech and con-
+duct will normally be struck down as facially invalid, although in a
+non-First Amendment situation the Court would simply void its ap-
+plication to protected conduct.528
+    But, even in a First Amendment situation, the Court has writ-
+ten, “there are substantial social costs created by the overbreadth
+     523 The vagueness doctrine generally requires that a statute be precise enough
+
+to give fair warning to actors that contemplated conduct is criminal, and to provide
+adequate standards to enforcement agencies, factfinders, and reviewing courts. See,
+e.g., Connally v. General Const. Co., 269 U.S. 385 (1926); Lanzetta v. New Jersey,
+306 U.S. 451 (1939); Colautti v. Franklin, 439 U.S. 379 (1979); Village of Hoffman
+Estates v. The Flipside, 455 U.S. 489 (1982).
+     524 E.g., Cramp v. Board of Pub. Instruction, 368 U.S. 278 (1961); Baggett v.
+
+Bullitt, 377 U.S. 360 (1964); Keyishian v. Board of Regents, 385 U.S. 589 (1967).
+See also Gentile v. State Bar of Nevada, 501 U.S. 1030 (1991) (attorney discipline,
+extrajudicial statements).
+     525 E.g., Winters v. New York, 333 U.S. 507 (1948); Joseph Burstyn, Inc. v. Wil-
+
+son, 343 U.S. 495 (1952); Interstate Circuit v. City of Dallas, 390 U.S. 676 (1968);
+Reno v. ACLU, 521 U.S. 844, 870–874 (1997). In National Endowment for the Arts
+v. Finley, 524 U.S. 569 (1998), the Court held that a “decency” criterion for the award-
+ing of grants, which “in a criminal statute or regulatory scheme . . . could raise sub-
+stantial vagueness concerns,” was not unconstitutionally vague in the context of a
+condition on public subsidy for speech.
+     526 E.g., Cantwell v. Connecticut, 310 U.S. 296 (1940); Gregory v. City of Chi-
+
+cago, 394 U.S. 111 (1969); Coates v. City of Cincinnati, 402 U.S. 611 (1971). See also
+Smith v. Goguen, 415 U.S. 566 (1974) (flag desecration law); Lewis v. City of New
+Orleans, 415 U.S. 130 (1974) (punishment of opprobrious words); Hynes v. Mayor of
+Oradell, 425 U.S. 610 (1976) (door-to-door canvassing). For an evident narrowing of
+standing to assert vagueness, see Young v. American Mini Theatres, 427 U.S. 50, 60
+(1976).
+     527 NAACP v. Button, 371 U.S. 415, 432–33 (1963).
+     528 E.g., Kunz v. New York, 340 U.S. 290 (1951); Aptheker v. Secretary of State,
+
+378 U.S. 500 (1964); United States v. Robel, 389 U.S. 258 (1967); Zwickler v. Koota,
+389 U.S. 241 (1967); Lewis v. City of New Orleans, 415 U.S. 130 (1974); Massachu-
+setts v. Oakes, 491 U.S. 576, 581 (1989). But see Washington State Grange v. Wash-
+ington State Republican Party, 128 S. Ct. 1184, 1190 (2008) (facial challenge to bur-
+den on right of association rejected “where the statute has a ‘plainly legitimate sweep’ ”).

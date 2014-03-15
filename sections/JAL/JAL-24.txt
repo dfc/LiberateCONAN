@@ -1,0 +1,54 @@
+quish state-controlled property 120 and culminated in the broad read-
+ing of Eleventh Amendment immunity in Hans v. Louisiana.121
+     Two of the leading cases, as were many cases of this period,
+were suits attempting to prevent Southern states from defaulting
+on bonds.122 In Louisiana v. Jumel,123 a Louisiana citizen sought to
+compel the state treasurer to apply a sinking fund that had been
+created under the earlier constitution for the payment of the bonds
+after a subsequent constitution had abolished this provision for re-
+tiring the bonds. The proceeding was held to be a suit against the
+state.124 Then, In re Ayers 125 purported to supply a rationale for
+cases on the issuance of mandamus or injunctive relief against state
+officers that would have severely curtailed federal judicial power.
+Suit against a state officer was not barred when his action, aside
+from any official authority claimed as its justification, was a wrong
+simply as an individual act, such as a trespass, but if the act of the
+officer did not constitute an individual wrong and was something
+that only a state, through its officers, could do, the suit was in ac-
+tuality a suit against the state and was barred.126 That is, the un-
+constitutional nature of the state statute under which the officer
+acted did not itself constitute a private cause of action. For that,
+one must be able to point to an independent violation of a common
+law right.127
+     120 Judicial reluctance to confront government officials over government-held prop-
+
+erty did not extend in like manner in a federal context, as was evident in United
+States v. Lee, the first case in which the sovereign immunity of the United States
+was claimed and rejected. United States v. Lee, 106 U.S. 196 (1882). See Article III,
+“Suits Against United States Officials.” However, the Court sustained the suit against
+the federal officers by only a 5-to-4 vote, and the dissent presented the arguments
+that were soon to inform Eleventh Amendment cases.
+     121 134 U.S. 1 (1890).
+     122 See Gibbons, The Eleventh Amendment and State Sovereign Immunity: A Re-
+
+interpretation, 83 COLUM. L. REV. 1889, 1968–2003 (1983); Orth, The Interpretation of
+the Eleventh Amendment, 1798–1908: A Case Study of Judicial Power, 1983 U. ILL.
+L. REV. 423.
+     123 107 U.S. 711 (1882).
+     124 “The relief asked will require the officers against whom the process is issued
+
+to act contrary to the positive orders of the supreme political power of the State,
+whose creatures they are, and to which they are ultimately responsible in law for
+what they do. They must use the public money in the treasury and under their offi-
+cial control in one way, when the supreme power has directed them to use it in
+another, and they must raise more money by taxation when the same power has
+declared that it shall not be done.” 107 U.S. at 721. See also Christian v. Atlantic &
+N.C. R.R., 133 U.S. 233 (1890).
+     125 123 U.S. 443 (1887).
+     126 123 U.S. at 500–01, 502.
+     127 Ayers sought to enjoin state officials from bringing suit under an allegedly
+
+unconstitutional statute purporting to overturn a contract between the state and
+the bondholders to receive the bond coupons for tax payments. The Court asserted
+that the state’s contracts impliedly contained the state’s immunity from suit, so that
+express withdrawal of a supposed consent to be sued was not a violation of the con-

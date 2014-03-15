@@ -1,0 +1,54 @@
+promote fairness to the accused through an “individualized” consid-
+eration of his circumstances. In the Court’s words, statutory aggra-
+vating circumstances “play a constitutionally necessary function at
+the stage of legislative definition [by] circumscribing the class of per-
+sons eligible for the death penalty,” 109 while consideration of all miti-
+gating evidence requires focus on “the character and record of the
+individual offender and the circumstances of the particular offense”
+consistent with “the fundamental respect for humanity underlying
+the Eighth Amendment.” 110 As long as the defendant’s crime falls
+within the statutorily narrowed class, the jury may then conduct
+“an individualized determination on the basis of the character of
+the individual and the circumstances of the crime.” 111
+    So far, the Justices who favor abandonment of the Lockett and
+Woodson approach have not prevailed. The Court has, however, given
+states greater leeway in fashioning procedural rules that have the
+effect of controlling how juries may use mitigating evidence that
+must be admitted and considered.112 States may also cure some con-
+stitutional errors on appeal through operation of “harmless error”
+rules and reweighing of evidence by the appellate court.113 Also, the
+Court has constrained the use of federal habeas corpus to review
+state court judgments. As a result of these trends, the Court recog-
+nizes a significant degree of state autonomy in capital sentencing
+in spite of its rulings on substantive Eighth Amendment law.
+    While holding fast to the Lockett requirement that sentencers
+be allowed to consider all mitigating evidence,114 the Court has up-
+held state statutes that control the relative weight that the sentencer
+     109 Zant v. Stephens, 462 U.S. 862, 878 (1983). This narrowing function may be
+
+served at the sentencing phase or at the guilt phase; the fact that an aggravating
+circumstance justifying capital punishment duplicates an element of the offense of
+first-degree murder does not render the procedure invalid. Lowenfield v. Phelps, 484
+U.S. 231 (1988).
+     110 Eddings v. Oklahoma, 455 U.S. 104, 112 (1982) (quoting Woodson v. North
+
+Carolina, 428 U.S. 280, 304 (1976) (plurality opinion)).
+     111 Zant v. Stephens, 462 U.S. 862, 879 (1983).
+     112 See, e.g., Johnson v. Texas, 509 U.S. 350 (1993) (consideration of youth as a
+
+mitigating factor may be limited to jury estimation of probability that defendant
+would commit future acts of violence).
+     113 Richmond v. Lewis, 506 U.S. 40 (1992) (no cure of trial court’s use of invalid
+
+aggravating factor where appellate court fails to reweigh mitigating and aggravat-
+ing factors).
+     114 See, e.g., Hitchcock v. Dugger, 481 U.S. 393 (1987) (instruction limiting jury
+
+to consideration of mitigating factors specifically enumerated in statute is invalid);
+Penry v. Lynaugh, 492 U.S. 302 (1989) (jury must be permitted to consider the de-
+fendant’s evidence of mental retardation and abused background outside of context
+of deliberateness or assessment of future dangerousness); Skipper v. South Caro-
+lina, 476 U.S. 1 (1986) (exclusion of evidence of defendant’s good conduct in jail de-
+nied defendant his Lockett right to introduce all mitigating evidence); Abdul-Kabir
+v. Quarterman, 550 U.S. 233 (2007) (jury must be permitted to consider the defen-
+dant’s evidence of childhood neglect and mental illness damage outside of the con-

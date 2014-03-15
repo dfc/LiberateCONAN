@@ -1,0 +1,58 @@
+judge,86 be given standards to govern its exercise of discretion and
+be given the opportunity to evaluate both the circumstances of the
+offense and the character and propensities of the accused; 87 (2) that
+to prevent jury prejudice on the issue of guilt there be a separate
+proceeding after conviction at which evidence relevant to the sen-
+tence, mitigating and aggravating, be presented; 88 (3) that special
+forms of appellate review be provided not only of the conviction but
+also of the sentence, to ascertain that the sentence was fairly im-
+posed both in light of the facts of the individual case and by com-
+
+
+     86 The Stewart plurality noted its belief that jury sentencing in capital cases
+
+performs an important societal function in maintaining a link between contempo-
+rary community values and the penal system, but agreed that sentencing may con-
+stitutionally be vested in the trial judge. Gregg v. Georgia, 428 U.S. 153, 190 (1976).
+A definitive ruling came in Spaziano v. Florida, 468 U.S. 447 (1984), upholding a
+provision under which the judge can override a jury’s advisory life imprisonment
+sentence and impose the death sentence. “[Tlhe purpose of the death penalty is not
+frustrated by, or inconsistent with, a scheme in which the imposition of the penalty
+in individual cases is determined by a judge.” Id. at 462–63. Consequently, a judge
+may be given significant discretion to override a jury sentencing recommendation,
+as long as the court’s decision is adequately channeled to prevent arbitrary results
+Harris v. Alabama, 513 U.S. 504 (1995) (Eighth Amendment not violated where judge
+is only required to “consider” a capital jury’s sentencing recommendation). The Sixth
+Amendment right to jury trial is violated, however, if the judge makes factual find-
+ings (e.g., as to the existence of aggravating circumstances) on which a death sen-
+tence is based. Ring v. Arizona, 536 U.S. 584 (2002).
+     87 Gregg v. Georgia, 428 U.S. 153, 188–95 (1976). Justice White seemed close to
+
+the plurality on the question of standards, id. at 207 (concurring), but while Chief
+Justice Burger and Justice Rehnquist joined the White opinion “agreeing” that the
+system under review “comports” with Furman, Justice Rehnquist denied the consti-
+tutional requirement of standards in any event. Woodson v. North Carolina, 428 U.S.
+280, 319–21 (1976) (dissenting). In McGautha v. California, 402 U.S. 183, 207–08
+(1971), the Court had rejected the argument that the absence of standards violated
+the Due Process Clause. On the vitiation of McGautha, see Gregg, 428 U.S. at 195
+n.47, and Lockett v. Ohio, 438 U.S. 586, 598–99 (1978). In assessing the character
+and record of the defendant, the jury may be required to make a judgment about
+the possibility of future dangerousness of the defendant, from psychiatric and other
+evidence. Jurek v. Texas, 428 U.S. 262, 275–76 (1976). Moreover, testimony of psy-
+chiatrists need not be based on examination of the defendant; general responses to
+hypothetical questions may also be admitted. Barefoot v. Estelle, 463 U.S. 880 (1983).
+But cf. Estelle v. Smith, 451 U.S. 454 (1981) (holding Self-incrimination and Coun-
+sel Clauses applicable to psychiatric examination, at least when a doctor testifies
+about his conclusions with respect to future dangerousness).
+     88 Gregg v. Georgia, 428 U.S. 153, 163, 190–92, 195 (1976) (plurality opinion).
+
+McGautha v. California, 402 U.S. 183 (1971), had rejected a due process require-
+ment of bifurcated trials, and the Gregg plurality did not expressly require it under
+the Eighth Amendment. But the plurality’s emphasis upon avoidance of arbitrary
+and capricious sentencing by juries seems to look inevitably toward bifurcation. The
+dissenters in Roberts v. Louisiana, 428 U.S. 325, 358 (1976), rejected bifurcation and
+viewed the plurality as requiring it. All states with post-Furman capital sentencing
+statutes took the cue by adopting bifurcated capital sentencing procedures, and the
+Court has not been faced with the issue again. See Raymond J. Pascucci, et al., Spe-
+cial Project, Capital Punishment in 1984: Abandoning the Pursuit of Fairness and
+Consistency, 69 CORNELL L. REV. 1129, 1224–25 (1984).

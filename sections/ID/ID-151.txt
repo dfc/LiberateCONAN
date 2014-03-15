@@ -1,0 +1,51 @@
+only in admiralty would be tried without a jury.813 And a colorable
+constitutional claim has been held to support jurisdiction over a fed-
+eral statutory claim arguably not within federal jurisdiction.814
+     Still another variant is the doctrine of “pendent parties,” under
+which a federal court could take jurisdiction of a state claim against
+one party if it were related closely enough to a federal claim against
+another party, even though there was no independent jurisdic-
+tional base for the state claim.815 Although the Supreme Court at
+first tentatively found some merit in the idea,816 in Finley v. United
+States,817 by a 5-to-4 vote the Court firmly disapproved of the pen-
+dent party concept and cast considerable doubt on the other prongs
+of pendent jurisdiction as well. Pendent party jurisdiction, Justice
+Scalia wrote for the Court, was within the constitutional grant of
+judicial power, but to be operable it must be affirmatively granted
+by congressional enactment.818 Within the year, Congress supplied
+the affirmative grant, adopting not only pendent party jurisdiction
+but also codifying pendent jurisdiction and ancillary jurisdiction un-
+der the name of “supplemental jurisdiction.” 819
+    Thus, these interrelated doctrinal standards now seem well-
+grounded.
+    Protective Jurisdiction.—A conceptually difficult doctrine, which
+approaches the verge of a serious constitutional gap, is the concept
+of protective jurisdiction. Under this doctrine, it is argued that in
+instances in which Congress has legislative jurisdiction, it can con-
+fer federal jurisdiction, with the jurisdictional statute itself being
+the “law of the United States” within the meaning of Article III,
+even though Congress has enacted no substantive rule of decision
+and state law is to be applied. Put forward in controversial cases,820
+the doctrine has neither been rejected nor accepted by the Su-
+     813 Romero v. International Terminal Operating Co., 358 U.S. 354, 380–81 (1959);
+
+Fitzgerald v. United States Lines Co., 374 U.S. 16 (1963).
+     814 Rosado v. Wyman, 397 U.S. 397, 400–05 (1970).
+     815 Judge Friendly originated the concept in Astor-Honor, Inc. v. Grosset & Dunlap,
+
+Inc., 441 F.2d 627 (2d Cir. 1971); Leather’s Best, Inc. v. S. S. Mormaclynx, 451 F.2d
+800 (2d Cir. 1971).
+     816 Aldinger v. Howard, 427 U.S. 1 (1976).
+     817 490 U.S. 545 (1989).
+     818 490 U.S. at 553, 556.
+     819 Act of Dec. 1, 1990, Pub. L. 101–650, 104 Stat. 5089, § 310, 28 U.S.C. § 1367.
+
+In City of Chicago v. International College of Surgeons, 522 U.S. 156 (1998), the
+Court, despite the absence of language making § 1367 applicable, held that the stat-
+ute gave district courts jurisdiction over state-law claims in cases originating in state
+court and then removed to federal court.
+     820 National Mutual Ins. Co. v. Tidewater Transfer Co., 337 U.S. 582 (1949); Tex-
+
+tile Workers v. Lincoln Mills, 353 U.S. 448 (1957); see also the bankruptcy cases,
+Schumacher v. Beeler, 293 U.S. 367 (1934), and Williams v. Austrian, 331 U.S. 642
+(1947).

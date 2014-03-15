@@ -1,0 +1,52 @@
+cence or actual impairment of a guilty verdict can be shown.1385 The
+concept of “cause” excusing failure to observe a state rule is ex-
+tremely narrow; “the existence of cause for procedural default must
+ordinarily turn on whether the prisoner can show that some objec-
+tive factor external to the defense impeded counsel’s efforts to com-
+ply with the State’s procedural rule.” 1386 As for the “prejudice” fac-
+tor, it is an undeveloped concept, but the Court’s only case establishes
+a high barrier.1387
+    The Court continues, with some modest exceptions, to construe
+habeas jurisdiction quite restrictively, but it has now been joined
+by new congressional legislation that is also restrictive. In Herrera
+v. Collins,1388 the Court appeared, though ambiguously, to take the
+position that, although it requires a showing of actual innocence to
+permit a claimant to bring a successive or abusive petition, a claim
+of innocence is not alone sufficient to enable a claimant to obtain
+review of his conviction on habeas. Petitioners are entitled in fed-
+eral habeas courts to show that they are imprisoned in violation of
+the Constitution, not to seek to correct errors of fact. But a claim
+of innocence does not bear on the constitutionality of one’s convic-
+tion or detention, and the execution of a person claiming actual in-
+nocence would not, by this reasoning, violate the Constitution.1389
+In a subsequent part of the opinion, however, the Court assumed
+for the sake of argument that “a truly persuasive demonstration of
+‘actual innocence’ made after trial would render the execution of a
+defendant unconstitutional,” and it imposed a high standard for mak-
+
+     1385 E.g., Smith v. Murray, 477 U.S. 527, 538–39 (1986); Murray v. Carrier, 477
+
+U.S. 478, 496 (1986). In Bousley v. Brooks, 523 U.S. 614 (1998), a federal post-
+conviction relief case, petitioner had pled guilty to a federal firearms offense. Subse-
+quently, the Supreme Court interpreted more narrowly the elements of the offense
+than had the trial court in Bousley’s case. The Court held that Bousley by his plea
+had defaulted, but that he might be able to demonstrate “actual innocence” so as to
+excuse the default if he could show on remand that it was more likely than not that
+no reasonable juror would have convicted him of the offense, properly defined.
+     1386 Murray v. Carrier, 477 U.S. at 488. This case held that ineffective assis-
+
+tance of counsel is not “cause” unless it rises to the level of a Sixth Amendment
+violation. See also Coleman v. Thompson, 501 U.S. 722, 752–57 (1991) (because peti-
+tioner had no right to counsel in state postconviction proceeding where error oc-
+curred, he could not claim constitutionally ineffective assistance of counsel). The ac-
+tual novelty of a constitutional claim at the time of the state court proceeding is
+“cause” excusing the petitioner’s failure to raise it then, Reed v. Ross, 468 U.S. 1
+(1984), although the failure of counsel to anticipate a line of constitutional argu-
+ment then foreshadowed in Supreme Court precedent is insufficient “cause.” Engle
+v. Isaac, 456 U.S. 107 (1982).
+     1387 United States v. Frady, 456 U.S. 152, 169 (1982) (under federal rules) (with
+
+respect to erroneous jury instruction, inquiring whether the error “so infected the
+entire trial that the resulting conviction violates due process”).
+     1388 506 U.S. 390 (1993).
+     1389 506 U.S. at 398–417.

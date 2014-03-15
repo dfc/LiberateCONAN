@@ -1,0 +1,57 @@
+population for questioning.357 This view on prison interrogations evi-
+dences the Court’s continuing movement toward individualized analy-
+ses of Miranda issues based on particular circumstances and away
+from the more categorical decisions announced soon after Miranda.
+Still, some of the early decisions may retain vitality. One example
+is the 1969 decision in Orozco v. Texas, which held that question-
+ing a person upon his arrest in his home is custodial.358 On the
+other hand, the fact that a suspect may be present in a police sta-
+tion does not necessarily mean, in the absence of further restric-
+tions, that questioning is custodial,359 and the fact that he is in his
+home or other familiar surroundings will ordinarily lead to a con-
+clusion that the inquiry was noncustodial.360 Also, if a person has
+been subjected to Miranda custody, that custody ends when he is
+
+
+     357 Howes v. Fields, 565 U.S. ___, No. 10–680, slip op. (2012) (taking a prisoner
+
+incarcerated for disorderly conduct aside for questioning about an unrelated child
+molestation incident held, 6–3, not to constitute custodial interrogation under the
+totality of the circumstances in the case), distinguishing Mathis v. United States,
+391 U.S. 1 (1968) (questioning state prisoner about unrelated federal tax violation
+held to be custodial interrogation). While the Howes Court split 6–3 on whether a
+custodial interrogation had taken place for Fifth Amendment purposes, the case was
+before it on habeas review, which requires that a clearly established Supreme Court
+precedent mandates a contrary result. All the Howes Justices agreed that Mathis
+had not, for purposes of habeas review of a state case, “clearly established” that all
+private questioning of an inmate about previous, outside conduct was “custodial” per
+se. Rather, Howes explained that a broader assessment of all relevant factors in each
+case was necessary to establish coercive pressure amounting to “custody.” Cf. Mary-
+land v. Shatzer, 559 U.S. ___, No. 08–680, slip op. (2010) (extended release of inter-
+rogated inmate back into the general prison population broke “custody” for purposes
+of later questioning); see also Illinois v. Perkins, 496 U.S. 292 (1990) (inmate’s con-
+versation with an undercover agent does not create a coercive, police-dominated en-
+vironment and does not implicate Miranda if the suspect does not know that he is
+conversing with a government agent).
+     358 394 U.S. 324 (1969) (police entered suspect’s bedroom at 4 a.m., told him he
+
+was under arrest, and questioned him; four of the eight Justices who took part in
+the case, including three dissenters, voiced concern about this “broadening” of Miranda
+beyond the police station).
+     359 Oregon v. Mathiason, 429 U.S. 492 (1977) (suspect came voluntarily to po-
+
+lice station to be questioned, he was not placed under arrest while there, and he
+was allowed to leave at end of interview, even though he was named by victim as
+culprit, questioning took place behind closed doors, and he was falsely informed his
+fingerprints had been found at scene of crime); Salinas v. Texas, 570 U.S. ___, No.
+12–246, slip op. (2013) (voluntarily accompanying police to station for questioning).
+Cf. Stansbury v. California, 511 U.S. 318 (1994). See also Minnesota v. Murphy, 465
+U.S. 420 (1984) (required reporting to probationary officer is not custodial situa-
+tion); Yarborough v. Alvarado, 541 U.S. 652 (2004) (state court determination that
+teenager brought to police station by his parents was not “in custody” was not “un-
+reasonable” for purposes of federal habeas review under the standards of the Anti-
+terrorism and Effective Death Penalty Act of 1996 (AEDPA)).
+     360 Beckwith v. United States, 425 U.S. 341 (1976) (IRS agents’ interview with
+
+taxpayer in private residence was not a custodial interrogation, although inquiry
+had “focused” on him).

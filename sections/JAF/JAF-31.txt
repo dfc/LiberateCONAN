@@ -1,0 +1,54 @@
+the same transaction unless Congress has “spoken in language that
+is clear and definite” 147 to pronounce its intent that multiple pun-
+ishments indeed be imposed. The commonly used test in determin-
+ing whether Congress would have wanted to punish as separate of-
+fenses conduct occurring in the same transaction, absent otherwise
+clearly expressed intent, is the “same evidence” rule. The rule, an-
+nounced in Blockburger v. United States,148 “is that where the same
+act or transaction constitutes a violation of two distinct statutory
+provisions, the test to be applied to determine whether there are
+two offenses or only one, is whether each provision requires proof
+of a fact which the other does not.” Thus, in Gore v. United States,149
+the Court held that defendant’s one act of selling narcotics had vio-
+lated three distinct criminal statutes, each of which required proof
+of a fact not required by the others; prosecuting him on all three
+counts in the same proceeding was therefore permissible.150 So too,
+the same evidence rule does not upset the “established doctrine”
+that, for double jeopardy purposes, “a conspiracy to commit a crime
+is a separate offense from the crime itself,” 151 or the related prin-
+ciple that Congress may prescribe that predicate offenses and “con-
+tinuing criminal enterprise” are separate offenses.152 On the other
+hand, in Whalen v. United States,153 the Court determined that a
+defendant could not be separately punished for rape and for killing
+the same victim in the perpetration of the rape, because it is not
+
+    147  United States v. Universal C.I.T. Corp., 344 U.S. 218, 221–22 (1952).
+    148  284 U.S. 299, 304 (1932). This case itself was not a double jeopardy case,
+but it derived the rule from Gavieres v. United States, 220 U.S. 338, 342 (1911),
+which was a double jeopardy case. See also Carter v. McClaughry, 183 U.S. 365 (1902);
+Morgan v. Devine, 237 U.S. 632 (1915); Albrecht v. United States, 273 U.S. 1 (1927);
+Pinkerton v. United States, 328 U.S. 640 (1946); American Tobacco Co. v. United
+States, 328 U.S. 781 (1946); United States v. Michener, 331 U.S. 789 (1947); Pereira
+v. United States, 347 U.S. 1 (1954); Callanan v. United States, 364 U.S. 587 (1961).
+     149 357 U.S. 386 (1958).
+     150 See also Albernaz v. United States, 450 U.S. 333 (1981); Iannelli v. United
+
+States, 420 U.S. 770 (1975) (defendant convicted on two counts, one of the substan-
+tive offense, one of conspiracy to commit the substantive offense; defense raised varia-
+tion of Blockburger test, Wharton’s Rule requiring that one may not be punished for
+conspiracy to commit a crime when the nature of the crime necessitates participa-
+tion of two or more persons for its commission; Court recognized Wharton’s Rule as
+a double-jeopardy inspired presumption of legislative intent but held that congres-
+sional intent in this case was “clear and unmistakable” that both offenses be pun-
+ished separately).
+     151 United States v. Felix, 503 U.S. 378, 391 (1992). But cf. Rutledge v. United
+
+States, 517 U.S. 292 (1996) (21 U.S.C. § 846, prohibiting conspiracy to commit drug
+offenses, does not require proof of any fact that is not also a part of the continuing
+criminal enterprise offense under 21 U.S.C. § 848, so there are not two separate of-
+fenses).
+     152 Garrett v. United States, 471 U.S. 773 (1985) (“continuing criminal enter-
+
+prise” is a separate offense under the Comprehensive Drug Abuse Prevention and
+Control Act of 1970).
+     153 445 U.S. 684 (1980).

@@ -1,0 +1,55 @@
+guarantee of salary that characterizes federal judges.109 And, in pass-
+ing on the second test, the Court has been essentially pragmatic in
+assessing whether the issuing party possesses the capacity to deter-
+mine probable cause.110
+    Probable Cause.—The concept of “probable cause” is central
+to the meaning of the warrant clause. Neither the Fourth Amend-
+ment nor the federal statutory provisions relevant to the area de-
+fine “probable cause”; the definition is entirely a judicial construct.
+An applicant for a warrant must present to the magistrate facts
+sufficient to enable the officer himself to make a determination of
+probable cause. “In determining what is probable cause . . . [w]e
+are concerned only with the question whether the affiant had rea-
+sonable grounds at the time of his affidavit . . . for the belief that
+the law was being violated on the premises to be searched; and if
+the apparent facts set out in the affidavit are such that a reason-
+ably discreet and prudent man would be led to believe that there
+was a commission of the offense charged, there is probable cause
+justifying the issuance of a warrant.” 111 Probable cause is to be de-
+
+rant); Lo-Ji Sales v. New York, 442 U.S. 319 (1979) (justice of the peace issued open-
+ended search warrant for obscene materials, accompanied police during its execu-
+tion, and made probable cause determinations at the scene as to particular items).
+     109 Jones v. United States, 362 U.S. 257, 270–71 (1960) (approving issuance of
+
+warrants by United States Commissioners, many of whom were not lawyers and
+none of whom had any guarantees of tenure and salary); Shadwick v. City of Tampa,
+407 U.S. 345 (1972) (approving issuance of arrest warrants for violation of city ordi-
+nances by city clerks who were assigned to and supervised by municipal court judges).
+The Court reserved the question “whether a State may lodge warrant authority in
+someone entirely outside the sphere of the judicial branch. Many persons may not
+qualify as the kind of ‘public civil officers’ we have come to associate with the term
+‘magistrate.’ Had the Tampa clerk been entirely divorced from a judicial position,
+this case would have presented different considerations.” Id. at 352.
+     110 407 U.S. at 350–54 (placing on defendant the burden of demonstrating that
+
+the issuing official lacks capacity to determine probable cause). See also Connally v.
+Georgia, 429 U.S. 245 (1977) (unsalaried justice of the peace who receives a sum of
+money for each warrant issued but nothing for reviewing and denying a warrant is
+not sufficiently detached).
+     111 Dumbra v. United States, 268 U.S. 435, 439, 441 (1925). “[T]he term ‘prob-
+
+able cause’ . . . means less than evidence which would justify condemnation.” Lock
+v. United States, 11 U.S. (7 Cr.) 339, 348 (1813). See Steele v. United States, 267
+U.S. 498, 504–05 (1925). It may rest upon evidence that is not legally competent in
+a criminal trial, Draper v. United States, 358 U.S. 307, 311 (1959), and it need not
+be sufficient to prove guilt in a criminal trial. Brinegar v. United States, 338 U.S.
+160, 173 (1949). See United States v. Ventresca, 380 U.S. 102, 107–08 (1965). An
+“anticipatory” warrant does not violate the Fourth Amendment as long as there is
+probable cause to believe that the condition precedent to execution of the search
+warrant will occur and that, once it has occurred, “there is a fair probability that
+contraband or evidence of a crime will be found in a specified place.” United States
+v. Grubbs, 547 U.S. 90, 95 (2006), quoting Illinois v. Gates, 462 U.S. 213, 238 (1983).
+“An anticipatory warrant is ‘a warrant based upon an affidavit showing probable
+cause that at some future time (but not presently) certain evidence of a crime will
+be located at a specified place.’ ” 547 U.S. at 94.

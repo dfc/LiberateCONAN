@@ -1,0 +1,56 @@
+Lynaugh.594 Thus, for collateral review in federal courts of state court
+criminal convictions, the general rule is that “new rules” of consti-
+tutional interpretation—those “not ‘dictated by precedent existing
+at the time the defendant’s conviction became final’ ” 595—will not
+be applied.596 “A new rule applies retroactively in a collateral pro-
+ceeding only if (1) the rule is substantive or (2) the rule is a ‘water-
+shed rul[e] of criminal procedure’ implicating the fundamental fair-
+ness and accuracy of the criminal proceeding.” 597
+     What the rule is to be, and indeed if there is to be a rule, in
+civil cases has been disputed to a rough draw in recent cases. As
+was noted above, there is a line of civil cases, constitutional and
+nonconstitutional, in which the Court has declined to apply new rules,
+the result often of overruling older cases, retrospectively, some-
+times even to the prevailing party in the case.598 As in criminal cases,
+
+    594  492 U.S. 302 (1989).
+    595  Whorton v. Bockting, 549 U.S. 406, 416 (2007). Put another way, it is not
+enough that a decision is “within the ‘logical compass’ of an earlier decision, or in-
+deed that it is ‘controlled’ by a prior decision.” A decision announces a “new rule” if
+its result “was susceptible to debate among reasonable minds” and if it was not “an
+illogical or even a grudging application” of the prior decision. Butler v. McKellar,
+494 U.S. 407, 412–415 (1990). For additional elaboration on “new law,” see O’Dell v.
+Netherland, 521 U.S. 151 (1997); Lambrix v. Singletary, 520 U.S. 518 (1997); Gray
+v. Netherland, 518 U.S. 152 (1996). But compare Bousley v. Brooks, 523 U.S. 614
+(1998).
+     596 The approach in state collateral review proceedings, however, may be differ-
+
+ent. The Court has indicated that the general rule regarding denial of retroactive
+application of “new rules” in federal collateral proceeding was principally based on
+an interpretation of federal statutory law. State collateral review of cases brought
+under state law may be more generous to the defendant. Danforth v. Minnesota,
+552 U.S. 264 (2008).
+     For an example of the application of the Teague rule in federal collateral review
+of a federal court conviction, see Chaidez v. United States, 568 U.S. ___, No. 11–820,
+slip op. (2013).
+     597 Whorton v. Bockting, 549 U.S. 406, 416 (2007). Put another way, a new rule
+
+will be applied in a collateral proceeding only if it places certain kinds of conduct
+“beyond the power of the criminal law-making authority to prescribe” or constitutes
+a “new procedure[ ] without which the likelihood of an accurate conviction is seri-
+ously diminished.” Teague v. Lane, 489 U.S. 288, 307, 311–313 (1989) (plurality opin-
+ion); Butler v. McKellar, 494 U.S. 407, 415–416 (1990). Under the second exception
+it is “not enough under Teague to say that a new rule is aimed at improving the
+accuracy of a trial. More is required. A rule that qualifies under this exception must
+not only improve accuracy, but also ‘alter our understanding of the bedrock proce-
+dural elements’ essential to the fairness of a proceeding.” Sawyer v. Smith, 497 U.S.
+227, 242 (1990) (emphasis in original, internal quotation marks omitted). For recent
+application of the principles, see Schriro v. Summerlin, 542 U.S. 348 (2004) (require-
+ment that aggravating factors justifying death penalty be found by the jury was a
+new procedural rule that does not apply retroactively).
+     598 The standard that has been applied was enunciated in Chevron Oil Co. v.
+
+Huson, 404 U.S. 97 (1971). Briefly, the question of retroactivity or prospectivity was
+to be determined by a balancing of the equities. To be limited to prospectivity, a
+decision must have established a new principle of law, either by overruling clear
+past precedent on which reliance has been had or by deciding an issue of first im-

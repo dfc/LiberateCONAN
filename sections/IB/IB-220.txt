@@ -1,0 +1,49 @@
+or refer workers for employment, or businesses that have been found
+by federal authorities to have violated federal sanctions, respec-
+tively..1164
+    At issue in AT&T Mobility, LLC v. Concepcion 1165 was a sav-
+ings provision of the Federal Arbitration Act (FAA) that made arbi-
+tration provisions in contracts “valid, irrevocable and enforceable,
+save upon such grounds as exist at law or in equity for the revoca-
+tion of any contract.” 1166 An arbitration provision in their cellular
+telephone contract forbade plaintiffs from seeking arbitration of an
+allegedly fraudulent practice by AT&T on a class basis. The Court
+closely divided over whether the FAA saving clause made this anti-
+class arbitration provision attackable under California law prohib-
+iting class action waivers in consumer contracts, or whether the sav-
+ings clause looked solely to grounds for revoking the cellular contract
+that had nothing to do with the arbitration provision.1167 Another
+case focused on a preemption clause that preempted certain laws
+of “a State [or] political subdivision of a State” regulating motor car-
+riers, but excepted “[State] safely regulatory authority.” The Court
+interpreted the exception to allow a safety regulation adopted by a
+city: “[a]bsent a clear statement to the contrary, Congress’s refer-
+ence to the ‘regulatory authority of a State’ should be read to pre-
+serve, not preempt, the traditional prerogative of the States to del-
+egate their authority to their constituent parts.” 1168
+     Perhaps the broadest preemption section ever enacted, § 514 of
+the Employment Retirement Income Security Act of 1974 (ERISA),
+is so constructed that the Court has been moved to comment that
+the provisions “are not a model of legislative drafting.” 1169 The sec-
+tion declares that the statute shall “supersede any and all State
+laws insofar as they now or hereafter relate to any employee ben-
+efit plan,” but saves to the States the power to enforce “any law
+. . . which regulates insurance, banking, or securities,” except that
+an employee benefit plan governed by ERISA shall not be “deemed”
+an insurance company, an insurer, or engaged in the business of
+     1164 Chamber of Commerce of the United States v. Whiting, 563 U.S. ___, No.
+
+09–115, slip op. (2011) (Breyer and Ginsburg, JJ., dissenting); id (Sotomayor, J., dis-
+senting).
+     1165 563 U.S. ___, No. 09–893, slip op. (2011).
+     1166 9 U.S.C. § 2.
+     1167 Writing for the Court, Justice Scalia held, inter alia, that the saving clause
+
+was not intended to open arbitration provisions themselves to possible scrutiny. 563
+U.S. ___, No. 09–893, slip op. (2011). The four dissenting Justices interpreted the
+saving clause as allowing use of the California law to attack the anti-class arbitra-
+tion contract provision. Id. (Breyer, J. dissenting).
+     1168 City of Columbus v. Ours Garage and Wrecker Serv., 536 U.S. 424, 429 (2002).
+     1169 Metropolitan Life Ins. Co. v. Massachusetts, 471 U.S. 724, 739 (1985), re-
+
+peated in FMC Corp. v. Holliday, 498 U.S. 52, 58 (1991).

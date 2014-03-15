@@ -1,0 +1,48 @@
+California 196 rule applicable on direct appeal, requiring the state
+to prove beyond a reasonable doubt that a constitutional error is
+harmless, is inappropriate for habeas review, the Court concluded,
+given the “secondary and limited” role of federal habeas proceed-
+ings.197 The appropriate test is that previously used only for non-
+constitutional errors: “whether the error has substantial and injuri-
+ous effect or influence in determining the jury’s verdict.” 198 Further,
+the “substantial and injurious effect standard” is to be applied in
+federal habeas proceedings even “when the state appellate court failed
+to recognize the error and did not review it for harmlessness under
+the ‘harmless beyond a reasonable doubt’ standard set forth in Chap-
+man v. California . . . .” 199
+    A fourth rule was devised to prevent successive “abusive” or de-
+faulted habeas petitions. Federal courts are barred from hearing such
+claims unless the defendant can show by clear and convincing evi-
+dence that, but for a constitutional error, no reasonable juror would
+have found him eligible for the death penalty under applicable state
+law.200
+    The Antiterrorism and Effective Death Penalty Act of 1996 pro-
+hibits federal habeas relief based on claims that were adjudicated
+on the merits in state court unless the state decision “was contrary
+to, or involved an unreasonable application of, clearly established
+Federal law, as determined by the Supreme Court of the United
+States.” 201 The Court’s decision in Bell v. Cone,202 rejecting a claim
+that an attorney’s failure to present mitigating evidence during the
+capital sentencing phase of a trial and his waiver of a closing argu-
+ment at sentencing should entitle a condemned prisoner to relief,
+
+
+    196 386 U.S. 18 (1967).
+    197 Brecht v. Abrahamson, 507 U.S. 619, 633 (1993).
+    198 Brecht v. Abrahamson, 507 U.S. at 637 (quoting Kotteakos v. United States,
+
+328 U.S. 750, 776 (1946)). Brecht was a non-capital case, but the rule was subse-
+quently applied in a capital case. Calderon v. Coleman, 525 U.S. 141 (1998) (per
+curiam). In Hedgpeth v. Pulido, 129 S. Ct. 530 (2008) (per curiam), the Court held
+that a reviewing court should apply Brecht’s “substantial and injurious effect” stan-
+dard where conviction was based on a general verdict after jury had been instructed
+on alternative theories of guilt and may have relied on an invalid one.
+    199 Fry v. Pliler, 551 U.S. 112, 114 (2007).
+    200 Sawyer v. Whitley, 505 U.S. 333 (1992). The focus on eligibility limits in-
+
+quiry to elements of the crime and to aggravating factors, and thereby prevents pre-
+sentation of mitigating evidence. Here the court was barred from considering an al-
+legation of ineffective assistance of counsel for failure to introduce the defendant’s
+mental health records as a mitigating factor at sentencing.
+    201 28 U.S.C. § 2254(d)(1).
+    202 535 U.S. 685 (2002).

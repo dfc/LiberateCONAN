@@ -1,0 +1,57 @@
+rules as prudential ones,439 only one of which has been a signifi-
+cant factor in the jurisprudence of standing. The first two rules are
+that the plaintiff ’s interest, to which she asserts an injury, must
+come within the “zone of interest” arguably protected by the consti-
+tutional provision or statute in question 440 and that plaintiffs may
+not air “generalized grievances” shared by all or a large class of
+citizens.441 The important rule concerns the ability of a plaintiff to
+represent the constitutional rights of third parties not before the
+court.
+    Standing to Assert the Rights of Others.—Usually, one may
+assert only one’s interest in the litigation and not challenge the con-
+stitutionality of a statute or a governmental action because it in-
+fringes the protectable rights of someone else.442 In Tileston v. Ull-
+man,443 an early round in the attack on a state anti-contraceptive
+law, a doctor sued, charging that he was prevented from giving his
+patients needed birth control advice. The Court held that he had
+no standing; no right of his was infringed, and he could not repre-
+sent the interests of his patients. There are several exceptions to
+the general rule, however, that make generalization misleading.
+
+(1976). For a good example of the congressionally created interest and the injury to
+it, see Havens Realty Corp. v. Coleman, 455 U.S. 363, 373–75 (1982) (Fair Housing
+Act created right to truthful information on availability of housing; black tester’s
+right injured through false information, but white tester not injured because he re-
+ceived truthful information). It is clear, however, that the Court will impose separation-
+of-powers restraints on the power of Congress to create interests to which injury
+would give standing. Lujan v. Defenders of Wildlife, 504 U.S. 555, 571–78 (1992).
+Justice Scalia, who wrote the opinion in Lujan, reiterated the separation-of-powers
+objection to congressional conferral of standing in FEC v. Akins, 524 U.S. 11, 29, 36
+(1998) (alleged infringement of President’s “take care” obligation), but this time in
+dissent; the Court did not advert to this objection in finding that Congress had pro-
+vided for standing based on denial of information to which the plaintiffs, as voters,
+were entitled.
+     439 Valley Forge Christian College v. Americans United, 454 U.S. 464, 474–75
+
+(1982); Allen v. Wright, 468 U.S. 737, 751 (1984).
+     440 Ass’n of Data Processing Service Org. v. Camp, 397 U.S. 150, 153 (1970);
+
+Simon v. Eastern Kentucky Welfare Rights Org., 426 U.S. 26, 39 n.19 (1976); Valley
+Forge Christian College v. Americans United, 454 U.S. 464, 475 (1982); Clarke v.
+Securities Industry Ass’n, 479 U.S. 388 (1987). See also Bennett v. Spear, 520 U.S.
+154 (1997). The Court has indicated that
+     441 United States v. Richardson, 418 U.S. 166, 173, 174–76 (1974); Duke Power
+
+Co. v. Carolina Environmental Study Group, 438 U.S. 59, 80 (1978); Allen v. Wright,
+468 U.S. 737, 751 (1984). In United States v. SCRAP, 412 U.S. 669, 687–88 (1973),
+a congressional conferral case, the Court agreed that the interest asserted was one
+shared by all, but the Court has disparaged SCRAP, asserting that it “surely went
+to the very outer limit of the law,” Whitmore v. Arkansas, 495 U.S. 149, 159 (1990).
+     442 United States v. Raines, 362 U.S. 17, 21–23 (1960); Yazoo & M.V.R.R. v. Jack-
+
+son Vinegar Co., 226 U.S. 217 (1912). Cf. Bender v. Williamsport Area School Dist.,
+475 U.S. 534 (1986).
+     443 318 U.S. 44 (1943). See Warth v. Seldin, 422 U.S. 490, 508–510 (1975) (chal-
+
+lenged law did not adversely affect plaintiffs and did not adversely affect a relation-
+ship between them and persons they sought to represent).

@@ -1,0 +1,50 @@
+formally charged with an offense than before.” 373 The protection,
+however, is not as broad under the Sixth Amendment as it is under
+the Fifth. Although Edwards has been extended to bar custodial ques-
+tioning stemming from a separate investigation as well as question-
+ing relating to the crime for which the suspect was arrested,374 this
+extension does not apply for purposes of the Sixth Amendment right
+to counsel. The Sixth Amendment right is “offense-specific,” and so
+also is “its Michigan v. Jackson effect of invalidating subsequent
+waivers in police-initiated interviews.” 375 Therefore, although a de-
+fendant who has invoked his Sixth Amendment right to counsel with
+respect to the offense for which he is being prosecuted may not waive
+that right, he may waive his Miranda-based right not to be interro-
+gated about unrelated and uncharged offenses.376
+    In Montejo v. Louisiana,377 the Court overruled Michigan v. Jack-
+son, finding that the Fifth Amendment’s “Miranda-Edwards-
+Minnick line of cases” constitutes sufficient protection of the right
+to counsel. In Montejo, the defendant had not actually requested a
+lawyer, but had stood mute at a preliminary hearing at which the
+judge ordered the appointment of counsel. Later, before Montejo had
+met his attorney, two police detectives read him his Miranda rights
+and he agreed to be interrogated. Michigan v. Jackson had prohib-
+ited waivers of the right to counsel after a defendant’s assertion of
+the right to counsel, so the Court in Montejo was faced with the
+question of whether Michigan v. Jackson applied where an attor-
+ney had been appointed in the absence of such an assertion.
+    The Court in Montejo noted that “[n]o reason exists to assume
+that a defendant like Montejo, who has done nothing at all to ex-
+press his intentions with respect to his Sixth Amendment rights,
+would not be perfectly amenable to speaking with the police with-
+
+     373 475 U.S. at 631. If a prisoner does not ask for the assistance of counsel, how-
+
+ever, and voluntarily waives his rights following a Miranda warning, these reasons
+disappear. Moreover, although the right to counsel is more difficult to waive at trial
+than before trial, “whatever standards suffice for Miranda’s purposes will also be
+sufficient [for waiver of Sixth Amendment rights] in the context of postindictment
+questioning.” Patterson v. Illinois, 487 U.S. 285, 298 (1988).
+     374 Arizona v. Roberson, 486 U.S. 675 (1988).
+     375 McNeil v. Wisconsin, 501 U.S. 171, 175 (1991). The reason that the right is
+
+“offense-specific” is that “it does not attach until a prosecution is commenced.” Id.
+     376 Rejecting an exception to the offense-specific limitation for crimes that are
+
+closely related factually to a charged offense, the Court instead borrowed the Blockburger
+test from double-jeopardy law: if the same transaction constitutes a violation of two
+separate statutory provisions, the test is “whether each provision requires proof of a
+fact which the other does not.” Texas v. Cobb, 532 U.S. 162, 173 (2001). This meant
+that the defendant, who had been charged with burglary, had a right to counsel on
+that charge, but not with respect to murders committed during the burglary.
+     377 556 U.S. ___, No. 07–1529, slip op. at 15 (2009).

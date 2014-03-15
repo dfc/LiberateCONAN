@@ -1,0 +1,48 @@
+    Required Records Doctrine.—Although the privilege is appli-
+cable to an individual’s papers and effects,253 it does not extend to
+corporate persons; hence corporate records, as has been noted, are
+subject to compelled production.254 In fact, however, the Court has
+greatly narrowed the protection afforded in this area to natural per-
+sons by developing the “required records” doctrine. That is, it has
+held “that the privilege which exists as to private papers cannot be
+maintained in relation to ‘records required by law to be kept in or-
+der that there may be suitable information of transactions which
+are the appropriate subjects of governmental regulation and the en-
+forcement of restrictions validly established.’ ” 255 This exception de-
+veloped out of, as Justice Frankfurter showed in dissent, the rule
+that documents which are part of the official records of government
+are wholly outside the scope of the privilege; public records are the
+property of government and are always accessible to inspection. Be-
+cause government requires certain records to be kept to facilitate
+the regulation of the business being conducted, so the reasoning goes,
+the records become public at least to the degree that government
+could always scrutinize them without hindrance from the record-
+keeper. “If records merely because required to be kept by law ipso
+facto become public records, we are indeed living in glass houses.
+Virtually every major public law enactment—to say nothing of State
+and local legislation—has record-keeping provisions. In addition to
+record-keeping requirements, is the network of provisions for filing
+reports. Exhaustive efforts would be needed to track down all the
+statutory authority, let alone the administrative regulations, for record-
+keeping and reporting requirements. Unquestionably they are enor-
+mous in volume.” 256
+    “It may be assumed at the outset that there are limits which
+the government cannot constitutionally exceed in requiring the keep-
+ing of records which may be inspected by an administrative agency
+and may be used in prosecuting statutory violations committed by
+
+    253 Boyd v. United States, 116 U.S. 616 (1886). But see Fisher v. United States,
+
+425 U.S. 391 (1976).
+    254 See discussion, supra, under “Development and Scope.”
+    255 Shapiro v. United States, 335 U.S. 1, 33 (1948) (quoting Davis v. United States,
+
+328 U.S. 582, 589–90 (1946), which quoted Wilson v. United States, 221 U.S. 361,
+380 (1911)). Dicta in Wilson is the source of the required-records doctrine, the hold-
+ing of the case being the familiar one that a corporate officer cannot claim the privi-
+lege against self-incrimination to refuse to surrender corporate records in his cus-
+tody. Cf. Heike v. United States, 227 U.S. 131 (1913). Davis was a search and seizure
+case and dealt with gasoline ration coupons which were government property even
+though in private possession. See Shapiro, 335 U.S. at 36, 56–70 (Justice Frank-
+furter dissenting).
+    256 335 U.S. at 51.

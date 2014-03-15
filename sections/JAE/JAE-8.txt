@@ -1,0 +1,48 @@
+case that the “warrants-with-narrow-exceptions” standard nor-
+mally prevails over a “reasonableness” approach.23 Exceptions to the
+warrant requirement have multiplied, tending to confine applica-
+tion of the requirement to cases that are exclusively “criminal” in
+nature. And even within that core area of “criminal” cases, some
+exceptions have been broadened.
+     The most important category of exception is that of administra-
+tive searches justified by “special needs beyond the normal need for
+law enforcement.” Under this general rubric the Court has upheld
+warrantless searches by administrative authorities in public schools,
+government offices, and prisons, and has upheld drug testing of pub-
+lic and transportation employees.24 In all of these instances, the war-
+rant and probable cause requirements are dispensed with in favor
+of a reasonableness standard that balances the government’s regu-
+latory interest against the individual’s privacy interest; in all of these
+instances, the government’s interest has been found to outweigh the
+individual’s. The broad scope of the administrative search excep-
+tion is evidenced by the fact that an overlap between law enforce-
+ment objectives and administrative “special needs” does not result
+in application of the warrant requirement; instead, the Court has
+upheld warrantless inspection of automobile junkyards and disman-
+tling operations in spite of the strong law enforcement component
+of the regulation.25
+    Warrant requirements and individualized suspicion at times are
+also set aside in a pure law enforcement context in favor of a rea-
+sonableness test that balances governmental and individual inter-
+ests. The outcome in these cases may depend on how the respec-
+tive interests at stake are characterized. For example, in Maryland
+v. King, the five-Justice majority and four-Justice dissent clashed
+over what governmental interests were served by a law allowing
+for DNA testing of suspects being taken into custody after being
+
+413 U.S. 266 (1973) (warrantless stop and search of auto by roving patrol near bor-
+der); Marshall v. Barrow’s, Inc., 436 U.S. 307 (1978) (warrantless administrative in-
+spection of business premises); Mincey v. Arizona, 437 U.S. 385 (1978) (warrantless
+search of home that was “homicide scene”); Arizona v. Gant, 556 U.S. ___, No. 07–
+542 (2009) (search of vehicle incident to arrest where arrestee had no access to ve-
+hicle).
+     23 Of the Justices on the Court in 1992, only Justice Stevens frequently sided
+
+with the warrants-with-narrow-exceptions approach. See, e.g., Illinois v. Rodriguez,
+497 U.S. 177, 189 (Justice Stevens joining Justice Marshall’s dissent); New Jersey
+v. T.L.O., 469 U.S. 325, 370 (1985) (Justice Stevens dissenting); California v. Acevedo,
+500 U.S. 565, 585 (1991) (Justice Stevens dissenting).
+     24 See various headings infra under the general heading “Valid Searches and
+
+Seizures Without Warrants.”
+     25 New York v. Burger, 482 U.S. 691 (1987).

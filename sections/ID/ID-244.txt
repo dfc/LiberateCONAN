@@ -1,0 +1,53 @@
+     Second, Sanders v. United States 1356 dealt with two interre-
+lated questions: the effects to be given successive petitions for the
+writ, when the second or subsequent application presented grounds
+previously asserted or grounds not theretofore raised. Emphasizing
+that “[c]onventional notions of finality of litigation have no place
+where life or liberty is at stake and infringement of constitutional
+rights is alleged,” 1357 the Court set out generous standards for con-
+sideration of successive claims. As to previously asserted grounds,
+the Court held that controlling weight may be given to a prior de-
+nial of relief if (1) the same ground presented was determined ad-
+versely to the applicant before, (2) the prior determination was on
+the merits, and (3) the ends of justice would not be served by reach-
+ing the merits of the subsequent application, so that the habeas court
+might but was not obligated to deny relief without considering the
+claim on the merits.1358 With respect to grounds not previously as-
+serted, a federal court considering a successive petition could re-
+fuse to hear the new claim only if it decided the petitioner had de-
+liberately bypassed the opportunity in the prior proceeding to raise
+it; if not, “[n]o matter how many prior applications for federal col-
+lateral relief a prisoner has made,” the court must consider the mer-
+its of the new claim.1359
+     Third, the most controversial of the 1963 cases, Fay v. Noia,1360
+dealt with the important issue of state defaults, of, that is, what
+the effect on habeas is when a defendant in a state criminal trial
+has failed to raise in a manner in accordance with state procedure
+a claim which he subsequently wants to raise on habeas. If, for ex-
+ample, a defendant fails to object to the admission of certain evi-
+     1356 373 U.S. 1 (1963). Sanders was a § 2255 case, a federal prisoner petitioning
+
+for postconviction relief. The Court applied the same liberal rules with respect to
+federal prisoners as it did for state. See Kaufman v. United States, 394 U.S. 217
+(1969). As such, the case has also been eroded by subsequent cases. E.g., Davis v.
+United States, 411 U.S. 233 (1973); United States v. Frady, 456 U.S. 152 (1982).
+     1357 373 U.S. at 8. The statement accorded with the established view that prin-
+
+ciples of res judicata were not applicable in habeas. E.g., Price v. Johnston, 334 U.S.
+266 (1948); Wong Doo v. United States, 265 U.S. 239 (1924); Salinger v. Loisel, 265
+U.S. 224 (1924). Congress in 1948 had appeared to adopt some limited version of
+res judicata for federal prisoners but not for state prisoners, Act of June 25, 1948,
+62 Stat. 965, 967, 28 U.S.C. §§ 2244, 2255, but the Court in Sanders held the same
+standards applicable and denied the statute changed existing caselaw. 373 U.S. at
+11–14. But see id. at 27–28 (Justice Harlan dissenting).
+     1358 373 U.S. at 15. In codifying the Sanders standards in 1966, Pub. L. 89–711,
+
+80 Stat. 1104, 28 U.S.C. § 2244(b), Congress omitted the “ends of justice” language.
+Although it was long thought that the omission probably had no substantive effect,
+this may not be the case. Kuhlmann v. Wilson, 477 U.S. 436 (1986).
+     1359 373 U.S. at 17–19.
+     1360 372 U.S. 391 (1963). Fay was largely obliterated over the years, beginning
+
+with Davis v. United States, 411 U.S. 233 (1973), a federal-prisoner post-conviction
+relief case, and Wainwright v. Sykes, 433 U.S. 72 (1977), but it was not formally
+overruled until Coleman v. Thompson, 501 U.S. 722, 744–51 (1991).

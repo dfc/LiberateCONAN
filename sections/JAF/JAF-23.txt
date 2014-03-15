@@ -1,0 +1,53 @@
+priate federal rule, explicitly based on the judgment that the gov-
+ernment had not proved facts constituting the offense.109 Even if,
+as happened in Sanabria v. United States,110 the trial judge errone-
+ously excludes evidence and then acquits on the basis that the re-
+maining evidence is insufficient to convict, the judgment of acquit-
+tal produced thereby is final and unreviewable.111
+    Some limited exceptions exist with respect to the finality of trial
+judge acquittal. First, because a primary purpose of the Due Pro-
+cess Clause is the prevention of successive trials and not of prosecu-
+tion appeals per se, it is apparently the case that, if the trial judge
+permits the case to go to the jury, which convicts, and the judge
+thereafter enters a judgment of acquittal, even one founded upon
+his belief that the evidence does not establish guilt, the prosecu-
+tion may appeal, because the effect of a reversal would be not a
+new trial but reinstatement of the jury’s verdict and the judgment
+thereon.112 Second, if the trial judge enters or grants a motion of
+acquittal, even one based on the conclusion that the evidence is in-
+sufficient to convict, then the prosecution may appeal if jeopardy
+had not yet attached in accordance with the federal standard.113
+     Trial Court Rulings Terminating Trial Before Verdict.—
+If, after jeopardy attaches, a trial judge grants a motion for mis-
+trial, ordinarily the defendant is subject to retrial; 114 if, after jeop-
+ardy attaches, but before a jury conviction occurs, the trial judge
+acquits, perhaps on the basis that the prosecution has presented
+insufficient evidence or that the defendant has proved a requisite
+     109 430 U.S. at 570–76. See also United States v. Scott, 437 U.S. 82, 87–92 (1978);
+
+Smalis v. Pennsylvania, 476 U.S. 140 (1986) (demurrer sustained on basis of insuffi-
+ciency of evidence is acquittal).
+     110 437 U.S. 54 (1978).
+     111 See also Smith v. Massachusetts, 543 U.S. 462 (2005) (acquittal based on er-
+
+roneous interpretation of precedent).
+     112 In United States v. Wilson, 420 U.S. 332 (1975), following a jury verdict to
+
+convict, the trial judge granted defendant’s motion to dismiss on the ground of preju-
+dicial delay, not a judgment of acquittal; the Court permitted a government appeal
+because reversal would have resulted in reinstatement of the jury’s verdict, not in a
+retrial. In United States v. Jenkins, 420 U.S. 358, 365 (1975), the Court assumed,
+on the basis of Wilson, that a trial judge’s acquittal of a defendant following a jury
+conviction could be appealed by the government because, again, if the judge’s deci-
+sion were set aside there would be no further proceedings at trial. In overruling
+Jenkins in United States v. Scott, 437 U.S. 82 (1978), the Court noted the assump-
+tion and itself assumed that a judgment of acquittal bars appeal only when a sec-
+ond trial would be necessitated by reversal. Id. at 91 n.7.
+     113 Serfass v. United States, 420 U.S. 377 (1975) (after request for jury trial but
+
+before attachment of jeopardy judge dismissed indictment because of evidentiary in-
+sufficiency; appeal allowed); United States v. Sanford, 429 U.S. 14 (1976) (judge granted
+mistrial after jury deadlock, then four months later dismissed indictment for insuf-
+ficient evidence; appeal allowed, because granting mistrial had returned case to pre-
+trial status).
+     114 See “Reprosecution After Reversal on Defendant’s Appeal,” supra.

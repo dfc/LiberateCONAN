@@ -1,0 +1,51 @@
+after such an emergency has ended, however, would be treated as
+testimonial and could not be introduced into evidence.238
+     In Michigan v. Bryant,239 however, the Court appeared to ex-
+tend the scope and basis of the “ongoing emergency” exception. In
+Bryant, a man dying from a gun shot wound was found by police
+lying on the ground next to his car in a gas station parking lot,
+several blocks away from where he had been shot. In response to
+questions from several police officers, the victim identified the de-
+fendant as his assailant, and his response was later used in the
+defendant’s trial despite the victim’s unavailability to testify. In de-
+termining whether such statements were related to an ongoing emer-
+gency (and thus were non-testimonial), the majority noted that an
+objective analysis of this question was “highly context-dependent”,240
+and depended on the nature of the crime, the weapon utilized, the
+medical condition of the victim, and the formality of the setting.
+Further, in determining the testimonial nature of such informa-
+tion, the Court considered not just the intent of the declarant, but
+also the intentions of the police coming upon the crime scene who,
+ignorant of preceding events, began seeking information to decide
+whether there was a continuing danger to the victim or the pub-
+lic.241 Considering that there are other potential exceptions to the
+Confrontation Clause where the “primary purpose” for creation of
+evidence is not related to gathering evidence for trial,242 the breadth
+of this opinion may signal a retreat from the limits of Crawford.
+    In two pre-Crawford cases, the Court took contrasting ap-
+proaches to the Confrontation Clause regarding state efforts to pro-
+tect a child from psychological trauma while testifying. In Coy v.
+
+     238 547 U.S. at 828–29. Thus, where police responding to a domestic violence
+
+report interrogated a woman in the living room while her husband was being ques-
+tioned in the kitchen, there was no present threat to the woman, so such informa-
+tion as was solicited was testimonial. Id. at 830 (facts of Hammon v. Indiana, con-
+sidered together with Davis.)
+     239 562 U.S. ___, No. 09–150, slip op. (2011). Justice Sotomayor wrote the major-
+
+ity opinion, joined by Chief Justice Roberts and Justices Kennedy, Breyer and Alito.
+Justice Thomas file an opinion concurring in judgment, while Justices Scalia and
+Ginsburg filed dissenting opinions. Justice Kagan did not participate in the case.
+     240 562 U.S. ___, No. 09–150, slip op. at 16.
+     241 562 U.S. ___, No. 09–150, slip op. at 20.
+     242 See 562 U.S. ___, No. 09–150, slip op. at 15 n.9. The Court noted that many
+
+exceptions to hearsay rules rest on the belief that certain statements are made for a
+purpose other than use in a prosecution See, e.g., Fed. Rule Evid. 801(d)(2)(E) (state-
+ment by a co-conspirator during and in furtherance of the conspiracy); 803(4) (State-
+ments for Purposes of Medical Diagnosis or Treatment); 803(6) (Records of Regu-
+larly Conducted Activity); 803(8) (Public Records and Reports); 803(9) (Records of
+Vital Statistics); 803(11) (Records of Religious Organizations); 803(12) (Marriage, Bap-
+tismal, and Similar Certificates); 803(13) (Family Records); and 804(b)(3) (State-
+ment Against Interest).

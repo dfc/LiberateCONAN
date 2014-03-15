@@ -1,0 +1,45 @@
+the officers’ conversation did not amount to a functional equivalent
+of questioning and that the evidence was admissible.365
+     A later divided Court applied Innis in Arizona v. Mauro 366 to
+hold that a suspect who had requested an attorney was not “inter-
+rogated” by bringing instead the suspect’s wife, who also was a sus-
+pect, to speak with him in police presence. The majority empha-
+sized that the suspect’s wife had asked to speak with her husband,
+the meeting was therefore not a police-initiated ruse designed to
+elicit a response from the suspect, and in any event the meeting
+could not be characterized as an attempt by the police to use the
+coercive nature of confinement to extract a confession that would
+not be given in an unrestricted environment. The dissent argued
+that the police had exploited the wife’s request to talk with her hus-
+band in a custodial setting to create a situation the police knew, or
+should reasonably have known, was reasonable likely to result in
+an incriminatory statement.
+    In Estelle v. Smith,367 the Court held that a court-ordered jail-
+house interview by a psychiatrist seeking to determine the defen-
+dant’s competency to stand trial constituted “interrogation” with re-
+spect to testimony on issues guilt and punishment; the psychiatrist’s
+conclusions about the defendant’s dangerousness were inadmissible
+at the capital sentencing phase of the trial because the defendant
+had not been given his Miranda warnings prior to the interview.
+That the defendant had been questioned by a psychiatrist desig-
+nated to conduct a neutral competency examination, rather than
+by a police officer, was “immaterial,” the Court concluded, since the
+psychiatrist’s testimony at the penalty phase changed his role from
+one of neutrality to that of an agent of the prosecution.368 Other
+instances of questioning in less formal contexts in which the issues
+of custody and interrogation intertwine, e.g., in on-the-street encoun-
+ters, await explication by the Court.
+    Third, before a suspect in custody is interrogated, he must be
+given full warnings, or the equivalent, of his rights. Miranda, of
+course, required express warnings to be given to an in-custody sus-
+pect of his right to remain silent, that anything he said may be
+used as evidence against him, that he has a right to counsel, and
+that if he cannot afford counsel he is entitled to an appointed attor-
+    365 446 U.S. at 302–04. Justices Marshall, Brennan, and Stevens dissented, id.
+
+at 305, 307. See also Illinois v. Perkins, 496 U.S. 292 (1990) (absence of coercive
+environment makes Miranda inapplicable to jail cell conversation between suspect
+and police undercover agent).
+    366 481 U.S. 520 (1987).
+    367 451 U.S. 454 (1981).
+    368 451 U.S. at 467.

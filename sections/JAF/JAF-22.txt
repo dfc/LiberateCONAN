@@ -1,0 +1,57 @@
+indictment was invalid or for some reason the trial’s results were
+voidable, a judgment of acquittal must nevertheless remain undis-
+turbed.104
+     Acquittal by the Trial Judge.—When a trial judge acquits a
+defendant, that action concludes the matter to the same extent that
+acquittal by jury verdict does.105 There is no possibility of retrial
+for the same offense.106 But it may be difficult at times to deter-
+mine whether the trial judge’s action was in fact an acquittal or
+whether it was a dismissal or some other action, which the prosecu-
+tion may be able to appeal or the judge may be able to recon-
+sider.107 The question is “whether the ruling of the judge, whatever
+its label, actually represents a resolution, correct or not, of some or
+all of the factual elements of the offense charged.” 108 Thus, an ap-
+peal by the government was held barred in a case in which the dead-
+locked jury had been discharged, and the trial judge had granted
+the defendant’s motion for a judgment of acquittal under the appro-
+
+gree murder lacked the necessary finality of an acquittal, and found that Double
+Jeopardy did not bar a subsequent prosecution for those crimes. Three dissenting
+Justices held that Double Jeopardy required a partial verdict of acquittal on the
+greater offenses under the circumstances.
+     In Schiro v. Farley, 510 U.S. 222 (1994), the Court ruled that a jury’s action in
+leaving the verdict sheet blank on all but one count did not amount to an acquittal
+on those counts, and that consequently conviction on the remaining count, alleged
+to be duplicative of one of the blank counts, could not constitute double jeopardy. In
+any event, the Court added, no successive prosecution violative of double jeopardy
+could result from an initial sentencing proceeding in the course of an initial prosecu-
+tion.
+     104 In United States v. Ball, 163 U.S. 662 (1896), three defendants were placed
+
+on trial, Ball was acquitted and the other two were convicted, the two appealed and
+obtained a reversal on the ground that the indictment had been defective, and all
+three were again tried and all three were convicted. Ball’s conviction was set aside
+as violating the clause; the trial court’s action was not void but only voidable, and
+Ball had taken no steps to void it while the government could not take such action.
+Similarly, in Benton v. Maryland, 395 U.S. 784 (1969), the defendant was convicted
+of burglary but acquitted of larceny; the conviction was set aside on his appeal be-
+cause the jury had been unconstitutionally chosen. He was again tried and con-
+victed of both burglary and larceny, but the larceny conviction was held to violate
+the Double Jeopardy Clause. On the doctrine of “constructive acquittals” by convic-
+tion of a lesser included offense, see discussion infra under “Reprosecution After Re-
+versal on Defendant’s Appeal.”
+     105 United States v. Martin Linen Supply Co., 430 U.S. 564, 570–72 (1977); Sanabria
+
+v. United States, 437 U.S. 54, 63–65 (1978); Finch v. United States, 433 U.S. 676
+(1977).
+     106 In Fong Foo v. United States, 369 U.S. 141 (1962), the Court acknowledged
+
+that the trial judge’s action in acquitting was “based upon an egregiously erroneous
+foundation,” but it was nonetheless final and could not be reviewed. Id. at 143.
+     107 As a general rule a state may prescribe that a judge’s midtrial determina-
+
+tion of the sufficiency of the prosecution’s proof may be reconsidered. Smith v. Mas-
+sachusetts, 543 U.S. 462 (2005) (Massachusetts had not done so, however, so the
+judge’s midtrial acquittal on one of three counts became final for double jeopardy
+purposes when the prosecution rested its case).
+     108 United States v. Martin Linen Supply Co., 430 U.S. 564, 571 (1977).

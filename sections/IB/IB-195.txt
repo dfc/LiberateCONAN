@@ -1,0 +1,53 @@
+both taxes alike in all respects.1050 In Complete Auto Transit, Inc.
+v. Brady,1051 the Court overruled the cases embodying the distinc-
+tion and articulated a standard that has governed the cases since.
+The tax in Brady was imposed on the privilege of doing business
+as applied to a corporation engaged in interstate transportation ser-
+vices in the taxing state; it was measured by the corporation’s gross
+receipts from the service. The appropriate concern, the Court wrote,
+was to pay attention to “economic realities” and to “address the prob-
+lems with which the commerce clause is concerned.” 1052 The stan-
+dard, a set of four factors that was distilled from precedent but newly
+applied, was firmly set out. A tax on interstate commerce will be
+sustained “when the tax is applied to an activity with a substantial
+nexus with the taxing State, is fairly apportioned, does not discrimi-
+nate against interstate commerce, and is fairly related to the ser-
+vices provided by the State.” 1053 All subsequent cases have been de-
+cided in this framework.
+    Nexus.—“The Commerce Clause and the Due Process Clause im-
+pose distinct but parallel limitations on a State’s power to tax out-
+of-state activities. The Due Process Clause demands that there ex-
+ist some definite link, some minimum connection, between a state
+and the person, property or transaction it seeks to tax, as well as a
+rational relationship between the tax and the values connected with
+the taxing State. The Commerce Clause forbids the States to levy
+taxes that discriminate against interstate commerce or that bur-
+den it by subjecting activities to multiple or unfairly apportioned
+taxation.” 1054 “The broad inquiry subsumed in both constitutional
+requirements is whether the taxing power exerted by the state bears
+     1050 Spector Motor Service, Inc. v. O’Connor, 340 U.S. 602 (1951). The attenu-
+
+ated nature of the purported distinction was evidenced in Colonial Pipeline Co. v.
+Traigle, 421 U.S. 100 (1975), in which the Court sustained a nondiscriminatory, fairly
+apportioned franchise tax that was measured by the taxpayer’s capital stock, im-
+posed on a pipeline company doing an exclusively interstate business in the taxing
+state, on the basis that it was a tax imposed on the privilege of conducting business
+in the corporate form.
+     1051 430 U.S. 274 (1977).
+     1052 430 U.S. at 279, 288. “In reviewing Commerce Clause challenges to state
+
+taxes, our goal has instead been to ‘establish a consistent and rational method of
+inquiry’ focusing on ‘the practical effect of a challenged tax.’ ” Commonwealth Edison
+Co. v. Montana, 453 U.S. 609, 615 (1981) (quoting Mobil Oil Corp. v. Commissioner
+of Taxes, 445 U.S. 425, 443 (1980)).
+     1053 430 U.S. at 279. The rationale of these four parts of the test is set out in
+
+Quill Corp. v. North Dakota ex rel. Heitkamp, 504 U.S. 298, 312–13 (1992). A recent
+application of the four-part Complete Auto Transit test is Oklahoma Tax Comm’n v.
+Jefferson Lines, Inc., 514 U.S. 175 (1995).
+     1054 Meadwestvaco Corp. v. Illinois Dept. of Revenue, 128 S. Ct. 1498, 1505 (2008)
+
+(citations and internal quotation marks omitted). “[T]he due process nexus analysis
+requires that we ask whether an individual’s connections with a State are substan-
+tial enough to legitimate the State’s exercise of power over him. . . . In contrast,
+the Commerce Clause and its nexus requirement are informed not so much by con-

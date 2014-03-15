@@ -1,0 +1,55 @@
+the moment the car comes to a halt, and the passengers as well as
+the driver may challenge the constitutionality of the stop.269 Like-
+wise, a police officer may frisk (patdown for weapons) both the driver
+and any passengers whom he reasonably concludes “might be armed
+and presently dangerous.” 270
+    By contrast, fixed-checkpoint stops in the absence of any indi-
+vidualized suspicion have been upheld for purposes of promoting
+highway safety 271 or policing the international border,272 but not
+for more generalized law enforcement purposes.273 Once police have
+validly stopped a vehicle, they may also, based on articulable facts
+warranting a reasonable belief that weapons may be present, con-
+duct a Terry-type protective search of those portions of the passen-
+ger compartment in which a weapon could be placed or hidden.274
+And, in the absence of such reasonable suspicion as to weapons,
+police may seize contraband and suspicious items “in plain view”
+inside the passenger compartment.275
+     Although officers who have stopped a car to issue a routine traf-
+fic citation may conduct a Terry-type search, even including a pat-
+down of driver and passengers if there is reasonable suspicion that
+they are armed and dangerous, they may not conduct a full-blown
+
+    269  Brendlin v. California, 551 U.S. 249, 263 (2007).
+    270  Arizona v. Johnson, 129 S. Ct. 781, 786 (2009).
+     271 Michigan Dep’t of State Police v. Sitz, 496 U.S. 444 (1990) (upholding a so-
+
+briety checkpoint at which all motorists are briefly stopped for preliminary question-
+ing and observation for signs of intoxication).
+     272 United States v. Martinez-Fuerte, 428 U.S. 543 (1976) (upholding border pa-
+
+trol checkpoint, over 60 miles from the border, for questioning designed to appre-
+hend illegal aliens). See also United States v. Flores-Montano, 541 U.S. 149 (2004)
+(upholding a search at the border involving disassembly of a vehicle’s fuel tank).
+     273 City of Indianapolis v. Edmond, 531 U.S. 32 (2000) (vehicle checkpoint set
+
+up for the “primary purpose [of] detect[ing] evidence of ordinary criminal wrongdo-
+ing” (here interdicting illegal narcotics) does not fall within the highway safety or
+border patrol exception to the individualized suspicion requirement, and hence vio-
+lates the Fourth Amendment). Edmond was distinguished in Illinois v. Lidster, 540
+U.S. 419 (2004), upholding use of a checkpoint to ask motorists for help in solving a
+recent hit-and-run accident that had resulted in death. The public interest in solv-
+ing the crime was deemed “grave,” while the interference with personal liberty was
+deemed minimal.
+     274 Michigan v. Long, 463 U.S. 1032, 1049 (1983) (holding that contraband found
+
+in the course of such a search is admissible).
+     275 Texas v. Brown, 460 U.S. 730 (1983). Similarly, because there is no reason-
+
+able privacy interest in the vehicle identification number, required by law to be placed
+on the dashboard so as to be visible through the windshield, police may reach into
+the passenger compartment to remove items obscuring the number and may seize
+items in plain view while doing so. New York v. Class, 475 U.S. 106 (1986). And,
+because there also is no legitimate privacy interest in possessing contraband, and
+because properly conducted canine sniffs are “generally likely, to reveal only the pres-
+ence of contraband,” police may conduct a canine sniff around the perimeter of a
+vehicle stopped for a traffic offense. Illinois v. Caballes, 543 U.S. 405, 409 (2005).

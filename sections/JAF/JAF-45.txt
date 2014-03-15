@@ -1,0 +1,55 @@
+strength of the governmental interest in the system requiring the
+choice, the Court soon developed another test stressing the voluntari-
+ness of the choice. A guilty plea entered by a defendant who cor-
+rectly understands the consequences of the plea is voluntary un-
+less coerced or obtained under false pretenses; moreover, there is
+no impermissible coercion where the defendant has the effective as-
+sistance of counsel.221 The Court in an opinion by Justice Harlan
+then formulated still another test in holding that a defendant in a
+capital case in which the jury in one process decides both guilt and
+sentence could be put to a choice between remaining silent on guilt
+or admitting guilt and being able to put on evidence designed to
+mitigate the possible sentence. The pressure to take the stand in
+response to the sentencing issue, said the Court, was not so great
+as to impair the policies underlying the Self-Incrimination Clause,
+policies described in this instance as proscription of coercion and of
+cruelty in putting the defendant to an undeniably “hard” choice.222
+Similarly, the Court held that requiring a defendant to give notice
+to the prosecution before trial of his intention to rely on an alibi
+defense and to give the names and addresses of witnesses who will
+support it does not violate the clause.223 Nor does it violate a defen-
+dant’s self-incrimination privilege to create a presumption upon the
+establishment of certain basic facts from which the jury may infer
+the defendant’s guilt unless he rebuts the presumption.224
+
+     221 Parker v. North Carolina, 397 U.S. 790 (1970); Brady v. United States, 397
+
+U.S. 742 (1970); McMann v. Richardson, 397 U.S. 759 (1970). Parker and Brady en-
+tered guilty pleas to avoid the death penalty when it became clear that the prosecu-
+tion had solid evidence of their guilt; Richardson pled guilty because of his fear that
+an allegedly coerced confession would be introduced into evidence.
+     222 McGautha v. California, 402 U.S. 183, 210–20 (1971). When the Court subse-
+
+quently required bifurcated trials in capital cases, it was on the basis of the Eighth
+Amendment, and represented no withdrawal from the position described here. Cf.
+Corbitt v. New Jersey, 439 U.S. 212 (1978); Bordenkircher v. Hayes, 434 U.S. 357
+(1978).
+     223 Williams v. Florida, 399 U.S. 78, 80–86 (1970). The compulsion of choice, Jus-
+
+tice White argued for the Court, proceeded from the strength of the state’s case and
+not from the disclosure requirement. That is, the rule did not affect whether or not
+the defendant chose to make an alibi defense and to call witnesses, but merely re-
+quired him to accelerate the timing. It appears, however, that in Brooks v. Tennes-
+see, 406 U.S. 605 (1972), the Court used the “needless encouragement” test in strik-
+ing down a state rule requiring the defendant to testify before any other defense
+witness or to forfeit the right to testify at all. In the Court’s view, this impermissi-
+bly burdened the defendant’s choice whether to testify or not. Another prosecution
+discovery effort was approved in United States v. Nobles, 422 U.S. 233 (1975), in
+which a defense investigator’s notes of interviews with prosecution witnesses were
+ordered disclosed to the prosecutor for use in cross-examination of the investigator.
+The Court discerned no compulsion upon defendant to incriminate himself.
+     224 “The same situation might present itself if there were no statutory presump-
+
+tion and a prima facie case of concealment with knowledge of unlawful importation
+were made by the evidence. The necessity of an explanation by the accused would
+be quite as compelling in that case as in this; but the constraint upon him to give

@@ -1,0 +1,49 @@
+that role. Wheaton charged Peters with having infringed his copy-
+right in the twelve volumes of “Wheaton’s Reports” by reprinting
+material from Wheaton’s first volume in “a volume called ‘Con-
+densed Reports of Cases in the Supreme Court of the United
+States’ ”; 1524 Wheaton based his claim on both common law and a
+1790 act of Congress. On the statutory claim, the Court remanded
+to the trial court for a determination of whether Wheaton had com-
+plied with all the requirements of the act.1525 On the common law
+claim, the Court held for Peters, finding that, under common law,
+publication divests an author of copyright protection.1526 Wheaton
+argued that the Constitution should be held to protect his common
+law copyright, because “the word secure . . . clearly indicates an in-
+tention, not to originate a right, but to protect one already in exis-
+tence.” 1527 The Court found, however, that “the word secure, as used
+in the constitution, could not mean the protection of an acknowl-
+edged legal right,” but was used “in reference to a future right.” 1528
+Thus, the exclusive right that the Constitution authorizes Con-
+gress to “secure” to authors and inventors owes its existence solely
+to acts of Congress that secure it, from which it follows that the
+rights granted by a patent or copyright are subject to such qualifi-
+cations and limitations as Congress sees fit to impose. The Court’s
+“reluctance to expand [copyright] protection without explicit legisla-
+tive guidance” controlled its decision in Sony Corp. v. Universal City
+Studios,1529 which held that the manufacture and sale of video tape
+(or cassette) recorders for home use do not constitute “contribu-
+tory” infringement of the copyright in television programs. Copy-
+right protection, the Court reiterated, is “wholly statutory,” and courts
+should be “circumspect” in extending protections to new technology.
+The Court refused to hold that contributory infringement could oc-
+cur simply through the supplying of the devices with which some-
+
+    1524  33 U.S. (8 Pet.) at 595.
+    1525  33 U.S. (8 Pet.) at 657–58. The Court noted that the same principle applies
+to “an individual who has invented a most useful and valuable machine. . . . [I]t
+has never been pretended that the latter could hold, by the common law, any prop-
+erty in his invention, after he shall have sold it publicly.” Id.
+     1526 33 U.S. (8 Pet.) at 667.
+     1527 33 U.S. (8 Pet.) at 661; Holmes v. Hurst, 174 U.S. 82 (1899). The doctrine
+
+of common-law copyright was long statutorily preserved for unpublished works, but
+the 1976 revision of the federal copyright law abrogated the distinction between pub-
+lished and unpublished works, substituting a single federal system for that existing
+since the first copyright law in 1790. 17 U.S.C. § 301.
+     1528 33 U.S. (8 Pet.) at 661.
+     1529 464 U.S. 417, 431 (1984). Cf. Metro-Goldwin-Mayer Studios Inc. v. Grokster,
+
+Ltd., 545 U.S. 913 (2005) (active encouragement of infringement by distribution of
+software for sharing of copyrighted music and video files can constitute infringe-
+ment).

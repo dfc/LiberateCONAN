@@ -1,0 +1,51 @@
+ing a traffic accident, the Court observing the routine nature of the
+test and the minimal intrusion into bodily privacy.432
+    Then, in Mapp v. Ohio,433 the Court held that the exclusionary
+rule applied to the states. It was “logically and constitutionally nec-
+essary,” wrote Justice Clark for the majority, “that the exclusion doc-
+trine—an essential part of the right to privacy—be also insisted upon
+as an essential ingredient of the right” to be secure from unreason-
+able searches and seizures. “To hold otherwise is to grant the right
+but in reality to withhold its privilege and enjoyment.” 434 The Court
+further held that, because illegally seized evidence was to be ex-
+cluded from both federal and state courts, the standards by which
+the question of legality was to be determined should be the same,
+regardless of whether the court in which the evidence was offered
+was state or federal.435
+    The Foundations of the Exclusionary Rule.—Important to
+determination of such questions as the application of the exclusion-
+ary rule to the states and the ability of Congress to abolish or to
+limit it is the fixing of the constitutional source and the basis of
+the rule. For some time, it was not clear whether the exclusionary
+rule was derived from the Fourth Amendment, from some union of
+the Fourth and Fifth Amendments, or from the Court’s supervisory
+power over the lower federal courts. It will be recalled that in Boyd 436
+the Court fused the search and seizure clause with the provision of
+the Fifth Amendment protecting against compelled self-incrimination.
+In Weeks v. United States,437 though the Fifth Amendment was men-
+tioned, the holding seemed clearly to be based on the Fourth Amend-
+ment. Nevertheless, in opinions following Weeks the Court clearly
+     432 Breithaupt v. Abram, 352 U.S. 432 (1957). Chief Justice Warren and Jus-
+
+tices Black and Douglas dissented. Though a due process case, the results of the
+case have been reaffirmed directly in a Fourth Amendment case. Schmerber v. Cali-
+fornia, 384 U.S. 757 (1966).
+     433 367 U.S. 643 (1961).
+     434 367 U.S. at 655–56. Justice Black concurred, doubting that the Fourth Amend-
+
+ment itself compelled adoption of an exclusionary rule but relying on the Fifth Amend-
+ment for authority. Id. at 661. Justice Stewart would not have reached the issue but
+would have reversed on other grounds, id. at 672, while Justices Harlan, Frank-
+furter, and Whittaker dissented, preferring to adhere to Wolf. Id. at 672. Justice Har-
+lan advocated the overruling of Mapp down to the conclusion of his service on the
+Court. See Coolidge v. New Hampshire, 403 U.S. 443, 490 (1971) (concurring opin-
+ion).
+     435 Ker v. California, 374 U.S. 23 (1963).
+     436 Boyd v. United States, 116 U.S. 616 (1886).
+     437 232 U.S. 383 (1914). Defendant’s room had been searched and papers seized
+
+by officers acting without a warrant. “If letters and private documents can thus be
+seized and held and used in evidence against a citizen accused of an offense, the
+protection of the Fourth Amendment declaring his right to be secure against such
+searches and seizures is of no value, and, so far as those thus placed are concerned,
+might as well be stricken from the Constitution.” Id. at 393.

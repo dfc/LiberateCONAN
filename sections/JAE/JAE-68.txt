@@ -1,0 +1,43 @@
+     In two other cases, the Court found that there were no “special
+needs” justifying random testing. Georgia’s requirement that candi-
+dates for state office certify that they had passed a drug test, the
+Court ruled in Chandler v. Miller 375 was “symbolic” rather than “spe-
+cial.” There was nothing in the record to indicate any actual fear
+or suspicion of drug use by state officials, the required certification
+was not well designed to detect illegal drug use, and candidates for
+state office, unlike the customs officers held subject to drug testing
+in Von Raab, are subject to “relentless” public scrutiny. In the sec-
+ond case, a city-run hospital’s program for drug screening of preg-
+nant patients suspected of cocaine use was invalidated because its
+purpose was to collect evidence for law enforcement.376 In the pre-
+vious three cases in which random testing had been upheld, the
+Court pointed out, the “special needs” asserted as justification were
+“divorced from the general interest in law enforcement.” 377 By con-
+trast, the screening program’s focus on law enforcement brought it
+squarely within the Fourth Amendment’s restrictions.
+
+Electronic Surveillance and the Fourth Amendment
+    The Olmstead Case.—With the invention of the microphone,
+the telephone, and the dictagraph recorder, it became possible to
+“eavesdrop” with much greater secrecy and expediency. Inevitably,
+the use of electronic devices in law enforcement was challenged, and
+in 1928 the Court reviewed convictions obtained on the basis of evi-
+dence gained through taps on telephone wires in violation of state
+law. On a five-to-four vote, the Court held that wiretapping was not
+within the confines of the Fourth Amendment.378 Chief Justice Taft,
+writing the opinion of the Court, relied on two lines of argument
+for the conclusion. First, because the Amendment was designed to
+protect one’s property interest in his premises, there was no search
+so long as there was no physical trespass on premises owned or
+controlled by a defendant. Second, all the evidence obtained had been
+secured by hearing, and the interception of a conversation could not
+qualify as a seizure, for the Amendment referred only to the sei-
+zure of tangible items. Furthermore, the violation of state law did
+
+Id. Dissenting Justice Ginsburg pointed out that these situations requiring a change
+of clothes on occasional out-of-town trips are “hardly equivalent to the routine com-
+munal undress associated with athletics.” Id. at 848.
+     375 520 U.S. 305 (1997).
+     376 Ferguson v. City of Charleston, 532 U.S. 67 (2001).
+     377 532 U.S. at 79.
+     378 Olmstead v. United States, 277 U.S. 438 (1928).

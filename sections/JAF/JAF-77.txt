@@ -1,0 +1,55 @@
+     The Court, in opinions that bespeak a sense of necessity to nar-
+rowly construe Miranda, has broadened the permissible impeach-
+ment purposes for which unlawful confessions and admissions may
+be used.391 Thus, in Harris v. New York,392 the Court held that the
+prosecution could use statements, obtained in violation of Miranda,
+to impeach the defendant’s testimony if he voluntarily took the stand
+and denied commission of the offense. Subsequently, in Oregon v.
+Hass,393 the Court permitted impeachment use of a statement made
+by the defendant after police had ignored his request for counsel
+following his Miranda warning. Such impeachment material, how-
+ever, must still meet the standard of voluntariness associated with
+the pre-Miranda tests for the admission of confessions and state-
+ments.394
+     The Court has created a “public safety” exception to the Miranda
+warning requirement, but has refused to create another exception
+for misdemeanors and lesser offenses. In New York v. Quarles,395
+the Court held admissible a recently apprehended suspect’s re-
+sponse in a public supermarket to the arresting officer’s demand to
+know the location of a gun that the officer had reason to believe
+the suspect had just discarded or hidden in the supermarket. The
+Court, in an opinion by Justice Rehnquist,396 declined to place offi-
+cers in the “untenable position” of having to make instant deci-
+sions as to whether to proceed with Miranda warnings and thereby
+increase the risk to themselves or to the public or whether to dis-
+may be the poisonous fruit of other constitutional violations, such as illegal searches
+or arrests. E.g., Brown v. Illinois, 422 U.S. 590 (1975); Dunaway v. New York, 442
+U.S. 200 (1979); Taylor v. Alabama, 457 U.S. 687 (1982).
+     391 Under Walter v. United States, 347 U.S. 62 (1954), the defendant not only
+
+denied the offense of which he was accused (sale of drugs), but also asserted he had
+never dealt in drugs. The prosecution was permitted to impeach him concerning heroin
+seized illegally from his home two years before. The Court observed that the defen-
+dant could have denied the offense without making the “sweeping” assertions, as to
+which the government could impeach him.
+     392 401 U.S. 222 (1971). The defendant had denied only the commission of the
+
+offense. The Court observed that it was only “speculative” to think that impermis-
+sible police conduct would be encouraged by permitting such impeachment, a resort
+to deterrence analysis being contemporaneously used to ground the Fourth Amend-
+ment exclusionary rule, whereas the defendant’s right to testify was the obligation
+to testify truthfully and the prosecution could impeach him for committing perjury.
+See also United States v. Havens, 446 U.S. 620 (1980) (Fourth Amendment).
+     393 420 U.S. 714 (1975). By contrast, a defendant may not be impeached by evi-
+
+dence of his silence after police have warned him of his right to remain silent. Doyle
+v. Ohio, 426 U.S. 610 (1976).
+     394 E.g., Mincey v. Arizona, 437 U.S. 385 (1978); New Jersey v. Portash, 440 U.S.
+
+450 (1979).
+     395 467 U.S. 649 (1984).
+     396 The Court’s opinion was joined by Chief Justice Burger and by Justices White,
+
+Blackmun, and Powell. Justice O’Connor would have ruled inadmissible the sus-
+pect’s response, but not the gun retrieved as a result of the response, and Justices
+Marshall, Brennan, and Stevens dissented.

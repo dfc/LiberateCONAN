@@ -1,0 +1,44 @@
+tations one, Connecticut, five, New York six, New Jersey four,
+Pennsylvania eight, Delaware one, Maryland six, Virginia ten,
+North Carolina five, South Carolina five, and Georgia three.
+                 APPORTIONMENT OF SEATS IN THE HOUSE
+
+       The Census Requirement
+            The Census Clause “reflects several important constitutional de-
+       terminations: that comparative state political power in the House
+       would reflect comparative population, not comparative wealth; that
+       comparative power would shift every 10 years to reflect population
+       changes; that federal tax authority would rest upon the same base;
+       and that Congress, not the states, would determine the manner of
+       conducting the census.” 349 These determinations “all suggest a strong
+       constitutional interest in accuracy.” 350
+            The language employed—“actual enumeration”—requires an ac-
+       tual count, but gives Congress wide discretion in determining the
+       methodology of that count. The word “enumeration” refers to a count-
+       ing process without describing the count’s methodological details.
+       The word “actual” merely refers to the enumeration to be used for
+       apportioning the Third Congress, and thereby distinguishes “a de-
+       liberately taken count” from the conjectural approach that had been
+       used for the First Congress. Finally, the conferral of authority on
+       Congress to “direct” the “manner” of enumeration underscores “the
+       breadth of congressional methodological authority.” Thus, the Court
+       held in Utah v. Evans, “hot deck imputation,” a method used to fill
+       in missing data by imputing to an address the number of persons
+       found at a nearby address or unit of the same type, does not run
+       afoul of the “actual enumeration” requirement.351 The Court distin-
+       guished imputation from statistical sampling, and indicated that its
+       holding was relatively narrow. Imputation was permissible “where
+       all efforts have been made to reach every household, where the meth-
+       ods used consist not of statistical sampling but of inference, where
+       that inference involves a tiny percent of the population, where the
+       alternative is to make a far less accurate assessment of the popula-
+       tion, and where consequently manipulation of the method is highly
+       unlikely.” 352
+           349 Utah v. Evans, 536 U.S. 452, 476 (2002).
+           350 Id.
+           351 Utah v. Evans, 536 U.S. 452 (2002).
+           352 See also Wisconsin v. City of New York, 517 U.S. 1 (1996), in which the Court
+
+       held that the decision of the Secretary of Commerce not to conduct a post-
+       enumeration survey and statistical adjustment for an undercount in the 1990 Cen-
+       sus was reasonable and within the bounds of discretion conferred by the Constitu-

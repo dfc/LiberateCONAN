@@ -1,0 +1,53 @@
+the “interests” of the state and federal systems can be reconciled,
+however, a court should endeavor to implement the rules of the state
+courts.22
+    Waiver of the Right.—Parties may enter into a stipulation waiv-
+ing a jury and submitting the case to the court upon an agreed state-
+ment of facts, even without any legislative provision for waiver.23
+Prior to adoption of the Federal Rules, Congress had, “by statute,
+provided for the trial of issues of fact in civil cases by the court
+without the intervention of a jury, only when the parties waive their
+right to a jury by a stipulation in writing.” 24 Under the Federal
+Rules of Civil Procedure, any party may make a timely demand for
+a trial by jury of any issue triable of right by a jury by serving
+upon the other parties a demand therefor in writing, and failure so
+to serve a demand constitutes a waiver of the right.25 However, a
+waiver is not to be implied from a request for a directed verdict.26
+
+Application of the Amendment
+     Cases “at Common Law”.—The coverage of the Amendment
+is “limited to rights and remedies peculiarly legal in their nature,
+and such as it was proper to assert in courts of law and by the
+appropriate modes and proceedings of courts of law.” 27 The term
+“common law” was used in contradistinction to suits in which equi-
+table rights alone were recognized at the time of the framing of the
+Amendment and equitable remedies were administered.28 Illustra-
+tive of the Court’s course of decision on this subject are two unani-
+mous decisions holding that civil juries were required, one in a suit
+     22 Gasperini v. Center for Humanities, Inc., 518 U.S. 415 (1996). In Gasperini,
+
+the Court examined whether New York law, which required that state trial courts
+and courts of appeals review jury awards to determine if they “deviate materially
+from reasonable compensation,” should be applied by federal courts exercising diver-
+sity jurisdiction. The Court, in what has been characterized as a “state-friendly” de-
+cision, Leading Cases, 110 HARV. L. REV. 266 (1996), found that absent inconsistent
+federal interests, the state standard of review should be applied by the federal courts.
+The Court held that a district court could apply such a standard consistent with
+Seventh Amendment precepts, but that the court of appeals could only review an
+award under an “abuse of discretion” standard. 518 U.S. at 434–35.
+     23 Henderson’s Distilled Spirits, 81 U.S. (14 Wall.) 44, 53 (1872); Rogers v. United
+
+States, 141 U.S. 548, 554 (1891); Parsons v. Armor, 28 U.S. (3 Pet.) 413 (1830); Camp-
+bell v. Boyreau, 62 U.S. (21 How.) 223 (1859).
+     24 Baylis v. Travellers’ Ins. Co., 113 U.S. 316, 321 (1885). The provision did not
+
+preclude other kinds of waivers, Duignan v. United States, 274 U.S. 195, 198 (1927),
+though every reasonable presumption was indulged against a waiver. Hodges v. Easton,
+106 U.S. 408, 412 (1883).
+     25 FED. R. CIV. P. 38.
+     26 Aetna Life Ins. Co. v. Kennedy, 301 U.S. 389 (1937); Fed. R. Civ. P. 50(a).
+     27 Shields v. Thomas, 59 U.S. (18 How.) 253, 262 (1856).
+     28 Parsons v. Bedford, 28 U.S. (3 Pet.) 443, 447 (1930); Barton v. Barbour, 104
+
+U.S. 126, 133 (1881). Formerly, it did not apply to cases where recovery of money
+damages was incidental to equitable relief even though damages might have been

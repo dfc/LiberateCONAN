@@ -1,0 +1,54 @@
+Court has insisted that there must be a “substantial likelihood” that
+the relief sought from the court if granted would remedy the harm.425
+These two requirements are often inter-related. Thus, low-income
+persons seeking the invalidation of a town’s restrictive zoning ordi-
+nance were held to lack standing, because they had failed to allege
+with sufficient particularity that the complained-of injury—
+inability to obtain adequate housing within their means—was fairly
+attributable to the ordinance instead of to other factors, so that void-
+ing of the ordinance might not have any effect upon their ability to
+find affordable housing.426
+    Other examples of these two elements include a holding that
+poor people who had been denied service at certain hospitals lacked
+standing to challenge IRS policy of extending tax benefits to hospi-
+tals that did not serve indigents, because they could not show that
+alteration of the tax policy would cause the hospitals to alter their
+policies and treat them.427 Similarly, the link between fully inte-
+grated public schools and allegedly lax administration of tax policy
+permitting benefits to discriminatory private schools was deemed
+too tenuous, the harm flowing from private actors not before the
+     425 Lujan v. Defenders of Wildlife, 504 U.S. 555, 595 (1992); Allen v. Wright, 468
+
+U.S. 737, 751 (1984). See also ASARCO Inc. v. Kadish, 490 U.S. 605, 612–617 (1989)
+(plurality opinion). Although the two tests were initially articulated as two facets of
+a single requirement, the Court now insists they are separate inquiries. Id. at 753
+n.19. To the extent there is a difference, it is that the former examines a causal
+connection between the assertedly unlawful conduct and the alleged injury, whereas
+the latter examines the causal connection between the alleged injury and the judi-
+cial relief requested. Id. In Steel Co. v. Citizens for a Better Environment, 523 U.S.
+83 (1998), the Court denied standing because of the absence of redressability. An
+environmental group sued the company for failing to file timely reports required by
+statute; by the time the complaint was filed, the company was in full compliance.
+Acknowledging that the entity had suffered injury in fact, the Court found that no
+judicial action would afford it a remedy.
+     426 Warth v. Seldin, 422 U.S. 490 (1975). In Village of Arlington Heights v. Met-
+
+ropolitan Housing Dev. Corp., 429 U.S. 252, 264 (1974), however, a person who al-
+leged he was seeking housing in the community and that he would qualify if the
+organizational plaintiff were not inhibited by allegedly racially discriminatory zon-
+ing laws from constructing housing for low-income persons like himself was held to
+have shown a “substantial probability” that voiding of the ordinance would benefit
+him.
+     427 Simon v. Eastern Kentucky Welfare Rights Org., 426 U.S. 26 (1976). See also
+
+Linda R.S. v. Richard D., 410 U.S. 614 (1973) (mother of illegitimate child lacked
+standing to contest prosecutorial policy of using child support laws to coerce sup-
+port of legitimate children only, as it was “only speculative” that prosecution of fa-
+ther would result in support rather than jailing). However, in Summers v. Earth
+Island Institute, 129 S. Ct. 1142, 1151 (2009), the Court noted in dicta that, if a
+plaintiff is denied a procedural right, the fact that the right had been accorded by
+Congress “can loosen the strictures of the redressability prong of our standing in-
+quiry.” Thus, standing may exist even though a court’s enforcing a procedural right
+accorded by Congress, such as the right to comment on a proposed federal agency
+action, will not guarantee the plaintiff success in persuading the agency to adopt
+the plaintiff ’s point of view.

@@ -1,0 +1,48 @@
+port cargo did not correspond reliably with the federal harbor ser-
+vices used or usable by the exporter. Instead, the extent and man-
+ner of port use depended on such factors as size and tonnage of a
+vessel and the length of time it spent in port.1961 The HMT was
+thus a tax, and therefore invalid.
+     Where the sale to a commission merchant for a foreign con-
+signee was consummated by delivery of the goods to an exporting
+carrier, the sale was held to be a step in the exportation and hence
+exempt from a general tax on sales of such commodity.1962 The giv-
+ing of a bond for exportation of distilled liquor was not the com-
+mencement of exportation so as to exempt from an excise tax spir-
+its that were not exported pursuant to such bond.1963 A tax on the
+income of a corporation derived from its export trade was not a tax
+on “articles exported” within the meaning of the Constitution.1964
+    In United States v. IBM Corp.,1965 the Court rejected the gov-
+ernment’s argument that it should refine its export-tax-clause juris-
+prudence. Rather than read the clause as a bar on any tax that
+applies to a good in the export stream, the government contended
+that the Court should bring this clause in line with the Import-
+Export Clause 1966 and with dormant-commerce-clause doctrine. In
+that view, the Court should distinguish between discriminatory and
+nondiscriminatory taxes on exports. But the Court held that suffi-
+cient differences existed between the export clause and the other
+two clauses, so that its bar should continue to apply to any and all
+taxes on goods in the course of exportation.
+
+Stamp Taxes
+    A stamp tax imposed on foreign bills of lading,1967 charter par-
+ties,1968 or marine insurance policies,1969 was in effect a tax or duty
+upon exports, and so void; but an act requiring the stamping of all
+
+    1961  523 U.S. at 367–69.
+    1962  Spalding & Bros. v. Edwards, 262 U.S. 66 (1923).
+     1963 Thompson v. United States, 142 U.S. 471 (1892).
+     1964 Peck & Co. v. Lowe, 247 U.S. 165 (1918); National Paper Co. v. Bowers, 266
+
+U.S. 373 (1924).
+     1965 517 U.S. 843 (1996).
+     1966 Article I, § 10, cl. 2, applying to the states.
+     1967 Fairbank v. United States, 181 U.S. 283 (1901).
+     1968 United States v. Hvoslef, 237 U.S. 1 (1915).
+     1969 Thames & Mersey Inc. v. United States, 237 U.S. 19 (1915). In United States
+
+v. IBM Corp., 517 U.S. 843 (1996), the Court adhered to Thames & Mersey, and
+held unconstitutional a federal excise tax upon insurance policies issued by foreign
+countries as applied to coverage for exported products. The Court admitted that one
+could question the earlier case’s equating of a tax on the insurance of exported goods
+with a tax on the goods themselves, but it observed that the government had cho-

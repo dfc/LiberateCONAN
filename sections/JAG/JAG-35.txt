@@ -1,0 +1,52 @@
+Constitution does not require the government to furnish a copy of
+the indictment to an accused.195 The right to notice of accusation is
+so fundamental a part of procedural due process that the states are
+required to observe it.196
+
+                          CONFRONTATION
+    “The primary object of the [Confrontation Clause is] to prevent
+depositions of ex parte affidavits . . . being used against the pris-
+oner in lieu of a personal examination and cross-examination of the
+witness in which the accused has an opportunity not only of test-
+ing the recollection and sifting the conscience of the witness, but of
+compelling him to stand face to face with the jury in order that
+they may look at him, and judge by his demeanor upon the stand
+and the manner in which he gives his testimony whether he is wor-
+thy of belief.” 197 The right of confrontation is “[o]ne of the funda-
+mental guarantees of life and liberty . . . long deemed so essential
+for the due protection of life and liberty that it is guarded against
+legislative and judicial action by provisions in the Constitution of
+the United States and in the constitutions of most if not of all the
+States composing the Union.” 198 Before 1965, when the Court held
+the right to be protected against state abridgment,199 it had little
+need to clarify the relationship between the right of confrontation
+and the hearsay rule,200 because it could control the admission of
+hearsay through exercise of its supervisory powers over the infe-
+rior federal courts.201
+    On the basis of the Confrontation Clause, the Court had con-
+cluded that evidence given at a preliminary hearing could not be
+used at the trial if the absence of the witness was attributable to
+the negligence of the prosecution,202 but that if a witness’ absence
+    195  United States v. Van Duzee, 140 U.S. 169, 173 (1891).
+    196  In re Oliver, 333 U.S. 257, 273 (1948); Cole v. Arkansas, 333 U.S. 196, 201
+(1948); Rabe v. Washington, 405 U.S. 313 (1972).
+     197 Mattox v. United States, 156 U.S. 237, 242–43 (1895).
+     198 Kirby v. United States, 174 U.S. 47, 55, 56 (1899). Cf. Pointer v. Texas, 380
+
+U.S. 400, 404–05 (1965). The right may be waived but it must be a knowing, intelli-
+gent waiver uncoerced from defendant. Brookhart v. Janis, 384 U.S. 1 (1966).
+     199 Pointer v. Texas, 380 U.S. 400 (1965) (overruling West v. Louisiana, 194 U.S.
+
+258 (1904)); see also Stein v. New York, 346 U.S. 156, 195–96 (1953).
+     200 Hearsay is the prior out-of-court statements of a person, offered affirma-
+
+tively for the truth of the matters asserted, presented at trial either orally by an-
+other person or in writing. Hickory v. United States, 151 U.S. 303, 309 (1894); South-
+ern Ry. v. Gray, 241 U.S. 333, 337 (1916); Bridges v. Wixon, 326 U.S. 135 (1945).
+     201 Thus, although it had concluded that the co-conspirator exception to the hear-
+
+say rule was consistent with the Confrontation Clause, Delaney v. United States,
+263 U.S. 586, 590 (1924), the Court’s formulation of the exception and its limita-
+tions was pursuant to its supervisory powers. Lutwak v. United States, 344 U.S.
+604 (1953); Krulewitch v. United States, 336 U.S. 440 (1949).
+     202 Motes v. United States, 178 U.S. 458 (1900).

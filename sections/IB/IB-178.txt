@@ -1,0 +1,49 @@
+with them and suggested that the power to regulate commerce be-
+tween the states might be an exclusively federal power.960
+    Chief Justice Marshall originated the concept of the “dormant
+commerce clause” in Willson v. Black Bird Creek Marsh Co.,961 al-
+though in dicta. Attacked before the Court was a state law autho-
+rizing the building of a dam across a navigable creek, and it was
+claimed the law was in conflict with the federal power to regulate
+interstate commerce. Rejecting the challenge, Marshall said that the
+state act could not be “considered as repugnant to the [federal] power
+to regulate commerce in its dormant state . . . .”
+    Returning to the subject in Cooley v. Board of Wardens of Port
+of Philadelphia,962 the Court, upholding a state law that required
+ships to engage a local pilot when entering or leaving the port of
+Philadelphia, enunciated a doctrine of partial federal exclusivity. Ac-
+cording to Justice Curtis’ opinion, the state act was valid on the
+basis of a distinction between those subjects of commerce that “im-
+peratively demand a single uniform rule” operating throughout the
+country and those that “as imperatively” demand “that diversity which
+alone can meet the local necessities of navigation,” that is to say, of
+commerce. As to the former, the Court held Congress’s power to be
+“exclusive”; as to the latter, it held that the states enjoyed a power
+of “concurrent legislation.” 963 The Philadelphia pilotage require-
+ment was of the latter kind.
+    Thus, the contention that the federal power to regulate inter-
+state commerce was exclusive of state power yielded to a rule of
+partial exclusivity. Among the welter of such cases, the first actu-
+
+     960 22 U.S. at 17–18, 209. In Sturges v. Crowninshield, 17 U.S. (4 Wheat.) 122,
+
+193–96 (1819), Chief Justice Marshall denied that the grant of the bankruptcy power
+to Congress was exclusive. See also Houston v. Moore, 18 U.S. (5 Wheat.) 1 (1820)
+(militia).
+     961 27 U.S. (2 Pet.) 245, 252 (1829).
+     962 53 U.S. (12 How.) 299 (1851). The issue of exclusive federal power and the
+
+separate issue of the dormant commerce clause was present in the License Cases,
+46 U.S. (5 How.) 504 (1847), and the Passenger Cases, 48 U.S. (7 How.) 283 (1849),
+but, despite the fact that much ink was shed in multiple opinions discussing the
+questions, nothing definitive emerged. Chief Justice Taney, in contrast to Marshall,
+viewed the clause only as a grant of power to Congress, containing no constraint
+upon the states, and the Court’s role was to void state laws in contravention of fed-
+eral legislation. 46 U.S. (5 How.) at 573; 48 U.S. (7 How.) at 464.
+     963 48 U.S. at 317–20. Although Chief Justice Taney had formerly taken the strong
+
+position that Congress’s power over commerce was not exclusive, he acquiesced si-
+lently in the Cooley opinion. For a modern discussion of Cooley, see Goldstein v. Cali-
+fornia, 412 U.S. 546, 552–60 (1973), in which, in the context of the Copyright Clause,
+the Court, approving Cooley for Commerce Clause purposes, refused to find the Copy-
+right Clause either fully or partially exclusive.

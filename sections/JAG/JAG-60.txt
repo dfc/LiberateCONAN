@@ -1,0 +1,56 @@
+one that gained additional doctrinal salience after Lafler and Frye.337
+The touchstone of “prejudice” under Strickland is that the defen-
+dant “must show that there is a reasonable probability that, but
+for counsel’s unprofessional errors, the result of the proceeding would
+have been different. A reasonable probability is a probability suffi-
+cient to undermine confidence in the outcome.” 338 Nevertheless, de-
+fendants frequently fall short on the prejudice requirement, with
+the Court posing it as a threshold matter and failing to find how
+other representation could have made a significant difference.339
+    Beyond Strickland’s “reasonable probability of a different re-
+sult” starting point, there are issues of when an “outcome determi-
+native” test alone suffices, what exceptions exist, and whether the
+general rule should be modified. In Lockhart v. Fretwell, the Court
+     337 The Frye Court observed that, according to the Bureau of Justice Statistics,
+
+ninety-seven percent of recent federal convictions and ninety-four percent of recent
+state convictions had resulted from guilty pleas. Hill v. Lockhart had earlier estab-
+lished a basis for a Sixth Amendment challenge to a conviction arising from a plea
+bargain if a defendant could show he accepted the plea after having received ineffec-
+tive assistance of counsel. By laying a basis for a Sixth Amendment challenge to a
+failure to accept a plea offer from the prosecution, Frye and Lafler recognized the
+possiblility of prejudice from ineffective bargaining alone regardless of the fairness
+of a subsequent conviction after a later plea to the court or a full trial.
+     338 Strickland, 466 U.S. at 694. This standard does not require that “a defen-
+
+dant show that counsel’s deficient conduct more likely than not altered the outcome
+in the case.” Strickland, 466 U.S. at 693. See also Porter v. McCollum, 558 U.S. ___,
+No. 08–10537, slip op. at 15 (2009). Also, presentation of a plausible mitigation theory
+supported by evidence does not foreclose prejudice based on counsel’s earlier failure
+to have conducted an adequate mitigation investigation. Sears v. Upton, 561 U.S.
+___, No. 09–8854, slip op. (2010) (counsel presented evidence of supportive family
+ties as a mitigating factor in the penalty phase of a capital case, but a fuller inves-
+tigation by counsel would have uncovered evidence of physical abuse, pronounced
+brain damage, and significantly diminished mental functioning). See also, e.g., Glover
+v. United States, 531 U.S. 198 (2001) (6- to 21-month increase in prison term is
+sufficient “prejudice” under Strickland to raise issue of ineffective counsel).
+     339 E.g., Smith v. Spisak, 558 U.S. ___, No. 08–724, slip op. at 11–15 (2010). See
+
+also Hill v. Lockhart, 474 U.S. 52, 60 (1985). In Hill v. Lockhart, 474 U.S. 52 (1985),
+the Court applied the Strickland test to attorney decisions in plea bargaining, hold-
+ing that a defendant must show a reasonable probability that, but for counsel’s er-
+rors, the defendant would not have pleaded guilty. And, prejudice may be particu-
+larly difficult to infer from a decision to plead guilty because of the many uncertainties
+still outstanding during plea negotiations. Premo v. Moore, 562 U.S. ___, No. 09–
+658, slip op. (2011).
+     But see Missouri v. Frye, 566 U.S. ___, No. 10–444, slip op. (2012) and Lafler v.
+Cooper, 566 U.S. ___, No. 10–209, slip op. (2012), in which the Court acknowledged
+that prejudice could arise from not accepting a plea offer from the prosecution be-
+cause of inadequate counsel. When prejudice does arise from not accepting a plea
+offer, fashioning a remedy should neither grant the defendant a windfall (e.g., auto-
+matic revival of the plea offer regardless of the defendant’s subsequent conduct or
+conviction), nor must the government’s efforts in securing a later conviction be ig-
+nored. To determine a remedy, the Lafler majority would leave it to the trial court’s
+discretion in each case to sentence under the forgone plea, sentence under the sub-
+sequent conviction, or sentence in accordance with alternatives somewhere in be-
+tween. The dissenting Justices pointedly criticized this “opaque” guidance.

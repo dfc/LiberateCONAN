@@ -1,0 +1,51 @@
+Government.62 In this respect, the federal courts may not act with-
+out congressional guidance in subjecting states to suit, and Con-
+gress, which can act to the extent of its granted powers, is con-
+strained by judicially created doctrines requiring it to be explicit
+when it legislates against state immunity.63
+
+Suits Against States
+    Despite the apparent limitations of the Eleventh Amendment,
+individuals may, under certain circumstances, bring constitutional
+and statutory cases against states. In some of these cases, the state’s
+sovereign immunity has either been waived by the state or abro-
+gated by Congress. In other cases, the Eleventh Amendment does
+not apply because the procedural posture is such that the Court
+does not view them as being against a state. As discussed below,
+this latter doctrine is most often seen in suits to enjoin state offi-
+cials. However, it has also been invoked in bankruptcy and admi-
+ralty cases, where the res, or property in dispute, is in fact the le-
+gal target of a dispute.64
+    The application of this last exception to the bankruptcy area
+has become less relevant, because even when a bankruptcy case is
+not focused on a particular res, the Court has held that a state’s
+sovereign immunity is not infringed by being subject to an order of
+a bankruptcy court. “The history of the Bankruptcy Clause, the rea-
+sons it was inserted in the Constitution, and the legislation both
+proposed and enacted under its auspices immediately following rati-
+fication of the Constitution demonstrate that it was intended not
+just as a grant of legislative authority to Congress, but also to au-
+thorize limited subordination of state sovereign immunity in the bank-
+ruptcy arena.” 65 Thus, where a federal law authorized a bank-
+ruptcy trustee to recover “preferential transfers” made to state
+     62 E.g., Fitzpatrick v. Bitzer, 427 U.S. 445, 456 (1976); Quern v. Jordan, 440 U.S.
+
+332, 337 (1979).
+     63 See Hutto v. Finney, 437 U.S. 678 (1978), in which the various opinions differ
+
+among themselves as to the degree of explicitness required. See also Quern v. Jor-
+dan, 440 U.S. 332, 343–45 (1979). As noted in the previous section, later cases stiff-
+ened the rule of construction. The parallelism of congressional power to regulate
+and to legislate away immunity is not exact. Thus, in Employees of the Dep’t of
+Pub. Health and Welfare v. Department of Pub. Health and Welfare, 411 U.S. 279
+(1973), the Court strictly construed congressional provision of suits as not reaching
+states, while in Maryland v. Wirtz, 392 U.S. 183 (1968), it had sustained the consti-
+tutionality of the substantive law.
+     64 See Tennessee Student Assistance Corp. v. Hood, 541 U.S. 440, 446–48 (2004)
+
+(exercise of bankruptcy court’s in rem jurisdiction over a debtor’s estate to discharge
+a debt owed to a state does not infringe the state’s sovereignty); California v. Deep
+Sea Research, Inc., 523 U.S. 491, 507–08 (1998) (despite state claims over ship-
+wrecked vessel, the Eleventh Amendment does not bar federal court in rem admi-
+ralty jurisdiction where the res is not in the possession of the sovereign).
+     65 Central Virginia Community College v. Katz, 546 U.S. 356, 362–63 (2006).

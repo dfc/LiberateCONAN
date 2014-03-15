@@ -1,0 +1,55 @@
+sion, and enter a judgment of conviction.99 Previously, under the
+Due Process Clause, there was no barrier to state provision for
+prosecutorial appeals from acquittals.100 But there are instances in
+which the trial judge will dismiss the indictment or information with-
+out intending to acquit or in circumstances in which retrial would
+not be barred, and the prosecution, of course, has an interest in
+seeking on appeal to have errors corrected. Until 1971, however,
+the law providing for federal appeals was extremely difficult to ap-
+ply and insulated from review many purportedly erroneous legal rul-
+ings,101 but in that year Congress enacted a new statute permit-
+ting appeals in all criminal cases in which indictments are dismissed,
+except in those cases in which the Double Jeopardy Clause prohib-
+its further prosecution.102 In part because of the new law, the Court
+has dealt in recent years with a large number of problems in this
+area.
+    Acquittal by Jury.—Little or no controversy accompanies the
+rule that once a jury has acquitted a defendant, government may
+not, through appeal of the verdict or institution of a new prosecu-
+tion, place the defendant on trial again.103 Thus, the Court early
+held that, when the results of a trial are set aside because the first
+
+     99 In dissent, Justice Holmes, joined by three other Justices, propounded a theory
+
+of “continuing jeopardy,” so that until the case was finally concluded one way or
+another, through judgment of conviction or acquittal, and final appeal, there was no
+second jeopardy no matter how many times a defendant was tried. 195 U.S. at 134.
+The Court has numerous times rejected any concept of “continuing jeopardy.” E.g.,
+Green v. United States, 355 U.S. 184, 192 (1957); United States v. Wilson, 420 U.S.
+332, 351–53 (1975); Breed v. Jones, 421 U.S. 519, 533–35 (1975).
+     100 Palko v. Connecticut, 302 U.S. 319 (1937). Palko is no longer viable. Cf. Greene
+
+v. Massey, 437 U.S. 19 (1978).
+     101 The Criminal Appeals Act of 1907, 34 Stat. 1246, was “a failure . . . , a most
+
+unruly child that has not improved with age.” United States v. Sisson, 399 U.S. 267,
+307 (1970). See also United States v. Oppenheimer, 242 U.S. 85 (1916); Fong Foo v.
+United States, 369 U.S. 141 (1962).
+     102 Title III of the Omnibus Crime Control Act, Pub. L. 91–644, 84 Stat. 1890,
+
+18 U.S.C. § 3731. Congress intended to remove all statutory barriers to governmen-
+tal appeal and to allow appeals whenever the Constitution would permit, so that
+interpretation of the statute requires constitutional interpretation as well. United
+States v. Wilson, 420 U.S. 332, 337 (1974). See Sanabria v. United States, 437 U.S.
+54, 69 n.23 (1978), and id. at 78 (Justice Stevens concurring).
+     103 What constitutes a jury acquittal may occasionally be uncertain. In Blueford
+
+v. Arkansas, 566 U.S. ___, No. 10–1320, slip op. (2012), the defendant was charged
+with capital murder in an “acquittal-first” jurisdiction, in which the jury must unani-
+mously agree that a defendant is not guilty of a greater offense before it may begin
+to consider a lesser included offense. After several hours of deliberations, the foreperson
+of the jury stated in open court that the jury was unanimously against conviction
+for capital murder and the lesser included offense of first degree murder, but was
+deadlocked on manslaughter, the next lesser included offense. After further delibera-
+tions, the judge declared a mistrial because of a hung jury. Six Justices of the Court
+subsequently held that the foreperson’s statement on capital murder and first de-

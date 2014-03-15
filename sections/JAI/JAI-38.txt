@@ -1,0 +1,57 @@
+rule should be applied retroactively if it places ‘certain kinds of pri-
+mary, private individual conduct beyond the power of the criminal
+law-making authority to proscribe.’ ” 187 The second exception has
+also been stated to be “that a new rule should be applied retroac-
+tively if it requires the observance of those procedures that . . . are
+implicit in the concept of ordered liberty,’ ” and “without which the
+likelihood of an accurate conviction is seriously diminished.” 188 Fur-
+ther restricting the availability of federal habeas review is the Court’s
+definition of “new rule.” Interpretations that are a logical out-
+growth or application of an earlier rule are nonetheless “new rules”
+unless the result was “dictated” by that precedent.189 Although in
+Penry itself the Court determined that the requested rule (requir-
+ing an instruction that the jury consider mitigating evidence of the
+defendant’s mental retardation and abused childhood) was not a “new
+rule” because it was dictated by Eddings and Lockett, in subse-
+quent habeas capital sentencing cases the Court has found substan-
+tive review barred by the “new rule” limitation.190
+
+     187 Teague v. Lane, 489 U.S. at 311, quoting Mackey v. United States, 401 U.S.
+
+667, 692 (1971). “Teague by its terms applies only to procedural rules.” Bousley v.
+United States, 523 U.S. 614, 620 (1998). “New substantive rules generally apply ret-
+roactively . . . because they necessarily carry a significant risk that a defendant stands
+convicted of an act that the law does not make criminal or faces a punishment that
+the law cannot impose on him.” Schriro v. Summerlin, 542 U.S. 348, 351, 352 (2004)
+(internal quotation marks omitted) (the holding of Ring v. Arizona, that “a sentenc-
+ing judge, sitting without a jury [may not] find an aggravating circumstance neces-
+sary for imposition of the death penalty,” 542 U.S. at 353, quoting Ring, 536 U.S. at
+609, was a procedural, not a substantive rule).
+     188 Teague v. Lane, 489 U.S. at 311, 313, quoting Mackey v. United States, 401
+
+U.S. at 693. The second exception was at issue in Sawyer v. Smith, 497 U.S. 227
+(1990), in which the Court held the exception inapplicable to the Caldwell v. Missis-
+sippi rule that the Eighth Amendment is violated by prosecutorial misstatements
+characterizing the jury’s role in capital sentencing as merely recommendatory. It is
+“not enough,” the Court in Sawyer explained, “that a new rule is aimed at improv-
+ing the accuracy of a trial. More is required. A rule that qualifies under this excep-
+tion must not only improve accuracy, but also ‘alter our understanding of the bed-
+rock procedural elements’ essential to the fairness of a proceeding.” Id. at 242.
+     189 Penry, 492 U.S. at 314; accord, Whorton v. Bockting, 549 U.S. 406, 416 (2007).
+
+Put another way, it is not enough that a decision is “within the ‘logical compass’ of
+an earlier decision, or indeed that it is ‘controlled’ by a prior decision.” A decision
+announces a “new rule” if its result “was susceptible to debate among reasonable
+minds” or if it would not have been “an illogical or even a grudging application” of
+the prior decision to hold it inapplicable. Butler v. McKellar, 494 U.S. 407, 415 (1990).
+     190 See, e.g., Butler v. McKellar, 494 U.S. 407 (1990) (1988 ruling in Arizona v.
+
+Roberson, that the Fifth Amendment bars police-initiated interrogation following a
+suspect’s request for counsel in the context of a separate investigation, announced a
+“new rule” not dictated by the 1981 decision in Edwards v. Arizona that police must
+refrain from all further questioning of an in-custody accused who invokes his right
+to counsel); Saffle v. Parks, 494 U.S. 484 (1990) (habeas petitioner’s request that
+capital sentencing be reversed because of an instruction that the jury “avoid any
+influence of sympathy” is a request for a new rule not “compel[led]” by Eddings and
+Lockett, which governed what mitigating evidence a jury must be allowed to con-
+sider, not how it must consider that evidence); Sawyer v. Smith, 497 U.S. 227 (1990)

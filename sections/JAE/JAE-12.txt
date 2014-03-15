@@ -1,0 +1,48 @@
+    Katz’s focus on privacy was revitalized in Kyllo v. United States,44
+in which the Court invalidated the warrantless use of a thermal
+imaging device directed at a private home from a public street. The
+rule devised by the Court to limit police use of new technology that
+can “shrink the realm of guaranteed privacy” is that “obtaining by
+sense-enhancing technology any information regarding the interior
+of the home that could not otherwise have been obtained without
+physical ‘intrusion into a constitutionally protected area’ . . . consti-
+tutes a search—at least where (as here) the technology in question
+is not in general public use.” 45 Relying on Katz, the Court rejected
+as “mechanical” the Government’s attempted distinction between off-
+the-wall and through-the-wall surveillance. Permitting all off-the-
+wall observations, the Court observed, “would leave the home-
+owner at the mercy of advancing technology—including technology
+that could discern all human activity in the home.”
+    Although the sanctity of the home has been strongly reaf-
+firmed, protection of privacy in other contexts becomes more prob-
+lematic. A two-part test that Justice Harlan suggested in Katz of-
+ten provides the starting point for analysis.46 The first element, the
+“subjective expectation” of privacy, has largely dwindled as a viable
+standard, because, as Justice Harlan noted in a subsequent case,
+“our expectations, and the risks we assume, are in large part reflec-
+tions of laws that translate into rules the customs and values of
+the past and present.” 47 As for the second element, whether one
+has a “legitimate” expectation of privacy that society finds “reason-
+able” to recognize, the Court has said that “[l]egitimation of expec-
+tations of privacy by law must have a source outside of the Fourth
+
+
+moval of a mobile home in the course of an eviction from a mobile home park). The
+reasonableness of a seizure, however, is an additional issue that may still hinge on
+privacy interests. United States v. Jacobsen, 466 U.S. 109, 120–21 (1984) (DEA agents
+reasonably seized package for examination after private mail carrier had opened the
+damaged package for inspection, discovered presence of contraband, and informed
+agents).
+     44 533 U.S. 27 (2001).
+     45 533 U.S. at 34.
+     46 Justice Harlan’s opinion has been much relied upon. See, e.g., Terry v. Ohio,
+
+392 U.S. 1, 19 (1968); Rakas v. Illinois, 439 U.S. 128, 143–144 n.12 (1978); Smith v.
+Maryland, 442 U.S. 735, 740–41 (1979); United States v. Salvucci, 448 U.S. 83, 91–92
+(1980); Rawlings v. Kentucky, 448 U.S. 98, 105–06 (1980); Bond v. United States,
+529 U.S. 334, 338 (2000).
+     47 United States v. White, 401 U.S. 745, 786 (1971). See Smith v. Maryland, 442
+
+U.S. 735, 740 n.5 (1979) (government could not condition “subjective expectations”
+by, say, announcing that henceforth all homes would be subject to warrantless en-
+try, and thus destroy the “legitimate expectation of privacy”).

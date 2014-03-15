@@ -1,0 +1,52 @@
+tiple punishment for the “same” prior offense, but instead is a stiff-
+ened penalty for the later crime.165
+    The “Same Transaction” Problem.—The same conduct may
+also give rise to multiple offenses in a way that would satisfy the
+Blockburger test if that conduct victimizes two or more individuals,
+and therefore constitutes a separate offense as to each of them. In
+Hoag v. New Jersey,166 before the Double Jeopardy Clause was ap-
+plied to the states, the Court found no due process problem in suc-
+cessive trials arising out of a tavern hold-up in which five custom-
+ers were robbed. Ashe v. Swenson,167 however, presented the Court
+with the Hoag fact situation directly under the Double Jeopardy
+Clause. The defendant had been acquitted at trial of robbing one
+player in a poker game; the defense offered no testimony and did
+not contest evidence that a robbery had taken place and that each
+of the players had lost money. A second trial was held on a charge
+that the defendant had robbed a second of the seven poker players,
+and on the basis of stronger identification testimony the defendant
+was convicted. Reversing the conviction, the Court held that the doc-
+trine of collateral estoppel 168 was a constitutional rule made appli-
+cable to the states through the Double Jeopardy Clause. Because
+the only basis upon which the jury could have acquitted the defen-
+dant at his first trial was a finding that he was not present at the
+robbery, hence was not one of the robbers, the state could not relitigate
+that issue; with that issue settled, there could be no conviction.169
+
+    165  Monge v. California, 524 U.S. 721, 728 (1998).
+    166  356 U.S. 464 (1958). See also Ciucci v. Illinois, 356 U.S. 571 (1958).
+     167 397 U.S. 436 (1970).
+     168 “ ‘Collateral estoppel’ is an awkward phrase . . . [which] means simply that
+
+when an issue of ultimate fact has once been determined by a final judgment, that
+issue cannot again be litigated between the same parties in any future lawsuit.” Id.
+at 443. First developed in civil litigation, the doctrine was applied in a criminal case
+in United States v. Oppenheimer, 242 U.S. 85 (1916). See also Sealfon v. United
+States, 332 U.S. 575 (1948). The term “collateral estoppel” has been replaced by “is-
+sue preclusion,” which also includes the doctrine formerly known as “direct estop-
+pel.” Taylor v. Sturgell, 553 U.S. ___, No. 07–371, slip op. at 9, n.5 (2008), quoted in
+Bobby v. Bies, 556 U.S. ___, No. 08–598, slip op. at 2 n.1 (2009).
+     169 Ashe v. Swenson, 397 U.S. 436, 466 (1970). See also Harris v. Washington,
+
+404 U.S. 55 (1971); Turner v. Arkansas, 407 U.S. 366 (1972). Cf. Dowling v. United
+States, 493 U.S. 342 (1990), in which the Court concluded that the defendant’s pres-
+ence at an earlier crime for which he had been acquitted had not necessarily been
+decided in his acquittal. Dowling is distinguishable from Ashe, however, because in
+Dowling the evidence relating to the first conviction was not a necessary element of
+the second offense. In Bobby v. Bies, 556 U.S. ___, No. 08–598 (2009), the Court
+noted that “issue preclusion is a plea available to prevailing parties. The doctrine
+bars relitigation of determinations necessary to the ultimate outcome of a prior pro-
+ceeding.” Slip op. at 2–3. “In addition, even where the core requirements of issue
+preclusion are met, an exception to the general rule may apply when a ‘change in
+[the] applicable legal context’ intervenes.” Slip op. at 8, quoting Restatement (Sec-
+ond) of Judgments, § 28, Comment c.

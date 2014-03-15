@@ -1,0 +1,42 @@
+202. Perry v. Thomas, 482 U.S. 483 (1987).
+          The Federal Arbitration Act preempts a section of California La-
+      bor Code providing that actions for collection of wages may be main-
+      tained “without regard to the existence of any private agreement to
+      arbitrate.”
+             Justices concurring: Marshall, Brennan, White, Blackmun, Powell, Scalia,
+               Rehnquist, C.J.
+             Justices dissenting: Stevens, O’Connor
+
+203. Montana v. Crow Tribe of Indians, 484 U.S. 997 (1988).
+           A federal appeals court decision that Montana’s coal severance and
+      gross proceeds taxes, as applied to Indian-owned coal produced by non-
+      Indians, are preempted by federal Indian policies underlying the Min-
+      eral Leasing Act of 1938, is summarily affirmed.
+
+204. Schneidewind v. ANR Pipeline Co., 485 U.S. 293 (1988).
+           A Michigan statute requiring approval of the Michigan Public Ser-
+      vice Commission before a natural gas company may issue long-term
+      securities is preempted as applied to companies subject to FERC regu-
+      lation under the Natural Gas Act.
+
+205. Bennett v. Arkansas, 485 U.S. 395 (1988).
+          An Arkansas statute authorizing seizure of prisoners’ property in
+      order to defray costs of incarceration is invalid as applied to Social
+      Security benefits, exempted from legal process by 42 U.S.C. § 407(a).
+
+206. Mackey v. Lanier Collection Agency & Service, Inc., 486 U.S. 825 (1988).
+          A Georgia statute barring garnishment of funds or benefits of em-
+      ployee benefit plans subject to ERISA is preempted by ERISA § 514(a)
+      as a state law that “relates to” covered plans.
+             Justices concurring: White, Brennan, Marshall, Stevens, Rehnquist, C.J.
+             Justices dissenting: Kennedy, Blackmun, O’Connor, Scalia
+
+207. Felder v. Casey, 487 U.S. 131 (1988).
+          Wisconsin’s notice-of-claim statute, requiring that persons suing
+      state or local governments or officials in state court must give notice
+      and then refrain from filing suit for an additional period, is pre-
+      empted as applied to civil rights actions brought in state court under
+      42 U.S.C. § 1983.
+             Justices concurring: Brennan, White, Marshall, Blackmun, Stevens, Scalia, Ken-
+               nedy
+             Justices dissenting: O’Connor, Rehnquist, C.J.

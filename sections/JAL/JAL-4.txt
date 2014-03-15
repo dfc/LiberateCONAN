@@ -1,0 +1,54 @@
+a state was the party plaintiff.4 So matters stood when Congress,
+in enacting the Judiciary Act of 1789, without recorded controversy
+gave the Supreme Court original jurisdiction of suits between states
+and citizens of other states.5 Chisholm v. Georgia was brought un-
+der this jurisdictional provision to recover under a contract for sup-
+plies executed with the state during the Revolution. Four of the five
+Justices agreed that a state could be sued under this Article III ju-
+risdictional provision and that under section 13 of the Act the Su-
+preme Court properly had original jurisdiction.6
+     The Amendment proposed by Congress and ratified by the states
+was directed specifically toward overturning the result in Chisholm
+and preventing suits against states by citizens of other states or by
+citizens or subjects of foreign jurisdictions. It did not, as other pos-
+sible versions of the Amendment would have done, altogether bar
+suits against states in the federal courts.7 That is, it barred suits
+against states based on the status of the party plaintiff and did not
+address the instance of suits based on the nature of the subject mat-
+ter.8
+    The early decisions seemed to reflect this understanding of
+the Amendment, although the point was not necessary to the de-
+cisions and thus the language is dictum. 9 In Cohens v. Vir-
+     4 The Convention adopted this provision largely as it came from the Committee
+
+on Detail, without recorded debate. 2 M. FARRAND, THE RECORDS OF THE FEDERAL CONVEN-
+TION OF 1787 423–25 (rev. ed. 1937). In the Virginia ratifying convention, George Ma-
+son, who had refused to sign the proposed Constitution, objected to making states
+subject to suit, 3 J. ELLIOT, DEBATES IN THE SEVERAL STATE CONVENTIONS ON THE ADOPTION
+OF THE FEDERAL CONSTITUTION 526–27 (1836), but both Madison and John Marshall (the
+latter had not been a delegate at Philadelphia) denied states could be made party
+defendants, id. at 533, 555–56, while Randolph (who had been a delegate, as well as
+a member of the Committee on Detail) granted that states could be and ought to be
+subject to suit. Id. at 573. James Wilson, a delegate and member of the Committee
+on Detail, seemed to say in the Pennsylvania ratifying convention that states would
+be subject to suit. 2 id. at 491. See Hamilton, in THE FEDERALIST No. 81 (Modern Li-
+brary ed. 1937), also denying state suability. See Fletcher, supra at 1045–53 (discuss-
+ing sources and citing other discussions).
+     5 Ch. 20, § 13, 1 Stat. 80 (1789). See also Fletcher, supra, at 1053–54. For a
+
+thorough consideration of passage of the Act itself, see J. GOEBEL, HISTORY OF THE SU-
+PREME COURT OF THE UNITED STATES: VOL. 1, ANTECEDENTS AND BEGINNINGS TO 1801 457–508
+(1971).
+     6 Goebel, supra, at 726–34; Fletcher, supra, at 1054–58.
+     7 Fletcher, supra, at 1058–63; Goebel, supra, at 736.
+     8 Party status is one part of the Article III grant of jurisdiction, as in diversity
+
+of citizenship of the parties; subject matter jurisdiction is the other part, as in fed-
+eral question or admiralty jurisdiction.
+     9 One square holding, however, was that of Justice Washington, on Circuit, in
+
+United States v. Bright, 24 Fed. Cas. 1232 (C.C.D. Pa. 1809) (No. 14,647), that the
+Eleventh Amendment’s reference to “any suit in law or equity” excluded admiralty
+cases, so that states were subject to suits in admiralty. This understanding, see Gov-
+ernor of Georgia v. Madrazo, 26 U.S. (1 Pet.) 110, 124 (1828); 3 J. STORY, COMMENTAR-
+IES OF THE CONSTITUTION OF THE UNITED STATES 560–61 (1833), did not receive a holding
