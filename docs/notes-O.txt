@@ -1,0 +1,5 @@
+
+1. Concatenate files
+2. process with: `csplit  -f index O.txt "/\ \ [[:upper:]]\$/" {\*}`
+
+
