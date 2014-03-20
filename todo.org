@@ -1,0 +1,153 @@
+* General Issues
+** Spelling
+*** Create dictionaries
+**** TODO aspell dict
+**** TODO hunspell dict
+* Process the Document
+** Title Page  
+*** TODO Process Text
+*** TODO Generate Markdown
+** Public Law 91-589: Authorization    
+*** TODO Process Text
+*** TODO Generate Markdown
+** Introduction to the 2012 Centennial Edition     
+*** TODO Process Text
+*** TODO Generate Markdown
+** Historical Note on Formation of the Constitution    
+*** TODO Process Text
+*** TODO Generate Markdown
+** Contents    
+*** TODO Process Text
+*** TODO Generate Markdown
+** The Constitution of the United States of America (Literal Print)    
+*** TODO Process Text
+*** TODO Generate Markdown
+** Amendments to the Constitution of the United States of America  
+*** TODO Process Text
+*** TODO Generate Markdown
+** Proposed Amendments not Ratified by the States  
+*** TODO Process Text
+*** TODO Generate Markdown
+** The Preamble    
+*** TODO Process Text
+*** TODO Generate Markdown
+** Article I. Legislative Department   
+*** TODO Process Text
+*** TODO Generate Markdown
+** Article II. Executive Department    
+*** TODO Process Text
+*** TODO Generate Markdown
+** Article III. Judicial Department    
+*** TODO Process Text
+*** TODO Generate Markdown
+** Article IV. States' Relations   
+*** TODO Process Text
+*** TODO Generate Markdown
+** Article V. Mode of Amendment    
+*** TODO Process Text
+*** TODO Generate Markdown
+** Article VI. Prior Debts, National Supremacy, Oaths of Office    
+*** TODO Process Text
+*** TODO Generate Markdown
+** Article VII. Ratification   
+*** TODO Process Text
+*** TODO Generate Markdown
+** First Through Tenth Amendments - Bill of Rights     
+*** TODO Process Text
+*** TODO Generate Markdown
+** First Amendment - Religion and Expression   
+*** TODO Process Text
+*** TODO Generate Markdown
+** Second Amendment - Bearing Arms     
+*** TODO Process Text
+*** TODO Generate Markdown
+** Third Amendment - Quartering Soldiers   
+*** TODO Process Text
+*** TODO Generate Markdown
+** Fourth Amendment - Search and Seizure   
+*** TODO Process Text
+*** TODO Generate Markdown
+** Fifth Amendment - Rights of Persons     
+*** TODO Process Text
+*** TODO Generate Markdown
+** Sixth Amendment - Rights of Accused in Criminal Prosecutions    
+*** TODO Process Text
+*** TODO Generate Markdown
+** Seventh Amendment - Civil Trials    
+*** TODO Process Text
+*** TODO Generate Markdown
+** Eighth Amendment - Further Guarantees in Criminal Cases     
+*** TODO Process Text
+*** TODO Generate Markdown
+** Ninth Amendment - Unenumerated Rights   
+*** TODO Process Text
+*** TODO Generate Markdown
+** Tenth Amendment - Reserved Powers   
+*** TODO Process Text
+*** TODO Generate Markdown
+** Eleventh Amendment - Suits Against States   
+*** TODO Process Text
+*** TODO Generate Markdown
+** Twelfth Amendment - Election of President   
+*** TODO Process Text
+*** TODO Generate Markdown
+** Thirteenth Amendment - Slavery and Involuntary Servitude    
+*** TODO Process Text
+*** TODO Generate Markdown
+** Fourteenth Amendment - Rights Guaranteed: Privileges and Immunities of Citizenship, Due Process...  
+*** TODO Process Text
+*** TODO Generate Markdown
+** Fifteenth Amendment - Rights of Citizens to Vote    
+*** TODO Process Text
+*** TODO Generate Markdown
+** Sixteenth Amendment - Income Tax    
+*** TODO Process Text
+*** TODO Generate Markdown
+** Seventeenth Amendment - Popular Election of Senators    
+*** TODO Process Text
+*** TODO Generate Markdown
+** Eighteenth Amendment - Prohibition of Intoxicating Liquors  
+*** TODO Process Text
+*** TODO Generate Markdown
+** Nineteenth Amendment - Women's Suffrage Rights  
+*** TODO Process Text
+*** TODO Generate Markdown
+** Twentieth Amendment - Terms of President, Vice President, Members of Congress: Presidential Vacancy     
+*** TODO Process Text
+*** TODO Generate Markdown
+** Twenty-First Amendment - Repeal of Eighteenth Amendment     
+*** TODO Process Text
+*** TODO Generate Markdown
+** Twenty-Second Amendment - Presidential Tenure   
+*** TODO Process Text
+*** TODO Generate Markdown
+** Twenty-Third Amendment - Presidential Electors for the District of Columbia     
+*** TODO Process Text
+*** TODO Generate Markdown
+** Twenty-Fourth Amendment - Abolition of the Poll Tax Qualification in Federal Elections  
+*** TODO Process Text
+*** TODO Generate Markdown
+** Twenty-Fifth Amendment - Presidential Vacancy, Disability, and Inability    
+*** TODO Process Text
+*** TODO Generate Markdown
+** Twenty-Sixth Amendment - Reduction of Voting Age Qualification  
+*** TODO Process Text
+*** TODO Generate Markdown
+** Twenty-Seventh Amendment - Congressional Pay Limitation     
+*** TODO Process Text
+*** TODO Generate Markdown
+** Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States    
+*** TODO Process Text
+*** TODO Generate Markdown
+** State Constitutional and Statutory Provisions and Municipal Ordinances Held Unconstitutional on...  
+*** TODO Process Text
+*** TODO Generate Markdown
+** Supreme Court Decisions Overruled by Subsequent Decision    
+*** TODO Process Text
+*** TODO Generate Markdown
+** Table of Cases  
+*** TODO Process Text
+*** TODO Generate Markdown
+** Index   
+*** TODO Process Text
+*** TODO Generate Markdown
